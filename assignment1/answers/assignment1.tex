@@ -114,9 +114,36 @@ Write a Python program that:
    repeats (until control-C is hit).
 \end{verbatim}
 
+\newpage
 \subsection*{Answer}
 
-\lstinputlisting[language=Python,frame=single]{work/gimmescore.py}
+\lstinputlisting[language=Python,frame=single,caption={Python program for acquiring NCAA Football scores from Yahoo sports},label=lst:q2code,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/gimmescore.py}
+
+\newpage
+The code shown in Listing \ref{lst:q2code} starting on page \pageref{lst:q2code}:
+\begin{itemize}
+\item Takes an argument specifying the school (line 68)
+\item Takes an argument specified in seconds (line 69)
+\item Takes a URI as a third argument (line 70)
+\item Downloads the URI (line 76), finds the game corresponding to the team argument (line 77), prints out the current score (line 79), sleeps for the specified seconds (line 82), and then repeats (line 75)
+\end{itemize}
+
+The command is run like so:
+\begin{lstlisting}[frame=single]
+./gimmescore.py "Oregon" 10 http://sports.yahoo.com/ncaa/football/scoreboard
+\end{lstlisting}
+
+And produces output like the following:
+\begin{lstlisting}[frame=single]
+Nicholls 3, Oregon 66
+Nicholls 3, Oregon 66
+^CTraceback (most recent call last):
+  File "./gimmescore.py", line 91, in <module>
+  File "./gimmescore.py", line 87, in main
+    
+KeyboardInterrupt
+\end{lstlisting}
+
 
 \newpage
 \section*{3}
@@ -156,9 +183,15 @@ Tubes:
 Disconnected:
 \end{verbatim}
 
+\newpage
 \subsection*{Answer}
-The following is a graph of the included points, generated using Graphviz.
+Figure \ref{fig:q3graph} is a graph of the included points, generated using Graphviz.
+
+\begin{figure}
 \includegraphics[scale=0.5]{work/q3.png}
+\caption{Drawing of the example graph}
+\label{fig:q3graph}
+\end{figure}
 
 The descriptions of each node is a matter of interpretation.  Explanations have been provided for each value assignment.
 

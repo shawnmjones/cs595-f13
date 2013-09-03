@@ -40,9 +40,7 @@ def getScoresFromPage(webpage, school):
 
     # strip out all of the weird backslash JavaScript stuff
     htmlish = script.text.replace("\\n", '').replace('\\', '')
-
     soup = BeautifulSoup(htmlish)
-
     rows = soup.find_all('tr')
 
     for row in rows:
@@ -54,11 +52,9 @@ def getScoresFromPage(webpage, school):
     structuredData = re.sub(r'[ ]{2,}', ',', structuredData)
     structuredData = structuredData.strip(',')
     structuredData = structuredData.replace(' - ', ',')
-
     structuredData = structuredData.split(',')
 
     game = {}
-
     game['school1'] = structuredData[0]
     game['score1'] = structuredData[1]
     game['score2'] = structuredData[2]
