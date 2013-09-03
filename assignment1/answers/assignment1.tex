@@ -1,6 +1,7 @@
 \documentclass[letterpaper,11pt]{article}
 \usepackage{graphicx}
 \usepackage{listings}
+%\usepackage{datetime}
 
 \lstset{
 	breaklines=true
@@ -8,8 +9,25 @@
 
 \begin{document}
 
+\begin{titlepage}
 
+\begin{center}
 
+\Huge{Assignment 1}
+
+\Large{CS 595:  Introduction to Web Science}
+
+\Large{Fall 2013}
+
+\Large{Shawn M. Jones}
+
+\Large Finished on \today
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
 \section*{1}
 
 \subsection*{Question}
@@ -75,6 +93,30 @@ which renders in the browser like shown in Figure {\ref{fig:q1screenie}.
 
 \newpage
 \section*{2}
+
+\subsection*{Question}
+
+\begin{verbatim}
+Write a Python program that:
+1. takes one argument, like "Old Dominion" or "Virginia Tech"
+2. takes another argument specified in seconds (e.g., "60" for 
+   one minute).
+3. takes a URI as a third argument: 
+   http://sports.yahoo.com/ncaa/football/scoreboard
+   or
+   http://sports.yahoo.com/ncaa/football/scoreboard?w=1&c=all&y=2012
+   or
+   http://sports.yahoo.com/ncaa/football/scoreboard?w=2&c=all&y=2012
+   etc.
+4. downloads the URI, finds the game corresponding to the team
+   argument, prints out the current score (e.g., "Old Dominion 27, 
+   East Carolina 17), sleeps for the specified seconds, and then
+   repeats (until control-C is hit).
+\end{verbatim}
+
+\subsection*{Answer}
+
+\lstinputlisting[language=Python,frame=single]{work/gimmescore.py}
 
 \newpage
 \section*{3}
