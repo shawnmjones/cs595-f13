@@ -117,16 +117,18 @@ Write a Python program that:
 \newpage
 \subsection*{Answer}
 
-\lstinputlisting[language=Python,frame=single,caption={Python program for acquiring NCAA Football scores from Yahoo sports},label=lst:q2code,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/gimmescore.py}
+\lstinputlisting[language=Python,frame=single,caption={Python program for acquiring NCAA Football scores from Yahoo sports},label=lst:q2code1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/gimmescore.py}
 
 \newpage
-The code shown in Listing \ref{lst:q2code} starting on page \pageref{lst:q2code}:
+The code shown in Listing \ref{lst:q2code1} starting on page \pageref{lst:q2code1}:
 \begin{itemize}
 \item Takes an argument specifying the school (line 68)
 \item Takes an argument specified in seconds (line 69)
 \item Takes a URI as a third argument (line 70)
 \item Downloads the URI (line 76), finds the game corresponding to the team argument (line 77), prints out the current score (line 79), sleeps for the specified seconds (line 82), and then repeats (line 75)
 \end{itemize}
+
+The core work is done in \emph{getScoresFromPage} (lines 30 to 63).  The trick to parsing the page is to realize that the actual data is inside HTML that is embedded in JavaScript defined inside one of the script tags.  The loop on line 37 searches all of the script tags for the given school.  Once the pertinent script tag is found, string replacement is done on line 42 to turn the JavaScript string into an actual HTML fragment, which is then fed into BeautifulSoup again, and a second search is performed on the actual entries.
 
 The command is run like so:
 \begin{lstlisting}[frame=single]
@@ -143,6 +145,32 @@ Nicholls 3, Oregon 66
     
 KeyboardInterrupt
 \end{lstlisting}
+
+After rerunning the script on September 9, 2013, it became evident that this implementation only worked for the September 2, 2013 and prior versions of the representation at http://sports.yahoo.com/ncaa/football/scoreboard.  Since that date, changes in the HTML to this page have rendered the script useless.
+
+\newpage
+A corrected version of the script (gimmescore2.py) is shown in Listing \ref{lst:q2code2} on page \pageref{lst:q2code2}.  
+
+It is run and produces output like the following:
+\begin{lstlisting}[frame=single]
+bash $ --> ./gimmescore.py "San Diego St." 10 http://sports.yahoo.com/ncaa/football/scoreboard
+San Diego St. 7, Ohio St. 42
+San Diego St. 7, Ohio St. 42
+^CTraceback (most recent call last):
+  File "./gimmescore2.py", line 85, in <module>
+  File "./gimmescore2.py", line 81, in main
+    
+KeyboardInterrupt
+
+\end{lstlisting}
+
+This is a common problem with ``screen scraping'' web pages, resulting in the re-writing of many tools.  Yahoo! has no obligation to continue to format their HTML as I expect, hence any such scripts can not be counted on to be permanent and should require frequent testing to remain valid.
+
+Also, this script is very specific to this representation, meaning it will not work for a Fox Sports page or a CNN sports page.
+
+\newpage
+
+\lstinputlisting[language=Python,frame=single,caption={Updated Python program for acquiring NCAA Football scores from Yahoo sports},label=lst:q2code2,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/gimmescore2.py}
 
 
 \newpage
@@ -218,7 +246,5 @@ $N$ is a tube linking from $M$ (from IN) to $D$ (from OUT).
 \textbf{Disconnected:}  $E, F$
 
 The Disconnected components link to no one in the graph, and stand alone.
-
-Note that other interpretations are possible.  For example, the SCC could consist of $A, B, C, D, G, J, N$ with IN containing $M, I, L$ and with no OUT.  In that case, there's no real tube ($H$ is a sink, so it's not really linking \emph{around} the SCC), because there's no OUT to connect to, and there are no tendrils.
 
 \end{document}
