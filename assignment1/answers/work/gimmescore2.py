@@ -6,6 +6,14 @@ import urllib.request
 import re
 from bs4 import BeautifulSoup
 
+class GimmeScoreException(Exception):
+
+    def __init__(self, value):
+        self.value = value
+
+    def __str__(self):
+        return repr(self.value)
+
 def usage():
     print("")
     print("Usage:  " + sys.argv[0] + " <school name> <refresh> <uri>")
@@ -35,6 +43,12 @@ def getScoresFromPage(webpage, school):
     for tr in trs:
         if school in tr.text:
             break
+
+    if not tr.text:
+        raise GimmeScoreException('School "' + school + '" not found in scores this week, maybe try again another day?')
+
+    if '@' in tr.text:
+        raise GimmeScoreException('School "' + school + '" found, but game has not started yet')
 
     # get rid of unnecessary whitespace
     structuredData = tr.text.strip()
@@ -70,14 +84,17 @@ def main(args):
         usage()
         sys.exit(1)
 
-    while(True):
-        webpage = fetchCurrentScore(uri)
-        game = getScoresFromPage(webpage, school)
+    try:
+        while(True):
+            webpage = fetchCurrentScore(uri)
+            game = getScoresFromPage(webpage, school)
 
-        printCurrentScore(
-            game['school1'], game['score1'], game['school2'], game['score2']
-            )
-        time.sleep(refresh)
+            printCurrentScore(
+                game['school1'], game['score1'], game['school2'], game['score2']
+                )
+            time.sleep(refresh)
+    except GimmeScoreException as e:
+        print(e.value)
 
 
 if __name__ == '__main__':

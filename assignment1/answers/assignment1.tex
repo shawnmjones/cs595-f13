@@ -1,10 +1,10 @@
 \documentclass[letterpaper,11pt]{article}
 \usepackage{graphicx}
 \usepackage{listings}
-%\usepackage{datetime}
 
 \lstset{
-	breaklines=true
+	basicstyle=\footnotesize,
+	breaklines=true,
 }
 
 \begin{document}
@@ -39,6 +39,7 @@ is returned is "correct" (e.g., save it to a file and then view
 that file in a browser and take a screen shot).
 \end{verbatim}
 
+\newpage
 \subsection*{Answer}
 
 The \verb+curl+ command can be used to post data to a form in several ways, but the most easy is the following:
@@ -47,7 +48,15 @@ curl --data 'variable1=value1&variable2=value2' \
   http://www.example.com
 \end{lstlisting}
 
-The more difficult prospect is finding a URI on the Internet that accepts form submission without authentication.  Fortunately, my recent work in using Mediawiki has led me to a web application that accepts formatted CSV and returns a table formatted in Mediawiki syntax.
+The more difficult prospect is finding a URI on the Internet that accepts form submission without authentication.  Fortunately, my recent work in using Mediawiki has led me to a web application that accepts formatted CSV and returns a table formatted in Mediawiki syntax.  The URI is http://area23.brightbyte.de/csv2wp.php.  The rendered form is shown in Figure \ref{fig:q1screenie1}.
+
+\begin{figure}
+\includegraphics[scale=0.4]{work/q1screenie1.png}
+\caption{The form for http://area23.brightbyte.de/csv2wp.php, rendered in Google Chrome}
+\label{fig:q1screenie1}
+\end{figure}
+
+After reading the HTML, the form action is not shown, so the URI to POST to is also http://area23.brightbyte.de/csv2wp.php.
 
 I posted the CSV data ``1,2'' to the form like so:
 \begin{lstlisting}[frame=single]
@@ -72,7 +81,8 @@ Content-Type: text/plain; charset=UTF-8
 |}
 \end{lstlisting}
 
-Executing again, without -i, saves the data to a file:
+\newpage
+Executing again, without -i, allows me to redirect the data to a file:
 \begin{lstlisting}[frame=single]
 curl --data 'csv=1,2&separator=,&quotes=&quot;&escape=\&break=SPACE&convert=html&output_encoding=UTF-8&to_wp=Convert+To+Mediawiki!'
    http://area23.brightbyte.de/csv2wp.php \
@@ -80,12 +90,12 @@ curl --data 'csv=1,2&separator=,&quotes=&quot;&escape=\&break=SPACE&convert=html
 \end{lstlisting}
 
 
-which renders in the browser like shown in Figure {\ref{fig:q1screenie}.
+which renders in the browser like shown in Figure \ref{fig:q1screenie2}.
 
 \begin{figure}
-\includegraphics[scale=0.7]{work/q1screenie.png}
+\includegraphics[scale=0.7]{work/q1screenie2.png}
 \caption{The output of the curl command, rendered in Mozilla Firefox}
-\label{fig:q1screenie}
+\label{fig:q1screenie2}
 \end{figure}
 
 
@@ -96,6 +106,7 @@ which renders in the browser like shown in Figure {\ref{fig:q1screenie}.
 
 \subsection*{Question}
 
+Original:
 \begin{verbatim}
 Write a Python program that:
 1. takes one argument, like "Old Dominion" or "Virginia Tech"
@@ -114,13 +125,39 @@ Write a Python program that:
    repeats (until control-C is hit).
 \end{verbatim}
 
+\vfill
+Updated Wed, September 4 10:31:37 EDT 2013:
+\begingroup
+\fontsize{8pt}{10pt}\selectfont
+\begin{verbatim}
+Write a Python program that:
+1. takes one argument, like "Old Dominion" or "Virginia Tech"
+2. takes another argument specified in seconds (e.g., "60" for 
+   one minute).
+3. takes a URI as a third argument, such as:
+   http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=2
+   or
+   http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2013&seasonType=2&weekNumber=1
+   or
+   http://scores.espn.go.com/ncf/scoreboard?confId=80&seasonYear=2012&seasonType=2&weekNumber=1
+   etc.
+4. downloads the URI, finds the game corresponding to the team
+   argument, prints out the current score (e.g., "Old Dominion 38, 
+   East Carolina 52), sleeps for the specified seconds, and then
+   repeats (until control-C is hit).
+
+   You can use any source for college football box scores that you'd like.
+\end{verbatim}
+\endgroup
+
+
 \newpage
 \subsection*{Answer}
 
 \lstinputlisting[language=Python,frame=single,caption={Python program for acquiring NCAA Football scores from Yahoo sports},label=lst:q2code1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/gimmescore.py}
 
 \newpage
-The code shown in Listing \ref{lst:q2code1} starting on page \pageref{lst:q2code1}:
+The code is shown in Listing \ref{lst:q2code1} starting on page \pageref{lst:q2code1}:
 \begin{itemize}
 \item Takes an argument specifying the school (line 68)
 \item Takes an argument specified in seconds (line 69)
@@ -148,12 +185,16 @@ KeyboardInterrupt
 
 After rerunning the script on September 9, 2013, it became evident that this implementation only worked for the September 2, 2013 and prior versions of the representation at http://sports.yahoo.com/ncaa/football/scoreboard.  Since that date, changes in the HTML to this page have rendered the script useless.
 
+This is a common problem with ``screen scraping'' web pages, resulting in the re-writing of many tools.  Yahoo! has no obligation to continue to format their HTML as I expect, hence any such scripts can not be counted on to be permanent and should require frequent testing to remain valid.
+
+Also, this script is very specific to this representation, meaning it will not work for a Fox Sports page or a CNN sports page.
+
 \newpage
-A corrected version of the script (gimmescore2.py) is shown in Listing \ref{lst:q2code2} on page \pageref{lst:q2code2}.  
+A corrected version of the script (gimmescore2.py) is shown in Listing \ref{lst:q2code2} on page \pageref{lst:q2code2}.  This script also includes improved error handling.
 
 It is run and produces output like the following:
 \begin{lstlisting}[frame=single]
-bash $ --> ./gimmescore.py "San Diego St." 10 http://sports.yahoo.com/ncaa/football/scoreboard
+bash $ --> ./gimmescore2.py "San Diego St." 10 "http://sports.yahoo.com/college-football/scoreboard/?week=2&conf="
 San Diego St. 7, Ohio St. 42
 San Diego St. 7, Ohio St. 42
 ^CTraceback (most recent call last):
@@ -164,9 +205,31 @@ KeyboardInterrupt
 
 \end{lstlisting}
 
-This is a common problem with ``screen scraping'' web pages, resulting in the re-writing of many tools.  Yahoo! has no obligation to continue to format their HTML as I expect, hence any such scripts can not be counted on to be permanent and should require frequent testing to remain valid.
+and the following (for a different week):
+\begin{lstlisting}[frame=single]
+bash $ --> ./gimmescore2.py "Virginia Tech" 10 "http://sports.yahoo.com/college-football/scoreboard/?week=1&conf="
+Alabama 35, Virginia Tech 10
+Alabama 35, Virginia Tech 10
+Alabama 35, Virginia Tech 10
+^CTraceback (most recent call last):
+  File "./gimmescore2.py", line 98, in <module>
+    main(sys.argv)
+  File "./gimmescore2.py", line 92, in main
+    time.sleep(refresh)
+KeyboardInterrupt
+\end{lstlisting}
 
-Also, this script is very specific to this representation, meaning it will not work for a Fox Sports page or a CNN sports page.
+If used against a school that isn't listed, it also gracefully recovers:
+\begin{lstlisting}[frame=single]
+bash $ --> ./gimmescore2.py "South Harmon Institute of Technology" 10 "http://sports.yahoo.com/college-football/scoreboard/?week=2&conf="
+School "South Harmon Institute of Technology" not found in scores this week, maybe try again another day?
+\end{lstlisting}
+
+And, it also gracefully recovers from a game that hasn't started yet:
+\begin{lstlisting}[frame=single]
+bash $ --> ./gimmescore2.py "Vanderbilt" 10 "http://sports.yahoo.com/college-football/scoreboard/"
+School "Vanderbilt" found, but game has not started yet
+\end{lstlisting}
 
 \newpage
 
@@ -225,26 +288,31 @@ The descriptions of each node is a matter of interpretation.  Explanations have 
 
 \textbf{IN:}  $M$
 
-The IN components form the starting point for connection to the SCC.  They all sit at the start of the graph.  In this graph, because of how the SCC and tubes are defined, the only IN component is $M$.
+The IN components form the starting point for connection to the SCC\cite{broder2000}.  They all sit at the start of the graph.  In this graph, because of how the SCC and tubes are defined, the only IN component is $M$.
 
 \textbf{SCC:}  $A, B, C, G$
 
-The Strongly Connected Component consists of those heavily linked items connected to from the list of nodes listed as part of IN.  It's an $A, B, C, G$ world.
+The Strongly Connected Component consists of those heavily linked items connected to from the list of nodes listed as part of IN\cite{broder2000}.  It's an $A, B, C, G$ world.
 
 \textbf{OUT:}  $D$
 
-The only member of OUT is $D$, who forms a sink from members of the SCC and the tendrils.
+The OUT components exit the SCC, but do not link back to it\cite{broder2000}.  The only member of OUT is $D$, who forms a sink from members of the SCC and the tendrils.
 
 \textbf{Tendrils:}  $I, J, K, L$
 
-The tendrils come from other graphs and only join the whole via $D$.
+The \emph{Tendrils} are pages that cannot reach the SCC or are not reached from the SCC\cite{broder2000}.  The tendrils come from other graphs and only join the whole via $D$.
 
 \textbf{Tubes:} $N$
 
-$N$ is a tube linking from $M$ (from IN) to $D$ (from OUT).
+Then there are \emph{tubes}, which pass from IN to OUT without going through SCC\cite{broder2000}.  $N$ is a tube linking from $M$ (from IN) to $D$ (from OUT).
 
 \textbf{Disconnected:}  $E, F$
 
-The Disconnected components link to no one in the graph, and stand alone.
+The Disconnected components link to no one in the graph, and stand alone.  They are not defined explicitly by Broder, et. al, but their meaning is implied within the paper.
+
+\newpage
+\bibliographystyle{acm}
+\bibliography{references}
+
 
 \end{document}
