@@ -225,10 +225,29 @@ bash $ --> ./gimmescore2.py "South Harmon Institute of Technology" 10 "http://sp
 School "South Harmon Institute of Technology" not found in scores this week, maybe try again another day?
 \end{lstlisting}
 
-And, it also gracefully recovers from a game that hasn't started yet:
+It also gracefully recovers from a game that hasn't started yet:
 \begin{lstlisting}[frame=single]
 bash $ --> ./gimmescore2.py "Vanderbilt" 10 "http://sports.yahoo.com/college-football/scoreboard/"
 School "Vanderbilt" found, but game has not started yet
+\end{lstlisting}
+
+\newpage
+And, of course, reports the scores while the game is running:
+
+\begin{lstlisting}[frame=single]
+bash $ --> ./gimmescore2.py "Troy" 60 "http://sports.yahoo.com/college-football/scoreboard/?conf=fbs_all"
+Troy 14, Arkansas St. 20
+Troy 14, Arkansas St. 20
+Troy 14, Arkansas St. 20
+Troy 20, Arkansas St. 20
+Troy 20, Arkansas St. 20
+Troy 21, Arkansas St. 20
+^CTraceback (most recent call last):
+  File "./gimmescore2.py", line 107, in <module>
+    main(sys.argv)
+  File "./gimmescore2.py", line 101, in main
+    time.sleep(refresh)
+KeyboardInterrupt
 \end{lstlisting}
 
 \newpage

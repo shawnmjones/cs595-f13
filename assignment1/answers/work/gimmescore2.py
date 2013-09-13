@@ -62,6 +62,12 @@ def getScoresFromPage(webpage, school):
     # get rid of the unneeded team ranking, if present
     structuredData = re.sub(r'\([0-9]+\)', '', structuredData).strip()
 
+    # get rid of extra data at the beginning
+    structuredData = re.sub(r'^.*\n', '', structuredData).strip()
+
+    # get rid of extra data at the end
+    structuredData = re.sub(r'\n.*$', '', structuredData).strip()
+
     # create a list of data
     structuredData = structuredData.split(',')
 
