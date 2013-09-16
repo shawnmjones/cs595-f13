@@ -23,7 +23,6 @@ while count > 0:
 
     if newlink not in selectedLinks:
         selectedLinks.append(newlink)
-    else:
         count -= 1
 
 for link in sorted(selectedLinks):
