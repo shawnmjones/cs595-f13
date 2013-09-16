@@ -12,8 +12,19 @@ f = open(inputfile)
 links = f.readlines()
 f.close()
 
-target = 1000
+count = 1000
 
-for i in range(0, target):
+selectedLinks = []
+
+while count > 0:
     # grab a random entry from the list
-    print(links[random.randint(0, len(links))].strip())
+    index = random.randint(0, len(links) - 1)
+    newlink = links[index].strip()
+
+    if newlink not in selectedLinks:
+        selectedLinks.append(newlink)
+    else:
+        count -= 1
+
+for link in sorted(selectedLinks):
+    print(link)
