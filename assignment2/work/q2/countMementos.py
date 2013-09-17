@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
         mementoCount = countMementos(uri.strip())
 
-        print(str(mementoCount) + ":" + uri.strip())
+        print(str(mementoCount) + "\t" + uri.strip())
         sys.stdout.flush()
 
     f.close()
