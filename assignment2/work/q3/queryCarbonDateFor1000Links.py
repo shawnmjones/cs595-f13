@@ -29,7 +29,7 @@ if __name__ == '__main__':
     
     for line in f:
         cdate = queryCarbonDate(cduri, line.strip())
-        print(cdate + ":" + line.strip())
+        print(cdate + "\t" + line.strip())
         sys.stdout.flush()
     
     f.close()
