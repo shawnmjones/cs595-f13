@@ -16,7 +16,7 @@ for line in f:
         cdt = datetime.datetime.fromtimestamp(time.mktime(ct))
         now = datetime.datetime.now()
         days = (now - cdt).days
-        print(days)
+        print(str(days) + '\t' + uri)
     except ValueError:
         # skip over those items without carbon dates
         pass
