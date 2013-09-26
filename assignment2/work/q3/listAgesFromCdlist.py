@@ -13,6 +13,7 @@ for line in f:
         line = line.strip()
         (cdate, uri) = line.split('\t')
         ct = time.strptime(cdate, "%Y-%m-%dT%H:%M:%S")
+        # Thanks http://stackoverflow.com/questions/1697815/how-do-you-convert-a-python-time-struct-time-object-into-a-datetime-object
         cdt = datetime.datetime.fromtimestamp(time.mktime(ct))
         now = datetime.datetime.now()
         days = (now - cdt).days
