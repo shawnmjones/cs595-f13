@@ -177,25 +177,29 @@ If we focus on the highest number of records, mementos less than 100, the plot a
 
 \begin{figure}
 \includegraphics[scale=0.7]{work/q2/q2-histogram1.png}
-\caption{Histogram of URIs vs. number of Mementos for the entire dataset}
+\caption{Histogram of URIs vs. number of Mementos for the entire dataset (generated from code in Listing \ref{lst:q2R})}
 \label{fig:q2histy1}
 \end{figure}
 
 \begin{figure}
 \includegraphics[scale=0.7]{work/q2/q2-histogram2.png}
-\caption{Histogram of URIs vs. number of Mementos for URIs with less than 10,000 Mementos}
+\caption{Histogram of URIs vs. number of Mementos for URIs with less than 10,000 Mementos (generated from code in Listing \ref{lst:q2R})}
 \label{fig:q2histy2}
 \end{figure}
 
 \begin{figure}
 \includegraphics[scale=0.7]{work/q2/q2-histogram3.png}
-\caption{Histogram of URIs vs. number of Mementos for URIs with less than 100 Mementos}
+\caption{Histogram of URIs vs. number of Mementos for URIs with less than 100 Mementos (generated from code in Listing \ref{lst:q2R})}
 \label{fig:q2histy3}
 \end{figure}
+
 
 \newpage
 
 \lstinputlisting[language=Python,frame=single,caption={Python program for processing Time Maps for a given file full of links}, label=lst:q2,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q2/countMementos.py}
+
+\newpage
+\lstinputlisting[language=R,frame=single,caption={R program for generating the histograms for Question 2}, label=lst:q2R,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q2/q2-histogram.R}
 
 \newpage
 \section*{3}
@@ -238,10 +242,10 @@ Here's an example run of the Carbon Date client using a subset of the 1000 links
 
 Getting the dates was not enough, of course, because we need the ages in days.  Listing \ref{lst:q3Convert} takes in the list from the previous script and generates a tab-delimited file containing the URIs and ages in days.  It is run like so:
 \begin{lstlisting}[frame=single]
-/listAgesFromCdlist.py work/cdlist-final.txt > daycounts-final.txt
+./listAgesFromCdlist.py work/cdlist-final.txt > daycounts-final.txt
 \end{lstlisting}
 
-What we really want is to create a graph for all URIs that have \textgreater 0 Mementos and an estimated creation date.  This is where \ref{lst:q3Join} comes in.  This script joins the tab-delimited file generated from Question 2 with the tab-delimited file containing our ages in days, eliminates those with 0 Mementos and no carbon dates, then generates another tab-delimited file that can be fed into R for our scatter plot.
+What we really want is to create a graph for all URIs that have \textgreater 0 Mementos and an estimated creation date.  This is where Listing \ref{lst:q3Join} comes in.  This script joins the tab-delimited file generated from Question 2 with the tab-delimited file containing our ages in days, eliminates those with 0 Mementos and no carbon dates, then generates another tab-delimited file that can be fed into R for our scatter plot.
 
 This script is run like so:
 \begin{lstlisting}[frame=single]
@@ -252,11 +256,11 @@ This script is run like so:
 
 Because, as shown in Figure \ref{fig:q2histy3}, the majority of the memento counts are between 0 and 2, most of the data points in Figure \ref{fig:q3scatter} are on the left side, with a large number of mementos being roughly less than 1200 days old.  There are also two outliers, our friends with 22,157 and 10543 mementos, who seem to be much older.  In a perfect world, the whole graph would follow the pattern of these two outliers, with the number of mementos increasing from the age of first creation.
 
-Then again, because the majority of the URIs are ``young'', and it takes some time to get archived, this graph may make sense, especially for twitter postings.
+One could make the argument that, because the majority of the URIs are ``young'' when cited, and it takes some time to get archived, that this graph may make sense, especially for twitter postings.  This theory doesn't quite fit, as there are URIs reaching far into the past (http://www.tietheknot.com from 1996?) with very few Mementos.  Twitter was founded in 2006\cite{laracinisomo}, so that places an lower bound on when these URIs would have originally been cited.
 
 \begin{figure}
-\includegraphics[scale=0.7]{work/q3/q3-scatterplot.png}
-\caption{Number of Mementos vs. Age of URI}
+\includegraphics[scale=0.56]{work/q3/q3-scatterplot.png}
+\caption{Number of Mementos vs. Age of URI (generated via code in Listing \ref{lst:q3R})}
 \label{fig:q3scatter}
 \end{figure}
 
@@ -268,5 +272,12 @@ Then again, because the majority of the URIs are ``young'', and it takes some ti
 
 \newpage
 \lstinputlisting[language=Python,frame=single,caption={Python program for calculating the ages based on dates gathered from the Carbon Date tool}, label=lst:q3Join,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/joinAndProcessAgesWithMementoData.py}
+
+\newpage
+\lstinputlisting[language=R,frame=single,caption={R program for generating the scatterplot for Question 3}, label=lst:q3R,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/q3-scatterplot.R}
+
+\newpage
+\bibliographystyle{acm}
+\bibliography{references}
 
 \end{document}
