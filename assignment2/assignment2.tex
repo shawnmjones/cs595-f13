@@ -1,6 +1,7 @@
 \documentclass[letterpaper,11pt]{article}
 \usepackage{graphicx}
 \usepackage{listings}
+\usepackage[super]{nth}
 
 \lstset{
 	basicstyle=\footnotesize,
@@ -81,11 +82,11 @@ It required the use of 4 distinct scripts run in the following order:
 
 The 4 scripts allowed resumption of processing if an error state was encountered at any point.  For example, \verb+gimmetweets.py+ could be cut off because it reached Twitter's hourly request limit.  Because it was time consuming (in minutes, sometimes hours) to complete some of these tasks, splitting the scripts up in this way allowed work to be saved across runs.  Even if there was some overlap, \verb+combineLists.py+ took care of any extra URIs that were processed repeatedly.
 
-Early testing of the 'expanded\_url' field provided by the Twitter API showed that even though a URI was present in the tweet text, sometimes it did not appear as a value in 'expanded\_url', so it was inconsistent.  To account for this, all tweets were extracted by \verb+gimmetweets.py+ and later processed with \verb+extractURIsFromTweets.py+.
+Early testing of the \emph{expanded\_url} field provided by the Twitter API showed that even though a URI was present in the tweet text, sometimes it did not appear as a value in \emph{expanded\_url}, so it was inconsistent.  To account for this, all tweets were extracted by \verb+gimmetweets.py+ and later processed with \verb+extractURIsFromTweets.py+.
 
 The following screen names were followed for data:
 \begin{itemize}
-\item BarackObama - President of the United States
+\item BarackObama - \nth{44} President of the United States
 \item BillGates - Former Microsoft CEO, now attempting to rid the world of Malaria, in addition to other feats
 \item CNN - original 24 hour news channel
 \item GeorgeTakei - Former helmsman on Star Trek, now Internet celebrity
@@ -146,19 +147,33 @@ with 1 Memento, 400 URIs with 2 Mementos, etc.
 \subsubsection*{The Data Collection}
 The script \verb+countMementos.py+ acquires the TimeMap for each link from a file containing many links, then parses that TimeMap and counts the number of mementos present.  Requests that generate a 404 are recorded as having 0 mementos.  The mementos are counted using a regular expression.
 
-Because the first run of this script took almost 10 hours to complete, I used the Unix \verb+split+ command to divide the 1000 links into 5 files of 200 links each.  I then ran the script against each file in turn.  Running these in parallel drastically reduced the run time.  In fact, the original 10 hour run was on Sunday afternoon.  The second run was on Monday night during dinner, which took 1 hour.
+Because the first run of this script took almost 10 hours to complete, I used the Unix \verb+split+ command to divide the 1000 links into 5 files of 200 links each, like so:
+\begin{lstlisting}[frame=single]
+split -l 200 ../../q1/uris/urilist-final.txt
+\end{lstlisting}
+which produced the files \verb+xaa+ through \verb+xae+.
+
+I then ran the script against each file in turn.  Running these in parallel drastically reduced the run time.  In fact, the original 10 hour run was on Sunday afternoon.  The second run was on Monday night during dinner, which took 1 hour.
+
+The script \verb+countMementos.py+ is run like so:
+\begin{lstlisting}[frame=single]
+./countMementos.py workspace/xae > xae.txt
+\end{lstlisting}
 
 The source code for doing the dereferencing and processing of each Time Map is shown in Listing \ref{lst:q2}.
 
-Once the 5 files were acquired, they were combined together using the Unix \verb+cat+ command.
+Once the 5 files were acquired, they were combined together using the Unix \verb+cat+ command and stored in the file \verb+mementoCounts.txt+ like so:
+\begin{lstlisting}[frame=single]
+cat xaa.txt xab.txt xac.txt xad.txt xae.txt > mementoCounts.txt
+\end{lstlisting}
 
 \subsubsection*{The Results}
 
-The histogram in Figure \ref{fig:q2histy1} on page \pageref{fig:q2histy1} is difficult to read.  This histogram was generated in R using bins of size 1.  This was done to keep the y-axis low, because there are 375 URIs with 0 mementos and 244 URIs with 1 memento, totaling more than half of all data recorded.
+The histogram in Figure \ref{fig:q2histy1} on page \pageref{fig:q2histy1} is difficult to read.  This histogram was generated in R using buckets of size 1.  This was done to keep the y-axis low, because there are 375 URIs with 0 mementos and 244 URIs with 1 memento, totaling more than half of all data recorded.
 
 Outliers also skew the results.  Two outliers have 22,157 and 10543 mementos.  Stripping out these outliers gets us to Figure \ref{fig:q2histy2} on page \pageref{fig:q2histy2}, which shows a slightly better visualization, but there is still such a jump between the low number of mementos to those at 3000 that it is still difficult to see a pattern.
 
-If we focus on the highest number of records, mementos less than 10, the plot actually begins to look like a histogram in Figure \ref{fig:q2histy3} on page \pageref{fig:q2histy3}, and we can see the precipitous drop between 0 and 2.
+If we focus on the highest number of records, mementos less than 100, the plot actually begins to look like a histogram in Figure \ref{fig:q2histy3} on page \pageref{fig:q2histy3}, and we can see the precipitous drop between 0 and 2, and the ``Long Tail'' decline thereafter.
 
 \begin{figure}
 \includegraphics[scale=0.7]{work/q2/q2-histogram1.png}
@@ -174,7 +189,7 @@ If we focus on the highest number of records, mementos less than 10, the plot ac
 
 \begin{figure}
 \includegraphics[scale=0.7]{work/q2/q2-histogram3.png}
-\caption{Histogram of URIs vs. number of Mementos for URIs with less than 10 Mementos}
+\caption{Histogram of URIs vs. number of Mementos for URIs with less than 100 Mementos}
 \label{fig:q2histy3}
 \end{figure}
 
@@ -214,11 +229,23 @@ From some test runs, it became apparent that the Carbon Date tool takes between 
 
 I modified the Carbon Date tool to accept a configuration file as an argument (also sharing with the author), then ran it 5 times across 5 different screen sessions using 5 different configuration files containing 5 different port numbers.
 
-Then I did the same for the Carbon Date tool client shown in listing \ref{lst:q3}.
+Then I did the same for the Carbon Date tool client shown in Listing \ref{lst:q3Query}.
 
 Here's an example run of the Carbon Date client using a subset of the 1000 links in a file named \verb+xae+.
 \begin{lstlisting}[frame=single]
 ./queryCarbonDateFor1000Links.py http://ganesh:8547/cd xae > xae.data
+\end{lstlisting}
+
+Getting the dates was not enough, of course, because we need the ages in days.  Listing \ref{lst:q3Convert} takes in the list from the previous script and generates a tab-delimited file containing the URIs and ages in days.  It is run like so:
+\begin{lstlisting}[frame=single]
+/listAgesFromCdlist.py work/cdlist-final.txt > daycounts-final.txt
+\end{lstlisting}
+
+What we really want is to create a graph for all URIs that have \textgreater 0 Mementos and an estimated creation date.  This is where \ref{lst:q3Join} comes in.  This script joins the tab-delimited file generated from Question 2 with the tab-delimited file containing our ages in days, eliminates those with 0 Mementos and no carbon dates, then generates another tab-delimited file that can be fed into R for our scatter plot.
+
+This script is run like so:
+\begin{lstlisting}[frame=single]
+./joinAndProcessAgesWithMementoData.py ../q2/mementoCounts.txt daycounts-final.txt > mementosVsAge.txt
 \end{lstlisting}
 
 \subsubsection*{The Results}
@@ -234,6 +261,12 @@ Then again, because the majority of the URIs are ``young'', and it takes some ti
 \end{figure}
 
 \newpage
-\lstinputlisting[language=Python,frame=single,caption={Python program for remotely querying the Carbon Date tool}, label=lst:q3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/queryCarbonDateFor1000Links.py}
+\lstinputlisting[language=Python,frame=single,caption={Python program for remotely querying the Carbon Date tool}, label=lst:q3Query,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/queryCarbonDateFor1000Links.py}
+
+\newpage
+\lstinputlisting[language=Python,frame=single,caption={Python program for calculating the ages based on dates gathered from the Carbon Date tool}, label=lst:q3Convert,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/listAgesFromCdlist.py}
+
+\newpage
+\lstinputlisting[language=Python,frame=single,caption={Python program for calculating the ages based on dates gathered from the Carbon Date tool}, label=lst:q3Join,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{work/q3/joinAndProcessAgesWithMementoData.py}
 
 \end{document}
