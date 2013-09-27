@@ -80,7 +80,7 @@ It required the use of 4 distinct scripts run in the following order:
 	\end{itemize}
 \end{enumerate}
 
-The 4 scripts allowed resumption of processing if an error state was encountered at any point.  For example, \verb+gimmetweets.py+ could be cut off because it reached Twitter's hourly request limit.  Because it was time consuming (in minutes, sometimes hours) to complete some of these tasks, splitting the scripts up in this way allowed work to be saved across runs.  Even if there was some overlap, \verb+combineLists.py+ took care of any extra URIs that were processed repeatedly.
+The 4 scripts allowed resumption of processing if an error state was encountered at any point.  For example, \verb+gimmetweets.py+ could be cut off because it reached Twitter's hourly request limit\cite{twitter}.  Because it was time consuming (in minutes, sometimes hours) to complete some of these tasks, splitting the scripts up in this way allowed work to be saved across runs.  Even if there was some overlap, \verb+combineLists.py+ took care of any extra URIs that were processed repeatedly.
 
 Early testing of the \emph{expanded\_url} field provided by the Twitter API showed that even though a URI was present in the tweet text, sometimes it did not appear as a value in \emph{expanded\_url}, so it was inconsistent.  To account for this, all tweets were extracted by \verb+gimmetweets.py+ and later processed with \verb+extractURIsFromTweets.py+.
 
@@ -99,6 +99,9 @@ The following screen names were followed for data:
 In retrospect, I could have saved a lot of time with \verb+extractURIsFromTweets.py+ by using parallel execution.  The program could have broken a given list of tweets up and then executed against each sublist, combining the whole once all were done.
 
 Parallel execution would have saved little for \verb+gimmetweets.py+ because of the number of requests limited by Twitter.
+
+The list of URIs is available at:
+https://github.com/shawnmjones/cs595-f13/blob/master/assignment2/work/q1/uris/urilist-final.txt
 
 The following sections show the source code of each of these scripts.
 
@@ -231,7 +234,7 @@ From some test runs, it became apparent that the Carbon Date tool takes between 
 \frac{7 \textrm{ minutes}}{1 \textrm{ URI}} \times {1000 \textrm{ URIs}} = {7000 \textrm{ minutes}} \times \frac{1 \textrm{ day}}{1440 \textrm{ minutes}} \approx {5 \textrm{ days}}
 \]
 
-I modified the Carbon Date tool to accept a configuration file as an argument (also sharing with the author), then ran it 5 times across 5 different screen sessions using 5 different configuration files containing 5 different port numbers.
+I modified the Carbon Date tool to accept a configuration file as an argument (also shared with the author), then ran it 5 times across 5 different screen sessions using 5 different configuration files containing 5 different port numbers.  I limited it to 5 due to the fact that the Bitly API, used by Carbon Date, does not allow more than 5 simultaneous connections\cite{bitly}.
 
 Then I did the same for the Carbon Date tool client shown in Listing \ref{lst:q3Query}.
 
