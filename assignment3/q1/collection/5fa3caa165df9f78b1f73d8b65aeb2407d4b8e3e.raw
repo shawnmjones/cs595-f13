@@ -1,0 +1,1683 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="og:site_name" content="Code.org" />
+<meta property="og:type" content="article" />
+<link rel="shortcut icon" href="http://www.code.org/sites/all/themes/codedotorg/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="fb:app_id" content="500177453358606" />
+<meta property="og:url" content="http://www.code.org/" />
+<meta property="og:description" content="Learn about a new &quot;superpower&quot; that isn&#039;t being taught in most schools" />
+<meta name="abstract" content="Code.org is a non-profit foundation dedicated to growing computer programming education." />
+<meta name="description" content="Code.org is a non-profit foundation dedicated to growing computer programming education." />
+<link rel="canonical" href="http://www.code.org/" />
+<link rel="shortlink" href="http://www.code.org/" />
+<meta property="og:title" content="What most schools don&#039;t teach" />
+<meta property="og:image" content="http://code.org/sites/default/files/images/bill-zuck-square.jpg" />
+  <title>Code.org | Anybody can learn</title>  
+  <link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_JCY_XIQAlFCN_AbvjWfbNrXAa03IOm7FrXUxsDgkibE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_Wu8npAzy16WmnnnWKxpexfgsAryolGGaX6yO3GWA5bU.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.url-textfield{display:none !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_secSXLohCsw4qzN-2HGYd01pZTIMTwWusARiZBMCk3A.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.url-textfield{display:none !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_B6FrEhSzQ-LYsV2O2mZz_ffSgb9IB6S14sl6kaS-SZ0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_tbggPlOsOd_Qi2bY-7Hskqo-_o12qexyk6UQUh0bnCM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.code.org/sites/default/files/css/css_iolajbpG6l9i5lN2ClHS9xIiAGFZbeM4Hmfekn-hou0.css" media="all" />
+  <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
+  e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+  mixpanel.init("25578877267c53d8341f9228fb9b7cac");</script><!-- end Mixpanel -->
+  <meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@codeorg">
+<meta name="twitter:url" content="http://code.org/">
+<meta name="twitter:title" content="What most schools don&#39;t teach">
+<meta name="twitter:description" content="Learn about a new &quot;superpower&quot; that isn&#39;t being taught in in 90% of US schools. Starring Bill Gates, Mark Zuckerberg, will.i.am, Chris Bosh, Jack Dorsey, Ton...">
+<meta name="twitter:image" content="http://i3.ytimg.com/vi/nKIu9yen5nc/mqdefault.jpg">
+<meta name="twitter:player" value="https://www.youtube.com/embed/nKIu9yen5nc">
+<meta property="twitter:player:width" content="1920">
+<meta property="twitter:player:height" content="1080">
+  <meta property="article:publisher" content="https://www.facebook.com/Code.org" />
+  <script type="text/javascript" src="http://www.code.org/sites/default/files/js/js_fFie25bGFLCSWjwy50XU89HeQllT-bw2Mhf0kf7N_OQ.js"></script>
+<script type="text/javascript" src="http://www.code.org/sites/default/files/js/js_ocFEgdY5gKSCzgkIxTx0vjKzkRXolW021_0ifUlgNk8.js"></script>
+<script type="text/javascript" src="http://www.code.org/sites/default/files/js/js_ZojQEsu3XEihRAbMiel7jKvItG6Hku9k1qX8ihIzl8Y.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-37745279-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/jtk0dzq.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"codedotorg","theme_token":"ZHijMopKALaV61tzzRWwAdK1nOR3Bhix_cesx2P4-ZQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/custom\/codedotorg_custom\/js\/codedotorg-validate.js":1,"sites\/all\/modules\/custom\/codedotorg_custom\/js\/codedotorg-popup-window.js":1,"sites\/all\/modules\/contrib\/insertFrame\/insertFrame.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/custom\/codedotorg_custom\/js\/cdo_petition_form.js":1,"sites\/all\/modules\/custom\/codedotorg_custom\/js\/jquery-input-hints\/jquery.inputhints.min.js":1,"sites\/all\/modules\/contrib\/webform\/js\/webform.js":1,"0":1,"http:\/\/use.typekit.com\/jtk0dzq.js":1,"1":1,"2":1,"3":1,"4":1,"5":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"1":1,"sites\/all\/modules\/contrib\/webform\/css\/webform.css":1,"sites\/all\/themes\/codedotorg\/css\/font-awesome.min.css":1,"sites\/all\/themes\/codedotorg\/css\/codedotorg_bootstrap.css":1,"sites\/all\/themes\/codedotorg\/css\/global.css":1,"normal::sites\/all\/themes\/codedotorg\/css\/codedotorg-codedotorg-default.css":1,"normal::sites\/all\/themes\/codedotorg\/css\/codedotorg-codedotorg-default-normal.css":1,"sites\/all\/themes\/codedotorg\/css\/grid\/codedotorg_default\/normal\/codedotorg-default-normal-20.css":1}},"field_group":{"div":"teaser"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in page-node">
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      // init the FB JS SDK
+      FB.init({
+        appId      : '500177453358606', // App ID from the App Dashboard
+        channelUrl : '//code.org/fb-channel.php', // Channel File for x-domain communication
+        status     : true, // check the login status upon init?
+        cookie     : true, // set sessions cookies to allow your server to access the session?
+        xfbml      : true  // parse XFBML tags on this page?
+      });
+
+      // Additional initialization code such as adding Event Listeners goes here
+
+    };
+
+    // Load the SDK's source Asynchronously
+    // Note that the debug version is being actively developed and might 
+    // contain some type checks that are overly strict. 
+    // Please report such bugs using the bugs tool.
+    (function(d, debug){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document, /*debug*/ false));
+  </script>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-20">
+    <div class="grid-5 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="Code.org" class="active"><img src="http://www.code.org/sites/all/themes/codedotorg/logo.png" alt="Code.org" id="logo" /></a>      </div>
+                        <hgroup class="site-name-slogan element-invisible">        
+                                
+        <h1 class="site-name element-invisible"><a href="/" title="Home" class="active">Code.org</a></h1>
+                                        <h6 class="site-slogan element-invisible">Anybody can learn</h6>
+              </hgroup>
+          </div>
+          </div>
+</div>
+<div class="grid-15 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <nav class="navigation">
+      <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix main-menu"><li class="menu-512 first active"><a href="/" title="" class="active">Home</a></li><li class="menu-713"><a href="/learn" title="">Learn</a></li><li class="menu-693"><a href="/teach">Teach</a></li><li class="menu-694"><a href="/help">Help Us</a></li><li class="menu-675"><a href="/quotes">Quotes</a></li><li class="menu-665 last"><a href="/stats">Stats</a></li></ul>    </nav>
+          </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-20">
+    <div class="grid-13 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-views block-video-block block-views-video-block odd block-without-title" id="block-views-video-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-video view-id-video view-display-id-block front-header-video view-dom-id-0d3ac4c426122bac2184a7c63b63036c">
+        
+  
+  
+      <div class="view-content">
+        <div >
+      
+  <div>        <h2 class="element-invisible">Promo</h2>  </div>  
+  <div>        <div><iframe width="572" 
+    height="322" src="http://www.youtube.com/embed/nKIu9yen5nc?wmode=opaque&showinfo=0&rel=0&iv_load_policy=3" 
+    frameborder="0" allowfullscreen></iframe></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+<div class="block block-block other-film-versions block-43 block-block-43 even block-without-title" id="block-block-43">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="other-versions-links">Other versions:<br /><a href="http://www.youtube.com/watch?v=qYZF6oIZtfc">1min</a>&nbsp;• <a href="http://www.youtube.com/watch?v=dU1xS07N-FA">9min</a>&nbsp;• <a href="/film/no-youtube">No YouTube?</a></div>    </div>
+  </div>
+</div>
+<div class="block block-block social-buttons video-share-buttons video-share-buttons-below block-14 block-block-14 odd block-without-title" id="block-block-14">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul>
+<li class="facebook-button"><a href="https://www.facebook.com/sharer.php?u=https://www.facebook.com/video/video.php?v=10100689712053311" class="btn btn-facebook window-popup"><i class="icon-facebook">&nbsp;</i>Share on Facebook</a></li>
+<li class="twitter-button"><a href="https://twitter.com/share?url=http%3A%2F%2Fcode.org&amp;related=codeorg&amp;hashtags=CODE&amp;text=Inspirational+video+by+Zuckerberg%2C+%40BillGates%2C+%40iamwill%2C+%40ChrisBosh%2C+%40Jack+Dorsey+%26+other+heroes." class="btn btn-twitter window-popup"><i class="icon-twitter">&nbsp;</i>Twitter</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="grid-7 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <section class="block block-webform every-student-petition block-client-block-27 block-webform-client-block-27 odd" id="block-webform-client-block-27">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Every student in every school should have the opportunity to learn computer science</h2>
+            
+    <div class="content clearfix">
+      <article about="/petition" typeof="sioc:Item foaf:Document" class="node node-webform node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-webform-27">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>If you agree, sign your name. Join 812,566 others:</p></div></div></div><form class="webform-client-form" enctype="multipart/form-data" action="/petition" method="post" id="webform-client-form-27" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-textfield" id="webform-component-name">
+  <label class="element-invisible" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">(Required)</span></label>
+ <input placeholder="Enter your name" type="text" id="edit-submitted-name" name="submitted[name]" value="" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item webform-component webform-component-email" id="webform-component-email">
+  <label class="element-invisible" for="edit-submitted-email">Email address <span class="form-required" title="This field is required.">(Required)</span></label>
+ <input class="email form-text form-email required" placeholder="Enter your email address" type="email" id="edit-submitted-email" name="submitted[email]" /> <span class="field-suffix">We’ll never spam you.</span>
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-zip-code">
+  <label class="element-invisible" for="edit-submitted-zip-code">ZIP code or country </label>
+ <input placeholder="Enter ZIP code or country" type="text" id="edit-submitted-zip-code" name="submitted[zip_code]" value="" maxlength="128" class="form-text" /> <span class="field-suffix">Enter country if outside U.S.</span>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-category">
+  <label class="element-invisible" for="edit-submitted-category">Category </label>
+ <span class="field-prefix">I am a </span> <select id="edit-submitted-category" name="submitted[category]" class="form-select"><option value="" selected="selected">- Select -</option><option value="Student">Student</option><option value="Parent">Parent</option><option value="Educator">Educator</option><option value="Software engineer"> Software engineer</option><option value="None of the above">None of the above</option></select>
+</div>
+<input type="hidden" name="submitted[mailchimp_integration][mailchimp_signup]" value="1" />
+<input type="hidden" name="details[sid]" value="" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-Bup8QlbORKBhJXh8Ygvc1_vta7RI_nYqb_rv2fJrxoo" />
+<input type="hidden" name="form_id" value="webform_client_form_27" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input class="btn btn-cdo-basic form-submit" type="submit" id="edit-submit" name="op" value="Submit" /></div></div></form>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+<div class="form-error"></div>    </div>
+  </div>
+</section>
+<div class="block block-block purpose-statement block-2 block-block-2 even block-without-title" id="block-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>Code.org is a non-profit foundation dedicated to growing computer science education. <a href="/about" title="Learn more about Code.org">Learn more</a></p>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div></header>
+    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-20">    
+        
+        <div class="grid-20 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                        <div class="block block-block actions-block actions-block-students grid-10 alpha block-9 block-block-9 odd block-without-title" id="block-block-9">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h2>Students: <a href="/learn">Learn in minutes</a></h2>    </div>
+  </div>
+</div>
+<div class="block block-block actions-block actions-block-teachers grid-10 omega block-10 block-block-10 even block-without-title" id="block-block-10">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h2>Teachers: teach an <a href="http://csedweek.org">Hour of Code</a></h2>    </div>
+  </div>
+</div>
+<div class="block block-block simple-quotes block-5 block-block-5 odd block-without-title" id="block-block-5">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul>
+<li>“Everybody in this country should learn how to program a computer<br />because it teaches you how to think.” <br /><span class="quote-source">— Steve Jobs, the Lost Interview</span></li>
+</ul>    </div>
+  </div>
+</div>
+<section class="block block-views block-quotes-front-block block-views-quotes-front-block even" id="block-views-quotes-front-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Leaders and trendsetters agree more students should learn to code</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-quotes view-id-quotes view-display-id-front_block supporter-quotes view-dom-id-502856d91bb26fa6cf122129330888e1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first supporter-quote">
+    <article about="/node/94" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-94">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/bill-clinton-9251236-1-402.jpg?itok=7xMS0LRO" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President Bill Clinton</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>At a time when people are saying &quot;I want a good job - I got out of college and I couldnt find one,&quot; every single year in America there is a standing demand for 120,000 people who are training in computer science.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even supporter-quote">
+    <article about="/node/148" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-148">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/rubio.png?itok=AbamQKDb" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Marco Rubio</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senator, Florida</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computer programmers are in great demand by American businesses, across the tech sector, banking, entertainment, you name it. These are some of the highest-paying jobs, but there are not enough graduates to fill these opportunities.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd supporter-quote">
+    <article about="/node/49" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-49">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/billgatesheadshot.jpg?itok=-PK3PaPM" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bill Gates</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chairman,  Microsoft</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-4 views-row-even supporter-quote">
+    <article about="/node/70" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-70">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/markzuckerbergheadshot.jpg?itok=XHkvAfuk" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mark Zuckerberg</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Facebook</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Our policy at Facebook is literally to hire as many talented engineers as we can find. There just aren&#039;t enough people who are trained and have these skills today.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-5 views-row-odd supporter-quote">
+    <article about="/node/95" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-95">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/williamscreamandshout420x250.jpg?itok=vo9UreST" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">will.i.am</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Musician/The Black Eyed Peas and Entrepreneur</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Here we are, 2013, we ALL depend on technology to communicate, to bank, and none of us know how to read and write code. It&#039;s important for these kids, right now, starting at 8 years old, to read and write code.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-6 views-row-even supporter-quote">
+    <article about="/node/68" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-68">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/facebook.jpg?itok=Enxy7HvN" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sheryl Sandberg</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chief Operating Officer,  Facebook</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>An understanding of computer science is becoming increasingly essential in today’s world.  Our national competitiveness depends upon our ability to educate our children – and that includes our girls – in this critical field.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-7 views-row-odd supporter-quote">
+    <article about="/node/135" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-135">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/algore.png?itok=YLJs4gmK" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Vice President Al Gore</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Our civilization is experiencing unprecedented changes across many realms, largely due to the rapid advancement of information technology. The ability to code and understand the power of computing is crucial to success in today&#039;s hyper-connected world.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-8 views-row-even supporter-quote">
+    <article about="/node/130" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-130">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/bosh.jpeg?itok=ZCbv0S4P" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chris Bosh</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">NBA All-star, Miami Heat</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coding is very important when you think about the future, where everything is going. With more phones and tablets and computers being made, and more people having access to every thing and information being shared, I think it&#039;s very important to be able to learn the language of coding and programming.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-9 views-row-odd supporter-quote">
+    <article about="/node/96" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-96">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/ashtonkutcherheadshot.jpg?itok=u6WRPgII" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ashton Kutcher</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Actor</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I&#039;d like to advocate for computer coding to be an institution in the public school systems right next to biology, chemistry, physics, etc. If we want to spur job growth in the US we have to educate ourselves in the disciplines where jobs are available and where economic growth is feasible.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-10 views-row-even supporter-quote">
+    <article about="/node/116" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-116">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/richardbransonheadshot.jpg?itok=N9FGBSGB" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Richard Branson</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Virgin Group</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Whether we&#039;re fighting climate change or going to space, everything is moved forward by computers, and we don&#039;t have enough people who can code. Teaching young people to code early on can help build skills and confidence and energize the classroom with learning-by-doing opportunities. I learned how to fly a hot air balloon when I was 30,000 feet up and my life was in the balance: you can learn skills at any age but why wait when we can teach everyone to code now!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-11 views-row-odd supporter-quote">
+    <article about="/node/163" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-163">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/droz.png?itok=rjJ7oWEN" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dr. Mehmet Oz</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cardiothoracic Surgeon, Author, and TV Personality</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>To best prepare for life in the 21st century, today&#039;s students should ideally learn basic computer programming.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-12 views-row-even supporter-quote">
+    <article about="/node/164" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-164">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/arianna.png?itok=R0T0rU_3" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Arianna Huffington</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, The Huffington Post</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code is useful no matter what your career ambitions are. <span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-13 views-row-odd supporter-quote">
+    <article about="/node/112" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-112">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mikebloombergheadshot.jpg?itok=-q5uU8hp" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mike Bloomberg</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mayor, New York City</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>We salute the coders, designers, and programmers already hard at work at their desks, and we encourage every student who can&#039;t decide whether to take that computer science class to give it a try.  New York City’s economic future depends on it, and while we&#039;re already giving thousands of our students the opportunity to learn how to code, much more can and should be done.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-14 views-row-even supporter-quote">
+    <article about="/node/152" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-152">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/toddpark.png?itok=4dHULfIB" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Todd Park</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Chief Technology Officer</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Technology and computers are very much at the core of our economy going forward. To be prepared for the demands of the 21st century—and to take advantage of its opportunities—it is essential that more of our students today learn basic computer programming skills, no matter what field of work they want to pursue.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-15 views-row-odd supporter-quote">
+    <article about="/node/57" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-57">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/ericschmidtheadshot_1.jpg?itok=YpHP0APi" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eric Schmidt </div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Executive Chairman, Google</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>For most people on Earth, the digital revolution hasn&#039;t even started yet. Within the next 10 years, all that will change. Let&#039;s get the whole world coding!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-16 views-row-even supporter-quote">
+    <article about="/node/76" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-76">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/larrycoreyheadshot_0.jpg?itok=sgA0ieln" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Larry Corey</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President, Fred Hutchinson Cancer Research Center</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computers are an increasingly essential part of understanding cancer and developing new therapies. Knowledge of computer programming is almost as important as knowledge of anatomy when it comes to medical research or clinical care.
+<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-17 views-row-odd supporter-quote">
+    <article about="/node/54" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-54">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/johnhennessyheadshot.jpg?itok=xQAaptdv" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John Hennessy</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President,  Stanford University</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to program is exciting: it&#039;s stimulating, fun, develops new ways of thinking, and in a very short time you can build programs that will impress your friends and family!  Discovering the joy of programming was the spark that started my professional life and impressed the teenage beauty who, 40 years later, is still the love of my life!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-18 views-row-even supporter-quote">
+    <article about="/node/143" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-143">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/randiweingarten.jpg?itok=gZzZQqnh" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Randi Weingarten</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President, American Federation of Teachers</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computers have and continue to change the world around us, and programmers continue to be essential. But I know first hand from studying FORTRAN that many of us get intimidated by it and we shouldn&#039;t be. Computer programming has become far more accessible to teach and learn, and our country needs more students to learn it.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-19 views-row-odd supporter-quote">
+    <article about="/node/158" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-158">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/cantor.png?itok=PwM734Nn" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eric Cantor</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. House Majority Leader</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning how to code empowers students to use their creativity to build a more prosperous and just community. Encouraging students to become code literate is one of the best ways we can prepare them, and our country, for the future.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-20 views-row-even supporter-quote">
+    <article about="/node/159" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-159">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/thune.png?itok=uKri6vvD" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John Thune</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Senator, South Dakota</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Whether our children want to become farmers, doctors, teachers, or entrepreneurs, it’ll be easier for them to achieve their dreams in the digital age if they have some background in computer science. We need our children to learn 21st century skills for a 21st century world, and coding teaches them the creativity and problem-solving skills that are necessary for success.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-21 views-row-odd supporter-quote">
+    <article about="/node/72" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-72">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/wendykoppheadshot_0.jpg?itok=m4bVE70-" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Wendy Kopp</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO,  Teach For America</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Ensuring that our nation&#039;s urban and rural children have the chance to become proficient in computer science is a sure way to set them on a trajectory to great career options.  We need to do this to close the digital divide and level the playing field.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-22 views-row-even supporter-quote">
+    <article about="/node/69" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-69">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/steveballmerheadshot.jpg?itok=2D00S00z" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Steve Ballmer</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO,  Microsoft Corporation</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computer programming is the single best professional opportunity in the world.  We need more Americans in the field.  Let’s go!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-23 views-row-odd supporter-quote">
+    <article about="/node/60" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-60">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/marcandreessenheadshot.png?itok=ppOJ3-p6" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Marc Andreessen</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Co-founder and General Partner,  Andreessen Horowitz</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code is the single best thing anyone can do to get the most out of the amazing future in front of us.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-24 views-row-even supporter-quote">
+    <article about="/node/75" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-75">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/susanwojcickiheadshot_0.jpg?itok=ElGMt1ul" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Susan Wojcicki</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Vice President, Google</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code makes kids feel empowered, creative, and confident. If we want our young women to retain these traits into adulthood, a great option is to expose them to computer programming in their youth.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-25 views-row-odd supporter-quote">
+    <article about="/node/137" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-137">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/vanroekel.png?itok=6mbDC7op" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dennis Van Roekel</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President, National Education Association</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code unlocks creativity and builds confidence in students regardless of age, gender, or race. Computer programming can also be a teaching tool for other subjects, from physics to French. With today&#039;s technology, learning to code is more fun and more accessible than ever, and America&#039;s teachers welcome it into our schools and classrooms.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-26 views-row-even supporter-quote">
+    <article about="/node/115" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-115">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/lelandmelvinheadshot.jpg?itok=1qtlJIVf" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Leland Melvin</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Astronaut, NASA Education Administrator</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computers play an increasingly larger role in all fields of science; they&#039;re helping us explore outer-space and our solar system. Whether you want to become a doctor or an astronaut, it would help to learn the basics of computer programming.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-27 views-row-odd supporter-quote">
+    <article about="/node/53" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-53">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/jeffwilke.jpg?itok=5BpVb6nd" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jeff Wilke</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">SVP Consumer Business, Amazon.com</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coders change the world.  They build new, amazing things faster than ever before.  Anyone with imagination can learn to write code.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-28 views-row-even supporter-quote">
+    <article about="/node/64" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-64">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/megwhitmanheadshot.jpg?itok=WlbrqnuB" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Meg Whitman</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President and CEO,  Hewlett-Packard</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>If you have a daughter, she should go be an engineer.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-29 views-row-odd supporter-quote">
+    <article about="/node/55" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-55">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/johnhickenlooperheadshot_0.jpg?itok=wk5QTnXr" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John Hickenlooper</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Governor, State of Colorado</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>There&#039;s no question that computers are changing the world around us.  To help prepare our children for a successful future, no matter what career they pursue, they need to learn basic computer programming skills.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-30 views-row-even supporter-quote">
+    <article about="/node/136" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-136">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/michaelcohen.png?itok=yJalmAK8" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael Cohen</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President, Achieve.org</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>As we think about preparing our children for college and careers in a hyper-connected, technology driven world there is no question that computer science is more important than ever before, that’s why more students in K-12 should be exposed to computer science.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-31 views-row-odd supporter-quote">
+    <article about="/node/162" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-162">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/snoop-dogg-197052-1-402.jpg?itok=Isx1NIq3" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Snoop Dogg</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rapper, Singer-songwriter, and Actor</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>support tha american dream n make coding available to EVERYONE!!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-32 views-row-even supporter-quote">
+    <article about="/node/165" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-165">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/enrique.png?itok=v2SNmi6F" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Enrique Iglesias</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Singer-songwriter and Actor</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Programming is important. Learn how you can help get it into schools.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-33 views-row-odd supporter-quote">
+    <article about="/node/58" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-58">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/louisewatersheadshot.jpg?itok=oSMPNOwN" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Louise Waters</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Superintendent, Leadership Public Schools</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coding is a path up for urban youth – a right now job that makes college possible – a future vision that inspires.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-34 views-row-even supporter-quote">
+    <article about="/node/48" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-48">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/estherwojcickii.jpg?itok=zF1ysSIB" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Esther Wojcicki</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Vice Chair, Creative Commons Board of Directors</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>All students in the 21st century need to have the opportunity to learn coding starting in elementary school. It is exciting for kids and introduces them to thinking skills that are critical for the digital age and that promote the study of computer science.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-35 views-row-odd supporter-quote">
+    <article about="/node/101" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-101">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/reidhoffmanheadshot.jpg?itok=gg3B2DC5" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Reid Hoffman</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Executive Chairman &amp; Co-founder, LinkedIn</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>One of the most important skills any entrepreneur should learn is to program a computer.  This is a critical skill if you want to start a tech startup, but a basic knowledge of code is useful even in traditional fields, because software is changing everything.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-36 views-row-even supporter-quote">
+    <article about="/node/131" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-131">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/tony.png?itok=qBGIh6VX" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tony Hsieh</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO, Zappos</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I think everyone should get a little exposure to computer science because it really forces you to think in a slightly different way, and it’s a skill that you can apply in life in general, whether you end up in computer science or not.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-37 views-row-odd supporter-quote">
+    <article about="/node/128" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-128">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/dorsey.png?itok=DAu3BtUE" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jack Dorsey</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Creator, Twitter. Founder and CEO, Square</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I think that great programming is not all that dissimilar to great art. Once you start thinking in concepts of programming it makes you a better person...as does learning a foreign language, as does learning math, as does learning how to read.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-38 views-row-even supporter-quote">
+    <article about="/node/51" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-51">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/harrylewisheadshot_0.jpg?itok=4xIfO46L" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Harry Lewis</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dean of Harvard College (1995-2003)</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>The most popular class at Harvard today is Intro to Computer Programming, because computers are helping in almost every other field of study and research - to search for a cure for cancer, to understand the origins of ancient languages, etc.  We need more schools to offer computer programming; it&#039;s a skill that will empower the next generation in almost any field.  Learning to code is easy, fun, and a good thing to learn young.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-39 views-row-odd supporter-quote">
+    <article about="/node/113" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-113">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/inslee.png?itok=vCiUk0Vq" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jay Inslee</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Governor, Washington State</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>There’s a spirit of innovation in Washington State that&#039;s driven world class advances in aerospace, IT, biotech, health and agriculture. But we&#039;re falling behind in meeting the workforce needs of today’s economy. To remain at the forefront of the innovation economy, we must prepare our kids for today’s jobs and the jobs of the future.  Computer programming is one example of just such an opportunity.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-40 views-row-even supporter-quote">
+    <article about="/node/65" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-65">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mitchkaporheadshot.jpg?itok=hQGmALpl" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mitch Kapor</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Lotus Development Corporation &amp; Partner, Kapor Capital</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>We need people from all walks of life to learn to code.  Control your destiny, help your family, your community and your country.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-41 views-row-odd supporter-quote">
+    <article about="/node/167" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-167">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mario.png?itok=nURVWElf" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mario Armstrong</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Digital Lifestyle Expert &amp; TV Host, NBC, CNN/HLN, NPR</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Kids who understand code are at the highest level of literacy in the 21st century. This will give all kids the tools to move from consumers to creators, enabling them for huge success. <span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-42 views-row-even supporter-quote">
+    <article about="/node/150" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-150">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/leehood.png?itok=r3hUd0pq" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dr. Lee Hood</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Inventor, modern DNA sequencing. Recipient, National Medal of Science</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>To deal with the &quot;deluge of big data&quot; requires the pioneering of new analytical tools, both computational and mathematical. Computer scientists have become essential as part of cross-disciplinary teams of researchers who tackle some of the most challenging issues in science today. <span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-43 views-row-odd supporter-quote">
+    <article about="/node/67" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-67">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/ronconwayheadshot.jpeg?itok=HWKGAq7W" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ron Conway</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">SV Angel Investor</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coders are the life blood of innovation.  Code.org will help ensure that our students learn this essential talent. <span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-44 views-row-even supporter-quote">
+    <article about="/node/129" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-129">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/drew.jpg?itok=AVOruy5l" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Drew Houston</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder &amp; CEO, Dropbox</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Software touches all of these different things you use, and tech companies are revolutionizing all different areas of the world...from how we shop to how farming works, all these things that aren&#039;t technical are being turned upside down by software. So being able to play in that universe really makes a difference.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-45 views-row-odd supporter-quote">
+    <article about="/node/50" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-50">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/fredwilsonheadshot.jpg?itok=yWo8-OD_" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fred Wilson</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Managing Partner,  Union Square Ventures</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>People often ask me what they should do if they &quot;aren&#039;t technical&quot;.  I tell them to &quot;get technical&quot;.  And a great way to do that is to learn software engineering and computer science.  Sadly, we don&#039;t have enough opportunities for people to do that.  Code.org hopes to change that and I enthusiastically support their efforts to do so.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-46 views-row-even supporter-quote">
+    <article about="/node/61" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-61">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mariaklaweheadshot.jpg?itok=s6n27mH0" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Maria Klawe</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">President,  Harvey Mudd College</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coding is today’s language of creativity.  All our children deserve a chance to become creators instead consumers of computer science.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-47 views-row-odd supporter-quote">
+    <article about="/node/147" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-147">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/hawking.png?itok=6yK5rOOL" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stephen Hawking</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Theoretical Physicist, Cosmologist, and Author</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-48 views-row-even supporter-quote">
+    <article about="/node/38" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-38">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/annewojcicki.jpg?itok=XDzlsauq" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Anne Wojcicki</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO and Founder,  23andMe</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>All students should have the opportunity to learn how to program. Computer science is the basis for modern day creativity and expression. The computer programmers of tomorrow will revolutionize medicine.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-49 views-row-odd supporter-quote">
+    <article about="/node/41" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-41">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/bradsmithheadshot_0.jpg?itok=s7tfzABO" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Brad Smith</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">SVP General Counsel, Microsoft</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>We need the generation that has grown up with computing devices to lead the way in coding—to start small but dream big, to have fun, to start businesses, to improve people’s lives, and change the world!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-50 views-row-even supporter-quote">
+    <article about="/node/63" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-63">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/maxlevchinheadshot.jpg?itok=UUJBQTVm" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Max Levchin</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO and Co-founder,  Paypal</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code will be a huge booster for your future, no matter what your professional plans may be.  Learning to code will also make you extremely cool!<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-51 views-row-odd supporter-quote">
+    <article about="/node/44" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-44">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/darakhosrowshahiheadshot.jpg?itok=hLeg8xyR" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dara Khosrowshahi</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO, Expedia, Inc.</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Our programmers are our artists.  They write beautiful code that millions of our travelers start to play with, to use, to help them travel better.  It&#039;s a profound sense of power and satisfaction to have your work affect so many, so quickly, across the globe.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-52 views-row-even supporter-quote">
+    <article about="/node/149" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-149">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/jancuny.jpg?itok=pNdn6ME_" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jan Cuny</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Program Officer, National Science Foundation</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>All of today’s kids will need—along with reading, writing, and arithmetic—a basic understanding of computation and the role that it plays across a wide range of disciplines. Coding is engaging and empowering. It’s a necessary 21st Century skill.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-53 views-row-odd supporter-quote">
+    <article about="/node/111" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-111">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/anoushehansariheadshot.jpg?itok=xwjtGoTy" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Anousheh Ansari</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Co-founder and Chairwoman, Prodea Systems</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Whether your dream is to start a business or to be an astronaut, a background in technology can help - it certainly helped me realize my dreams. We need more of tomorrow&#039;s women to learn to code.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-54 views-row-even supporter-quote">
+    <article about="/node/45" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-45">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/deankamenheadshot_0.jpg?itok=4KBUxr1n" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dean Kamen</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, FIRST</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>There are way more exciting careers out there for people that have developed the muscle hanging between their ears than for all the sports and the entertainers combined. Learning to code is one of the fastest ways students can learn the skills they need for the 21st century.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-55 views-row-odd supporter-quote">
+    <article about="/node/133" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-133">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/elena.jpeg?itok=c-0z0PNV" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Elena Silenok</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Clothia</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Creating things with your hands, or creating code, creating programs, are just different ways to express creativity.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-56 views-row-even supporter-quote">
+    <article about="/node/126" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-126">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/benioff.jpg?itok=_p-J1K7j" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Marc Benioff</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chairman and CEO, salesforce.com   </div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code at a young age opened my eyes to the incredibly exciting world of technology and entrepreneurship. Our youth deserve the opportunity to learn the skills that will enable them to succeed in our connected world.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-57 views-row-odd supporter-quote">
+    <article about="/node/98" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-98">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/corybookerheadshot.jpg?itok=zgVCmG6-" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cory Booker</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mayor, Newark, New Jersey</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computer programming is quickly becoming an essential career skill.  Learning to code is a fantastic opportunity equalizer - if you&#039;re good at it, it can help you achieve your dreams.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-58 views-row-even supporter-quote">
+    <article about="/node/99" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-99">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/dickcostoloheadshot.png?itok=amxfZv1n" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dick Costolo</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO, Twitter</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>If you can program a computer, you can achieve your dreams.  A computer doesn&#039;t care about your family background, your gender, just that you know how to code.  But we&#039;re only teaching it in a small handful of schools, why?<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-59 views-row-odd supporter-quote">
+    <article about="/node/71" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-71">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/timoreillyheadshot_0.jpg?itok=VdFycGjH" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tim O&#039;Reilly</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder,  O&#039;Reilly Media</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Programming is how we talk to the machines that are increasingly woven into our lives.  If you aren&#039;t a programmer, you&#039;re like one of the unlettered people of the Middle Ages who were told what to think by the literate priesthood.  We had a Renaissance when more people could read and write; we&#039;ll have another one when everyone programs.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-60 views-row-even supporter-quote">
+    <article about="/node/43" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-43">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mithrairaniramalaeyheadshot.jpg?itok=U6OMC0iX" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mithra Irani Ramalaey</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">SVP Regional &amp; Site Operations, City Year</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>In many of our inner-cities, talented students aren&#039;t exposed to the right opportunities to help them unlock the potential that all children share. Learning to code can help these students leapfrog traditional boundaries, ensuring that all children have access to the opportunities that can drive our economic success as a nation.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-61 views-row-odd supporter-quote">
+    <article about="/node/105" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-105">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/stevecaseheadshot.jpg?itok=UpcTWWzK" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Steve Case</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, America Online</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computer programming is a skill that more Americans need to learn.  At a time when our country is suffering from unemployment, whether you want to be an entrepreneur and start a business, or you&#039;re just worried about having a job when you graduate, learning basic computer programming is the best way to do either.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-62 views-row-even supporter-quote">
+    <article about="/node/132" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-132">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/gaben.png?itok=Yuld5sqc" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gabe Newell</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder and President, Valve</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>The programmers of tomorrow are the wizards of the future. You&#039;re going to look like you have magic powers compared to everybody else.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-63 views-row-odd supporter-quote">
+    <article about="/node/59" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-59">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/lucysandersheadshoti.jpg?itok=3VM-X-Fy" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lucy Sanders</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO &amp; Founder, NCWIT</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computing lets people express their creativity and unlock solutions, and code is computing&#039;s universal language.  All young people, including girls, deserve to be fluent in the language of the future.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-64 views-row-even supporter-quote">
+    <article about="/node/97" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-97">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/bradfeldheadshot.jpg?itok=3EXewWBI" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Brad Feld</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Managing Director, Foundry Group</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Computer science needs to be part of the core curriculum - like algebra, biology, physics, or chemistry. We need all schools to teach it, not just 10%.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-65 views-row-odd supporter-quote">
+    <article about="/node/114" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-114">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/jeffskollheadshot.jpeg?itok=FrSt_CN0" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jeff Skoll</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Participant Media</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Coding gives you the basis to understand the world of today and control the world of tomorrow.  There are few more rewarding experiences one can have.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-66 views-row-even supporter-quote">
+    <article about="/node/100" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-100">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/johndeasyheadshot.jpg?itok=1kgkslLo" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dr. John Deasy</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Superintendent, Los Angeles Unified School District</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Students who study computer science unlock a world of opportunities for themselves.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-67 views-row-odd supporter-quote">
+    <article about="/node/42" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-42">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/chrisstephensonheadshot_0.jpg?itok=ezWliZP9" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chris Stephenson</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founding Executive Director, CSTA</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>We consider it critical that students be able to read and write and understand math, biology, chemistry and physics. To be a well-educated citizen in today’s computing-intensive world, students must have a deeper understanding of the fundamentals of computing as well.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-68 views-row-even supporter-quote">
+    <article about="/node/102" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-102">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/nicholasnegroponteheadshot.jpg?itok=bB2Hr4lP" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Nicholas Negroponte</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder and Chairman Emeritus of MIT&#039;s Media Lab</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Programming allows you to think about thinking, and while debugging you learn learning.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-69 views-row-odd supporter-quote">
+    <article about="/node/173" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-173">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/hilary.png?itok=tIHD72jD" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Hilary Mason</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chief Scientist, Bitly</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I believe technology should give us superpowers. Everyone should have the opportunity to learn to think, analyze, and create with technology.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-70 views-row-even supporter-quote">
+    <article about="/node/176" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-176">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/wyden_0.png?itok=R8XR6Ci_" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senator Ron Wyden</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>One of the best ways to prosper in the 21st century economy is to understand the language it’s written in. Every student in America should have the opportunity to learn how to code.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-71 views-row-odd supporter-quote">
+    <article about="/node/125" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-125">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/yishanwongheadshot.jpeg?itok=rp3fNrt3" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Yishan Wong</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO,  Reddit</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>One hundred years ago, people were faced with the choice of learning to read or remaining illiterate laborers who would be left behind as have-nots in a rapidly modernizing world.  In the coming century, being able to command a world that will be thoroughly computerized will set apart those who can live successfully in the future from those who will be utterly left behind.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-72 views-row-even supporter-quote">
+    <article about="/node/66" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-66">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/robglaserheadshot.jpg?itok=lRr8vhYR" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rob Glaser</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder,  RealNetworks</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning how to code and program computers when I was a kid was one of the best choices I made growing up.  By writing code, I learned how to bring my dreams to life, how to budget, and how to build stuff.   Whatever path you choose in life – being an artist, an engineer, a lawyer, a teacher, or even a politician, you will give yourself a huge leg up if you learn how to code.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-73 views-row-odd supporter-quote">
+    <article about="/node/103" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-103">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/richardbarthheadshot.png?itok=mEpPZksZ" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Richard Barth</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO, KIPP Foundation</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>In the last 30 years, computers have changed the course of humanity.  Learning basic computer programming skills can help 21st century students regardless of their future career.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-74 views-row-even supporter-quote">
+    <article about="/node/104" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-104">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/salmankhanheadshot.jpg?itok=dXB_9lOy" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Salman Khan</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, Khan Academy</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>To prepare humanity for the next 100 years, we need more of our children to learn computer programming skills, regardless of their future profession.  Along with reading and writing, the ability to program is going to define what an educated person is.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-75 views-row-odd supporter-quote">
+    <article about="/node/52" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-52">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/janemargolisheadshot.jpeg?itok=JCthbit0" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jane Margolis</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Researcher and Author, UCLA</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>We must work diligently to democratize computer science learning so that no group is denied access to this fundamental knowledge.  Not only is this an issue of civil rights, but computer science as a field desperately needs diverse and multiple perspectives.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-76 views-row-even supporter-quote">
+    <article about="/node/127" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-127">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/markpincusheadshot.jpg?itok=mnx4yv3_" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mark Pincus</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">CEO and Founder, Zynga</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Every student deserves the opportunity to learn computer programming. Coding can unlock creativity and open doors for an entire generation of American students. We need more coders -- not just in the tech industry, but in every industry.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-77 views-row-odd supporter-quote">
+    <article about="/node/157" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-157">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/arne.png?itok=pGOoOkvk" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Arne Duncan</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Secretary of Education</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>To compete in a global market, our students need high quality STEM education including computer science skills such as coding.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-78 views-row-even supporter-quote">
+    <article about="/node/62" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-62">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/marksurmanheadshot_0.jpg?itok=BynRDeqs" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mark Surman</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Executive Director, Mozilla Foundation</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Code has become the 4th literacy.  Everyone needs to know how our digital world works, not just engineers.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-79 views-row-odd supporter-quote">
+    <article about="/node/134" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-134">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/vanessa.jpeg?itok=-tsujWjK" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Vanessa Hurst</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder, CodeMontage</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I think if someone had told me that software is really about humanity, that it&#039;s really about helping people by using computer technology, it would have changed my outlook a lot earlier.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-80 views-row-even supporter-quote">
+    <article about="/node/47" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-47">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/edlazowskacroppedheadshot.jpg?itok=ioWbKmaj" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ed Lazowska</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Computer Science &amp; Engineering, University of Washington </div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Are you creative?  Do you love problem solving?  Is teamwork a strength?  Do you want to have the power to change the world?  If &quot;yes&quot; to all of these, then computer science - programming - is for you! <span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-81 views-row-odd supporter-quote">
+    <article about="/node/146" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-146">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mehran.png?itok=-_YrWwrn" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mehran Sahami</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stanford, Chair of Education, Computer Science</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code is tremendously empowering.  It lets you go from just being a consumer of technology to being a producer of it.  When you make that transformation, you realize that rather than settling for what someone else tells you is possible, you have the power to create whole new technological possibilities.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-82 views-row-even supporter-quote">
+    <article about="/node/145" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-145">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/gina.png?itok=dLuCanvQ" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gina BIanchini</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Founder and CEO, Mightybell</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>I was fortunate to begin coding in 4th grade. While I took a different path into political science and a fascination with how organizations and communities work, understanding how logic translates to code has changed the course of my professional life. I&#039;m extremely grateful for the exposure and opportunity.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-83 views-row-odd supporter-quote">
+    <article about="/node/46" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-46">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/douglasrushkoffheadshot.jpg?itok=lt-MNA8f" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Douglas Rushkoff</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Author, Program or Be Programmed</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>In the emerging, highly programmed landscape ahead, you will either create the software or you will be the software. It’s really that simple: Program, or be programmed. Choose the former, and you gain access to the control panel of civilization. Choose the latter, and it could be the last real choice you get to make.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-84 views-row-even supporter-quote">
+    <article about="/node/161" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-161">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/jasonh.png?itok=tzIavXSa" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jason Hirschorn</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Former Chief Digital Officer, MTV, and President, Sling Media</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to code, just a little, helped me immensely in my career. I can converse and create with the rising leaders of the next generation, the coders themselves. Computers touch almost every aspect of our current and future life. Any society that plans ahead for its future citizens must teach computer programming at all levels of education.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-85 views-row-odd supporter-quote">
+    <article about="/node/90" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-90">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/alangoodwinheadshot_0.jpg?itok=Kav6lkhE" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dr. Alan Goodwin</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Principal, Walt Whitman High School</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>In the 21st century, learning to program computers is one of the most valuable skills we can teach our young children, no matter what career they choose.
+<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-86 views-row-even supporter-quote">
+    <article about="/node/206" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-206">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/official_portrait.jpg?itok=6P1bE07B" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Suzan DelBene</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congresswoman, Washington State</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“Technology is changing our world and driving our economy. We need to make sure our children have the skills necessary to innovate and compete in the 21st century. Exposure to computer science and basic programming empowers students and spurs creativity, which can unlock countless opportunities for their futures.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-87 views-row-odd supporter-quote">
+    <article about="/node/172" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-172">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/tony_smith.png?itok=WHN0mB-8" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tony Smith</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Superintendent, Oakland Unified Schools</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Technology is not a separate discipline that can be considered in isolation from other aspects of society; it&#039;s interwoven with every aspect of our existence. Learning to code is a pathway to full participation in the modern workforce and in public life. Providing every student with the opportunity to develop coding skills is not supplemental or elective, it&#039;s an essential part of our work to create opportunity, eliminate inequity, and prepare students for success in school, success in career, and success in life.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-88 views-row-even supporter-quote">
+    <article about="/node/207" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-207">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mcm_official_photo_3-8-11_small.jpg?itok=2iO9ajvN" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cathy McMorris Rodgers</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congresswoman, Washington State</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“As the foundation of America’s robust technology industry, computer science drives advancements in health care, aerospace, financial services, national defense, retail and so many other industries both at home and abroad.  Young people should be exposed to computer science in our schools so they have the opportunity to learn, innovate, and develop new advancements to promote the future of technology.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-89 views-row-odd supporter-quote">
+    <article about="/node/174" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-174">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/pjd-2013.jpg?itok=u5FgH9xN" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Peter Denning</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Association of Computing Machinery, former President</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>Learning to speak the language of information gives you the power to transform the world.<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-90 views-row-even supporter-quote">
+    <article about="/node/208" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-208">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mh_official_photo.jpg?itok=foiQ6Rvn" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael Honda</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congressman, California</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>&quot;Students, parents, teachers, and policymakers will benefit greatly by recognizing the foundational importance of coding and computer science in our education curricula.&quot;<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-91 views-row-odd supporter-quote">
+    <article about="/node/209" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-209">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/toddyoung.jpg?itok=yPOZfgoz" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Todd Young</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congressman, Indiana</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“A background in computer science provides a strong foundation for nearly any career path in any industry in the 21st century economy.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-92 views-row-even supporter-quote">
+    <article about="/node/210" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-210">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/mcgovernphoto.jpg?itok=wyJVFdRX" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">James McGovern</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congressman, Massachusetts</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“We have witnessed astonishing advancements in computer technology just in our lifetimes.  Preparing every student with a sound foundation in computer programming – whatever their chosen career path – will help them create the advancements of the future.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-93 views-row-odd supporter-quote">
+    <article about="/node/211" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky odd clearfix" id="node-quote-211">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/tony_cardenas.jpg?itok=x79ykmGh" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tony Cardenas</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congressman, California</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“The tech industry is quickly expanding and adding jobs to the U.S. economy.   We need a workforce trained with the computer science and coding skills that fuel this expansion, so we can keep these exciting jobs here.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-94 views-row-even views-row-last supporter-quote">
+    <article about="/node/212" typeof="sioc:Item foaf:Document" class="node node-quote node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-quote-212">
+            
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-person-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.code.org/sites/default/files/styles/small-1/public/images/tom_petri.jpg?itok=10qqAV5O" width="90" height="90" alt="" /></div></div></div><div class="field-group-format group_quote_and_source field-group-div group-quote-and-source  speed-fast effect-none"><div class="field field-name-field-source-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Thomas Petri</div></div></div><div class="field field-name-field-source-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">U.S. Congressman, Wisconsin</div></div></div><div class="field field-name-field-quote field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><span class="open-quotes">“</span>“It’s clear that our economy depends on talented professionals who are educated in computer science and technology.  I encourage more Americans to push the limits of innovation by studying these subjects.”<span class="close-quotes">“</span></div></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>
+<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+          </div>
+  </div>
+</div>
+      </div>
+</div>
+  </div>
+</div></section>
+    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-extra-wrapper" class="zone-wrapper zone-footer-extra-wrapper clearfix">  
+  <div id="zone-footer-extra" class="zone zone-footer-extra clearfix container-20">
+    <div class="grid-20 region region-footer-extra-first" id="region-footer-extra-first">
+  <div class="region-inner region-footer-extra-first-inner">
+    <section class="block block-multiblock every-student-petition block-1 block-multiblock-1 odd" id="block-multiblock-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Sign your name if you think every student in every school should have the opportunity to learn to code.</h2>
+            
+    <div class="content clearfix">
+      <article about="/petition" typeof="sioc:Item foaf:Document" class="node node-webform node-teaser node-published node-not-promoted node-not-sticky even clearfix" id="node-webform-27--2--footer">
+            
+  
+  <div class="content clearfix">
+    <form class="webform-client-form" enctype="multipart/form-data" action="/petition" method="post" id="webform-client-form-27--2--footer" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-textfield" id="webform-component-name--footer">
+  <label class="element-invisible" for="edit-submitted-name--2--footer">Name <span class="form-required" title="This field is required.">(Required)</span></label>
+ <input placeholder="Enter your name" type="text" id="edit-submitted-name--2--footer" name="submitted[name]" value="" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item webform-component webform-component-email" id="webform-component-email--footer">
+  <label class="element-invisible" for="edit-submitted-email--2--footer">Email address <span class="form-required" title="This field is required.">(Required)</span></label>
+ <input class="email form-text form-email required" placeholder="Enter your email address" type="email" id="edit-submitted-email--2--footer" name="submitted[email]" /> <span class="field-suffix">We’ll never spam you.</span>
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-zip-code--footer">
+  <label class="element-invisible" for="edit-submitted-zip-code--2--footer">ZIP code or country </label>
+ <input placeholder="Enter ZIP code or country" type="text" id="edit-submitted-zip-code--2--footer" name="submitted[zip_code]" value="" maxlength="128" class="form-text" /> <span class="field-suffix">Enter country if outside U.S.</span>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-category--footer">
+  <label class="element-invisible" for="edit-submitted-category--2--footer">Category </label>
+ <span class="field-prefix">I am a </span> <select id="edit-submitted-category--2--footer" name="submitted[category]" class="form-select"><option value="" selected="selected">- Select -</option><option value="Student">Student</option><option value="Parent">Parent</option><option value="Educator">Educator</option><option value="Software engineer"> Software engineer</option><option value="None of the above">None of the above</option></select>
+</div>
+<input type="hidden" name="submitted[mailchimp_integration][mailchimp_signup]" value="1" />
+<input type="hidden" name="details[sid]" value="" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-9ZMPGWSujcw6eXnOsiKv6X_GqZ8Qn5GjKJlY9Pdip7A" />
+<input type="hidden" name="form_id" value="webform_client_form_27" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url--2--footer">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url--2--footer" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2--footer"><input class="btn btn-cdo-basic form-submit" type="submit" id="edit-submit--2--footer" name="op" value="Submit" /></div></div></form>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+<div class="form-error"></div>    </div>
+  </div>
+</section>
+  </div>
+</div>
+  </div>
+</div><div id="zone-footer-menu-wrapper" class="zone-wrapper zone-footer-menu-wrapper clearfix">  
+  <div id="zone-footer-menu" class="zone zone-footer-menu clearfix container-20">
+    <div class="grid-12 region region-footer-extra-second" id="region-footer-extra-second">
+  <div class="region-inner region-footer-extra-second-inner">
+    <section class="block block-block stay-informed block-16 block-block-16 odd" id="block-block-16">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Stay in touch with Code.org</h2>
+            
+    <div class="content clearfix">
+      <div class="stay-informed-section stay-informed-section-facebook">
+<script type="text/javascript">// <![CDATA[
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=500177453358606";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+// ]]></script>
+<div class="fb-like" data-href="https://facebook.com/Code.org" data-width="450" data-show-faces="false"></div>
+</div>
+<div class="stay-informed-section stay-informed-section-twitter"><a href="https://twitter.com/codeorg" class="twitter-follow-button" data-show-count="false">Follow @codeorg</a>
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+</div>    </div>
+  </div>
+</section>
+  </div>
+</div>
+<div class="grid-8 region region-menu-second" id="region-menu-second">
+  <div class="region-inner region-menu-second-inner">
+        <nav class="navigation">
+      <h2>More Links</h2><ul id="secondary-menu" class="links inline clearfix secondary-menu"><li class="menu-448 first"><a href="/about">About Us</a></li><li class="menu-678"><a href="/film-cast">Meet the Film Cast</a></li><li class="menu-449"><a href="/contact">Contact Us</a></li><li class="menu-664"><a href="/tos">Terms of Service</a></li><li class="menu-887 last"><a href="/learn/find-school/json" title="">Local Schools API</a></li></ul>    </nav>
+          </div>
+</div>
+  </div>
+</div><div id="zone-engage-wrapper" class="zone-wrapper zone-engage-wrapper clearfix">  
+  <div id="zone-engage" class="zone zone-engage clearfix container-20">
+    <div class="grid-20 region region-engage" id="region-engage">
+  <div class="region-inner region-engage-inner">
+    <div class="block block-block engage-links block-3 block-block-3 odd block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="engage-links">
+<li><a href="http://www.facebook.com/Code.org" class="btn btn-facebook"><i class="icon-facebook" title="Like us on Facebook"></i><span class="element-invisible"> Like us on Facebook</span></a></li>
+<li><a href="https://twitter.com/codeorg" class="btn btn-twitter"><i class="icon-twitter" title="Follow us on Twitter"></i><span class="element-invisible"> Follow us on Twitter</span></a></li>
+<li class="donate-now"><a href="/donate">Donate Now</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-20">
+    <div class="grid-14 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-block block-4 block-block-4 odd block-without-title" id="block-block-4">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="footer-trademark-info">Code.org™ and the Code.org logo are trademarks of Code.org.</div>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div></footer>
+  </div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/* Output by FitVids module */
+(function ($) {
+    Drupal.behaviors.fitvids = {
+      attach: function (context, settings) {
+if ($(".media-youtube-outer-wrapper").length) {
+ $(".media-youtube-outer-wrapper").removeAttr("style");
+ $(".media-youtube-preview-wrapper").removeAttr("style");
+ $(".media-youtube-outer-wrapper").removeClass("media-youtube-outer-wrapper");
+ $(".media-youtube-preview-wrapper").removeClass("media-youtube-preview-wrapper");
+}
+if ($(".media-vimeo-outer-wrapper").length) {
+ $(".media-vimeo-outer-wrapper").removeAttr("style");
+ $(".media-vimeo-preview-wrapper").removeAttr("style");
+ $(".media-vimeo-outer-wrapper").removeClass("media-vimeo-outer-wrapper");
+ $(".media-vimeo-preview-wrapper").removeClass("media-vimeo-preview-wrapper");
+}
+$(".region", context).fitVids();
+}
+      };
+    }(jQuery));
+//--><!]]>
+</script>
+</body>
+</html>

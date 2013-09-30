@@ -1,0 +1,494 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--[if lt IE 7 ]> <html class="ie6" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Sharing key findings from two new Energy Department reports that highlight the record growth of America&#039;s wind industry." />
+<meta content="America&amp;#039;s Wind Industry Reaches Record Highs" about="/articles/americas-wind-industry-reaches-record-highs" property="dc:title" />
+<script type="text/javascript" src="/sites/all/themes/energy/scripts/Federated-Analytics.js"></script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://energy.gov/articles/americas-wind-industry-reaches-record-highs" />
+<meta property="fb:admins" content="10718899,1407911,20010394,13004794,207303407,203176,747807274,100001088239132,1384028141" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link rel="shortcut icon" href="http://energy.gov/sites/all/themes/energy/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://energy.gov/node/714131" />
+<meta property="og:site_name" content="Energy.gov" />
+<meta property="og:country-name" content="USA" />
+<meta property="og:image" content="http://energy.gov/sites/prod/files/styles/imagelink_320/public/wind2012_atAGlance-long.JPG?itok=GvY9kueS" />
+<meta property="og:description" content="America&#039;s Wind Industry Reaches Record Highs" />
+<meta property="og:title" content="America&#039;s Wind Industry Reaches Record Highs" />
+<meta name="viewport" content="width = 1150" />
+<meta property="og:type" content="government" />
+<meta property="og:url" content="http://energy.gov/articles/americas-wind-industry-reaches-record-highs" />
+<meta property="og:postal-code" content="20585" />
+<meta property="og:locality" content="Washington D.C." />
+<meta property="og:street-address" content="1000 Independence Ave. SW" />
+<meta property="og:phone_number" content="202-586-5000" />
+  <title>America&#039;s Wind Industry Reaches Record Highs | Department of Energy</title>
+  <link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_xwwty2lVop1GS28EwMIEiahTMh1EiKYJvecV_wRTX_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_Lny62KFVHcZKZ4br6vN6g3NoQxWyMOiO7UxqfNtGUqo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fast.fonts.com/t/1.css?apiType=css&amp;projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97" media="all" />
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_I7V0ZB1Y6D3D1fhDWMMToHZPop9_j9EOla5Y7GCVzLU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://energy.gov/sites/prod/files/css/css_eML5x8a0V5Y0xdSlyhchORfklT6lOcSP1XTxE-gtV08.css" media="all" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-714131 node-type-article group-context group-context-group-1 group-context-taxonomy-term group-context-taxonomy-term-31" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<div id="sticky-header-anchor"></div>
+<div id="sticky-header">
+  <div id="header-wrapper">
+    <div id="header" class="container column-row">
+        <div class="region region-header">
+    <div><div class="block-energy-core-site-name-wrapper">
+  <div id="block-energy-core-site-name" class="block block-energy-core block-energy-core-site-name clearfix">
+
+          
+    <div class="content">
+      <h1 class="site-name"><a href="/" class=""><span>Energy.gov</span></a></h1>    </div>
+  </div>
+</div></div><div class="energy-location-widget no-zip"><div class="block-energy-location-energy-location-zip-wrapper">
+  <div id="block-energy-location-energy-location-zip" class="block block-energy-location block-energy-location-energy-location-zip clearfix">
+
+          
+    <div class="content">
+      <div class="energy-current-location">Find information about your town or city.</div><div class="energy-location-form"><form action="/articles/americas-wind-industry-reaches-record-highs" method="post" id="energy-location-set-zip-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-zip">
+ <input placeholder="Enter your zip code" type="text" id="edit-zip" name="zip" value="" size="10" maxlength="5" class="form-text" />
+</div>
+<input onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;ZipCode&#039;, &#039;GO&#039;, &#039;Zipcode form&#039;]);" type="submit" id="edit-zip-save" name="op" value="GO" class="form-submit" /><input type="hidden" name="form_build_id" value="form-K1S60B6qZd5rvg7q3IGxuvrID41eOEqnRhCuamN6rvk" />
+<input type="hidden" name="form_id" value="energy_location_set_zip_form" />
+</div></form></div>    </div>
+  </div>
+</div></div><div class="block-search-form-wrapper">
+  <div id="block-search-form" class="block block-search block-search-form clearfix">
+
+          
+    <div class="content">
+      <form action="/articles/americas-wind-industry-reaches-record-highs" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search Energy.gov" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" value="Search" src="http://energy.gov/sites/all/themes/energy/images/energy_search_glass.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Mska0u_ozh5Xc1wkpZxHqcGa9oGy2w4t0vpqOKuwPyc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block-energy-social-energy-gov-social-block-wrapper">
+  <div id="block-energy-social-energy-gov-social-block" class="block block-energy-social block-energy-social-energy-gov-social-block clearfix">
+
+          
+    <div class="content">
+      <div id="energy-social-widget">
+<div class="item-list"><ul><li class="first"><a href="/exit?url=https%3A//www.facebook.com/energygov" class="energy-social-link"><span>link to facebook</span></a></li>
+<li><a href="/exit?url=https%3A//twitter.com/energy" class="energy-social-link"><span>link to twitter</span></a></li>
+<li class="last"><a href="/#emailSignup" class=""><span>Email Signup</span></a>
+<!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+      <form action="http://energy.us5.list-manage.com/subscribe/post?u=d8fbb7a1814155cc38f24adeb&amp;id=a6805280ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <label for="mce-EMAIL">Sign up for updates</label>
+        <input type="email" value="" placeholder="Enter your e-mail address" name="EMAIL" class="form-text" id="mce-EMAIL">
+        <input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="form-button link-button more-link energy-social-link">
+      </form>
+    </div>
+    <!--End mc_embed_signup--></li>
+</ul></div>
+</div>    </div>
+  </div>
+</div>  </div>
+    </div>
+  </div>
+
+<div id="navigation-wrapper">
+  <div id="navigation" class="container column-row">
+      <div class="region region-navigation">
+    <div class="block-energy-core-navigation-main-wrapper">
+  <div id="block-energy-core-navigation-main" class="block block-energy-core block-energy-core-navigation-main clearfix">
+
+          <h4 class="block-title">Energy.gov</h4>
+      
+    <div class="content">
+      <div class="primary-nav"><ul class="menu"><li class="first expanded"><a href="/public-services" class=""><span>Public Services</span></a><ul class="menu"><li class="first leaf"><a href="/savings" class=""><span>Tax Credits, Rebates &amp; Savings</span></a></li>
+<li class="collapsed"><a href="/public-services/homes" class=""><span>Homes</span></a></li>
+<li class="collapsed"><a href="/public-services/vehicles" class=""><span>Vehicles</span></a></li>
+<li class="collapsed"><a href="/public-services/building-design" class=""><span>Building Design</span></a></li>
+<li class="leaf"><a href="/public-services/manufacturing" class=""><span>Manufacturing</span></a></li>
+<li class="collapsed"><a href="/public-services/national-security-safety" class=""><span>National Security &amp; Safety</span></a></li>
+<li class="collapsed"><a href="/public-services/energy-economy" class=""><span>Energy Economy</span></a></li>
+<li class="leaf"><a href="/public-services/funding-opportunities" class=""><span>Funding Opportunities</span></a></li>
+<li class="last leaf"><a href="/public-services/state-local-government" class=""><span>State &amp; Local Government</span></a></li>
+</ul></li>
+<li class="expanded"><a href="/science-innovation" class=""><span>Science &amp; Innovation</span></a><ul class="menu"><li class="first collapsed"><a href="/science-innovation/science-technology" class=""><span>Science &amp; Technology</span></a></li>
+<li class="leaf"><a href="/science-innovation/science-education" class=""><span>Science Education</span></a></li>
+<li class="collapsed"><a href="/science-innovation/innovation" class=""><span>Innovation</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-sources" class=""><span>Energy Sources</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-usage" class=""><span>Energy Usage</span></a></li>
+<li class="collapsed"><a href="/science-innovation/energy-efficiency" class=""><span>Energy Efficiency</span></a></li>
+<li class="last leaf"><a href="/climate-change" class=""><span>Climate Change</span></a></li>
+</ul></li>
+<li class="last leaf"><a href="/mission" class=""><span>Mission</span></a></li>
+</ul></div><div class="secondary-nav"><ul class="menu"><li class="first leaf"><a href="/news-blog" class=""><span>News &amp; Blog</span></a></li>
+<li class="leaf"><a href="/maps/" class=""><span>Maps</span></a></li>
+<li class="leaf"><a href="/data/open-energy-data" class=""><span>Data</span></a></li>
+<li class="leaf"><a href="/about-us" class=""><span>About Us</span></a></li>
+<li class="leaf"><a href="/staff-and-contractors" class=""><span>For Staff &amp; Contractors</span></a></li>
+<li class="last leaf"><a href="/offices" class=""><span>Offices</span></a></li>
+<div class="office-flyout"><div class="item-list"><h3>All Offices</h3><ul><li class="first"><a href="/offices#Program Offices" class="more-link"><span>Program Offices</span></a></li>
+<li><a href="/offices#Staff Offices" class="more-link"><span>Staff Offices</span></a></li>
+<li><a href="/offices#Labs &amp; Technology Centers" class="more-link"><span>Labs &amp; Technology Centers</span></a></li>
+<li><a href="/offices#Operations Offices" class="more-link"><span>Field Sites</span></a></li>
+<li><a href="/offices#Power Marketing Administration" class="more-link"><span>Power Marketing Administration</span></a></li>
+<li class="last"><a href="/offices#Other Agencies" class="more-link"><span>Other Agencies</span></a></li>
+</ul></div></div></ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+</div> 
+<div id="content-wrapper">
+<div id="top-wrapper">
+  <div id="top" class="container column-row">
+        <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/energygov" class=""><span>Home</span></a> » America&#039;s Wind Industry Reaches Record Highs</div>    <div class="page-title-wrapper clearfix">
+      <h2 class="page-title">America&#039;s Wind Industry Reaches Record Highs</h2>
+          </div>
+        <div class="publish-date">August 6, 2013 - 8:01am</div>                            <div class="region region-top">
+    <div class="block-energy-content-energy-addthis-wrapper">
+  <div id="block-energy-content-energy-addthis" class="block block-energy-content block-energy-content-energy-addthis clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="http://energy.gov/articles/americas-wind-industry-reaches-record-highs" addthis:title="America's Wind Industry Reaches Record Highs" addthis:description="America's Wind Industry Reaches Record Highs">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a><a class="addthis_button_pinterest_pinit" pi:pinit:description="America's Wind Industry Reaches Record Highs"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'http://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>  </div>
+      </div>
+</div>
+
+<div id="page-wrapper">
+  <div id="page" class="container column-row">
+
+    
+
+    <div id="content-sidebar-right-wrapper"  class="column last first grid-12">
+      
+      <div id="main-content"  class="column first grid-9">
+                <div id="content">  <div class="region region-content">
+    <div class="block-system-main-wrapper">
+  <div id="block-system-main" class="block block-system block-system-main clearfix">
+
+          
+    <div class="content">
+      <div class="node node-article node-full node-714131 clearfix" about="/articles/americas-wind-industry-reaches-record-highs" typeof="sioc:Item foaf:Document">
+
+  
+          
+  
+  <div class="content">
+    <div class="field field-name-field-article-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-image"><img class="energy-static-image-article-hero" typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/article_hero/public/wind2012_atAGlance-long.JPG?itok=GNsCT2kT" alt="Our latest Infographic highlights key findings from the 2012 Wind Technologies Market Report. | Infographic by &lt;a href=&quot;/node/379579&quot;&gt;Sarah Gerrity&lt;/a&gt;. " title="Our latest Infographic highlights key findings from the 2012 Wind Technologies Market Report. | Infographic by &lt;a href=&quot;/node/379579&quot;&gt;Sarah Gerrity&lt;/a&gt;. " />
+<p>Our latest Infographic highlights key findings from the 2012 Wind Technologies Market Report. | Infographic by <a href="/node/379579">Sarah Gerrity</a>. </p></div></div></div></div><div class="field-group-format group_article_sidebar field-group-div group-article-sidebar column grid-2 first sidebar speed-fast effect-none"><div class="field field-name-field-article-contributor field-type-node-reference field-label-hidden"><a href="/contributors/dr-ernest-moniz" class=""><span><img typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/contributor/headshot/moniz_475.jpg?itok=TjFDNRUb" width="150" height="100" alt="Dr. Ernest Moniz" title="Dr. Ernest Moniz" /></span></a><a href="/contributors/dr-ernest-moniz" class=""><span>Dr. Ernest Moniz</span></a><div class="contributor-title">Secretary of Energy</div></div><h3 class="field field-name-field-article-callout-title field-type-text field-label-hidden">LEARN MORE</h3><ul class="field field-name-field-article-callout-text field-type-text-long field-label-hidden"><li>Watch <a href="/node/714091">our new video</a> highlighting the latest U.S. wind industry trends. </li><li>See our <a href="/node/714141/">press release</a> on the Energy Department's two new reports highlighting the record-breaking growth of America's wind power market. </li><li>Check out our new page: <a href="/node/714071">energy.gov/windreport</a>. </li></ul></div><div class="field-group-format group_article_main field-group-div group-article-main column grid-7 last speed-fast effect-none"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>Today, the Energy Department <a href="/articles/energy-dept-reports-us-wind-energy-production-and-manufacturing-reaches-record-highs">released two new reports</a> highlighting record highs for U.S. wind energy production and manufacturing and demonstrating America’s continued leadership in this rapidly growing global industry. Wind energy is now the fastest growing source of power in the United States – representing 43 percent of all new U.S. electric generation capacity in 2012 and $25 billion in new investment. The reports were prepared in partnership with the Department’s Lawrence Berkeley and Pacific Northwest National Laboratories.</p>
+<p>In the first four years of the Obama Administration, American electricity generation from wind and solar power more than doubled. President Obama’s Climate Action Plan makes clear that the growth of clean, renewable wind energy remains a critical part of an all-of-the-above energy strategy that cuts carbon pollution, diversifies our energy economy and brings the next generation of American-made clean energy technologies to market. The Administration has committed once again to doubling renewable electricity generation from energy resources like wind power.</p>
+<p>As the graphic above illustrates, America’s wind industry is booming. In 2012, over 13 gigawatts of new wind power capacity was added to the U.S. grid – nearly double the wind capacity deployed in 2011. This tremendous growth helped us surpass 60 gigawatts of total capacity at the end of 2012 – enough capacity to power all the homes in California and Washington State combined.  As energy production goes, so does manufacturing. The 2012 Wind Technologies Market Report estimates that 72 percent of the wind turbine equipment – including towers, blades and gears – installed in the U.S. last year was made in America. This growth in domestic wind manufacturing is creating thousands of new jobs across the country. Industry estimates the wind sector employs more than 80,000 American workers across a variety of sectors, including finance, engineering, construction and project development .</p>
+<p>Nine states now rely on wind for more than 12 percent of their total annual energy consumption, and in Iowa, South Dakota and Kansas, wind is contributing more than 20 percent. At the same time, technological innovation and lower maintenance and hardware costs are spurring near-record low prices for wind power. In 2011 and 2012 the price of wind under long-term power purchase contracts averaged just 4 cents per kilowatt hour. </p>
+<p>Still, as these reports make clear, wind energy projections for future years are uncertain, due in part to policy uncertainty. That’s why the Obama Administration has called for the extension of the production tax credit which has played a vital role in the development of this clean, renewable energy source.  We’re also working to upgrade our electric grid to provide reliable, affordable clean energy to more and more Americans.</p>
+<p>This Thursday, at 3pm ET, the Energy Department is hosting a special <a href="/articles/google-hangout-answering-your-wind-energy-questions">Google+ Hangout on wind energy in America </a>where you can ask the experts how wind energy projects, technologies and policies are driving U.S. leadership in this competitive industry. I invite you to join the conversation and learn more at <a href="/wind-report">energy.gov/windreport</a>. </p>
+ </div></div></div></div>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+                  <div id="content-bottom">  <div class="region region-content-bottom">
+    <div class="block-energy-content-energy-addthis-bottom-wrapper">
+  <div id="block-energy-content-energy-addthis-bottom" class="block block-energy-content block-energy-content-energy-addthis-bottom clearfix">
+
+          <h4 class="block-title">Addthis</h4>
+      
+    <div class="content">
+          <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+        addthis_pub = 'ra-4e306a1b4dc28184';
+        Document.ui_use_css = false;
+      //--><!]]>
+    </script>
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style "  addthis:url="http://energy.gov/articles/americas-wind-industry-reaches-record-highs" addthis:title="America's Wind Industry Reaches Record Highs" addthis:description="America's Wind Industry Reaches Record Highs">
+      <a class="addthis_button_email"></a><a class="addthis_button_facebook"></a><a class="addthis_button_tweet" tw:via="energy" tw:count="none"></a><a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a><a class="addthis_button_pinterest_pinit" pi:pinit:description="America's Wind Industry Reaches Record Highs"></a>
+    </div>
+    <script type="text/javascript">
+    var addthisScript = addthisScript || document.createElement('script');
+    addthisScript.src = addthisScript.src || 'http://s7.addthis.com/js/250/addthis_widget.js';
+    if (!firstScript) {
+      var firstScript = document.getElementsByTagName("script")[0];
+      firstScript.parentNode.insertBefore(addthisScript, firstScript);
+    }
+    </script>
+    <!-- AddThis Button END -->    </div>
+  </div>
+</div>  </div>
+</div>
+              </div>
+
+              <div id="sidebar-right"  class="sidebar column last grid-3">  <div class="region region-sidebar-second">
+    <div class="block-apachesolr-search-article-related-articles-wrapper">
+  <div id="block-apachesolr-search-article-related-articles" class="block block-apachesolr-search block-apachesolr-search-article-related-articles clearfix">
+
+          <h4 class="block-title">Related Articles</h4>
+      
+    <div class="content">
+      <div class="node node-article node-search-related node-718426 clearfix" about="/eere/articles/energy-department-reports-us-wind-energy-production-and" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <a href="/eere/articles/energy-department-reports-us-wind-energy-production-and" class="title-link"><span>Energy Department Reports U.S. Wind Energy Production and Manufacturing Reaches Record Highs</span></a>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-718166 clearfix" about="/eere/articles/reports-show-record-high-us-wind-energy-production-and-0" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <a href="/eere/articles/reports-show-record-high-us-wind-energy-production-and-0" class="title-link"><span>Reports Show Record High U.S. Wind Energy Production and Manufacturing</span></a>  </div>
+
+  
+  
+</div>
+
+<div class="node node-article node-search-related node-714141 clearfix" about="/articles/energy-dept-reports-us-wind-energy-production-and-manufacturing-reaches-record-highs" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <a href="/articles/energy-dept-reports-us-wind-energy-production-and-manufacturing-reaches-record-highs" class="title-link"><span>Energy Dept. Reports: U.S. Wind Energy Production and Manufacturing Reaches Record Highs</span></a>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+          </div>
+
+      </div>
+</div>
+
+<div id="footer-wrapper">
+  <div id="footer" class="container column-row">
+      <div class="region region-footer">
+    <div class="block-bean-1801-wrapper">
+  <div id="block-bean-1801" class="block block-bean bean-whatwedo block-bean-1801 clearfix">
+
+          <h4 class="block-title">What We Do For You</h4>
+      
+    <div class="content">
+      <div class="node node-topic node-block-thumbnail-title node-154453 clearfix" about="/public-services/energy-economy" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-image"><a href="/public-services/energy-economy" class=""><span><img class="energy-static-image-photo-thumb" typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/MadeInAmerica_2.jpg?itok=3iZpz5wc" width="150" height="100" alt="Month by month the clean energy economy continues to grow, creating new job opportunities for tens of thousands of Americans along the way." title="Month by month the clean energy economy continues to grow, creating new job opportunities for tens of thousands of Americans along the way." /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/public-services/energy-economy" class=""><span>Energy Economy</span></a></div></div></div><a href="/public-services/energy-economy" class="title-link"><span>Energy Economy</span></a>  </div>
+
+  
+  
+</div>
+<div class="node node-topic node-block-thumbnail-title node-13327 clearfix" about="/science-innovation/innovation" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-video"><a href="/science-innovation/innovation" class=""><span><img typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/media_energy_gov_150_video/public/media-youtube/P6v8tUaZ7Us.jpg?itok=b1--9-9Y" alt="" /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/science-innovation/innovation" class=""><span>Innovation</span></a></div></div></div><a href="/science-innovation/innovation" class="title-link"><span>Innovation</span></a>  </div>
+
+  
+  
+</div>
+<div class="node node-topic node-block-thumbnail-title node-13141 clearfix" about="/public-services/national-security-safety/nuclear-security-safety" typeof="sioc:Item foaf:Document">
+
+  
+  
+  
+  <div class="content">
+    <div class="field field-name-field-topic-hero field-type-energy-hero field-label-hidden"><div class="field-items"><div class="field-item field-item-0"><div class="energy-hero energy-static-image"><a href="/public-services/national-security-safety/nuclear-security-safety" class=""><span><img class="energy-static-image-photo-thumb" typeof="foaf:Image" src="http://energy.gov/sites/prod/files/styles/photo_thumb/public/Picture%2015.jpg?itok=EzAjRFP8" width="150" height="100" alt="National Security Technologies scientists, technicians and engineers from the National Nuclear Security Administration’s Nevada Site Office board the Air Force C-17. Highly trained nuclear emergency response personnel and more than 17,000 lbs of hi-tech equipment were sent to Japan as part of the Department of Energy and National Nuclear Security Administration’s effort to assist Japanese personnel with nuclear issues. | Photo Courtesy NNSA News" title="National Security Technologies scientists, technicians and engineers from the National Nuclear Security Administration’s Nevada Site Office board the Air Force C-17. Highly trained nuclear emergency response personnel and more than 17,000 lbs of hi-tech equipment were sent to Japan as part of the Department of Energy and National Nuclear Security Administration’s effort to assist Japanese personnel with nuclear issues. | Photo Courtesy NNSA News" /></span></a></div></div></div></div><div class="field field-name-field-topic-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/public-services/national-security-safety/nuclear-security-safety" class=""><span>Nuclear Security &amp; Safety</span></a></div></div></div><a href="/public-services/national-security-safety/nuclear-security-safety" class="title-link"><span>Nuclear Security &amp; Safety</span></a>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+<div id="footer-nav-wrapper">
+  <div id="footer-nav" class="container column-row">
+    <div class="region region-footer-nav">
+    <div class="column grid-4 first"><div class="block-energy-core-footer-site-name-wrapper">
+  <div id="block-energy-core-footer-site-name" class="block block-energy-core block-energy-core-footer-site-name clearfix">
+
+          
+    <div class="content">
+      <h5 class="site-name"><a href="/" class=""><span>Energy.gov</span></a></h5>    </div>
+  </div>
+</div></div><div class="block-energy-core-footer-main-menu-wrapper">
+  <div id="block-energy-core-footer-main-menu" class="block block-energy-core block-energy-core-footer-main-menu clearfix">
+
+          
+    <div class="content">
+      <div class="footer-main-menu column grid-8 last"><ul class="menu"><li class="first leaf"><a href="http://jobs.energy.gov" class=""><span>Careers &amp; Internships</span></a></li>
+<li class="leaf"><a href="/about-us/contact-us" class=""><span>Contact Us</span></a></li>
+<li class="last leaf"><a href="/sign-email-updates" class=""><span>Email Updates</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+<div id="footer-legal-wrapper">
+  <div id="footer-legal" class="container column-row">
+    <div class="region region-footer-legal">
+    <div class="block-energy-core-footer-secondary-menu-wrapper">
+  <div id="block-energy-core-footer-secondary-menu" class="block block-energy-core block-energy-core-footer-secondary-menu clearfix">
+
+          
+    <div class="content">
+      <div class="footer-secondary-menu column grid-8 last"><ul class="menu"><li class="first expanded"><a href="https://www.energy.gov" class=""><span>About this site</span></a><ul class="menu"><li class="first leaf"><a href="/about-us/web-policies" class=""><span>Web Policies</span></a></li>
+<li class="leaf"><a href="/about-us/web-policies/privacy" class=""><span>Privacy</span></a></li>
+<li class="leaf"><a href="/diversity/services/protecting-civil-rights/no-fear-act" class=""><span>No Fear Act</span></a></li>
+<li class="leaf"><a href="/cio/department-energy-information-quality-guidelines" class=""><span>Information Quality</span></a></li>
+<li class="last leaf"><a href="/about-us/open-government" class=""><span>Open Gov</span></a></li>
+</ul></li>
+<li class="expanded"><a href="/" class=""><span>Energy Department</span></a><ul class="menu"><li class="first leaf"><a href="/about-us/budget-performance" class=""><span>Budget &amp; Performance</span></a></li>
+<li class="leaf"><a href="https://www.directives.doe.gov" class=""><span>Directives, Delegations &amp; Requirements</span></a></li>
+<li class="leaf"><a href="/management/office-management/operational-management/freedom-information-act" class=""><span>FOIA</span></a></li>
+<li class="leaf"><a href="/ig/office-inspector-general" class=""><span>Inspector General</span></a></li>
+<li class="leaf"><a href="/cio/office-chief-information-officer/services/guidance/privacy" class=""><span>Privacy Program</span></a></li>
+<li class="last leaf"><a href="/diversity/working-us/small-businesses-101-doing-business-department-energy" class=""><span>Small Business</span></a></li>
+</ul></li>
+<li class="last expanded"><a href="/" class=""><span>Federal Government</span></a><ul class="menu"><li class="first leaf"><a href="http://www.whitehouse.gov" class=""><span>The White House</span></a></li>
+<li class="last leaf"><a href="http://www.usa.gov" class=""><span>USA.gov</span></a></li>
+</ul></li>
+</ul></div>    </div>
+  </div>
+</div><div class="column grid-4 first"><div class="contact-info"><div class="block-energy-core-footer-contact-info-wrapper">
+  <div id="block-energy-core-footer-contact-info" class="block block-energy-core block-energy-core-footer-contact-info clearfix">
+
+          
+    <div class="content">
+      <p>1000 Independence Ave. SW<br />Washington DC 20585<br />202-586-5000</p>    </div>
+  </div>
+</div></div></div><div class="block-energy-core-stay-connected-wrapper">
+  <div id="block-energy-core-stay-connected" class="block block-energy-core block-energy-core-stay-connected clearfix">
+
+          <h4 class="block-title">Stay Connected</h4>
+      
+    <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="/exit?url=http%3A//www.facebook.com/energygov" class="facebook"><span>Facebook</span></a></li>
+<li><a href="/exit?url=http%3A//twitter.com/energy" class="twitter"><span>Twitter</span></a></li>
+<li><a href="/exit?url=http%3A//www.youtube.com/usdepartmentofenergy" class="youtube"><span>Youtube</span></a></li>
+<li class="last"><a href="/exit?url=http%3A//www.flickr.com/photos/departmentofenergy" class="flickr"><span>Flickr</span></a></li>
+</ul></div>    </div>
+  </div>
+</div>  </div>
+  </div>
+</div>
+
+</div>   <script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_gAPRNhhbIbP3Ety0MqvkrzpVhraIwQvY3elaEr2h6h4.js"></script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_HrrHFgidPAOTDXeO0Pk5Ai8s5IqRyl9EI0gMsWy5U6U.js"></script>
+<script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_fML-0KAodfPEnZqsajVChAev-TTYnWjs0PMsSas-hUE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"energy","theme_token":"-Bk3vdDQi3J_SECwhJ2eu1jZr3b4CZNrRyKw_pBmHNc","js":{"sites\/all\/modules\/custom\/energy_core\/js\/event_tracking.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery.hoverIntent\/jquery.hoverIntent.min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/modules\/contrib\/ext_link_page\/ext_link_page.js":1,"sites\/all\/modules\/custom\/energy_social\/js\/eventTracking.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/energy\/scripts\/energyColumns.js":1,"sites\/all\/themes\/energy\/scripts\/navigation.js":1,"sites\/all\/themes\/energy\/scripts\/stickyHeader.js":1,"sites\/all\/themes\/energy\/scripts\/placeholder_shim.js":1,"sites\/all\/themes\/energy\/scripts\/equalHeights.js":1,"sites\/all\/themes\/energy\/scripts\/energy.js":1,"sites\/all\/themes\/energy\/scripts\/oms.min.js":1},"css":{"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"\/\/fast.fonts.com\/t\/1.css?apiType=css\u0026projectid=b893a4ff-9ea3-4ce8-bf77-c8d3e3a3de97":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/energy_content\/css\/wysiwyg.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/energy\/style\/reset.css":1,"sites\/all\/themes\/energy\/style\/drupal.css":1,"sites\/all\/themes\/energy\/style\/grid.css":1,"sites\/all\/themes\/energy\/style\/layout.less":1,"sites\/all\/themes\/energy\/style\/fontography.less":1}},"energy_content":{"nid":"714131","base_url":"http:\/\/energy.gov","isFront":false,"toggle_tophero_frontpage":1},"drupal_ga_accounts":["UA-17192165-1"],"ext_link_page":{"pathLinkPage":"\/exit","messageTitle":"You are now leaving Energy.gov","messageBody":"\u003Cstrong\u003EYou will be automatically redirected to:\u003C\/strong\u003E\u003Cbr \/\u003E\n  [link]\u003Cbr \/\u003E\n  in [delay] seconds\u003Cspan class=\u0022ext-link-modal-message\u0022\u003E or you may click \u0022Continue to the Site\u0022\u003C\/span\u003E.\n","extLinkClass":"ext","directDisable":0,"delay":10,"siteName":"Department of Energy"},"field_group":{"div":"full"},"og":{"og_context":{"gid":"1","etid":"31","entity_type":"taxonomy_term","label":"Energy.gov","state":"1","created":"1308158799","rdf_mapping":[]}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://energy.gov/sites/prod/files/js/js_SVAVlc78N_ue4X4jmbrqLfrTGPa-OAcmjjyhvAZ5BNk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+var _gaq = _gaq || [];
+_gaq.push(
+  
+  ['_setAccount', 'UA-17192165-1'],
+  ['_trackPageview'],
+  ['_setDomainName', '.energy.gov']
+);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+  </body>
+</html>

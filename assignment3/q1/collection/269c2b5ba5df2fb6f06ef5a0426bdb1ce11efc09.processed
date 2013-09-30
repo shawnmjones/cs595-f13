@@ -1,0 +1,281 @@
+   #[1]Site Home (RSS 2.0) [2]Steve Clayton - Editor's Comments (RSS 2.0)
+   [3]Steve Clayton - Editor's Activities (RSS 2.0) [4]Activities of
+   People Steve Clayton - Editor Follows (RSS 2.0) [5]Steve Clayton -
+   Editor's Groups Activities (RSS 2.0) [6]Next at Microsoft (RSS 2.0)
+   [7]Next at Microsoft (Atom 1.0)
+
+     * [8]Sign in
+
+
+     * ____________________ [trans.gif]-Submit
+     *
+
+     * [9]TechNet Blogs
+     * [10]Technet Blog Images
+     * [11]More ...
+
+   [12][2678.next_2D00_logo.png]
+   [13][8054.microsoft_2D00_logo.png]
+
+     * _____________________________________________ [BUTTON Input] (not
+       implemented)_____
+       _____________________________________________ [BUTTON Input] (not
+       implemented)_____
+
+   (_) Search this blog (_) Search all blogs
+   [14]Follow @MSFTNext
+   [15]Tweets from @stevecla/next
+
+   Options
+     * [16]Blog Home
+     * [17]About
+     * [18]Share this
+     * [19]RSS for posts
+
+   Tags
+     * [20]Blended Reality
+     * [21]Cloud
+     * [22]Data
+     * [23]Design
+     * [24]Displays
+     * [25]Downloads
+     * [26]Events
+     * [27]Featured
+     * [28]Fun
+     * [29]Future
+     * [30]Gaming
+     * [31]Hardware
+     * [32]Innovation
+     * [33]Mobile
+     * [34]NUI
+     * [35]People
+     * [36]Photography
+     * [37]Places
+     * [38]Search
+     * [39]Sensors
+     * [40]Surface
+     * [41]Things
+     * [42]Thoughts
+     * [43]Video
+     * [44]Windows
+
+Microsoft Research: How fighting email spam is helping the search for an HIV
+vaccine
+
+   [45]TechNet Blogs > [46]Next at Microsoft > [47]Microsoft Research: How
+   fighting email spam is helping the search for an HIV vaccine
+
+Microsoft Research: How fighting email spam is helping the search for an HIV
+vaccine
+
+   [48]Steve Clayton - Editor
+   1 Dec 2011 8:00 AM
+     * Comments [49]4
+
+   IFRAME: [50]http://www.youtube.com/embed/fuDlwDmPUQ4?hd=1
+
+   Helping tackle some of the most urgent global challenges is firmly on
+   the agenda for Microsoft Research (MSR) - applying our experience, our
+   depth and breadth of expertise, our partnerships and the power of
+   software to tackle these challenges. In the case of searching for a
+   vaccine for HIV, all of this comes in to play as we're applying
+   high-powered computation, fighting HIV with data and perhaps
+   surprisingly, using our experience of building email spam filters to
+   find a solution.
+
+   More than 1.8 million people die of HIV-related causes each year --
+   approximately 5,000 deaths per day. One of the great challenges in
+   fighting HIV is that the virus is constantly mutating to avoid attack
+   by the immune system -- so much so that it can change as much within
+   one infected person as the influenza virus has throughout recorded
+   history. This makes it incredibly difficult to accurately analyze the
+   virus and develop therapies that attack its elusive weak points. Each
+   mutation means another variable to identify and understand. To
+   complicate things even more, individual immune response varies greatly;
+   some people's immune systems are able to robustly combat the virus,
+   allowing them to live for years without treatment, while others become
+   sick more quickly as their bodies fail to resist the invasive attack.
+
+   As with many MSR projects, this work is being undertaken in partnership
+   with several other experts in the field. Testing of a vaccine in
+   Durban, South Africa is being led by Bruce Walker, at the [51]Ragon
+   Institute at Massachusetts General Hospital, MIT and Harvard, and a
+   professor of medicine at the [52]University of KwaZulu-Natal. They are
+   joined by the [53]Centre for the AIDS Programme of Research in South
+   Africa and the [54]KwaZulu-Natal Research Institute for Tuberculosis
+   and HIV. This testing program generates vast quantities of data, the
+   analysis of which presents a huge hurdle.
+
+   That's where [55]David Heckerman and Jonathan Carlson of Microsoft
+   Research along with a [56]Microsoft Computational Biology Tool called
+   PhyloD come in. This software enables efficient data mining which then
+   leads to specific cell analysis that helps detail virus patterns for
+   further analysis. PhyloD contains an algorithm, code and visualization
+   tools to perform complex pattern recognition and analysis - enabling
+   Heckerman and his colleagues to learn how different individual immune
+   systems respond to the many mutations of the virus.
+
+
+
+   Ordinarily the computing power required to process the number of
+   variables and possible correlations would take years, but combining the
+   PhyloD tool with Microsoft's high-performance computing center, this
+   work can be done in hours. Working with two groups, one led by
+   Christian Brander in Barcelona, and another led by Paul Goepfert at the
+   University of Alabama, Heckerman and his team have discovered roughly
+   six times as many possible attack points on the HIV virus as had been
+   previously identified.
+
+     "When we first met Bruce, he had a very tricky problem to analyze,"
+     remembers David Heckerman. "He had this great data set but he didn't
+     know how to analyze it. We happened to have just the right algorithm
+     for it and this large bank of computers at Microsoft that could do
+     this massive amount of computation. He gave us the problem on
+     Friday. On Monday, we had a completed analysis for him."
+
+   What I personally find most fascinating about this work is that it
+   builds on previous work Heckerman undertook to build an email spam
+   filter. The same principles that are being used to fight spam in
+   Hotmail, Outlook and Exchange are being used to tackle HIV. It turns
+   out there are a lot of similarities between the way spammers evolve
+   their approaches to avoid filters and the way that the HIV virus is
+   constantly mutating.
+
+   As much as I love the day to day excitement of our industry with new
+   devices and new software announced on a weekly basis, it's work such as
+   this that I find truly inspiring. As Bruce Walker notes,
+
+     "everything we learn here is going to be applicable not just to HIV
+     but to breast cancer and prostate cancer--and will ultimately change
+     the way medicine is practiced"
+
+   I love the pace and excitement of our industry and Microsoft's part in
+   that - but it's also rewarding to know that I work for a company that
+   is applying our brains and technology to global challenges like these
+   and seeking to truly change the world with the power of software.
+
+    You can read more about this work on the [57]Microsoft Research
+   site and coverage on [58]Techmeme.
+
+   IFRAME:
+   [59]http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fblogs.te
+   chnet.com%2fb%2fnext%2farchive%2f2011%2f12%2f01%2ftowards-a-vaccine-for
+   -hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.asp
+   x&layout=standard&show_faces=True&width=450&action=like&font&colorschem
+   e=light&height=30
+
+   [60]Tweet
+
+     * [61]4 Comments
+
+
+   ______________________________
+   ______________________________
+   [BUTTON Input] (not implemented)______________ [BUTTON Input] (not
+   implemented)____ [BUTTON Input] (not implemented)______
+   [62]Featured, [63]Future
+   [64]hits counter
+     * Jonathan
+       1 Dec 2011 10:46 AM
+       My understanding of this is that the virus alters its genetic data,
+       just as a spammer alters the contents of the emails it sends.
+     * nobody
+       1 Dec 2011 12:41 PM
+       no the spammers change how they make it past filters and spam
+       blockers not just the contents.
+     * JwanJwen
+       2 Dec 2011 10:20 PM
+       Super computer can alone solve HIV vaccine ?
+       Is it an fact now or in experiment stage ?
+       Viral behavior is so eccentric that it presents both lifeless and
+       living state.
+       Textbooks must be reviewed !
+     * raza
+       7 Dec 2011 8:20 AM
+       Super computer can alone solve HIV vaccine ?
+
+   Page 1 of 1 (4 items)
+
+     * © 2013 Microsoft Corporation.
+     * [65]Terms of Use
+     * [66]Trademarks
+     * [67]Privacy & Cookies
+     * 5.6.426.415
+
+References
+
+   Visible links
+   1. http://blogs.technet.com/rss.aspx
+   2. file://localhost/members/msftnextauthors_4000_hotmail.com/comments/rss.aspx
+   3. file://localhost/members/msftnextauthors_4000_hotmail.com/activities/rss.aspx
+   4. file://localhost/members/msftnextauthors_4000_hotmail.com/activities/followersrss.aspx
+   5. file://localhost/members/msftnextauthors_4000_hotmail.com/activities/groupsrss.aspx
+   6. http://blogs.technet.com/b/next/rss.aspx
+   7. http://blogs.technet.com/b/next/atom.aspx
+   8. https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1380561103&rver=6.0.5286.0&wp=MBI&wreply=http:%2F%2Fblogs.technet.com%2Fb%2Fnext%2Farchive%2F2011%2F12%2F01%2Ftowards-a-vaccine-for-hiv_3a00_-microsoft-research-applies-learnings-from-spam-filtering.aspx%3FWT.mc_id%3D12_1_MSR_WorldAIDSDay_TW%26WT.tsrc%3DTwitter&lc=1033&id=271612
+   9. file://localhost/
+  10. file://localhost/Technet_Blog_Images/
+  11. file://localhost/Users/smj/Documents/Projects/Current/cs595-f13-fork/assignment3/q1/collection/269c2b5ba5df2fb6f06ef5a0426bdb1ce11efc09.raw
+  12. http://blogs.technet.com/b/next/
+  13. http://www.microsoft.com/
+  14. https://twitter.com/MSFTNext
+  15. https://twitter.com/stevecla/next
+  16. file://localhost/b/next/
+  17. file://localhost/b/next/about.aspx
+  18. mailto:?subject=Microsoft%20Research:%20How%20fighting%20email%20spam%20is%20helping%20the%20search%20for%20an%20HIV%20vaccine&body=http://blogs.technet.com/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx
+  19. file://localhost/b/next/rss.aspx
+  20. http://blogs.technet.com/b/next/archive/tags/Blended+Reality/
+  21. http://blogs.technet.com/b/next/archive/tags/Cloud/
+  22. http://blogs.technet.com/b/next/archive/tags/Data/
+  23. http://blogs.technet.com/b/next/archive/tags/Design/
+  24. http://blogs.technet.com/b/next/archive/tags/Displays/
+  25. http://blogs.technet.com/b/next/archive/tags/Downloads/
+  26. http://blogs.technet.com/b/next/archive/tags/Events/
+  27. http://blogs.technet.com/b/next/archive/tags/Featured/
+  28. http://blogs.technet.com/b/next/archive/tags/Fun/
+  29. http://blogs.technet.com/b/next/archive/tags/Future/
+  30. http://blogs.technet.com/b/next/archive/tags/Gaming/
+  31. http://blogs.technet.com/b/next/archive/tags/Hardware/
+  32. http://blogs.technet.com/b/next/archive/tags/Innovation/
+  33. http://blogs.technet.com/b/next/archive/tags/Mobile/
+  34. http://blogs.technet.com/b/next/archive/tags/NUI/
+  35. http://blogs.technet.com/b/next/archive/tags/People/
+  36. http://blogs.technet.com/b/next/archive/tags/Photography/
+  37. http://blogs.technet.com/b/next/archive/tags/Places/
+  38. http://blogs.technet.com/b/next/archive/tags/Search/
+  39. http://blogs.technet.com/b/next/archive/tags/Sensors/
+  40. http://blogs.technet.com/b/next/archive/tags/Surface/
+  41. http://blogs.technet.com/b/next/archive/tags/Things/
+  42. http://blogs.technet.com/b/next/archive/tags/Thoughts/
+  43. http://blogs.technet.com/b/next/archive/tags/Video/
+  44. http://blogs.technet.com/b/next/archive/tags/Windows/
+  45. file://localhost/
+  46. file://localhost/b/next/
+  47. file://localhost/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx
+  48. file://localhost/177275/ProfileUrlRedirect.ashx
+  49. file://localhost/Users/smj/Documents/Projects/Current/cs595-f13-fork/assignment3/q1/collection/269c2b5ba5df2fb6f06ef5a0426bdb1ce11efc09.raw#comments
+  50. http://www.youtube.com/embed/fuDlwDmPUQ4?hd=1
+  51. http://www.ragoninstitute.org/index.html
+  52. http://www.ukzn.ac.za/Homepage.aspx
+  53. https://fogartyscholars.org/sites/south-africa-caprisa
+  54. http://www.k-rith.org/
+  55. http://www.microsoft.com/presspass/exec/ds/Heckerman/default.mspx
+  56. http://mscompbio.codeplex.com/
+  57. http://research.microsoft.com/en-us/collaboration/stories/hiv_research_za.aspx
+  58. http://techme.me/CNk7
+  59. http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fblogs.technet.com%2fb%2fnext%2farchive%2f2011%2f12%2f01%2ftowards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx&layout=standard&show_faces=True&width=450&action=like&font&colorscheme=light&height=30
+  60. http://twitter.com/share
+  61. file://localhost/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx#comments
+  62. http://blogs.technet.com/b/next/archive/tags/Featured/
+  63. http://blogs.technet.com/b/next/archive/tags/Future/
+  64. http://statcounter.com/free-hit-counter/
+  65. http://technet.microsoft.com/cc300389
+  66. http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx
+  67. http://go.microsoft.com/fwlink/?LinkId=248681
+
+   Hidden links:
+  68. file://localhost/
+  69. http://apps.microsoft.com/windows/en-US/app/next-at-microsoft/d284efbd-33a5-4427-af92-9bb9fcbbc57e
+  70. file://localhost/177275/ProfileUrlRedirect.ashx
+  71. file://localhost/C:/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73/5483.heckerman1_5F00_lg.jpg
+  72. http://www.omniture.com/

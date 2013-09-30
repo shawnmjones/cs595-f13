@@ -1,0 +1,386 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+		<title>Donate | Doctors Without Borders</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<link href="/styles/msf_layout.css" rel="stylesheet" type="text/css" />
+	<!--[if IE]>
+	<link href="/styles/msf_layout_ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if lt IE 7]>
+	<script type="text/javascript">
+	sfHover = function() {
+		var sfEls = document.getElementById("primary").getElementsByTagName("LI");
+		for (var i=0; i<sfEls.length; i++) {
+			sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+			}
+			sfEls[i].onmouseout=function() {
+				this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+			}
+		}
+	}
+	if (window.attachEvent) window.attachEvent("onload", sfHover);
+	</script>   
+	<![endif]-->	
+	<script type="text/javascript">
+		image1 = new Image();
+		image1.src = "/images/global/headerbg.gif";
+	</script>
+	<script type="text/javascript" src="/js/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="/js/formFunctions.js"></script>
+	<script type="text/javascript" src="/js/winpop.js"></script>
+	<script type="text/javascript" src="/js/swfobject.js"></script>
+  <script type="text/javascript" src="/js/smoothscroll.js"></script>
+	<script type="text/javascript" src="/js/clientside.moo.v1.1.packed.js"></script>
+  
+	<link rel="alternate" title="Doctors Without Borders RSS" href="http://feeds.feedburner.com/DoctorsWithoutBordersNews" type="application/rss+xml" />
+  <meta property="fb:admins" content="1301813852" />
+
+
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-3903043-1']);
+		  _gaq.push(['_setDomainName', 'doctorswithoutborders.org']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	</head>
+<body>
+<div id="pageContainer">
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+<table id="pageHeaderTableMain" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td id="pageHeaderTable"><a href="/"><img src="/images/global/msf-logo-header.jpg" width="209" height="70" id="pageHeaderLogo" alt="MSF" /></a><table id="pageHeaderTopNav" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+		<td  class="MenuLink" align="left" width="100%" height="21"><img height="1" src="/images/global2/none.gif" width="100%" /></td>
+		<td valign="center" class="MenuLink" nowrap="nowrap" align="left" height="21"></td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/">Home</a></td>
+		<td class="MenuLink" valign="center" nowrap="nowrap" align="left" height="21" style="color:#CCCCCC;">&nbsp;|&nbsp;</td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/map.cfm">Site Map</a></td>
+		<td class="MenuLink" nowrap="nowrap" align="left" height="21" style="color:#CCCCCC;">&nbsp;|&nbsp;</td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/contact/">Contact Us</a></td>
+		<td class="MenuLink" nowrap="nowrap" align="left" height="21" style="color:#CCCCCC;">&nbsp;|&nbsp;</td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/socialmedia/">Social Media</a></td>
+		<td class="MenuLink" nowrap="nowrap" align="left" height="21" style="color:#CCCCCC;">&nbsp;|&nbsp;</td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/offices/">MSF Offices</a></td>
+		<td class="MenuLink" nowrap="nowrap" align="left" height="21" style="color:#CCCCCC;">&nbsp;|&nbsp;</td>
+		<td nowrap="nowrap" align="left" height="21"><a class="MenuLink" href="/rss/"><img src="/images/global/icon_pod.gif" border="0" alt="xml" /></a></td>
+		<td nowrap="nowrap">&nbsp;</td>
+  </tr>
+</table>
+<div id="headerPhoto"><a href="/" target="_blank"><img src="/images/headers/black.gif" width="509" height="66" id="" alt="" /></a></div> </td>
+	</tr>
+</table>
+
+<div style="visibility:hidden;">
+	<iframe src="https://secure.img-cdn.mediaplex.com/0/18349/universal.html?page_name=msf_retargeting_pixel&MSF_Retargeting=1&mpuid=" HEIGHT="0" WIDTH="0" FRAMEBORDER="0"></iframe>
+</div>
+
+
+
+<div id="primary" >
+<ul>
+	<li></li>
+	<li><a href="/aboutus/index.cfm?ref=main-menu">About Us</a>
+	   <ul>
+	      <li class="first"><a href="/aboutus/?ref=main-menu-about">History &amp; Principles</a></li>
+        <li><a href="/aboutus/impact.cfm?ref=main-menu-about">Impact</a></li>
+        
+        <li><a href="/publications/ar/?ref=main-menu-about">Annual Report</a></li>
+        <li><a href="/donate/info.cfm?ref=main-menu-about">Financial Information</a></li>
+        <li><a href="/aboutus/usboards.cfm?ref=main-menu-about">MSF Leadership</a></li>
+        <li><a href="/offices/?ref=main-menu-about">Offices</a></li>
+        <li class="last"><a href="/aboutus/books-films.cfm?ref=main-menu-about">Books &amp; Films About MSF</a></li>
+         
+         </ul>
+	   </li>
+	<li><a href="/aboutus/activities.cfm?ref=main-menu-ourwork">Our Work</a>
+	   <ul>
+      <li class="first"><a href="/aboutus/activities.cfm?ref=main-menu-ourwork">How We Work</a></li>
+			<li><a href="/aboutus/map.cfm?ref=main-menu-ourwork">Where We Work</a></li>
+			<li><a href="/news/issues.cfm?ref=main-menu-ourwork">Medical Issues</a></li>
+			<li><a href="/news/?ref=main-menu-ourwork">Stories From the Field</a></li>
+			
+			<li><a href="/news/multimedia.cfm?ref=main-menu-ourwork">Multimedia</a></li>
+			<li><a href="/news/blogs.cfm?ref=main-menu-ourwork">Aid Worker Blogs</a></li>
+			<li><a href="/publications/?ref=main-menu-ourwork">Publications</a></li>
+			<li><a href="/publications/research/?ref=main-menu-ourwork">Medical Research</a></li>
+			<li class="last"><a href="/press/coverage.cfm?ref=main-menu-ourwork">MSF in the News</a></li>
+		 </ul>
+   </li>
+	<li><a href="/work/index.cfm?ref=main-menu">Work With MSF</a>
+   	<ul>
+			<li class="first"><a href="/work/field/?ref=main-menu">Work in the Field</a></li>
+			<li><a href="/work/office/employment.cfm?ref=main-menu">Office Employment</a></li>
+			<li><a href="/work/office/internships.cfm?ref=main-menu">Office Internships</a></li>
+			<li class="last"><a href="/work/office/volunteer.cfm?ref=main-menu">Office Volunteer</a></li>
+		</ul>
+   </li>
+	<li><a href="/donate/overview.cfm?ref=main-menu" class = "active">Donate</a>
+   	<ul>
+			<li class="first"><a href="https://www.doctorswithoutborders.org/donate/onetime.cfm?">One-time Donation</a></li>
+			<li><a href="https://www.doctorswithoutborders.org/donate/monthly.cfm?">Monthly Giving</a></li>
+			<li><a href="https://www.doctorswithoutborders.org/donate/tribute.cfm?">E-cards &amp; Tributes</a></li>
+			<li><a href="http://events.doctorswithoutborders.org">Plan a Fundraiser</a></li>
+			<li><a href="/donate/stock/?ref=main-menu-donate">Stock Gifts</a></li>
+			<li><a href="/donate/planned/?ref=main-menu-donate">Bequests and Gift Annuities</a></li>
+      <li><a href="/donate/other_ways.cfm?ref=main-menu-donate">Other Ways to Give</a></li>
+      <li><a href="/donate/info.cfm?ref=main-menu-donate">Financial Information</a></li>
+			<li class="last"><a href="/donate/faq/?ref=main-menu-donate">Donation FAQ</a></li>
+			
+		</ul>
+   </li>
+	<li><a href="/events/index.cfm?ref=main-menu">Public Events</a>
+   	<ul>
+			<li class="first"><a href="/events/public/?ref=main-menu">Upcoming Events</a></li>
+			<li><a href="/events/public/archive.cfm?ref=main-menu">Event Archive</a></li>
+			<li><a href="/events/speakers/?ref=main-menu">Request a Speaker</a></li>
+			<li class="last"><a href="/events/symposiums/?ref=main-menu">Symposiums</a></li>
+		</ul>
+   </li>
+	<li><a href="/publications/index.cfm?ref=main-menu">Publications</a>
+   	<ul>
+			<li class="first"><a href="/alert/?ref=main-menu">Alert Quarterly</a></li>
+			<li><a href="/publications/ar/?ref=main-menu">Annual Reports</a></li>
+			<li><a href="/publications/reports/?ref=main-menu">Special Reports</a></li>
+			<li><a href="/publications/reports/?catid=82&ref=main-menu">Briefing Documents</a></li>
+			<li><a href="/publications/research/?ref=main-menu">Research Articles</a></li>
+			<li><a href="/publications/opedsarticles/?ref=main-menu">Op-eds &amp; Articles</a></li>
+			<li><a href="/publications/speeches/?ref=main-menu">Speeches &amp; Open Letters</a></li>
+			<li><a href="/publications/transcripts/?ref=main-menu">Transcripts</a></li>
+			<li><a href="/publications/ideas/?ref=main-menu">MSF Ideas &amp; Opinions</a></li>
+      <li><a href="/aboutus/books-films.cfm?ref=main-menu-publications">Books &amp; Films About MSF</a></li>
+			<li class="last"><a href="/publications/bookstore/?ref=main-menu">MSF Reference Books</a></li>
+		</ul>
+   </li>
+	<li><a href="/press/index.cfm?ref=main-menu" style="border-right: 1px solid #000; padding-right: 14px;">Press Room</a>
+		<ul>
+			<li class="first"><a href="/press/index.cfm?ref=main-menu">Media Contact</a></li>
+			<li><a href="/press/releases.cfm?ref=main-menu">Press Releases</a></li>
+			<li class="last"><a href="/press/coverage.cfm?ref=main-menu">MSF in the News</a></li>
+		</ul>
+   </li>
+   <li class="search">
+		<form action="/search.cfm?ref=main-menu" id="searchbox_010337337539629337583:-83fbtvg-f0">
+			<input type="hidden" name="cx" value="010337337539629337583:-83fbtvg-f0" />
+			<input type="hidden" name="cof" value="FORID:11" />
+			<input value="Search" id="sp-q" class="textbox" type="text" name="q" size="25" onfocus="javascript:this.value='';" />
+			<input type="image" name="sa" id="search-button" src="/images/global2/arrow.gif" value="Go">
+			<!--<input type="submit" name="sa" value="GO" /> -->
+		</form> 
+   </li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+<table border="0" cellpadding="0" cellspacing="0" id="pageTable">
+	<tr>
+		<td valign="top"> 
+			<div id="pageContent" class="donation_pages">
+                <!-- BEIGN NEW PAGE OCNTENT -->
+                
+                <h1>SUPPORT OUR WORK</h1>
+                <hr color="#fe0000" size="1" width="529px" align="left" />
+                <h2>Choose Your Donation Type:</h2>
+                <div class="top_tabs">
+                    <a href="onetime.cfm"><img src="images/tab_one_time.jpg" class="top_tab_rightpad" /></a>
+                    <a href="monthly.cfm"><img src="images/tab_monthly.jpg" style="margin-right: 20px;" /></a>
+                    <a href="tribute.cfm"><img src="images/tab_tribute.jpg" /></a>
+                </div>
+                
+                Doctors Without Borders relies on public support for two vital reasons:
+                <ul>
+                    <li>To ensure the freedom to provide humanitarian assistance whenever and wherever it is needed.
+                    </li><li>To remain independent from political, religious and economic interests.
+                    </li>
+                </ul>
+                Thank you for considering supporting our work. Your contribution is absolutely vital.
+                Without public support, the valuable work of Doctors Without Borders Field Staff would be impossible. Just as importantly, your support demonstrates solidarity with the people Doctors Without Borders helps.
+                <br /><br />
+                By making a regular monthly donation and becoming a Doctors Without Borders Field Partner, your support can guarantee ongoing, regular income which is one of the most effective ways for us to plan our operations and respond quickly to emergencies while remaining flexible and independent. 
+                <br /><br />
+                You can support our work by donating online today, or call our office<br />at (212) 763-5779.
+                <br /><br />
+                <h3>Help us provide medical care to men, women and children around the world:</h3>
+                <br />
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_1.jpg" border="0" />
+                    <br />
+                    <small>Niger 2010. &copy; Claude Mahoudeau</small>
+                    <div class="purchase_text">
+                        <span class="red_amount">$15</span>
+                        <span class="grey">A MONTH</span>
+                        <br />
+                        can purchase an 11-day supply of ready-to-use food (RUTF) to treat a malnourished child.
+                    </div>
+                </div>
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_2.jpg" border="0" />
+                    <br />
+                    <small>Meningitis vaccination in Chad 2009. &copy; Natacha Buhler/MSF</small>
+                    <div class="purchase_text" style="margin-top:16px !important;">
+                    	<span class="red_amount">$35</span>
+                    	<br />
+                    	can purchase enough measles vaccine to inoculate 35 people.
+                    </div>
+                </div>
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_3.jpg" border="0" />
+                    <small>Haiti 2010. &copy; Nicola Vigilante</small>
+                    <div class="purchase_text">
+                    	<span class="red_amount">$60</span>
+                    	<span class="grey">A MONTH</span>
+                    	<br />
+                    	can purchase 2 surgical kits containing essential instruments to carry out emergency examinations and basic surgery in the field.
+                    </div>
+                </div>
+                
+                <br />
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_4.jpg" border="0" />
+                    <br />
+                    <small>Chad 2007. &copy; Tim Dirvin</small>
+                    <br />
+                    <div class="purchase_text">
+                    	<span class="red_amount">$75</span>
+                    	<br />
+                    	can purchase equipment to chlorinate enough water to provide 1,330 people with 20 gallons of clean water per day for 7 days.
+                    </div>
+                </div>
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_5.jpg" border="0" />
+                    <br />
+                    <small>Swaziland 2011. &copy; Pierre-Yves</small>
+                    <div class="purchase_text">
+                    	<span class="red_amount">$100</span>
+                    	<br />
+                    	can purchase 70 rapid diagnostic tests for HIV.
+                    </div>
+                </div>
+                
+                <div class="bottom_tab">
+                    <img src="images/bottom_tab_6.jpg" border="0" />
+                    <br />
+                    <small>Peru 2007. &copy; Jodi Hilton-Corbis</small>
+                    <div class="purchase_text">
+                    	<span class="red_amount">$500</span>
+                    	<br />
+                    	can purchase enough amoxicillin to treat a respiratory infection in 650 children.
+                    </div>
+                </div>
+                
+            </div>
+			<!-- END NEW PAE CONTENT, there are some changes to the sidebar below -->
+		</td>
+        	<!-- NEW SIDEBAR CONTENT -->
+		<td valign="top" style="width:165px !important; text-align:left; border-left:#333 1px solid;">
+		
+            <div class="sidebarContent" style="margin-left:2px;" >
+            
+            <img src="images/icons_phone.jpg" /><div class="icon_title">Donate by Phone</div><div class="icon_small" style="font-size: 10px;">call <strong>888-392-0392</strong></div>
+            
+            <hr color="#ccc" size="1" width="130px" align="center" />
+            
+            <a href="https://www.doctorswithoutborders.org/donate/bymail/"><img src="images/icons_mail.jpg" /><div class="icon_title">Donate by Mail</div><div class="icon_small">print a donation form</div></a>
+            
+            <hr color="#ccc" size="1" width="130px" align="center" />
+            
+            <a href="https://www.doctorswithoutborders.org/donate/other_ways.cfm"><img src="images/icons_other_ways.jpg" /><div class="icon_title">Other ways to give</div><div class="icon_small">more donation options</div></a>
+            
+            <hr color="#ccc" size="1" width="130px" align="center" />
+            
+            <a href="https://www.doctorswithoutborders.org/donate/info.cfm"><img src="images/icons_financial.jpg" /><div class="icon_title">Financial Info</div><div class="icon_small">how msf manages funds</div></a>
+            
+            <hr color="#ccc" size="1" width="130px" align="center" />
+            
+            <a href="https://www.doctorswithoutborders.org/donate/donorcommitment.cfm"><img src="images/icons_supporter.jpg" /><div class="icon_title">Supporter commitment</div><div class="icon_small">our promise to you</div></a>
+            
+            <hr color="#ccc" size="1" width="130px" align="center" />
+            
+            <a href="https://www.doctorswithoutborders.org/donate/faq/"><img src="images/icons_faq.jpg" /><div class="icon_title">Have a question?</div><div class="icon_small">faqs</div></a>
+            <br /><br />
+			
+		<a href="https://www.doctorswithoutborders.org/donate/info.cfm"><img height="294" width="150" alt="Our Financial Information" src="images/funds_pie.jpg" /></a>
+       
+ 			 <!-- END NEW SIDEBAR CONTENT -->  
+     
+    </div>
+
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			
+<div id="pageFooter">
+   <p class="footerLinks">
+     <a href="/aboutus/?ref=nav-footer">About Us</a> |
+     <a href="/news/?ref=nav-footer">Field News</a> |
+     <a href="/contact/?ref=nav-footer">Contact Us</a> | 
+     <a href="/donate/?ref=nav-footer">Donate</a> | 
+     <a href="/offices/?ref=nav-footer">MSF Offices Worldwide</a>
+   </p>
+   <p>This site is maintained by the U.S. section of Doctors Without Borders/M&eacute;decins Sans Fronti&egrave;res (MSF), an international independent medical humanitarian organization that delivers emergency aid to people affected by armed conflict, epidemics, natural and man-made disasters, and exclusion from health care. &copy; 2013 MSF All rights reserved.</p>
+   <p>Doctors Without Borders is approved by the Internal Revenue Service as a 501 (C) (3) tax-exempt organization, and all donations are tax deductible to the extent provided by law. Doctors Without Borders Federal Identification Number (EIN) is 13-3433452. </p>
+   <p class="footerLinks" style="margin-top: 13px;">
+     <a href="http://association.doctorswithoutborders.org?ref=nav-footer">MSF-USA Association</a> | 
+     <a href="/copyright.cfm?ref=nav-footer">Copyright Statement</a> | 
+		<a href="/privacy.cfm?ref=nav-footer">Privacy Policy</a>
+   </p>
+   <p>333 7th Avenue, New York, NY  10001-5004. Phone: 212-679-6800</p>
+</div>
+
+
+
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script src="/js/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(22132,0.1);
+</script>
+
+
+
+<!-- Google Code for Main List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 954403982;
+var google_conversion_label = "-hN-CNqcsQQQjpmMxwM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954403982/?value=0&amp;label=-hN-CNqcsQQQjpmMxwM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+ 
+		</td>
+	</tr>
+</table>
+</div>
+<!-- web2 |  -->
+</body>
+</html>

@@ -1,0 +1,649 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Home | MentalHealth.gov</title>
+    <meta http-equiv="Content-Type" content="text/xhtml; charset=UTF-8" />
+	<meta name="author" content="ASPA" />
+	    <meta name="description" content="MentalHealth.gov shares mental health content from across HHS, including signs of mental health problems, ways to talk about it, and getting help." />
+		<meta name="dc.title" content="Home" />
+	<meta name="dc.creator" content="ASPA" />
+	<meta name="dc.description" content="MentalHealth.gov shares mental health content from across HHS, including signs of mental health problems, ways to talk about it, and getting help." />
+	<meta name="dc.language" content="en-us" />
+	<meta name="dc.publisher" content="Department of Health and Human Services" />
+	<meta name="dc.date" content="2012-07-31" />
+	<meta name="DCTERMS.dateCreated" content="2012-07-31 00:00:00.0" />
+	<meta name="DC.date.reviewed" content="2012-07-31 00:00:00.0" />
+	<meta name="DCTERMS.dateModified" content="2012-07-31 00:00:00.0" />
+	<meta content="709" name="ContentID" />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta content="Percussion CM System" name="generator"/>
+<meta name="perc_linkback" id="perc_linkback" content="FmJlbHgHZGZmeAFgYG14BmZlY3gTYmVg"/>	<!--[if gte IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css/ie8.css?date=130924165932" />
+<![endif]-->
+     
+    <link rel="image_src" href="http://www.mentalhealth.gov/mental-health-gov.png"/>
+	 
+	<link rel="canonical" href="http://www.mentalhealth.gov/index.html" />
+
+	<link href="/css/widget.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/videos.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/main.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/basic_page.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/addthis.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/voc.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/css/hub.css?date=130924165932" rel="stylesheet" type="text/css" media="screen" />	
+	<link href="/css/mobile.css?date=130924165932" rel="stylesheet" type="text/css" media="screen   and (max-width: 40.5em)" />
+	<link href="/css/ipad.css?date=130924165932" rel="stylesheet" type="text/css" />
+	<!--[if gte IE 7]>
+	<style type="text/css">
+		/* this is not the way to do this */
+		#globalNav ul li span.lead_snippet a.titlelink { color: #000 !important; }
+		#globalNav ul li span.lead_snippet a.titlelink:hover { color: #000 !important; text-decoration: underline !important;  }
+	</style>
+	<![endif]-->	
+	<script type="text/javascript">
+		var rxs_navbase = "";
+	</script>
+		<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+
+	<script type="text/javascript" src="/js/widget.js"></script>
+	<script type="text/javascript" src="/js/carousel.js"></script>
+	<script type="text/javascript" src="/js/billboard_rotator.js"></script>
+	<script type="text/javascript" src="/js/main.js"></script>
+	<script type="text/javascript" src="/js/addthis.js"></script>
+		<script type="text/javascript" src="/js/cookie.js"></script>
+	<script type="text/javascript" src="/js/print.js"></script>
+	
+		
+			<meta name="google-site-verification" content="op-IJCocvVrddzIXQuEkpcc8yFRIzf5wtj7A-j2qlsU" />
+		<meta name="msvalidate.01" content="A75A4BF948ABB2684F3C5DFE608ED9A2" />	
+		
+	</head>
+	
+		<body>
+		
+
+<!-- Google Tag Manager -->
+      <noscript><iframe src="http://www.mentalhealth.gov//www.googletagmanager.com/ns.html?id=GTM-38QR"
+      height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript>
+      <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-38QR');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--the main container is the outer wrapper of the entire page, and will be centered in the browser window.  -->
+
+<div id="wrapper" class="cf">
+      <div id="Global">
+    <div id="ShadowGlobal"> 
+          <!-- begin main content--> 
+          
+     <div id="skipmenu">
+		
+		<a href="#skip"  class="skippy">Skip	Navigation</a></div>
+		<a name="top"></a>
+          <div id="mainGlobalContainer" class="cf" >
+			
+			<!-- Start Date
+        <div id="date" >
+              <ul>
+            <li><img src="/images/sys_images/usaflag.jpg" alt="USA Flag Icon" width="20" height="13" /> </li>
+            <li> <script type="text/javascript">
+			var d = new Date();
+        	var weekday = new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
+        	var monthname = new Array("January"," February","March","April","May","June","July","August","September","October","November","December");
+        	
+        	document.write(monthname[d.getMonth()] + " ");
+        	document.write(d.getDate() + ", ");
+        	document.write(d.getFullYear());</script> 
+			</li>
+          </ul>
+		</div>-->
+        <!-- end date -->
+		
+		
+		<div id="globalNav">
+				<ul><li>
+    <span class="lead_snippet">
+	<a href="http://www.mentalhealth.gov/index.html" class="titlelink">
+	  Home	</a>
+    </span>
+  </li><li>
+    <span class="lead_snippet">
+	<a href="http://www.mentalhealth.gov/news/index.html" class="titlelink">
+	  Newsroom	</a>
+    </span>
+  </li><li>
+    <span class="lead_snippet">
+	<a href="http://www.mentalhealth.gov/connect/index.html" class="titlelink">
+	  Connect	</a>
+    </span>
+  </li></ul>		
+			</div>		
+		
+     
+            <!--  <ul>
+            <li> <a href="#home" title="home" >Home</a> </li>
+            <li> <a href="#newsroom" title="Newsroom" > Newsroom </a> </li>
+            <li> <a href="#videos" title="Videos" >Videos</a> </li>
+            <li> <a href="#resources" title="Resources" > Resources</a> </li>
+            <li> <a href="#policies" title="Policies" > Regulations &amp; Policies</a> </li>
+			</ul>-->
+           
+        <!-- end globalNav--> 
+        
+      </div>
+          <!-- end Main Global Container--> 
+          
+
+    
+    <!-- star mainHeader--> 
+  
+    <div id="mainHeaderContainer" class="cf" >
+		
+      <div>
+        <h1><a href="http://www.mentalhealth.gov/index.html" title="home" class="logo">www.mentalhealth.gov</a></h1>
+      </div> 
+          
+          <div id="searchContainer" class="cf" >
+        <ul>
+              <li>
+              <form style="display: inline;" action="http://search.mentalhealth.gov/search" method="get" name="mentalhealth" id="gs">
+            <label style="display: none;" for="searchbox">Search mentalhealth.gov</label>
+            <input id="searchbox" type="text" name="q" size="32" maxlength="" placeholder="Enter keywords here..." autofocus="autofocus"  />
+            
+            <!--<input id="searchButton" type="image" alt="search" src="/images/sys_images//home_search.png"/>-->
+            <input id="searchButton" type="submit"  value="Submit" />
+            <input name="site" value="mentalhealth" type="hidden"/>
+            <input name="client" value="mentalhealth" type="hidden"/>
+            <input name="proxystylesheet" value="mentalhealth" type="hidden"/>
+            <input name="proxyreload" value="1" type="hidden"/>
+            <input name="lr" value="lang_en" type="hidden"/>
+            <input name="oe" value="UTF-8" type="hidden"/>
+            <input name="ie" value="UTF-8" type="hidden"/>
+            <input name="output" value="xml_no_dtd" type="hidden"/>
+            <input name="sort" value="date:D:L:d1" type="hidden"/>
+            <input name="ud" value="1" type="hidden"/>
+            <input name="entqr" value="3" type="hidden"/>
+              </form>
+              </li>
+            </ul>
+      </div>
+        </div>
+  
+    <!-- end main header--> 
+    <!-- mobile menu toggle-->
+    
+    <div id="toggle">
+          <ul class="cf" >
+        
+        <li class="menuToggle"><a href="#">Menu</a></li>
+        <li  class="searchToggle"><a href="#">Search</a></li>
+      </ul>
+        </div>
+    
+    
+       <!-- start billboard container-->
+  		<div id="billboardContainer" class="cf">
+			<div> 
+				<!-- start billboard left-->
+					<div id='billboard_left_column'><div>
+<p><a href="http://www.mentalhealth.gov/get-help/veterans/index.html"><img alt="" src="/images/billboard/mh-veterans.jpg" /></a></p>  </div><div>
+<p><a href="http://storify.com/MentalHealthGov/community-conversation-kansas-city"><img alt="Members of the Kansas City community come together for a conversation on mental health." src="/images/billboard/Community-Conversation-2.jpg" /></a></p>  </div><div>
+<a href="http://www.mentalhealth.gov/basics/myths-facts/index.html"><img alt="Myths and Facts. Get the facts. Use your knowledge to educate others. Reach out to help others. Learn more." border="0" src="/images/billboard/Billboard2.png" /></a>  </div><div>
+<p><a href="http://www.ok2talk.org" target="_blank"><img alt="Help for Young People. National Association of Broadcasters launches mental health campaign." src="/images/billboard/billboard-mh-nab.jpg" /></a></p>  </div></div>			
+				<!-- end billboard left-->	
+	                <div id='billboard_right_column'>
+<div id="billboard_features"><img alt="Features" src="/images/features_bg.gif" /></div>  <div id='billboard_links'><ul><li><a href='#' class='billboard_highlight'>
+Veterans  </a></li><li><a href='#' >
+K.C. Conversation  </a></li><li><a href='#' >
+Myths &amp; Facts  </a></li><li><a href='#' >
+Help for Youth  </a></li></ul></div>			</div>	
+			</div>
+			  </div>
+			  
+		 
+      
+     
+     <!-- end shadow global for IE shadow  hack--> 
+      <div id="ShadowGlobalInner"></div>
+    </div>
+    <!-- end global for IE shadow  hack-->
+
+
+<!-- start mainNav-->
+<div id="siteNavContainer"  class="cf" >
+      <div id="leftCorner"></div>
+      <div id="siteNav" class="cf"  >
+    <div>
+		
+			<ul id='siteNavToggle' class='cf'>
+
+
+
+
+
+	
+		
+
+	
+
+     		
+	
+		
+
+	
+
+     			 
+   
+	<li class="">
+		<div class="nav_item_box">
+		<a href="http://www.mentalhealth.gov/basics/index.html" id="nav_item1" class="nav_item">
+			Basics
+		</a></div>
+		
+			<ul>
+										
+								<li >	
+			<a href="http://www.mentalhealth.gov/basics/what-is-mental-health/index.html">What is Mental Health</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/basics/myths-facts/index.html">Myths and Facts</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/basics/recovery/index.html">Recovery is Possible</a>
+		</li>		
+			</ul>
+			</li>
+	
+	
+		
+
+	
+
+     			 
+   
+	<li class="">
+		<div class="nav_item_box">
+		<a href="http://www.mentalhealth.gov/what-to-look-for/index.html" id="nav_item2" class="nav_item">
+			What To Look For
+		</a></div>
+		
+			<ul>
+										
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/anxiety-disorders/index.html">Anxiety Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/eating-disorders/index.html">Eating Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/substance-abuse/index.html">Mental Health and Substance Use Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/mood-disorders/index.html">Mood Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/personality-disorders/index.html">Personality Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/psychotic-disorders/index.html">Psychotic Disorders</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/what-to-look-for/suicidal-behavior/index.html">Suicidal Behavior</a>
+		</li>		
+			</ul>
+			</li>
+	
+	
+		
+
+	
+
+     			 
+   
+	<li class="">
+		<div class="nav_item_box">
+		<a href="http://www.mentalhealth.gov/talk/index.html" id="nav_item3" class="nav_item">
+			Talk About Mental Health
+		</a></div>
+		
+			<ul>
+										
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/people-with-mental-health-problems/index.html">For People with Mental Health Problems</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/young-people/index.html">For Young People Looking for Help</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/parents-caregivers/index.html">For Parents and Caregivers</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/friends-family-members/index.html">For Friends and Family Members</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/educators/index.html">For Educators</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/community-conversation/index.html">Conversations in Your Community</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/talk/recovery/index.html">Stories of Hope and Recovery</a>
+		</li>		
+			</ul>
+			</li>
+	
+	
+		
+
+	
+
+     			 
+   
+	<li class="">
+		<div class="nav_item_box">
+		<a href="http://www.mentalhealth.gov/get-help/index.html" id="nav_item4" class="nav_item">
+			How To Get Help
+		</a></div>
+		
+			<ul>
+										
+								<li >	
+			<a href="http://www.mentalhealth.gov/get-help/immediate-help/index.html">Get Immediate Help</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/get-help/veterans/index.html">Help for Veterans and Their Families</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/get-help/health-insurance/index.html">Health Insurance and Mental Health Services</a>
+		</li>		
+							
+								<li >	
+			<a href="http://www.mentalhealth.gov/get-help/clinical-trial/index.html">Participate in a Clinical Trial</a>
+		</li>		
+			</ul>
+			</li>
+	
+	
+		
+
+	
+
+     		
+	
+		
+
+	
+
+     		
+	
+		
+
+	
+
+     		
+</ul>       
+        </div>
+   <!--- IE shadow hack-->
+    <div id="siteNavShadow"></div>
+  </div>
+      <div id="rightCorner"></div>
+    </div>
+    
+    <!-- end main nav-->
+	   	
+
+<!-- start mobile billboard-->
+<div id="billboardMobile">
+	<div id='billboardMobileContainer'>
+<p><a href="http://www.mentalhealth.gov/news/index.html"><img alt="National Dialogue on Mental Health" border="0" src="/images/billboard/mhgov_billboard_mobile_o1.jpg" /></a></p>  </div>	
+</div>
+<!-- end mobile billboard--> 
+	<!-- start Maincontent-->
+
+	
+<div id="mainContent"  class="cf">
+		
+					<div id="maincontentContainerHome" class="cf"> 
+				
+						<div id="page_content_container_homepage">
+				<a name="skip"  tabindex="-1"></a>	
+				
+	
+			
+<!-- start bully_homepage --><!-- start left column-->
+    <div id="mainContent_leftColumn" class="cf" > 
+          <!-- start featured header-->
+                        	<div id="get_immediate_help_home">
+						<a href="/get-help/immediate-help/index.html" class="gihhlink"><img title="Get Immediate Help" src="/images/gethelp.png" alt="Get Immediate Help" /></a>
+				   </div>
+          <div id="featured" class="cf">
+        <ul>
+              <li>
+              
+             <h1>
+<img alt="Featured Topics" src="/images/featured_topics.gif" /></h1>          </li>
+            </ul>
+      </div>
+          <!-- end featured header--> 
+          <!-- start featured articles-->
+          <div id="featured_articles" class="cf">
+        
+			
+		<!-- start-template: HomePageHighlightTemplate -->
+			<ul class="cf">
+			<li>
+<p><a href="http://www.mentalhealth.gov/get-help/health-insurance/index.html"><img alt="Learn about health insurance and mental health services" src="/images/featured_topics/mental-health-thumbnail.png" title="Learn about health insurance and mental health services" /></a></p></li>				
+			<li class='content'>
+<h2><a href="http://www.mentalhealth.gov/get-help/health-insurance/index.html">Health Insurance</a></h2><p>The Affordable Care Act will provide one of the largest expansions of mental health and substance use disorder coverage in a generation. Open Enrollment in the Health Insurance Marketplace begins in October 2013: <a href="http://www.healthcare.gov/">Learn more and get ready!</a></p></li>			
+			</ul>
+	
+		<!-- end-template: HomePageHighlightTemplate -->
+	
+		<!-- start-template: HomePageHighlightTemplate -->
+			<ul class="cf">
+			<li>
+<p><a href="http://www.mentalhealth.gov/what-to-look-for/suicidal-behavior/index.html"><img alt="Learn about the warning signs of suicide and where to get help." src="/images/featured_topics/suicide-prevention-thumb.jpg" title="Learn about the warning signs of suicide and where to get help." /></a></p></li>				
+			<li class='content'>
+<h2><a href="http://www.mentalhealth.gov/what-to-look-for/suicidal-behavior/index.html">Suicide Prevention</a></h2><p>On average, 100 Americans die by suicide each day. Learn about the warning signs of suicide and where to get help.</p></li>			
+			</ul>
+	
+		<!-- end-template: HomePageHighlightTemplate -->
+	
+		<!-- start-template: HomePageHighlightTemplate -->
+			<ul class="cf">
+			<li>
+<p><a href="/what-to-look-for/mood-disorders/depression/index.html"><img alt="Learn more about depression" src="/images/featured_topics/featured_topic_thumbnail_image2.JPG" title="Learn more about depression" /></a></p></li>				
+			<li class='content'>
+<h2><a href="/what-to-look-for/mood-disorders/depression/index.html">Depression</a></h2><p>Depression is more than just a feeling of being "down in the dumps" or "blue" for a few days.</p></li>			
+			</ul>
+	
+		<!-- end-template: HomePageHighlightTemplate -->
+	
+		<!-- start-template: HomePageHighlightTemplate -->
+			<ul class="cf">
+			<li>
+<p><a href="http://www.mentalhealth.gov/connect/index.html"><img alt="Join the conversation and talk about mental health" src="/images/featured_topics/featured_topic_thumbnail_image4.jpg" title="Join the conversation and talk about mental health" /></a></p></li>				
+			<li class='content'>
+<h2><a href="http://www.mentalhealth.gov/connect/index.html">Show You Care. Connect and Share</a></h2><p>Join the conversation and talk about mental health.</p></li>			
+			</ul>
+	
+		<!-- end-template: HomePageHighlightTemplate -->
+				<ul class="fakeline" style="margin: -10px 0px;"></ul>			
+
+
+				                                              		
+			 			  
+			  
+                   
+      </div>
+          
+          <!-- end featured articles --> 
+          <div id="videos" class="cf">
+		  
+            <ul><li>
+<img alt="Latest Videos" src="/images/latest_videos.gif" /></li>		    <li class="last">
+<a href="http://www.mentalhealth.gov/talk/recovery/index.html"><em>See all videos →</em></a></li></ul>          </div>
+          
+			<div id="carouselContainer" class="cf">
+			 <iframe width="550" height="400" title="YouTube Embedded Video Playlist: Voices of Recovery" src="http://www.youtube.com/embed/?listType=playlist&list=PLrl7E8KABz1GOyx_HDSqmwfrq8j_THXgg&showinfo=1" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+       </div>
+    
+    <!-- end left column-->
+    <div id="mainContent_rightColum" class="cf"> 
+	<!-- start News-->
+          
+       <!--   <div id="news"  class="cf">
+        <ul  class="cf">
+              <li></li>
+              <li>
+            <h1>FEATURE</h1>
+          </li>
+            </ul>
+	   </div>->
+          
+     <!-- end news--> 
+          
+          <!-- start news feeds-->
+          <div id="news_feeds"  class="cf">
+																					<ul><li>
+<div id="getimmediatehelp"><a href="http://www.mentalhealth.gov/get-help/immediate-help/index.html"><img alt="Get Immediate Help" border="0" height="71" src="/images/gethelp.png" width="261" /></a></div><li><li>
+<div id="treatmentfinder"><img alt="Treatment Locator widget" src="/images/widget-bg.png" usemap="#treatmentlocator" /> <div style=" z-index: 9999; margin-top: -205px;"><div class="content"><strong>MentalHealth.gov</strong> <p style=" margin-top: 15px;">Find information about mental health services and resources in your area. You can search by state or zip code.</p><label for="clinic_search_address" style=" display: none;">Enter Zip Code</label> <input class="input" id="clinic_search_address" onclick="this.value=''" type="text" value="Enter Zip Code" /> <input alt="Go" onclick="parent.location.href=goTreatmentFinder();" src="/images/GoBtn-MHWidget.png" style=" vertical-align: bottom;" type="image" /><map id="treatmentlocator" name="treatmentlocator"><area alt="add this to your website" coords="30,205,170,233" href="http://www.mentalhealth.gov/widgets-badges/index.html" shape="rect" target="_parent" title="add this to your website" /></map></div></div></div><li><li>
+<div style=" margin-left: 10px;"><a href="http://www.mentalhealth.gov/talk/community-conversation/index.html"><img alt="Follow the dialogue" border="0" src="/images/follow-dialogue.png" /></a></div><li><li>
+<div style=" margin-left: 10px;"><p><a class="twitter-timeline" data-widget-id="353196355725971456" height="309" href="https://twitter.com/search?q=%28%23MentalHealthMatters+OR+%23mentalhealth+from%3ACDCgov+OR+from%3ANIMHgov+OR+from%3Awhitehouse+OR+from%3Asamhsagov%29+OR+from%3Amentalhealthgov+-RT" width="250">Tweets about "(#MentalHealthMatters OR #mentalhealth from:CDCgov OR from:NIMHgov OR from:whitehouse OR from:samhsagov) OR from:mentalhealthgov -RT"</a> <script type="text/javascript">/**/
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+/**/</script></p></div><li><li>
+<div style=" margin-left: 40px;"><div id="HCsquare"><a href="https://www.healthcare.gov/quick-answers/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=180x150-en&amp;utm_campaign=hcgov" shape="rect"><img alt="Have health insurance questions" src="http://assets.healthcare.gov/global/images/widgets/him/180x150-badge-quick-answer.jpg?utm_source=cms&amp;utm_medium=banner&amp;utm_content=180x150&amp;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div></div><li></ul>							      </div>
+          
+          <!-- end news feeds --> 
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+          <!-- start twitter-->
+
+        <!--<div id="twitter" class="cf">
+        <ul  class="cf">
+              <li></li>
+              <li>-->
+         <!--<h1>
+<p>TWITTER CHATTER</p></h1>-->
+           <!-- <h1 class="mobile"><a href="https://twitter.com/#!/search/from:FDATobacco%20OR%20from:SmokefreeGov%20OR%20from:SmokefreeTeen%20OR%20from:SmokefreeWomen%20OR%20from:CDCTobaccoFree,%20tobacco%20OR%20smoking%20OR%20cigarettes?q=from%3AFDATobacco+OR+from%3ASmokefreeGov+OR+from%3ASmokefreeTeen+OR+from%3ASmokefreeWomen+OR+from%3ACDCTobaccoFree%2C+tobacco+OR+smoking+OR+cigarettes">Join the conversation</a></h1>-->
+          <!--</li>
+            </ul>
+		</div>-->
+          <!-- end twitter--> 
+          
+          <!-- start twitter feeds-->
+       <div id="twitter_feeds"  class="cf" >
+				  </div>
+          
+          <!-- end twitter feeds --> 
+       
+        </div>
+			
+	
+		
+		
+			
+				
+    				
+		
+				
+		 
+
+	
+		
+			
+			
+		   </div>
+		   		 <div id="mainContentShadow"></div>
+		 
+    </div>
+	   	
+	  </div>
+	  
+		
+   <!-- end maincontent-->
+<div id="footer">
+      <div id="footerContainer" >     
+
+      <div class="col col1"><ul><li>
+<p><a href="https://public.govdelivery.com/accounts/USHHS/subscriber/topics?qsp=USHHS_1"><img alt="Email Updates" border="0" src="/snippets/NavFooterCol1/email_icon.png" title="Email Updates" /></a></p></li><li>
+<p><a href="http://www.youtube.com/playlist?feature=edit_ok&amp;list=PLrl7E8KABz1GOyx_HDSqmwfrq8j_THXgg"><img alt="YouTube" border="0" src="/snippets/NavFooterCol1/youtube_icon.png" title="YouTube" /></a></p></li><li>
+<p><a href="http://www.facebook.com/Mentalhealth.gov"><img alt="Facebook" border="0" src="/snippets/NavFooterCol1/facebook_icon.png" title="Facebook" /></a></p></li><li>
+<p><a href="https://twitter.com/mentalhealthgov"><img alt="Twitter" border="0" src="/snippets/NavFooterCol1/twitter_icon.png" title="Twitter" /></a></p></li></ul></div>
+    <div class="col col2" >
+      <ul><li>
+<p><a href="/index.html">Home</a></p></li><li>|
+<p><a href="http://www.mentalhealth.gov/about-us.html">About Us</a></p></li><li>|
+<p><a href="http://www.hhs.gov/Accessibility.html">Accessibility</a></p></li><li>|
+<p><a href="http://www.hhs.gov/Privacy.html">Privacy Policy</a></p></li><li>|
+<p><a href="http://www.hhs.gov/Disclaimer.html">Disclaimers</a></p></li><li>|
+<p><a href="http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html">Plain Writing</a></p></li><li>|
+<p><a href="http://www.hhs.gov/asa/eeo/no_fear_bullet_3.html">No FEAR</a></p></li></ul><br />	  <ul><li>
+<p><a href="http://www.hhs.gov/web/tools/plugins.html">Viewers &amp; Players</a></p></li><li>|
+<p><a href="http://www.hhs.gov/foia/">FOIA</a></p></li><li>|
+<p><a href="http://www.whitehouse.gov/">WhiteHouse.gov</a></p></li><li>|
+<p><a href="http://www.usa.gov/">USA.gov</a></p></li><li>|
+<p><a href="http://www.usa.gov/gobiernousa/">GobiernoUSA.gov</a></p></li><li>|
+<p><a href="http://www.mentalhealth.gov/widgets-badges/index.html">Widgets &amp; Badges</a></p></li><li>|
+<p><a href="http://www.mentalhealth.gov/survey/Feedback/index.html">Give Feedback</a></p></li></ul><br /><br />	  <ul><li>
+<p><a href="http://www.hhs.gov">U.S. Department of Health &amp; Human Services,</a> 200 Independence Avenue, S.W. Washington, D.C. 20201</p></li></ul>	</div> 
+	
+	  </div>
+  <!-- end footer container-->
+  <!-- <div id="footerBottom"></div>
+      <div id="footerBottomGrey"></div> -->
+    </div>
+	<!-- end footer -->
+</div>
+
+<!-- end wrapper-->
+</div>
+<!--End of this MainContainer--> 
+
+<script type="text/javascript" src="/js/mobile.js"></script>
+
+
+
+	
+<script type="text/javascript" src="http://comment-app.hhs.gov/widget/widget.js?target_id=widget_target&survey_id=124"></script>
+</body>
+</html>

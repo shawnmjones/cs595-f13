@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Skype in the classroom - Skype in the classroom</title>
+  <meta content="Skype in the classroom is a free and easy way for teachers to open up their classroom. Meet new people, talk to experts, share ideas and create amazing lear" name="description" />
+  
+    <!-- /* facebook open graph protocol */ -->
+  <meta content="Skype in the classroom" property="og:title" /><meta content="Skype in the classroom is a free and easy way for teachers to open up their classroom. Meet new people, talk to experts, share ideas and create amazing learning experiences with teachers from aroun..." property="og:description" />
+  <meta content='article' property='og:type'>
+  <meta content='https://education.skype.com/images/badge.png' property='og:image'>
+
+  <meta content='https://education.skype.com/' property='og:url'>
+  <meta content='Skype in the classroom' property='og:site_name'>
+  <meta content='260273468396' property='fb:app_id'>
+  <meta content='36905178' property='fb:admins'>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=10, user-scalable=yes">
+
+  <script src="/assets/modernizr-2.6.2.min-30af5d3b91158247a3bc737fff40182d.js" type="text/javascript"></script>
+  <script src="/assets/utils/feature-detects-0a2d8f4ae9b895469e7dcfedb4680acb.js" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="tMu3d+2wza+hMQHttayLQfiHXZkBFCudTvrQqfRi7i0=" name="csrf-token" />
+  <meta content="9SJT5tv3-nYoi9A-kWc8zNY2PU-bttcKI0CoCfV_88E" name="google-site-verification" />
+  <script type="text/javascript">
+//<![CDATA[
+var _kmq = _kmq || [];
+          function _kms(u){
+           setTimeout(function(){
+           var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
+           s.src = u; f.parentNode.insertBefore(s, f);
+        }, 1);
+      }
+      _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/7fd277b7539f6a4cc6ad065db69c52ab032b8773.1.js');
+//]]>
+</script>
+  
+  <link href="/assets/application-99d5e70535a25883991c36b14e7f09da.css" media="all" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/skype_webclip.png">
+  <link type="text/plain" rel="author" href="/humans.txt" />
+  <link rel="alternate" type="application/atom+xml" title="Projects Feed (Atom 0.3)" href="https://education.skype.com/projects/feed.atom">
+  
+
+
+</head>
+
+<body data-module="skype" data-action="index" class="layout_index locale_en logged_out">
+
+
+
+
+
+  
+
+
+<header class="l-site-header l-site-header--homepage js-homepage-nav-fixed">
+
+  <div class="l-inner-block l-inner-block--wide columns">
+    <div class="column span-twelve no-y-gutter">
+
+      <div class="site-name">
+        <a href="https://education.skype.com/" class="site-name__logo ir">Skype in the classroom</a>
+      </div>
+
+      <ul class="l-user-signed-out-controls float-list clearfix">
+        <li>
+          <a href="/join" class="js-login-link l-user-controls__signin">Sign in</a>
+        </li>
+        <li>
+          <a href="/join" class="button button--primary
+                          button--small js-login-link">Join</a>
+        </li>
+      </ul>
+
+      <div class="l-search-field">
+        <div class="search-field search-field--small l-search-field__inner">
+  <form accept-charset="UTF-8" action="https://education.skype.com/search" class="search-field__form " method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input type="text" name="subject" value="" placeholder="Search" class="search-field__input ">
+    <input type="submit" value="Search" class="search-field__submit ir">
+</form></div>
+
+      </div>
+
+    </div>
+  </div>
+
+</header>
+
+    <section class="l-home-hero columns">
+    <div class="l-home-hero__slides column span-twelve no-gutter js-l-home-hero__slides">
+      <div class="l-home-hero__slides__inner">
+          <div class="l-home-hero__slide" data-collection-id="12" data-collection-name="Geography">
+  <div class="l-home-hero__slide__content" style="background-image: url('https://s3.amazonaws.com/skypeeducation.com/hero_banners/5/large.png?1377609094')">
+    <h1 class="visuallyhidden">Geography</h1>
+  </div>
+</div>
+
+          <div class="l-home-hero__slide" data-collection-id="12" data-collection-name="Science">
+  <div class="l-home-hero__slide__content" style="background-image: url('https://s3.amazonaws.com/skypeeducation.com/hero_banners/3/large.png?1378226985')">
+    <h1 class="visuallyhidden">Science</h1>
+  </div>
+</div>
+
+          <div class="l-home-hero__slide" data-collection-id="7" data-collection-name="Culture">
+  <div class="l-home-hero__slide__content" style="background-image: url('https://s3.amazonaws.com/skypeeducation.com/hero_banners/2/large.png?1377609161')">
+    <h1 class="visuallyhidden">Culture</h1>
+  </div>
+</div>
+
+      </div>
+    </div>
+
+    <div class="l-inner-block l-inner-block--wide">
+      <div class="l-home-hero__content">
+        <div class="l-home-hero__title">
+          <h1 class="l-home-hero__title__text font-light">Connect your classroom to the world with Skype</h1>
+        </div>
+
+
+          <div class="search-field search-field--select search-field--large js-home-categories-select">
+  <form accept-charset="UTF-8" action="https://education.skype.com/search" class="search-field__form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input type="text" name="subject" value="Choose a subject" readonly="true" placeholder="Search" class="search-field__input ">
+    <input type="submit" value="Search" class="search-field__submit search-field__submit--dropdown ir">
+</form>  <ul class="unstyled-list search-field__options">
+      <li data-id="18" class="search-field__option"><a href="https://education.skype.com/search?category_id=18">Careers</a></li>
+      <li data-id="15" class="search-field__option"><a href="https://education.skype.com/search?category_id=15">Connect &amp; Collaborate</a></li>
+      <li data-id="7" class="search-field__option"><a href="https://education.skype.com/search?category_id=7">Culture</a></li>
+      <li data-id="16" class="search-field__option"><a href="https://education.skype.com/search?category_id=16">Debate &amp; Discussion</a></li>
+      <li data-id="22" class="search-field__option"><a href="https://education.skype.com/search?category_id=22">Design &amp; Media</a></li>
+      <li data-id="21" class="search-field__option"><a href="https://education.skype.com/search?category_id=21">Early Years</a></li>
+      <li data-id="25" class="search-field__option"><a href="https://education.skype.com/search?category_id=25">Economics &amp; Politics</a></li>
+      <li data-id="6" class="search-field__option"><a href="https://education.skype.com/search?category_id=6">Expressive Arts</a></li>
+      <li data-id="27" class="search-field__option"><a href="https://education.skype.com/search?category_id=27">Food &amp; Nutrition</a></li>
+      <li data-id="19" class="search-field__option"><a href="https://education.skype.com/search?category_id=19">Geography</a></li>
+      <li data-id="26" class="search-field__option"><a href="https://education.skype.com/search?category_id=26">Health &amp; Social Care</a></li>
+      <li data-id="17" class="search-field__option"><a href="https://education.skype.com/search?category_id=17">History</a></li>
+      <li data-id="8" class="search-field__option"><a href="https://education.skype.com/search?category_id=8">Languages</a></li>
+      <li data-id="28" class="search-field__option"><a href="https://education.skype.com/search?category_id=28">Lesson Ideas</a></li>
+      <li data-id="9" class="search-field__option"><a href="https://education.skype.com/search?category_id=9">Maths</a></li>
+      <li data-id="20" class="search-field__option"><a href="https://education.skype.com/search?category_id=20">Music</a></li>
+      <li data-id="10" class="search-field__option"><a href="https://education.skype.com/search?category_id=10">Physical education</a></li>
+      <li data-id="24" class="search-field__option"><a href="https://education.skype.com/search?category_id=24">Psychology &amp; Sociology</a></li>
+      <li data-id="11" class="search-field__option"><a href="https://education.skype.com/search?category_id=11">Reading &amp; writing</a></li>
+      <li data-id="23" class="search-field__option"><a href="https://education.skype.com/search?category_id=23">Religion &amp; Philosophy</a></li>
+      <li data-id="12" class="search-field__option"><a href="https://education.skype.com/search?category_id=12">Science</a></li>
+      <li data-id="13" class="search-field__option"><a href="https://education.skype.com/search?category_id=13">Social studies</a></li>
+      <li data-id="14" class="search-field__option"><a href="https://education.skype.com/search?category_id=14">Technology</a></li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+  </section>
+
+
+<section class="container">
+  <div class="l-inner-block columns">
+    
+  <div class="column span-twelve">
+
+
+      <div class="column column--tiny-padding span-six">
+        <div class="content-grid__item content-grid__item--small-mobile">
+          <div class="content-grid__item__image content-grid__item__image--expanding" style="background-image: url(https://skype-edu-staging.mxmdev.com/assets/hero-images/mysteryskype.jpg)"><img alt="Mysteryskype" src="https://skype-edu-staging.mxmdev.com/assets/hero-images/mysteryskype.jpg" /></div>
+
+          <div class="content-grid__item__text-content
+                     content-grid__item__text-content--expanding
+                     js-content-grid__item__text-content">
+            <h4>
+              <a href="https://education.skype.com/mysteryskype">Mystery Skype</a>
+            </h4>
+
+            <div class="content-grid__item__text-content__extra">
+              <p>The global guessing game that gets kids learning with Skype. Sign up to join our new Mystery Skype community.</p>
+              <p class="content-grid__item__text-content__view-more">
+                <a href="https://education.skype.com/mysteryskype">View more</a>
+              </p>
+            </div>
+            
+          </div>
+
+        </div>
+      </div>
+
+
+      <div class="column column--tiny-padding span-six">
+      <div class="content-grid__item content-grid__item--small-mobile">
+        <div class="content-grid__item__image content-grid__item__image--expanding" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/images/collections/33/small.png?1376563894)"><img alt="Small" src="https://s3.amazonaws.com/skypeeducation.com/images/collections/33/small.png?1376563894" /></div>
+
+        <div class="content-grid__item__text-content
+                   content-grid__item__text-content--expanding
+                   js-content-grid__item__text-content" style="background-color: #0c4d8f;">
+          <h4>
+            <a href="https://education.skype.com/collections/exploring-oceans">Exploring Oceans</a>
+          </h4>
+
+          <div class="content-grid__item__text-content__extra">
+            <p>Celebrate our oceans throughout November with free educational talks from the world's leading marine experts.</p>
+            <p class="content-grid__item__text-content__view-more">
+              <a href="https://education.skype.com/collections/exploring-oceans">View more</a>
+            </p>
+          </div>
+          
+        </div>
+
+      </div>
+      </div>
+
+
+  </div>
+
+  </div>
+</section>
+  
+<section id="homepage_map" class="container container--white">
+  <div class="columns">
+    <div class="column no-x-gutter span-twelve">
+      <h2 class="container__title container__title container__title--small-margin font-center font-semilight">Teachers from around the world</h2>
+    
+      <div class="world-map">
+        <div class="world-map__image js-homepage-map-image"></div>
+        <div class="column world-map__stats">
+          <div class="bubble-with-content">
+            <div class="bubble-with-content__inner">
+              <div class="bubble-with-content__centered-content--small">
+                <div class="bubble-with-content__text font-center font-light world-map__stats-text">
+                  <strong class="font-light world-map__stats-number">70,044</strong><br />
+                  Teachers
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script type="text/template" id="js-world-map-circle">
+  <div class="world-map-circle">
+    <a class="world-map-circle__link" href="{{url}}" data-id="{{id}}">
+      <img class="world-map-circle__avatar" src="{{avatar}}">
+    </a>
+  </div>
+</script>
+
+
+<section class="container l-home-featured-carousel js-carousel">
+  <div class="l-inner-block columns">
+    <div class="column span-eight nudge-by-two">
+      <h2 class="container__title container__title--small-margin font-center font-semilight">Skype lessons for every subject</h2>
+      <p class="font-center">Lessons are created by teachers, guest speakers and our partners. Get started now by taking part in one of our featured lessons.</p>
+    </div>
+    <div class="column span-twelve">
+      <div class="content-grid columns">
+
+  <div id="swipe" class="swipe">
+    <ol class="swipe-slides">
+
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1376913479/4270/large.jpg?1376913476)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1376913479/4270/large.jpg?1376913476" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/6130-night-zookeeper-meet-the-night-zookeeper-creative-storytelling">Meet the Night Zookeeper: Creative Storytelling</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/reading-writing">Reading &amp; writing</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1377023507/4289/large.jpg?1377023505)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1377023507/4289/large.jpg?1377023505" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/6147-new-dawn-traders-follow-our-voyage-sailing-from-europe-to-brazil-trading-rum-chocolate-spices">Follow the New Dawn Traders&#x27; voyage from Europe...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/geography">Geography</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1375812098/4080/large.jpg?1375812090)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1375812098/4080/large.jpg?1375812090" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/6004-buffalo-bill-center-of-the-west-the-stories-and-culture-of-plains-indians-and-buffalo">The Stories and Culture of Plains Indians and...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/culture">Culture</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374591401/3927/large.jpg?1374591400)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374591401/3927/large.jpg?1374591400" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5859-peace-one-day-education-make-friends-across-the-world-for-international-peace-day">Making friends across the world</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/connect-and-collaborate">Connect &amp; collaborate</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1375589431/4055/large.jpg?1375589423)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1375589431/4055/large.jpg?1375589423" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5724-think-elephants-get-up-trunk-and-personal-with-asian-elephants-in-thailand-and-think-elephants-international">Get “up-trunk” and personal with Asian...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/science">Science</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374164603/3889/large.jpg?1374164602)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374164603/3889/large.jpg?1374164602" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5825-mission-31-skype-with-the-mission-31-expedition-team-63-feet-beneath-the-sea">Skype with the Mission 31 expedition 63 feet...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/science">Science</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1361574422/2303/large.jpg?1361574414)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1361574422/2303/large.jpg?1361574414" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/4446-bring-the-olympic-torch-into-your-classroom">Bring The Olympic Torch Into Your Classroom</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/guest-speaker">Guest speaker</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1377034509/4297/large.jpg?1377034508)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1377034509/4297/large.jpg?1377034508" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/6149-tinker-swiss-cottage-museum-a-victorian-experience-a-tour-of-the-tinker-swiss-cottage">A Victorian Experience: A Tour of the Tinker...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/history">History</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1371671937/3605/large.jpg?1371671936)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1371671937/3605/large.jpg?1371671936" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5575-uss-missouri-memorial-association-the-big-guns-of-the-battleship-missouri">The Big Guns of the Battleship Missouri</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/technology">Technology</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1370865531/3500/large.jpg?1370865529)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1370865531/3500/large.jpg?1370865529" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5460-hot-key-books-unlock-your-ideas-two-part-creative-writing-workshop-with-a-published-author">Join a creative writing workshop with a...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/reading-writing">Reading &amp; writing</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1372451655/3680/large.JPG?1372451651)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1372451655/3680/large.JPG?1372451651" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5671-building-spelling-muscles-with-jake-monkey-tail">Building Spelling Muscles with Jake Monkey-Tail</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/reading-writing">Reading &amp; writing</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1371243787/3557/large.jpg?1371243786)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1371243787/3557/large.jpg?1371243786" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5516-the-national-wwii-museum-new-orleans-lesson-connection-analyzing-political-cartoons">Lesson Connection: Analyzing Political Cartoons</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/history">History</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1343733027/502/large.jpg?1343733026)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1343733027/502/large.jpg?1343733026" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/2237-yellowstone-national-park-rangers-can-skype-with-classrooms">Yellowstone National Park Rangers can Skype...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/science">Science</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374665244/3934/large.jpg?1374665233)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1374665244/3934/large.jpg?1374665233" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5867-m%C3%A9decins-sans-fronti%C3%A8res-doctors-without-borders-msf-emergency-response-the-work-of-an-international-humanitarian-organization">Emergency response: The work of an...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/guest-speaker">Guest speaker</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1365693028/2784/large.jpg?1365693027)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1365693028/2784/large.jpg?1365693027" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/4903-british-council-whats-in-your-backpack-a-lesson-to-explore-different-cultures">What’s in your backpack? A lesson to explore...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/connect-and-collaborate">Connect &amp; collaborate</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1369154102/3343/large.jpg?1369154101)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1369154102/3343/large.jpg?1369154101" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5306-penguin-books-meet-chris-bradford-author-of-young-samurai-and-bodyguard-books">Chris Bradford Bodyguard</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/guest-speaker">Guest speaker</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1354843388/1428/large.PNG?1354843387)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1354843388/1428/large.PNG?1354843387" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/3767-microsoft-mobile-app-programming-with-touchdevelop">Mobile App Programming with TouchDevelop</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/technology">Technology</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1372020485/3634/large.jpg?1372020484)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1372020485/3634/large.jpg?1372020484" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5600-skills-for-school-careers-and-life-develop-key-strengths-with-discoverables">Skills for school, careers and life: Develop...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/careers">Careers</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1368615134/3277/large.png?1368615133)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1368615134/3277/large.png?1368615133" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/4610-nasa-digital-learning-network-toys-in-space">Toys in Space</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/science">Science</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1360608261/2142/large.jpg?1360608260)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1360608261/2142/large.jpg?1360608260" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/4318-questions-about-using-our-website-chat-with-the-skype-in-the-classroom-team-on-skype">Questions about using our website? Chat with...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/connect-and-collaborate">Connect &amp; collaborate</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1357819739/1728/large.JPG?1357819735)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1357819739/1728/large.JPG?1357819735" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/4027-euglena-discover-more-about-euglena-a-microscopic-organism-005%E3%83%9F%E3%83%AA%E3%81%AE%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%8C%E3%82%82%E3%81%A4%E9%A3%9F%E7%B3%A7%E6%A0%84%E9%A4%8A%E5%95%8F%E9%A1%8C%E3%81%A8%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E3%81%B8%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7">Discover more about euglena, a microscopic...</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/science">Science</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1369052713/3309/large.PNG?1369052711)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1369052713/3309/large.PNG?1369052711" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5301-skype-and-prezi-community-comparisons">Skype and Prezi Community Comparisons</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/culture">Culture</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1367105752/3076/large.JPG?1367105751)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1367105752/3076/large.JPG?1367105751" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/5112-school-recycling-and-healthy-school-lunch-menus">School Recycling and Healthy School Lunch Menus</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/food-and-nutrition">Food &amp; nutrition</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1350846924/1074/large.JPG?1350846923)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1350846924/1074/large.JPG?1350846923" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/3426-collaborative-math">Collaborative Math </a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/math">Math</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+        <li>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1350744394/1070/large.jpg?1350744394)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1350744394/1070/large.jpg?1350744394" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/3422-world-class-4-kids">World Class 4 Kids</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/connect-and-collaborate">Connect &amp; collaborate</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+            <div class="column span-three no-gutter">
+              <div class="column column--tiny-padding span-twelve">
+                <figure class="content-grid__item
+             content-grid__item--double-height">
+  <div class="content-grid__item__image content-grid__item__image--top" style="background-image: url(https://s3.amazonaws.com/skypeeducation.com/assets/assets/1351094454/1089/large.jpg?1351094453)"><img alt="Large" src="https://s3.amazonaws.com/skypeeducation.com/assets/assets/1351094454/1089/large.jpg?1351094453" /></div>
+  
+  <figcaption class="content-grid__item__text-content
+                   content-grid__item__text-content--bottom">
+    <h4><a href="/projects/3447-comparing-schools-around-the-globe">Comparing Schools Around the Globe</a></h4>
+      <p class="content-grid__item__text-content__footer"><a href="/categories/social-studies">Social studies</a></p>
+  </figcaption>
+</figure>
+              </div>
+            </div>
+        </li>
+
+    </ol>
+  </div>
+
+</div>
+
+      <div class="font-center is-mobile">
+        <a href="https://education.skype.com/projects" class="button button--secondary button--small">View all lessons</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="container container--white">
+  <div class="l-inner-block columns">
+    <div class="column span-twelve">
+      <h2 class="container__title font-center font-semilight">How Skype in the classroom works</h2>
+
+      <figure class="l-home-video column span-ten nudge-by-one no-gutter js-fitvid">
+        <div class="video-with-thumb">
+            
+            <iframe src="//player.vimeo.com/video/44867804?title=0&amp;byline=0&amp;portrait=0" width="765" height="431" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            
+        </div>
+        <figcaption class="font-center">Skype in the classroom is a free and easy way for teachers to open up their classroom. Meet new people, talk to experts, share ideas and create amazing learning experiences with teachers from around the world.</figcaption>
+      </figure>
+
+    </div>
+  </div>
+</section>
+
+  <section class="container">
+    <div class="l-inner-block columns">
+      <div class="column span-twelve">
+        <h2 class="container__title font-center font-semilight">News from Skype in the classroom</h2>
+
+        <div class="news-listing--stacked stack stack--top-border">
+            
+<article class="module news-item news-item--social news-item--white">
+
+      <div class="content-block tweet-block" data-tweet-id="383018818194669568">
+
+  <div class="tweet-block__header">
+    <a href="https://twitter.com/Plummersclass" target="_blank"><img alt="1b1ae628447bd11f1f29561e63f78269_normal" class="l-left tweet-block__avatar" src="https://si0.twimg.com/profile_images/378800000295712104/1b1ae628447bd11f1f29561e63f78269_normal.jpeg" /></a>
+    <a href="https://twitter.com/Plummersclass" class="tweet-block__name" target="_blank">Mrs. Plummer&#x27;s Class</a><br />
+    <a href="https://twitter.com/Plummersclass" class="tweet-block__screen-name" target="_blank">@Plummersclass</a>
+  </div>
+  <p class="tweet-block__content">Our third <a class="tweet-url hashtag" href="https://twitter.com/#!/search?q=%23mysteryskype" rel="nofollow" target="_blank">#mysteryskype</a> today with a class in Doniphan, NE. @<a class="tweet-url username" href="https://twitter.com/skypeclassroom" rel="nofollow" target="_blank">skypeclassroom</a> @<a class="tweet-url username" href="https://twitter.com/dtbookgal" rel="nofollow" target="_blank">dtbookgal</a> <a href="http://t.co/gRSTcD3EHr" rel="nofollow" target="_blank">pic.twitter.com/gRSTcD3EHr</a></p>
+  <div class="twitter-block__footer">
+    <p class="l-left" style="margin-bottom: 0;">
+      <a href="https://twitter.com/Plummersclass" target="_blank"><img alt="News-twitter-icon" src="/assets/news-twitter-icon-7dc05a53526efa006516455a7df48045.png" style="margin-right: 5px;" /></a>
+      
+      <a href="https://twitter.com/Plummersclass/status/383018818194669568" target="_blank"><time class="tweet-block__time tweet-block__time--small" datetime="2013-09-26T00:02:57Z">12:02 AM - 26 Sep 13</time></a>
+    </p>
+    <p class="l-right" style="margin-bottom: 0;">
+      <a href="https://twitter.com/intent/tweet?in_reply_to=383018818194669568" class="tweet-block__button tweet-block__button--replace">Reply</a> 
+      <a href="https://twitter.com/intent/retweet?tweet_id=383018818194669568" class="tweet-block__button tweet-block__button--retweet">Retweet</a> 
+      <a href="https://twitter.com/intent/favorite?tweet_id=383018818194669568" class="tweet-block__button tweet-block__button--favorite">Favorite</a>
+    </p>
+  </div>
+</div>
+</article>
+            
+<article class="module news-item news-item--article news-item--white">
+
+    <header class="news-item__header">
+      <abbr title="2013-09-26T11:26:00Z" class="timeago news-item__time">2013-09-26 11:26:00 UTC</abbr>
+      <h4 class="title-h2 font-semilight news-item__title"><a href="https://education.skype.com/news">Mrs Plummer&#x27;s class #MysterySkype</a></h4>
+
+    </header>
+      <figure class="content-block image-block">
+  <img class="sir-trevor-image large" src="https://s3.amazonaws.com/skypeeducation.com/files/16/original.jpg?1380194609" />
+</figure>
+    <a href="https://education.skype.com/news" class="news-item__readmore font-semilight">Read more</a>
+</article>
+        </div>
+
+        <div class="font-center">
+          <a href="https://education.skype.com/news" class="button button--primary-negative">View more news</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+<section class="container container--white no-bottom-gutter">
+  <div class="l-inner-block columns">
+    <div class="column span-twelve">
+      <h2 class="container__title container__title--small-margin font-center font-semilight">As seen on</h2>
+
+      <ul class="logo-wall inline-list font-center">
+        <li class="logo-wall__item">
+          <img alt="Techcrunch" src="/assets/logo_wall/techcrunch-41e7d7ffe0c13e0159319fecc9450c47.png" />
+        </li>
+        <li class="logo-wall__item">
+          <img alt="Ellen" src="/assets/logo_wall/ellen-ae288981a0d63d94fc95262fb5fce566.png" />
+        </li>
+        <li class="logo-wall__item">
+          <img alt="Forbes" src="/assets/logo_wall/forbes-27e9a819d337de94f2e3f7efef47687a.png" />
+        </li>
+        <li class="logo-wall__item logo-wall__item--nytimes">
+          <img alt="Nytimes" src="/assets/logo_wall/nytimes-372bfd4b9b12ae8cb4345be035d903d2.png" />
+        </li>
+        <li class="logo-wall__item">
+          <img alt="Bbc" src="/assets/logo_wall/bbc-37568cbde3f9ab9e0b1579dcdce2fcae.png" />
+        </li>
+      </ul>
+    </div>
+    <div class="column span-twelve">
+      <div class="l-inner-block--border-bottom"></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="l-home-getting-started container container--white">
+  <div class="l-inner-block columns">
+
+    <div class="column span-twelve">
+      <div class="l-home-signup-block clearfix">
+        <h2 class="container__title font-center font-semilight" style="margin-bottom: 5px;">Join in now</h2>
+        <p style="margin: 0 auto 30px auto; max-width: 460px;">We're inviting teachers to apply for <strong>free</strong> group video calling to help you get the most out of Skype in the classroom.</p>
+        <div>
+          <a href="/auth/skype" class="btn-connect btn-connect--skype btn-connect--enlarged nomargin" title="Skype"><span>Sign in with Skype</span></a>
+        </div>
+
+        <span class="l-home-signup-block__separator">or sign in with</span>
+        <ul class="l-home-signup-block__auth-methods inline-list">
+          <li><a href="/auth/windowslive" class="btn-connect btn-connect--windowslive btn-connect--no-text btn-connect--enlarged btn-connect--enlarged-no-text nomargin" title="Microsoft account"><span>Microsoft account</span></a></li>
+          <li><a href="/auth/facebook" class="btn-connect btn-connect--facebook btn-connect--no-text btn-connect--enlarged btn-connect--enlarged-no-text nomargin" title="Facebook"><span>Facebook</span></a></li>
+          <li><a href="/auth/twitter" class="btn-connect btn-connect--twitter btn-connect--no-text btn-connect--enlarged btn-connect--enlarged-no-text nomargin" title="Twitter"><span>Twitter</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+  <footer class="l-site-footer">
+
+  <div class="l-site-footer-top">
+    <div class="l-inner-block">
+      <div class="columns">
+        <div class="column span-twelve">
+          <div class="l-site-footer-top__content">
+
+            <div class="l-site-footer-top__column" style="float: right; width: 350px;">
+
+                  <div class="languageSelector">
+      <form action="" method="get" class="languageForm js-locale-form">
+        <label class="languagesDropdown" for="userLanguage">
+          <span class="world"></span>
+          <span class="selectedLanguage">English (International)</span>
+          <span class="pickDown"></span>
+          <select class="userLanguage" name="locale" dir="ltr">
+              <option value="en" lang="en" selected>English (International)</option>
+<option value="de" lang="de" >Deutsch</option>
+<option value="es" lang="es" >Español</option>
+<option value="fr" lang="fr" >Français</option>
+<option value="jp" lang="jp" >日本語</option>
+<option value="pt-BR" lang="pt-BR" >Português (Brasileiro)</option>
+<option value="pt" lang="pt" >Português</option>
+<option value="ru" lang="ru" >Ру́сский</option>
+          </select>
+        </label>
+      </form>
+    </div>
+
+
+              <div class="social-links">
+                <a href="http://www.facebook.com/skypeintheclassroom"><img alt="Facebook" src="/assets/layout/facebook-529b83a2031a5322f18ea743be5cb466.png" /></a>
+                <a href="http://twitter.com/skypeclassroom"><img alt="Twitter" src="/assets/layout/twitter-6d90fd6c2945b5970d8f5c3bd57e5500.png" /></a>
+              </div>
+
+            </div>
+
+            <nav class="l-site-footer-top__links">
+              <ul class="inline-list clearfix">
+                <li><a href="https://education.skype.com/projects">Skype lessons</a></li>
+                <li><a href="https://education.skype.com/users">Profiles</a>
+                <li><a href="https://education.skype.com/partners">Partners</a></li>
+                <li><a href="/collections">Collections</a></li>
+                <li><a href="https://education.skype.com/resources">Resources</a></li>
+                <li><a href="https://education.skype.com/mysteryskype">Mystery Skype</a></li>
+                  <li><a href="https://education.skype.com/guest_speakers">Guest speakers</a></li>
+                <li><a href="https://education.skype.com/categories">Categories</a></li>
+                <li><a href="https://education.skype.com/help">Help</a></li>
+              </ul>
+            </nav>
+
+            <hr />
+
+            <div class="l-site-footer-top__column">
+              <ul class="l-site-footer-top__contact unstyled-list">
+                <li><a href="mailto:education@skype.net">Contact Skype in the classroom</a></li>
+                <li><a href="http://www.skype.com">Skype.com</a></li>
+              </ul>
+            </div>
+
+            <div class="l-site-footer-top__column l-site-footer__legal">
+              <p class="smaller">
+                &copy; 2013 Skype and/or Microsoft. The Skype name, associated trade marks and logos and the "S" logo are trade marks of Skype or related entities. Use of this website constitutes acceptance of the <a href="/terms">Terms of Use</a> and <a href="http://www.skype.com/privacy/">Privacy and Cookie policy</a>.
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="l-site-footer-top__image"></div>
+  </div>
+
+  <div class="l-site-footer-bottom columns">
+    <div class="l-inner-block">
+      <div class="column span-twelve l-relative">
+        <p class="footer-skype-intro">Stay in touch with Skype. Make free internet calls, send instant messages to friends and even catch up with video chat. Add a little Skype Credit and make cheap calls to phones and mobiles, get online at public WiFi hotspots and send texts (SMS) at great rates. Get even more with a Premium account - discover group video calls and make unlimited calls to a country of your choice.</p>
+        <div class="ms-logo"></div>
+      </div>
+    </div>
+  </div>
+
+
+</footer>
+
+
+  <script type="text/javascript" src="//ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&s=1"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/jquery-1.10.1.min-3004bf9fa5aad88943936a47d24c1c43.js"><\/script>')</script>
+
+  
+
+  <script src="/assets/application-f597b9ac9454ab2969c53600d9e99d0f.js" type="text/javascript"></script>
+
+  
+
+  <script src="/assets/s_code_20130802-0f9741b49553a90dd14f02489e98ac11.js" type="text/javascript"></script>
+  
+  <noscript><img src="https://smetrics.skype.com/b/ss/skypeglobalprod/1/H.25--NS/0" height="1" width="1" style="border: 0" alt="" /></noscript>
+
+    <script type="text/javascript">
+    var skype_analytics = new SitcApp.analytics('/');
+    </script>
+
+
+<script type='text/javascript'>
+  var _gaq=[['_setAccount','UA-153994-24']];
+  _gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor', 2]);
+  _gaq.push(['_setCustomVar', 4, 'Site Locale', 'en', 2]);
+  _gaq.push(['_trackPageview']);
+
+
+  $('body').on('click', '.js-file-download', function() {
+    _gaq.push(['_trackEvent', 'File', 'Download', $(this).attr('href')]);
+  });
+
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+    _kmq.push(['set', { 'homepage_video': 'youtube_video' }]);
+    _kmq.push(['set', { 'ab_test_guest_speakers_section': 'true' }]);
+</script>
+
+<script async="async" src="//s3.amazonaws.com/ki.js/13533/2sy.js" type="text/javascript"></script>
+
+  <script>
+window.twttr = (function (d,s,id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+  js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+
+function clickEventToAnalytics (intentEvent) {
+  if (!intentEvent) return;
+  var label = intentEvent.region;
+  _gaq.push(['_trackEvent', 'twitter_web_intents', intentEvent.type, label]);
+}
+ 
+function tweetIntentToAnalytics (intentEvent) {
+  if (!intentEvent) return;
+  var label = "tweet";
+  _gaq.push(['_trackEvent', 'twitter_web_intents', intentEvent.type, label]);
+}
+ 
+function favIntentToAnalytics (intentEvent) {
+  tweetIntentToAnalytics(intentEvent);
+}
+ 
+function retweetIntentToAnalytics (intentEvent) {
+  if (!intentEvent) return;
+  var label = intentEvent.data.source_tweet_id;
+  _gaq.push(['_trackEvent', 'twitter_web_intents', intentEvent.type, label]);
+}
+ 
+function followIntentToAnalytics (intentEvent) {
+  if (!intentEvent) return;
+  var label = intentEvent.data.user_id + " (" + intentEvent.data.screen_name + ")";
+  _gaq.push(['_trackEvent', 'twitter_web_intents', intentEvent.type, label]);
+}
+
+twttr.ready(function (twttr) {
+  twttr.events.bind('click', clickEventToAnalytics);
+  twttr.events.bind('tweet', tweetIntentToAnalytics);
+  twttr.events.bind('retweet', retweetIntentToAnalytics);
+  twttr.events.bind('favorite', favIntentToAnalytics);
+  twttr.events.bind('follow', followIntentToAnalytics);
+});
+</script>
+
+</body>
+
+</html>

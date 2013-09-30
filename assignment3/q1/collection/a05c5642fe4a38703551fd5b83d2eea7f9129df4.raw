@@ -1,0 +1,595 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><html xmlns=http://www.w3.org/1999/xhtml><head><title>Rachel Maddow Show</title><link rel="stylesheet" type="text/css" href="/css/html40.css" /><link rel="stylesheet" type="text/css" href="/default.ashx/id/21731496" /><link rel="stylesheet" type="text/css" href="/default.ashx/id/23016591" /><script type="text/javascript" src="/js/std.js"></script><script type="text/javascript" src="/id/28644474?agency "></script><script type="text/javascript" src="/id/23149822"></script><script type="text/javascript" src="/id/24394437"></script>
+<script language="JavaScript" type="text/javascript" src="http://assets.msnbc.msn.com/rendering/msnbc/html40/assets/Js/Analytics.js?v=09302013"></script><meta name="title" content="Rachel Maddow Show">
+<meta name="description" content="Rachel Maddow hosts MSNBC’s top-rated primetime show, The Rachel Maddow Show. The show features Maddow’s take on the biggest stories of the day, including issues in the news that most of the media may have underplayed or overlooked. The show airs 9 p.m. ET weeknights on MSNBC.">
+<link rel="image_src" href="http://www.nbcnews.com/id/46837198" /><style type="text/css">
+/*------------general -------------- */
+* {margin: 0; padding: 0;}
+body {background-color:#14142c; margin: 0;padding: 0; text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */}
+#container {background:#14142c url(http://media1.s-nbcnews.com/i/MSNBC/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_BG8.jpg) no-repeat center 0px; height: 640px; margin: 0 auto;  /*the auto margins (in conjunction with a width) center the page */ }
+.IE-6 #container {height: 685px;}
+
+
+/*------------header -------------- */
+#header { padding-top: 7px; font-size: 62.5%; text-align: left; height: 83px; width: 996px; margin: 0 auto 7px auto; }
+#header h1.msnbc_logo {margin: 0; padding: 0; background: url(http://media1.s-nbcnews.com/i/msnbc/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_msnbc_new.png) no-repeat top left; text-indent: -5000px; width: 122px; height: 20px; cursor: hand; position: relative; top: 0; left: 10px;}
+.IE-6 #header h1.msnbc_logo {background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/msnbc/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_msnbc_new.png', sizingMethod='crop'); cursor:hand;}
+
+#header h1.logo {margin: 0; padding: 0; background: url(http://media1.s-nbcnews.com/i/msnbc/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_logo.gif) no-repeat top left; text-indent: -5000px; width: 701px; height: 68px; position: relative; top: -1px; left: 335px;}
+.IE-6 #header h1.logo {background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader; cursor:hand; margin-top:-1px;}
+
+/*------------msn-------------- */
+#headerLinks {position: relative; top: -110px; width: 176px; left: 780px;}
+#msn ul {margin:20px 1.5em 0pt 0pt; text-align:left;}
+.Safari #msn ul {margin-top:20px;}
+#msn li {color:#666666; display:inline; font-family:Tahoma,Arial,sans-serif; font-size:1.1em; font-size-adjust:none; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; margin:0pt; padding-right: 0.25em;}
+#msn li a {color:white; font-weight:normal; text-decoration:none;}
+#msn ul img {border:medium none; padding-bottom:4px; vertical-align:middle;}
+.IE #msn ul img {position:relative; top:0px;}
+#msn a:hover {color:#FFFFFF; text-decoration:underline;}
+#msn .msn_logo a {background:transparent url(http://media1.s-nbcnews.com/i/MSNBC/Components/ShowFronts/msn_logo.png) no-repeat top left; position: relative; top: -19px; right: -155px; width: 53px; height: 19px; display: block;}
+.IE-6 #msn .msn_logo a {background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Components/ShowFronts/msn_logo.png', sizingMethod='crop'); cursor:hand;}
+.Safari #msn .msn_logo a {display:block; float:right; padding:0px; position:relative; top:-20px; right: -50px;}
+#msn .msn_logo a span {height: 0;width: 0; overflow: hidden; display: block;}
+
+/*------------vidplayer -------------- */
+#playerContainer {height: 535px; }
+.IE-6 #playerContainer {height: 477px; }
+#videoPlayer {position: relative; top: 0px; margin: 0 auto; width: 996px;}
+.IE-6 #videoPlayer {top: -64px;}
+
+
+/*------------grid -------------- */
+.grid .content {height: 343px;}
+
+#grid_innerContainer .grid .img img {border:none !important;}
+#grid_innerContainer .grid .img div {border:none !important;}
+
+.grid .label {background:transparent; color:#fff !important;}
+#grid_outerContainer {height:370px; background-color:#14142c; text-align: left -20px;}
+
+#grid_innerContainer .grid .story h6 {font-size:78% !important;}
+
+#grid_innerContainer #grid_46657256 {height:110px;}
+#grid_innerContainer #grid_46657256 #cell1 .hed-4col {margin:0px !important;}
+
+#grid_innerContainer #grid_46683663 #cell1 .label {margin-bottom:-20px;} /* fixes spacing (html anomaly) between label and first headline */
+#grid_innerContainer #grid_46683663 {height:260px; margin-top:25px;}
+
+#grid_innerContainer {background: transparent; width:996px; margin: 0 auto; height: 265px;  /*the auto margins (in conjunction with a width) center the page */ text-align: left;}
+.IE-6 #grid_outerContainer {width:100%; position:relative; top:-40px;}
+#grid_innerContainer .grid .content {background:transparent;}
+#grid_innerContainer #cell1, #grid_innerContainer #cell2, #grid_innerContainer #cell3 {padding-top: 0px;}
+#grid_innerContainer .tsm #label1, #grid_innerContainer .tsm #label2, #grid_innerContainer .tsm #label3, #grid_innerContainer .tsm #label4, #grid_innerContainer .tsm #label5, #grid_innerContainer .tsm #label6 { padding-bottom: 11px;}
+#grid_innerContainer .tsm #label1 {padding-left: 10px;}
+
+.IE-7 #grid_innerContainer .tsm #label1 {margin-bottom: 0px;}
+#grid_innerContainer cite, #grid_innerContainer h1, #grid_innerContainer h2,  #grid_innerContainer h3, #grid_innerContainer h4, #grid_innerContainer h5, #grid_innerContainer h6, #grid_innerContainer p.abstr, #grid_innerContainer  li, #grid_innerContainer ul, .tsm #label1, .tsm #label2, .tsm #label3, .tsm #label4, .tsm #label5, .tsm #label6 {color: #eee;}
+.IE #grid_innerContainer #cell2 h1, .IE #grid_innerContainer #cell2 h2, .IE #grid_innerContainer #cell2 h3, .IE #grid_innerContainer #cell2 h4, .IE #grid_innerContainer #cell2 h5, .IE #grid_innerContainer #cell2 h6{margin-top: 15px}
+#grid_innerContainer .grid #label2.label, #grid_innerContainer .grid #label3.label, #grid_innerContainer .grid #label4.label {border: none;}
+#nh_transparent {float: left;}
+#nh_transparent a img {float: left; border:none;}
+
+#grid_innerContainer .tsm #label2 a {position: relative; top:32px; left:50px;}
+.IE #grid_innerContainer .tsm #label2 {
+ position: relative
+}
+.IE #grid_innerContainer .tsm #label2 a {position:relative; top:31px;left:50px;}
+.IE-6 #grid_innerContainer .tsm #lcell2 {position: relative;
+}
+
+.IE-7 #grid_innerContainer .tsm #label1 {margin-bottom: 0px;}
+
+
+/*------------grid icons -------------- */
+#grid_innerContainer .icoVid {
+background:url("http://assets2c.msnbc.msn.com/rendering/img/story-chrome.gif") no-repeat scroll -700px -107px transparent;
+border-bottom:medium none !important;}
+
+#grid_innerContainer h5 .icoVid {
+background:url("http://assets2c.msnbc.msn.com/rendering/img/story-chrome.gif") no-repeat scroll -700px -105px transparent;
+border-bottom:medium none !important;}
+
+#grid_innerContainer .icoSli {
+background:url("http://assets2c.msnbc.msn.com/rendering/img/story-chrome.gif") no-repeat scroll -700px -144px transparent;}
+
+
+/*------------grid links -------------- */
+#grid_innerContainer .story h1 a:link, #grid_innerContainer .story h1 a:visited,  
+ #grid_innerContainer .story h2 a:link, #grid_innerContainer .story h2 a:visited, 
+#grid_innerContainer .story h3 a:link, #grid_innerContainer .story h3 a:visited, 
+#grid_innerContainer .story h4 a:link, #grid_innerContainer .story h4 a:visited,
+ #grid_innerContainer .story h5 a:link, #grid_innerContainer .story h5 a:visited, 
+#gridFooter li a:link, #gridFooter li a:visited, 
+ul#grid_nightlyLinks a:link, ul#grid_nightlyLinks a:visited
+{color:#c9ddff; text-decoration:none; border-bottom:none;}
+
+#grid_innerContainer .story h1 a:hover, #grid_innerContainer .story h2 a:hover, #grid_innerContainer .story h3 a:hover, #grid_innerContainer .story h4 a:hover,  #grid_innerContainer .story h5 a:hover, #grid_innerContainer .story h6 a:hover, 
+#gridFooter li a:hover, #grid_innerContainer p.abstr a:hover
+{color:#ffffff; text-decoration:none; border-bottom:1px solid #ffffff;}
+#grid_innerContainer .grid h6 a:hover {color:#ffffff; text-decoration:none; border-bottom:1px solid #ffffff;}
+
+#grid_innerContainer .grid h1 a:hover, #grid_innerContainer .grid h2 a:hover {color:#ffffff; text-decoration:none; border-bottom:none;}
+
+#grid_innerContainer p.abstr a:link, #grid_innerContainer p.abstr a:visited, 
+#grid_innerContainer .story h6 a:link, #grid_innerContainer .story h6 a:visited 
+{color:#c9ddff; text-decoration:none; border-bottom:0px;}
+
+#grid_innerContainer p.abstr a:hover, #grid_innerContainer p.abstr a:active, 
+#grid_innerContainer .story h1 a:hover, #grid_innerContainer .story h1 a:active, 
+#grid_innerContainer .story h2 a:hover, #grid_innerContainer .story h2 a:active, 
+#grid_innerContainer .story h3 a:hover, #grid_innerContainer .story h3 a:active, 
+#grid_innerContainer .story h4 a:hover, #grid_innerContainer .story h4 a:active, 
+#grid_innerContainer .story h5 a:hover, #grid_innerContainer .story h5 a:active,
+ #grid_innerContainer .story h6 a:hover, #grid_innerContainer .story h6 a:active, 
+#gridFooter li a:hover, #gridFooter li a:active, ul#grid_nightlyLinks a:hover, 
+ul#grid_nightlyLinks a:active {color:#ffffff; text-decoration:none; border-bottom:1px solid #ffffff;}
+
+#grid_innerContainer .grid .label a:link, #grid_innerContainer .grid .label a:visited {color:#c9ddff;}
+#grid_innerContainer .grid .label a:hover, #grid_innerContainer .grid .label a:active {color:#ffffff;}
+
+#grid_innerContainer .grid .sublabel a:link, #grid_innerContainer .grid .sublabel a:visited {color:#c9ddff;}
+#grid_innerContainer .grid .sublabel a:hover, #grid_innerContainer .grid .sublabel a:active {color:#ffffff;}
+
+#grid_innerContainer .grid .source a {color:#cfd7e5;}
+
+/*------------grid components -------------- */
+#grid_innerContainer .grid .sublabel-tease {color: #665500;margin-left:-10px;}
+#grid_innerContainer .cvr {height: 343px;}
+.comingUpHeadline p.abstr {font-size:107%; font-weight:normal; font-family:Georgia,serif; margin-bottom: -10px;}
+#grid_innerContainer .grid .img-right .img {margin-top: 5px;}
+
+#grid_innerContainer .sublabel {background-color:#14142c; padding: 7px 10px; border: none; color: #fff; font-size: 70%;}
+
+#grid_innerContainer #label1, #grid_innerContainer #label2, #grid_innerContainer #label3 {font-size: 70%; color:#fff;}
+
+.Opera #grid_innerContainer #cell1.content p.abstr {margin: 0;}
+#grid_innerContainer #cell1.content .sublabel {margin-right: 2px;  }
+.IE-6 #grid_innerContainer #cell1.content .sublabel {top: -120px;}
+.Opera #grid_innerContainer #cell1.content .sublabel  {clear: both;}
+#grid_innerContainer #cell3 {background: none;}
+#grid_innerContainer #cell2.content .sublabel {margin-right: 3px;}
+#grid_innerContainer p.abstrIndent {margin-left: 10px;}
+
+
+/*#grid_innerContainer #cell2 .img-small {padding-right: 170px;}
+.IE-6 #grid_innerContainer #cell2 .story {position: relative;}*/
+
+/*------------ blog box -------------- */
+ .boxB {border: none; background: transparent; font-family: Verdana, Arial, Helvetica, sans-serif; width: 310px; margin-bottom: -30px;}
+ .boxB div {color: #fff;}
+ .boxB a:link, #countdownFront .boxB a:visited  {display: block; color:#E6B02A; border-bottom: 1px dotted #666; padding-bottom: 5px;}
+ .boxB a:hover, #countdownFront .boxB a:active {display: block; color: #CC7C27; text-decoration: none;}
+
+
+/*------------ ad -------------- */
+#ShowcaseAd {margin-left:684px; margin-top:-337px;}
+#adContainer {background: #14142c url(http://media1.s-nbcnews.com/i/msnbc/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_Ad-BG3.jpg) no-repeat scroll top; height: 202px; margin: 0 auto; padding:5px 0pt 0px;text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */}
+.IE-6 #adContainer {margin: -40px 0 0 0; height: 228px;}
+#AdBanner_F1 {background: transparent; width:996px; margin: 0 auto; padding-top: 60px;  /*the auto margins (in conjunction with a width) center the page */
+text-align: center;}
+#AdBanner_F1 .adbar {margin: 5px auto 0;}
+
+/*------------tabbox -------------- */
+#msnbcContainer {background-color: #fff; width:100%; margin: 0 auto;  /*the auto margins (in conjunction with a width) center the page */
+text-align: center; }
+#msnbcTabs {background: #fff; margin: 0 auto;  /*the auto margins (in conjunction with a width) center the page */ text-align: left;}
+s
+/*------------footer -------------- */
+#footerContainer {background-color: #fff; text-align: center; border-top: 1px solid #d4d4d4; height: 5em;}
+#footer {font-family: Arial,Helvetica,sans-serif; font-size: 70%; text-align: left; margin: 0 auto; padding-top: 0.5em; width: 996px;}
+#footerLeft {float: left;}
+#footerRight {float: right;}
+#footer p {display: inline; color: #666; padding-right: 15px;}
+#footer ul {display: inline; list-style-type: none;}
+#footer ul li {display: inline;}
+#footer ul li {padding: 0.5em;}
+#footer .set1 {padding: 0;}
+#footer a:link, #footer a:visited {color: #369; font-weight: bold; text-decoration: none;}
+#footer .set2 a:link, #footer .set2 a:visited {font-weight: normal; color: #0b86b3;}
+#footer a:hover, #footer a:active, #footer .set2 a:hover, #footer .set2 a:active  {color: #C00; text-decoration: underline;}
+.clear {clear: both;}
+
+/*------------msnbc tabs --------------*/ 
+div#msnbcTabs {background: url(http://media4.s-nbcnews.com/j/msnbc/Templates/bbbCustomWrappers/Countdown/img/FooterHeader_bg.standard.gif) repeat-x top left;}
+
+/*overall width*/
+div#msnbcTabs div#tbx-24599933 {width:100% !important;} /*---to make sure tabs are centered --- */
+
+
+/*box header and tabbox tabs*/
+div#msnbcTabs .tbx-skin1 div.box-hdr {background: #14142c url(http://media1.s-nbcnews.com/i/msnbc/Components/ShowFronts/RachelMaddow/IMG/RachelMaddow_AdBottom-BG.jpg) no-repeat scroll top; height: 25px; margin: 0 auto;}
+.IE-6 div#msnbcTabs .tbx-skin1 div.box-hdr {margin: -40px 0 0 0; height: 28px;}
+.Safari div#msnbcTabs .tbx-skin1 div.box-hdr {background: none; background-color: #14142c;}
+
+div#msnbcTabs .tbx-skin1 div.box-hdr h2 {display: none;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.ctrl1 {display: none;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs {background: url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/tbx_logo2.gif') left no-repeat; margin: 0 auto; padding-bottom: 0px; text-align: center; width: 970px;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li.tab1 {margin-left: 110px;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li {background: url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/dktb_l3.gif') top left no-repeat; font-size: 65%; padding: 9px 0px 6px 2pt;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li a {background: url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/dktb_r3.gif') top right no-repeat; padding: 9px 20px 6px 17pt;}
+
+.IE div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li {padding: 0 0 0 2px;}
+.IE div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li a {line-height: 30px; margin: -1px 1px 0 0; padding: 9px 20px 7px 17pt;}
+.IE div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li a:hover {border-bottom: 0px; text-decoration: none;} 
+.IE-7 div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs {margin-top: -10px;}
+.IE-6 div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs {top: 1px;}
+
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li.current {background: url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/lttb_l3.gif') top left no-repeat;}
+div#msnbcTabs .tbx-skin1 .box-hdr ul.tabs li.current a {background: url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/lttb_r3.gif') top right no-repeat;} 
+
+
+/*section slice grids*/
+div#msnbcTabs .grid h6 {font-size: 70%;}
+.IE-7 div#msnbcTabs #cell3 .nowrap {display: block; height: 73px;} /*errant multimedia blocks*/
+div#msnbcTabs .grid .story {margin: 10px 20px 0px;}
+ div#msnbcTabs .grid #cell3 .story {margin-left: 10px;}
+ .IE div#msnbcTabs .grid #cell3 .story {left: -10px; margin-left: 20px; position: relative;}
+ .IE-7 div#msnbcTabs .grid #cell3 .story {width: 249px;}
+ div#msnbcTabs .grid #cell1 .story {margin: 10px 20px 0px -20px;}
+  .IE-6 div#msnbcTabs .grid #cell1 .story {margin: 10px 0px 0px 0px; left: -20px; position: relative;}
+
+div#msnbcTabs .tbx-body {border: 0; margin-left: -130px;}
+div#msnbcTabs .grid {left: 25px; margin: 4px auto; padding: 0 0 0 20px; position: relative;}/*width: 100% !important;*/
+div#msnbcTabs .grid .label {background: none; color: #999; height: 32px; line-height: 32px; padding-left: 30px;}
+ div#msnbcTabs .grid #cell1 .label {margin-left: -20px; padding-left: 0px;}
+  .IE-6 div#msnbcTabs .grid #cell1 .label {margin-left: 0px; left: -20px; padding-left: 0px; position: relative;}
+ div#msnbcTabs .grid #cell3 .label {padding-left: 20px;}
+ div#msnbcTabs .grid #cell4 .label {padding-left: 15px;}
+div#msnbcTabs .tbx-content {background: #FFF url('http://media1.s-nbcnews.com/i/msnbc/Sections/TVNews/Nightly News/Redesign/Nightly Show Front/images/tabbox_gradient.gif') top left repeat-x; padding-bottom: 20px; height: 300px;}
+/*hide partner headline colorbox elements that power RSS feed*/
+div#msnbcTabs div.tbx-content div.box {display: none;}
+
+/*sponsored ads*/
+div#msnbcTabs div#ad-front-sponsoredlinks {background: #FFF; margin: 0 auto; width: 996px; height: 140px;}
+div#ad-front-sponsoredlinks h6 {font-family: Tahoma, sans-serif; color: #999; border-bottom: 1px solid #d4d4d4; margin-bottom: 10px; padding-bottom: 5px;}
+div#ad-front-sponsoredlinks table {width: 966px !important;}
+div#ad-front-sponsoredlinks table td {background-color: #FFF !important; margin-right: 10px;}
+div#ad-front-sponsoredlinks table td .container {background-color: #FFF !important;}
+
+/*top sponsorship*/
+#bantopBadge {float: right; margin-top: -101px; margin-right: 5px; color: #999; font-family: verdana, sans-serif; font-size: 0.9em; position: relative;}
+#AdSponsor_F1 span {position: relative; top: -25px; left: 120px;} 
+
+/*bottom menu left nav*/
+#nav-left{clear:left;}
+
+#newsMAIN td.nmIS, #newsMAIN td.nmISH {padding-left: 0; padding-right: 0;}
+#newsMAIN table.nmTB #nmb {padding-left: 0px;}
+#newsMAIN .swappy a, #newsMAIN .swappy a:hover {background: none; margin-left: -2px;}
+
+#newsMAIN {background: url("http://media3.s-nbcnews.com/i/msnbc/Components/CSS/img/border-fade.gif") no-repeat bottom right; border-right: 1px solid white; width: 110px; padding: 0 15px 0 15px !important;}
+#newsMAIN table {font: normal 95%/100% Arial, Helvetica, sans-serif; padding: 0; margin: 0;}
+  .Opera #newsMAIN table {font-size: 99% !important;}
+#newsMAIN table.nmTS {width: 110px;}
+#newsMAIN table.nmTB {width: 110px;}
+#newsMAIN table tr td, #newsMAIN table tr td:hover {border-bottom: 1px dotted #BBB; margin: 0; padding: 0;}
+#newsMAIN table.nmTS tr td.nmIS {border-right: 0px; border-left: 0px;}
+#newsMAIN table.nmTS tr td {border-bottom: 0px;}
+  .IE-6 #newsMAIN table tr td {border-bottom: 0px; background: url('http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/dots.gif') repeat-x bottom; text-decoration: none;}
+  .IE-6 #newsMAIN .swappy {background: none;}
+  .Safari #newsMAIN table.nmTS tr td:hover {border-bottom: 1px dotted #BBB;}
+  .Safari #newsMAIN table tr td {background: transparent;}
+#newsMAIN table.nmTB {border: 0px; width: 100%;}
+#newsMAIN table.nmTB tr td, #newsMAIN table.nmTS tr td.nmAS, #newsMAIN table.nmTS tr td.nmIS {background: url(''); border-bottom: 1px dotted #BBB;}
+  .IE-6 #newsMAIN table.nmTB tr td, .IE-6 #newsMAIN table.nmTS tr td.nmAS, .IE-6 #newsMAIN table.nmTS tr td.nmIS {border-bottom: none; background: url('http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/dots.gif') repeat-x bottom; text-decoration: none; padding-bottom: 1px;}
+
+#newsMAIN table tr td a {font-family: Arial; font-size: 130% !important; background: transparent url('http://media4.s-nbcnews.com/i/msnbc/Components/CSS/img/nav-arrow-right.gif') right no-repeat; color: #147 !important; display: block; margin: 7px 0 0 0; padding: 3px 0 1px 0; width: 100%;}
+#newsMAIN a:hover {background: transparent url('http://media1.s-nbcnews.com/i/msnbc/Test-Dev/tiffehr/newsmenu/caret_h.gif') right no-repeat; color: #C00 !important; text-decoration: underline;}
+
+#newsMAIN .nmIBH, #newsMAIN .nmIBDH, #newsMAIN .nmISH {background: url('') right no-repeat; border-bottom: none !important; padding-bottom: 1px !important;}
+#newsMAIN .nmLB, #newsMAIN .nmLBH {font-size: 120% !important; color: #336699 !important; padding-right: 20px; width: auto;}
+  .IE-6 #newsMAIN .nmIBH, .IE-6 #newsMAIN .nmIBDH, .IE-6 #newsMAIN .nmISH {background: none !important;}
+  .Mac-Firefox #newsMain .nmLB, .Mac-Firefox #newsMAIN .nmLBH, .Safari #newsMain .nmLB, .Safari #newsMAIN .nmLBH {padding-bottom: 3px;}
+
+#newsMAIN table.nmTS tr td.nmIP, #newsMAIN table.nmTS tr td.nmIP:hover {background: url(''); border-bottom: 0px; color: #999; font-size: 14px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; padding-top: 10px;}
+span.nmTOP {line-height: 2.0em;}
+
+#newsMAIN table.nmTS tr td.disFLY {border: 0px; background: url(''); font-family: Arial, Helvetica, sans-serif; font-size: 0.8em;}
+  .Opera #newsMAIN table tr td a {padding-bottom: 3px;}
+#newsMAIN table tr td.disFLY a.toggle {background: url(''); display: inline; padding-right: 10px; width: auto;}
+#newsMAIN table tr td.disFLY a, #newsMAIN table tr td.disFLY a:hover {background: url(''); display: inline; width: auto;}
+  .disFLY img.iBut {background: url(''); border: 0px;}
+
+.nmTS {margin-bottom: 15px !important;}
+#flyouttogglerow {font-size: 110%; height: 50px; display:block !important; width:110px !important; background:transparent url(http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/btn-disable-flyouts.gif) no-repeat scroll left top;
+padding: 3px 5px; }
+  .Opera #flyouttogglerow{font-size:99%;}
+#flyouttogglerow a {color: #369 !important; width: 100px; display: block;}
+#flyouttogglerow a:hover {background: none;}
+.toggle {font-weight: normal;}
+#exclBtn {display: none;}
+  .Opera #exclBtn{margin-left:14px !important;}
+#newsMAIN.footita table tr td a {background-image: none; font-size: 80% !important; }
+#newsMAIN.footita a:hover {background-image: none;}
+
+
+/*footerHeader*/
+
+#msnbcTabs .footerHeader {width:996px; height:26px; font-size:65%; font-family:Arial,Helvetica,sans-serif; font-size:0.7em; font-weight:bold; color:#444; padding:10px 0 0 10px; margin:0 auto; text-align:left; padding-left: 40px;}
+#msnbcTabs .footerHeader img {position:relative; vertical-align:baseline; padding-left:5px;}
+
+/*lower grid css*/
+
+#msnbcTabs .tbx {width: 100% !important;}
+#msnbcTabs .grid {height:375px !important;}
+#msnbcTabs .grid .footGridLabel .label{background:none; border-bottom:1px #CCC solid; margin-right:0px;}
+#msnbcTabs .grid .width1-5 .img-thumb-m .text {width:auto; position:relative; margin-right:10px;}
+
+#msnbcTabs .grid .footGridLabel .label {height:25px;}
+#msnbcTabs .grid #cell2.footGridLabel .label {padding-left:20px;}
+#msnbcTabs .grid #cell3.footGridLabel .label{padding-left:10px;}
+#msnbcTabs .grid #cell4.footGridLabel .label {padding-left:20px;}
+#msnbcTabs .grid {margin:-10px auto;}
+
+.cd_col1Lede {margin-top: 35px; }
+</style><style type="text/css">
+
+/* ----- structure ----- */
+
+#fb-marqueeContainer {
+width:auto;
+height:37px;
+margin:0 auto;
+padding:0;
+background-color:#fff;
+}
+
+#fb-marqueeContainer #grid_48361926 {
+width:auto;
+height:37px;
+margin:0 auto;
+background-color:#fff;
+background:url(http://media1.s-nbcnews.com/i/MSNBC/Components/Video/_Player/Templates/ShowFront%20Template/marquee%20facebook/art/background_new.png) no-repeat top center;*/
+}
+
+#fb-marqueeContainer #grid_48361926 #cell1 {
+width:996px;
+height:37px;
+margin:0 auto; /* auto centers #cell1 within #grid_48361926 */
+position:relative;
+}
+
+
+/* ----- general ----- */
+
+#fb-marqueeContainer #grid_48361926 #cell1 img {
+display:inline !important;
+}
+
+#fb-marquee {
+height:37px;
+margin:-20px auto 0 auto;
+text-align:center !important;
+}
+
+#fb-marquee a,
+#fb-marquee a:hover,
+#fb-marquee a:visited {
+text-decoration:none !important;
+border-bottom:0 !important;
+color:#333 !important;
+cursor:hand;
+}
+
+.fb-msnbclogo {
+width:72px;
+height:16px;
+display:inline;
+position:relative;
+top:5px;
+}
+
+.fb-like-text {
+font-family:Arial, Helvetica, sans-serif; 
+font-size:14px; 
+font-weight:normal !important;
+color:#333;
+display:inline;
+margin-right:12px;
+position:relative;
+top:4px;
+}
+
+.fb-like {
+display:inline;
+top:7px;
+}
+
+
+/* ----- Browser fixes ----- */
+
+.IE-9 #fb-marquee {
+margin-top:-18px !important;
+}
+
+.IE-8 #fb-marquee {
+margin-top:-19px !important;
+}
+
+.IE-7 #fb-marquee {
+margin-top:-19px !important;
+}
+
+.IE-7 #fb-marquee .fb-like {
+display:inline !important;
+}
+
+.Mac #fb-marquee {
+margin-top:-18px !important;
+}
+
+</style><style># {display:none;}</style><script type="text/javascript" src="http://ads1.msads.net/library/dapmsn.js"></script><!-- removed by evann on 04 june 2012 / do not use pierre any longer -->
+<!--
+<script type="text/javascript" src="http://www.polls.newsvine.com/_vine/js/pierre?lib=jquery"></script>
+--></head><body><script type="text/javascript">
+BrowserDetect.init();
+</script><script type="text/javascript">
+function UberSniff(sUndefined){
+ var ua=navigator.userAgent.toLowerCase();
+ this.webtv=(ua.indexOf("webtv")>-1);
+ this.ie=(parseFloat(ua.slice(ua.indexOf("msie")+5)));
+ this.nn=(this.ie)?(-1):(parseFloat(ua.slice(ua.indexOf("mozilla/")+8)));
+ this.mac=(ua.indexOf("mac")>-1);
+ this.firefox=(ua.indexOf("firefox")>-1);
+ this.safari=(ua.indexOf("safari")>-1);
+ if(navigator.MSNBCFlashVer==sUndefined){
+  if(this.nn<=0&&this.ie<5){
+   navigator.MSNBCFlashVer=6;
+  }else{
+   if(!this.mac&&this.ie>4){
+    var oTestVersion=new tryCatch("oWMPlayer=new ActiveXObject('ShockwaveFlash.ShockwaveFlash.'+s1);return s1;","return 0;");
+    navigator.MSNBCFlashVer=-1;
+    for(var nCheckVersion=9;nCheckVersion>2;--nCheckVersion){
+     if(oTestVersion.trycatchV(nCheckVersion)){
+      navigator.MSNBCFlashVer=nCheckVersion;break;
+     }
+    }
+   }else{
+    if(navigator.plugins['Shockwave Flash']){
+     navigator.MSNBCFlashVer=(parseInt(navigator.plugins['Shockwave Flash'].description.substr(16)));
+    }else{
+     navigator.MSNBCFlashVer=-1;
+    }
+   }
+  }
+ }
+ this.flash=navigator.MSNBCFlashVer;if(navigator.MSNBCMPlayer==sUndefined){
+  if((this.nn<=0&&this.ie<5)||this.mac){
+   navigator.MSNBCMPlayer=true;
+  }else{
+   if(!this.mac&&this.ie>4){
+    var oTestVersion=new tryCatch("oWMPlayer=new ActiveXObject('WMPlayer.OCX');return oWMPlayer.versionInfo;","return 0;");
+    if(oTestVersion.trycatch()){
+     navigator.MSNBCMPlayer=oTestVersion.trycatch();
+    }else{
+     for(itest=0;itest<9;++itest){
+      oTestVersion=new tryCatch("oWMPlayer=new ActiveXObject('MediaPlayer.MediaPlayer.'+itest);return 1;","return 0;");
+      navigator.MSNBCMPlayer=(oTestVersion.trycatch());
+      if(navigator.MSNBCMPlayer){
+       itest=100;
+      }
+     }
+    }
+   }else{
+    navigator.MSNBCMPlayer=!!(navigator.mimeTypes&&navigator.mimeTypes["video/x-ms-wm"]&&navigator.mimeTypes["video/x-ms-wm"].enabledPlugin);
+   }
+  }
+ }
+ this.mplayer=navigator.MSNBCMPlayer;
+ this.screenHeight=top.screen.height;
+ this.screenWidth=top.screen.width;
+ this.colorDepth=(this.nn>=4)?top.screen.pixelDepth:top.screen.colorDepth;
+}
+</script><div id="container"><div id="header"><a title="msnbc" href="http://www.nbcnews.com/id/3096434">
+<h1 class="msnbc_logo">msnbc</h1></a>
+<h1 class="logo">The Rachel Maddow Show</h1><div id="headerLinks">
+                    <div id="msn">
+                        <ul>
+                            <li><a href=
+                            "http://www.msn.com">MSN Home</a></li>
+       <li>|</li>
+       <li><a href="http://hotmail.msn.com">Mail</a></li>
+                            <li>|</li>
+                            <li class="link"><a href=
+                            "http://login.passport.com/logout.srf?lc=1033&id=41762&ru=http%3a%2f%2fwww.nbcnews.com%2f&tw=1800&kv=1&ct=1197915813&ems=1&ver=2.1.6000.1&rn=67jXlZdb&tpf=1b21cc1796fd6658d80ed00def24cf74">
+                            Sign Out</a></li>
+
+                            <li class="msn_logo"><a href=
+                            "http://www.msn.com"><span>msn.com</span></a></li>
+                        </ul>
+<script type="text/javascript">
+sr_NewRadioBtns();
+</script>
+                    </div>
+                
+
+
+</div><div id="bantopBadge"><div id="AdSponsor_SF"><table>
+<td width="77" align="right" id="AdSponsor_F1">
+<span></span>
+</td>
+<td width="123" id="AdSponsor_F2"><style>#AdSponsor_SF {display:none;}</style></td>
+</table></div></div></div><div id="playerContainer"><div id="videoPlayer"><div id=VpFlash style="position:absolute;top:0;left:0;overflow:hidden;height:510;width:996;"  onMouseWheel="return false;"></div><div id=reportDiv style="display:none;"></div>
+<div id=surveyDiv style="display:none;"></div>
+<script language=javascript>
+
+// player and communication object need to be global
+var oVPlayer,oVPEFC;
+
+//this method should be called after the window has loaded.
+function VPMain(){
+//instatiate the player object passing the id  of the div you wish the flash to appear in
+ oVPlayer=new vPlayerObj("VpFlash","oVPEFC");
+ oVPEFC=new FlashComExternalObject("oVPEFC",oVPlayer,"reportDiv","surveyDiv");
+
+ //set the flavor values
+ oVPlayer.config="27221741"; //config doc
+ oVPlayer.docId="26315908";
+ oVPlayer.proxy=false;
+ oVPlayer.report=true;
+ oVPlayer.wbDomain="www.nbcnews.com"; oVPlayer.playerVersion="showPlayer";
+oVPlayer.omnitureIdentity="RachelMaddow";
+ oVPlayer.titlePrefix="Rachel Maddow video";
+    if (oVPlayer.vpId=="fl20172813"){
+     fl20172813_DoFSCommand=oVPEFC.fsC;
+    }
+    else{
+     if (oVPlayer.ie<1){
+      eval(oVPlayer.vpId+"_DoFSCommand=oVPEFC.fsC;");
+      }
+    }
+
+
+ oVPlayer.Render();
+ }
+pd_me.site="MSNBC";
+</script>
+
+<script language=javascript src="http://www.nbcnews.com/id/37156949/"></script>
+<!--<script language=javascript src="http://www.nbcnews.com/id/26842418/"></script>--></div></div></div><div id="grid_outerContainer"><div id="grid_innerContainer"><div id="grid_46657256" class="grid std autosize "><div id="cell1" class="content w4 sL sR" ct="GRD" cn="46657256/cell1" pn=""><span class="label no-border" id="label1"></span><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftherachelmaddowshow&amp;width=400&amp;height=62&amp;colorscheme=dark&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;appId=245912812100583" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:62px;" allowTransparency="true"></iframe><div class="story hed-4col"><div class="img"><div><a href="http://maddowblog.msnbc.msn.com/"><img src="http://media2.s-nbcnews.com/i/MSNBC/Sections/TVNews/MSNBC TV/Maddow/Grid/NewBlogGrid/TheMaddowBlog_GridLabel.jpg" height="98" width="533"></a></div></div><div class="text"><div><h6><a href="http://maddowblog.msnbc.msn.com/"></a></h6></div></div></div><br></div></div><script type="text/javascript">addGrid("grid_46657256");</script><br><div id="grid_46683663" class="grid std autosize "><div id="cell1" class="content w4 sL sR" ct="GRD" cn="46683663/Latest headlines" pn=""><span class="label no-border" id="label1">Latest headlines</span> <div class="story  "><h4><a href="http://maddowblog.msnbc.com/_news/2013/09/30/20759056-justice-department-targets-ncs-voter-suppression-law">Justice Department targets NC's voter-suppression law</a></h4></div><div class="story  "><h4><a href="http://maddowblog.msnbc.com/_news/2013/09/30/20758477-mondays-campaign-round-up">Monday's campaign round-up</a></h4></div><div class="story  "><h4><a href="http://maddowblog.msnbc.com/_news/2013/09/30/20758360-obamacare-stopped-being-a-bill-several-years-ago">Obamacare stopped being a 'bill' several years ago</a></h4></div><div class="story  "><h4><a href="http://maddowblog.msnbc.com/_news/2013/09/30/20757981-a-post-democracy-phase">A 'post-democracy' phase</a></h4></div><div class="story  "><h4><a href="http://maddowblog.msnbc.com/_news/2013/09/30/20757544-a-series-of-near-death-experiences">A series of 'near-death experiences'</a></h4></div></div></div><script type="text/javascript">addGrid("grid_46683663");</script><div id="ShowcaseAd"><div class="w300 aC textSmallGrey p7" id="AdShowcase_F1">
+<div class="ad-label"><a href="http://www.nbcnews.com/id/31066137/media-kit/" class="mediakit" target="_blank">Advertise</a> | <a href="http://g.msn.com/AIPRIV/en-us" class="adchoices" target="_blank">AdChoices</a></div><script type="text/javascript">
+    try {
+        (function () {
+
+            var networkId = 2620;
+            var adUnit = "tv.msnbc/front";
+            var height = 250;
+            var width = 300;
+
+            _gpt_simpleUrl.CreateTag(networkId, adUnit, width, height);
+        } ());
+    } catch (e) { }
+</script></div></div></div></div><div id="msnbcContainer"><div id="msnbcTabs"><div id="adContainer"></div></div></div><div id="footerContainer"><div id="footer"><div id=footerLeft>
+<p>&copy; 2012 NBCNews.com</p>
+<ul class="set1">
+<li><a href="http://tv.msnbc.com">MSNBC</a></li>
+<li><a href="http://www.nbcnews.com/id/3080273/">About us</a></li>
+<li><a href="http://www.nbcnews.com/id/32359544/">Contact</a></li>
+<li><a href="http://www.nbcnews.com/id/3303511/">Help</a></li>
+<li><a href="http://www.nbcnews.com/html/HtmlSitemap0.html">Site map</a></li>
+<li><a href="http://www.nbcnews.com/id/27365695/">Careers</a></li>
+<li><a href="http://www.nbcnews.com/id/3303540/">Terms &amp; Conditions</a></li>
+</ul>
+</div>
+<div id="footerRight">
+<ul class="set2">
+<li><a href="http://g.msn.com/AIPRIV/en-us">About our ads</a></li>
+<li><a href="http://www.nbcnews.com/id/48150786/">Privacy policy</a></li>
+<li><a href="http://www.nbcnews.com/id/26613008/">Advertise</a></li>
+</div></div></div></div><a href="#skipnav" style="display:none;visibility:hidden">Skip navigation</a>
+<!-- SiteCatalyst code version: H.15.1.Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">s_account="msnbcom";if (typeof(readCookie)==="function" && readCookie("o.sv2") === "true"){s_account = "msnbcom,msnbcstorytest";}
+    </script>
+<script language="JavaScript" type="text/javascript" src="http://www.nbcnews.com/js/s_code.js"></script>
+<script>pd_top('Front','html40','26315908','','','msnbc','Rachel Maddow show','Rachel Maddow Show','','','18:05, 20/08/13','','section','','','27668917','70039','', '1',0,
+		{AdBanner:{},AdBannerFront:{},AdSponsor:{},AdOverThePage:{}}
+	,'MSNBC','true','','','');pd_me.ads = {'adShowcaseJson':{'adCallString':'','adWidth':'300','adHeight':'250'}};pd_om('msnbcom','100');</script>
+<script language="JavaScript" type="text/javascript">
+if(eventTrackerParams && ((pd_me.id!=3053415)||(checkTime()==true && pd_me.id==3053415)))
+{   
+  EventTracker().track(eventTrackerParams);  
+}</script>
+
+<div id="nm_c1" class="nmX"> </div><div id="nm_c2" class="nmX"> </div><div id="nm_c3" class="nmX"> </div><div id="nm_c4" class="nmX"> </div><script type="text/javascript">
+       /* Pierre.util.FBClient.headlessInit(); */
+</script></body></html>

@@ -1,0 +1,36 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--<html manifest="mobile.manifest" xmlns="http://www.w3.org/1999/xhtml">-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=673"; initial-scale=1.0; maximum-scale=2.0;">
+	<link href="global.css" rel="stylesheet" type="text/css" media="screen and (min-device-width: 673px)">	
+	<link href="global.css" rel="stylesheet" type="text/css" media="screen and (max-device-width: 672px)">	
+	<TITLE>Smilebooth TV | Guys Choice 2012</TITLE>
+</head>
+<body>
+<div id="header">
+	<div id="logoControl">
+		<div><a href="http://guyschoice.spike.com/"><img src="spikeguyschoice2012_logo2.png"  width="545" height="64" border="0" alt="Spike TV"></a></div>
+	</div>
+</div>
+<div id="wrapper">
+	<div id="content">
+    	<div id="masterTable">
+            <div class="cell">
+              <div class="middle">
+                	<div class="headlineImage">
+                        	<img src="https://s3.amazonaws.com/spike_guys_choice/20120602100033.gif" width="640" height="427" alt="Image Not Loaded.">
+                    </div>
+              </div>
+            </div>
+        </div>
+    </div>
+	<div id="footer" style="background-color=black;">
+	<div><a href="http://twitter.com/#!/search/guyschoice"><img src="spikegc2012_tweet.png"  width="187" height="31" border="0" " alt="#Guys Choice Awards 2012"></a></div>
+	</div> 
+</div>
+</body></html>
+
+<!-- view-source:https://s3.amazonaws.com/spike_guys_choice/sample02h.html -->

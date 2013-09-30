@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+     Theme: The Minimalist v1.
+     Design: The Minimalist (http://minimalist.co)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+     <title>Folks Dressed Up Like Eskimos</title>	
+     <meta name="description" content="Everybody knows a turkey and some mistletoe helps to make the season bright, but not many people know how Eskimos dress. Eskimos (in Canada, at least) generally prefer to be referred to as Inuit,..." />
+     <meta name="if:Show description" content="1" />	
+     <meta name="if:Show search" content="1" />
+     <meta name="text:Twitter name" content="" />
+     <meta name="text:Disqus Shortname" content="" />
+     <meta name="text:Google Analytics ID" content="" />	
+     <link rel="shortcut icon" href="http://31.media.tumblr.com/avatar_c37aec081365_128.png" />
+     <link rel="alternate" type="application/rss+xml" title="Folks Dressed Up Like Eskimos" href="http://folksdresseduplikeeskimos.tumblr.com/rss" />
+
+<!-- Styles -->
+
+<link rel="stylesheet" href="http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css" />
+<style type="text/css">
+
+/*----- GENERAL -----*/
+
+     header, footer, section, article, nav, aside {
+        display: block;
+     }
+
+     body {
+        background: #ffffff;
+        color: #222;
+        font: 12px/20px Georgia, "Times New Roman", Times, serif;
+        padding-top: 25px;
+        text-align: center;
+        width:500px;
+        margin: 0 auto;
+     }
+
+     h1, h2, h3, hQ {
+        font-family: Cufon;
+     }
+
+     h1 {
+        font-size: 50px;
+        line-height: 50px;
+     }
+
+     h2 {
+        font-size: 31px;
+        line-height: 37px; 
+     }
+
+     h3 {
+        font-size: 21px;
+        line-height: 27px; 
+     }
+
+     a:link, a:visited {
+        color: #222222;
+        font-weight: bold;
+        text-decoration: none;
+     }
+     
+     a:hover, a:active {
+        text-decoration: underline;
+     }
+
+     hr{
+        border:0 #ccc solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+     }
+
+     ol{list-style:decimal}
+
+     ul{list-style:disc}
+
+     li{margin-left:30px}
+
+     p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:15px}
+
+     #main {
+        padding: 0px;
+     }
+
+/*----- MASTHEAD -----*/
+
+     .noMeta > div {
+        padding: 0px;
+     }
+
+     #masthead {
+        margin-bottom: 0px;
+     }
+
+     #masthead h1 {
+        margin-bottom: 0;
+     }
+
+     #masthead h1 a:link, #masthead h1 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #masthead h1 a:active {
+        outline: 0;
+     }
+
+     #masthead p {
+        font-family: Georgia, serif;
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 0;
+     }
+
+     #masthead a:link, #masthead a:visited {
+        color: #fff;
+     }
+
+     #siteDescription{
+        font-size: 13px;
+        color: #222;
+        text-transform: Uppercase;
+        border-top: 1px solid #222;
+        margin-top: 20px;
+        margin-bottom: -5px;
+        padding: 10px 0 0 0;
+        font-family: Cufon;
+     }
+
+/*----- SEARCH FORM -----*/
+
+     #frmSearch {
+        padding-top: 20px; 
+        display: none;
+     }
+
+     #txtSearch {
+        background: url(http://static.tumblr.com/bpryy0m/6lRl6gmys/search.jpg) left no-repeat;
+        width: 225px;
+        padding: 2px 0 0 20px;
+        font: 12px/12px Georgia, "Times New Roman", Times, serif;
+        color: #222;
+        border: 0px;
+     }
+
+/*----- MAIN HEADER NAV STRIP -----*/
+
+     #mainNav {
+        border-top: 1px solid #222;
+        border-bottom: 2px solid #222;
+        margin-top: 20px;
+        padding: 13px 0 14px 0;
+        font-family: Cufon;
+     }
+
+     #mainNav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     #mainNav li {
+        margin: 5px;
+        display: inline;
+        padding: 0;
+     }
+
+     #mainNav a:link, #mainNav a:visited {
+        padding: 0;
+        font-size: 14px;
+        line-height: 14px;
+        margin: 0 2px;
+        text-decoration: none;
+        color: #222;
+        text-transform: Uppercase;
+     }
+
+     #mainNav a:hover, #mainNav a:active {
+        outline: none;
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     #mainNav a.active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+/*----- ARTICLE META INFO -----*/
+
+     #designline {
+        margin-top: 50px;
+     }
+
+     h5{
+        position: relative;
+        top: -35px;
+        margin-bottom: 0px;
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+        border-bottom: 1px solid #bca474;
+        background: #fff;
+     }
+
+     h5 a:link, .line a:visited{
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+     }
+
+     h5 a:hover{
+        text-decoration: underline;
+     }
+
+     h5 abbr{
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 8px;
+        background: #fff;
+        top: 10px;
+     }
+
+     h5.postDate a{
+        color: #bca474;
+     }
+
+/*----- ARTICLE -----*/
+
+     article {
+        background: #fff;
+        margin-bottom: 20px;
+        text-align: left;
+       position: relative;
+      }
+
+     article img {
+        border: none;
+        margin-bottom: 15px;
+        max-width: 500px;
+     }
+
+     article p img {
+        margin: 0;
+     }
+     article > div {
+        padding: 0px;
+        overflow: hidden;
+     }
+     article .searchPage {
+        margin: 35px 0 0 0;
+     }
+
+     .searchPageText {
+        margin: 0 0 30px 0;
+     }
+
+     article .meta a:link, article .meta a:visited {
+        text-decoration: none;
+     }
+
+     article .meta a:hover, article .meta a:active {
+        text-decoration: underline;
+     }
+
+     article h2 {
+        text-align: center;
+        color: #222222;
+     }
+
+     article h2 a:link, article h2 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     article h2 a:hover, article h2 a:active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     blockquote {
+        border-left: 2px solid #bca474;
+        margin-left: 0;
+        padding-left: 1em;
+     }
+
+     #quoteSource{
+        margin: 0 auto;
+        text-align: left;
+     }
+
+     #quoteText h2 {
+        text-align: left;
+        color: #222222;
+     }
+
+     article .chat {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+     }
+
+     article .chat li {
+        margin: 0 0 2px;
+        padding: 2px 0 2px 0;
+     }
+
+     .photoCaption {
+        text-align: center;
+     }
+
+/*----- AUDIO PLAYER -----*/
+
+     .audio {
+        height: 28px;
+        width: 26px;
+        overflow: hidden;
+        margin: auto;
+        padding-top: 7px;
+     }
+
+     .audioc {
+        background-image:url('http://static.tumblr.com/f1whv92/9iCl6bfgp/audiocircle.png');
+        background-repeat: no-repeat; 
+        height: 41px;
+        width: 41px;
+     }
+
+     .audioCaption {
+        margin-top: 1px;
+     }
+
+     .audioleft {
+        width: 41px;
+        float: left;
+      }
+
+     .audioright {
+        width: 444px;
+        float: right;
+      }
+
+     .audioContainer {
+        margin-top: 5px;
+     }
+
+     .audioClear {
+        clear:both;
+     }
+
+/*----- ARTICLE NOTES -----*/
+
+     .notes {
+        border-top: 1px solid #bca474;
+        list-style: none;
+        padding: 20px 0 5px 0;
+        margin: 30px 0 0 0;
+     }
+     .notes li {
+        margin: 0;
+     }
+
+     .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+     }
+
+     .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #222222;
+     }
+
+     .media {
+        width: 500px;
+        margin-bottom: 20px;
+     }
+
+/*----- PAGE NAVIGATION -----*/
+
+     #pageNav {
+        margin-top: 20px;
+        border-top: 1px solid #222;
+     }
+
+     #pageNav ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+     }
+
+     #pageNav li {
+        margin: 0;
+        display: inline;
+     }
+
+     #pageNav a:link, #pageNav a:visited {
+        font: 11px Georgia, "Times New Roman", Times, serif;
+        padding: 0;
+        margin: 0 2px;
+        background: #34hdf5;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #pageNav a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+     }
+
+     #pageNavOlder:after {
+        content: " »";
+        font-size: 10px;
+     }
+
+     #pageNavNewer:before {
+        content: "« ";
+     }
+
+/*----- FOOTER META -----*/
+
+     #sitemeta {
+        border-top: 2px solid #222;
+        color: #222;
+        padding: 20px 0 32px 0;
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 11px;
+     }
+
+     #sitemeta p {
+        margin: 0;
+     }
+
+     #sitemeta a:link, #sitemeta a:visited {
+        color: #222;
+        font-weight: bold;
+     }
+
+
+</style>
+
+<!-- Scripts -->
+
+<!--[if IE]>
+     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     <script src="http://static.tumblr.com/oawavkn/JPAlyq9zp/cufon-yui.js" type="text/javascript"></script>
+     <script src="http://static.tumblr.com/f1whv92/fgIl65bo1/cufon_300.font.js" type="text/javascript"></script>
+
+     <script type="text/javascript">
+        Cufon.replace('h1',{ fontFamily: "Cufon" });
+        Cufon.replace('h2',{ fontFamily: "Cufon" });
+        Cufon.replace('h3',{ fontFamily: "Cufon" });
+        Cufon.replace('#mainNav',{ fontFamily: "Cufon" });
+        Cufon.replace('#siteDescription',{ fontFamily: "Cufon" });
+     </script>
+
+<script>
+     $(function() {
+        var search = $("#txtSearch").val();
+        var placeholder = "Search...";
+        var fadeToOpacity = 0.4;
+        $("#txtSearch").fadeTo("normal", fadeToOpacity);
+        if (search == "") {
+     $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").blur(function() {
+        search = $("#txtSearch").val();
+        if (!(search != "" && search != placeholder)) {
+        $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").fadeTo("normal", fadeToOpacity);
+     });
+     $("#txtSearch").focus(function() {
+        search = $("#txtSearch").val();
+        if (search == placeholder) {
+        $("#txtSearch").val("");
+     }
+     $("#txtSearch").fadeTo("normal", 1);
+     });
+     $("#btnSearch").click(function() {
+     $("#frmSearch").slideToggle("normal");
+     $(this).toggleClass("active");
+ //  $("#txtSearch").focus();
+     });
+     });
+</script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="Folks Dressed Up Like Eskimos" />
+<meta property="og:url" content="http://folksdresseduplikeeskimos.tumblr.com/?og=1" />
+<meta property="og:description" content="Everybody knows a turkey and some mistletoe helps to make the season bright, but not many people..." />
+<meta property="og:type" content="tumblr-feed:tumblelog" />
+<meta property="og:image" content="http://31.media.tumblr.com/avatar_c37aec081365_128.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:title" content="folksdresseduplikeeskimos" />
+            <meta name="twitter:description" content="Everybody knows a turkey and some mistletoe helps to make the season bright, but not many people know how Eskimos dress. &lt;br&gt;&lt;br&gt;
+Eskimos (in Canada, at least) generally prefer to be referred to as Inuit, which means &quot;people&quot; in Inuktitut, the language of the Inuit. Inuit have a variety of modes of dress. &lt;br&gt;&lt;br&gt; 
+
+This website shows you the diversity of Inuit style, so you can visualize it better, when you hear the song during this Christmas season.  &lt;br&gt;&lt;br&gt; Let&#039;s challenge the stereotypes! Email me your pictures at folksdresseduplikeeskimos@gmail.com &lt;br&gt;&lt;br&gt;Nakurmiik!! &lt;br&gt;&lt;br&gt;Joseph Flowers, Inuk from Nunatsiavut and Nunavik" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=folksdresseduplikeeskimos&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=folksdresseduplikeeskimos&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=folksdresseduplikeeskimos&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="Eskimo,fashion,Inuit,Nunavik,Sealskin" />
+
+</head>
+<body>
+
+     <header id="masthead" class="clearfix">
+        <div id="thehead">          
+              <h1 class="cufon"><a href="/">Folks Dressed Up Like Eskimos</a></h1>
+              <form action="/search" method="get" id="frmSearch">
+              <input type="text" id="txtSearch" name="q" value="" />
+              </form>    
+
+     
+        <div id="siteDescription">Everybody knows a turkey and some mistletoe helps to make the season bright, but not many people know how Eskimos dress. <br><br>
+Eskimos (in Canada, at least) generally prefer to be referred to as Inuit, which means "people" in Inuktitut, the language of the Inuit. Inuit have a variety of modes of dress. <br><br> 
+
+This website shows you the diversity of Inuit style, so you can visualize it better, when you hear the song during this Christmas season.  <br><br> Let's challenge the stereotypes! Email me your pictures at folksdresseduplikeeskimos@gmail.com <br><br>Nakurmiik!! <br><br>Joseph Flowers, Inuk from Nunatsiavut and Nunavik</div>
+     
+
+           <nav id="mainNav">        
+              
+              
+                               
+              <li><a href="/archive">Archive</a></li>
+              <li><a href="/random">Random</a></li>
+              <li><a href="http://folksdresseduplikeeskimos.tumblr.com/rss">RSS</a></li>
+              <li><a href="javascript:;" id="btnSearch">Search</a></li>
+              
+           </nav>         
+        </div>
+     </header>
+
+     <section id="main" class="clearfix">
+     <div class="layout">           
+     
+      
+           
+
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/52310377662/an-open-letter-to-the-cfl-and-the-ottawa-football-team">6th Jun 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/52310377662/an-open-letter-to-the-cfl-and-the-ottawa-football-team#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="http://folksdresseduplikeeskimos.tumblr.com/post/52310377662/an-open-letter-to-the-cfl-and-the-ottawa-football-team">An open letter to the CFL and the Ottawa football team owners</a></h2>
+              <p><div></div>
+<div>I am very much looking forward to the CFL&#8217;s return to Canada&#8217;s capital. Football holds a special place in the history and heart of our beautiful city. I&#8217;m conﬁdent that the new team will be a source of excitement and pride for thousands of fans.</div>
+<div></div>
+<div>Though there are rumors of a new name, as of today, the team has not yet chosen its moniker.</div>
+<div></div>
+<div>The CFL has previously demonstrated its comfort with duplicating team names. While Ottawa is indeed home to a signiﬁcant Inuit population, I&#8217;d discourage duplicating Edmonton&#8217;s CFL team name. Similarly, even though there are many First Nations people here on Algonquin Unceded Territory, I&#8217;d also suggest you steer clear of duplicating Nepean&#8217;s name: &#8220;the Redskins&#8221;. </div>
+<div></div>
+<div>If you need to duplicate a team name, why not go with the &#8220;Roughriders&#8221;. Saskatchewan was ok with it before, maybe they will be again, and it could help us recall an exciting era for football in this great city.</div></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/51447977440/special-edition-off-season-eskimo-post-however">26th May 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/51447977440/special-edition-off-season-eskimo-post-however#notes">1 note</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/51447977440"><img src="http://31.media.tumblr.com/7f643d9edf24ff7495636d58220ccd3c/tumblr_mnfuyoQSCG1r6jg7do1_500.jpg" alt="Special edition, off-season Eskimo post. However, it is important to note that Inuit remained clothed in various styles throughout the year. My friend Janice sent in this photo. She said, &amp;#8220;here&amp;#8217;s one of me in my emilyandfin dress and aldo shoes.&amp;#8221;&nbsp;" /></a>
+              <div class="photoCaption"><p><span>Special edition, off-season Eskimo post. However, it is important to note that Inuit remained clothed in various styles throughout the year. My friend Janice sent in this photo. She said, &#8220;here&#8217;s one of me in my emilyandfin dress and aldo shoes.&#8221; </span></p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/40236812265/i-met-kathleen-on-the-right-playing-volleyball">11th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/40236812265/i-met-kathleen-on-the-right-playing-volleyball#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/40236812265"><img src="http://24.media.tumblr.com/2782f962c97372fef6d54d06213e4283/tumblr_mfpnxnmiHT1r6jg7do1_500.jpg" alt="I met Kathleen (on the right) playing volleyball. She&amp;#8217;s really good, and her team always kicks my team&amp;#8217;s ass. She sent me this picture: &amp;#8220;I always dress for comfort, but often you will find me accessorizing&nbsp;with sealskin. Left of me is my friend Kristi from Norway&amp;#8217;s Riddu&nbsp;Riddu festival.&amp;#8221;" /></a>
+              <div class="photoCaption"><p><span>I met Kathleen (on the right) playing volleyball. She&#8217;s really good, and her team always kicks my team&#8217;s ass. She sent me this picture: &#8220;I always dress for comfort, but often you will find me accessorizing </span><span>with sealskin. Left of me is my friend Kristi from Norway&#8217;s <a href="http://www.riddu.no/home.21023.en.html">Riddu </a></span><span><a href="http://www.riddu.no/home.21023.en.html">Riddu festival</a>.&#8221;</span></p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/40156804754/brian-is-another-twitter-friend-of-mine-i-look">10th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/40156804754/brian-is-another-twitter-friend-of-mine-i-look#notes">2 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/40156804754"><img src="http://31.media.tumblr.com/a7a0c1db934e4699f298c5879e9ae162/tumblr_mg2tc74dOu1r6jg7do1_r1_500.jpg" alt="Brian is another twitter friend of mine. I look forward to meeting him in real life one day. He sent me this picture, which he describes below.&nbsp;
+
+Here I am with my winter hunting gear:
+
+Vancouver 2010 Winter Olympics toque
+Oalkey Neck Warmer
+Home made winter parka with a Canada Goose&nbsp;Anorak parka over top
+Polar Bear hide wind pants
+Sorel Intrepid Expedition Boots
+and Raber Gloves.
+
+Temperature was around -46 degrees Celsius (with the wind) at the time of the picture. Was headed out polar bear hunting." /></a>
+              <div class="photoCaption"><p><div>Brian is another <a href="https://twitter.com/tattuinee">twitter friend</a> of mine. I look forward to meeting him in real life one day. He sent me this picture, which he describes below. </div>
+<div></div>
+<div>Here I am with my winter hunting gear:</div>
+<div></div>
+<div>Vancouver 2010 Winter Olympics toque</div>
+<div>Oalkey Neck Warmer</div>
+<div>Home made winter parka with a Canada Goose Anorak parka over top</div>
+<div>Polar Bear hide wind pants</div>
+<div>Sorel Intrepid Expedition Boots</div>
+<div>and Raber Gloves.</div>
+<div></div>
+<div>Temperature was around -46 degrees Celsius (with the wind) at the time of the picture. Was headed out polar bear hunting.</div></p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/40075737443/heres-my-friend-victoria-who-is-originally-from">9th Jan 2013</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+              <div class="media"><div id="photoset_40075737443" class="html_photoset">    <iframe id="photoset_iframe_40075737443" class="photoset" scrolling="no" frameborder="0" height="184" width="500"
+                style="allowTransparency=true; border:0px; background-color:transparent; overflow:hidden;" src="http://folksdresseduplikeeskimos.tumblr.com/post/40075737443/photoset_iframe/folksdresseduplikeeskimos/tumblr_mgccavPa321r6jg7d/500/false"></iframe></div></div>
+              <div class="caption"><p>Here&#8217;s my friend Victoria, who is originally from Kangirsuk in Nunavik, but now lives in Greenland. I&#8217;m glad to have some Greenland Eskimo representation on the blog! Thanks, Victoria! Victoria once told me that I reminded her very much of my Uncle Bob. I guess she wasn&#8217;t too far off the mark. See this. (<a href="http://folksdresseduplikeeskimos.tumblr.com/post/13213144702/here-is-a-picture-of-me-and-my-uncle-bob-i-am">CLICK</a>) </p>
+<p>On the left is a photo of Victoria in Nuuk, Greenland, which her friend Dida took. Victoria didn&#8217;t describe her outfit in this photograph. However, I can tell she is wearing appropriate clothing for the weather and conditions she was in at the time.</p>
+<p>On the right is a photo of Victoria in a Christmas Party dress with a pair of angel wings. </p></div>
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/39994047263/here-is-a-photo-of-my-friend-jobie-of-all-my">8th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/39994047263/here-is-a-photo-of-my-friend-jobie-of-all-my#notes">1 note</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <img src="http://24.media.tumblr.com/bdfc66a607c8e6a1de0a4d8f2c44d34e/tumblr_mfht10ZzL51r6jg7do1_500.jpg" alt="Here is a photo of my friend Jobie. Of all my facebook friends, I like reading Jobie&amp;#8217;s facebook status updates the most. I laugh hard every time I see something new pop up from Jobie on my timeline.
+Jobie describes his clothing in the third person. Jobie wearing a Montreal Expos ball cap, a smile, seal skin mitts, a Columbia sportswear jacket, and Wranger jeans." />
+              <div class="photoCaption"><p>Here is a photo of my friend Jobie. Of all my facebook friends, I like reading Jobie&#8217;s facebook status updates the most. I laugh hard every time I see something new pop up from Jobie on my timeline.</p>
+<p>Jobie describes his clothing in the third person. Jobie wearing a Montreal Expos ball cap, a smile, seal skin mitts, a Columbia sportswear jacket, and Wranger jeans.</p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/39908717469/double-eskimo-singing-ladies-heres-a">7th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/39908717469/double-eskimo-singing-ladies-heres-a#notes">2 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/39908717469"><img src="http://25.media.tumblr.com/cc0180aed1fc09209deab8bf7fe97194/tumblr_mfg0c7q8kX1r6jg7do1_500.jpg" alt="!!! DOUBLE ESKIMO SINGING LADIES&amp;#160;!!!
+Here&amp;#8217;s a photo of Sylvia and Sarah. Sylvia is wearing an shirt made by Victoria Okpik with seal skin that was dyed red. Sarah&amp;#8217;s is not dyed.&nbsp;" /></a>
+              <div class="photoCaption"><p><strong>!!! DOUBLE ESKIMO SINGING LADIES&#160;!!!</strong></p>
+<p>Here&#8217;s a photo of Sylvia and Sarah. Sylvia is wearing an shirt made by Victoria Okpik with seal skin that was dyed red. Sarah&#8217;s is not dyed. </p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/39812234731/here-is-a-photo-of-my-friend-pauletta-pauletta">6th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/39812234731/here-is-a-photo-of-my-friend-pauletta-pauletta#notes">1 note</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <img src="http://25.media.tumblr.com/46ebe47591422d54926a02dfb97ee2f7/tumblr_mfhtgeVu7B1r6jg7do1_r1_400.jpg" alt="Here is a photo of my friend Pauletta. Pauletta and I share the same birthday, and we grew up together as neighbours and as classmates in Goose Bay, Labrador.
+Pauletta describes her outfit: &amp;#8220;Here I am wearing a Canada Goose Down Jacket with my mitts my husband gave me, made out of leather with rabbit fur and floral design, made in Kangiqsualujjuaq, QC, Nunavik. Also wearing soft moc boots, factory made kamiks! Ready for the Cold winter!&amp;#8221;" />
+              <div class="photoCaption"><p>Here is a photo of my friend Pauletta. Pauletta and I share the same birthday, and we grew up together as neighbours and as classmates in Goose Bay, Labrador.</p>
+<p>Pauletta describes her outfit: &#8220;Here I am wearing a Canada Goose Down Jacket with my mitts my husband gave me, made out of leather with rabbit fur and floral design, made in Kangiqsualujjuaq, QC, Nunavik. Also wearing soft moc boots, factory made kamiks! Ready for the Cold winter!&#8221;</p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/39722382919/double-the-folks-double-the-dressing-up">5th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/39722382919/double-the-folks-double-the-dressing-up#notes">5 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/39722382919"><img src="http://31.media.tumblr.com/227eef49a424b6b0ec9d45b13fed4032/tumblr_mfhtd6RWAx1r6jg7do1_500.jpg" alt="!!! DOUBLE THE FOLKS&amp;#160;!!! DOUBLE THE DRESSING UP LIKE ESKIMOS&amp;#160;!!!
+Here&amp;#8217;s a photo that Adamina and Jenny sent me. Adamina describes the photo and her outfit like this.
+&quot;This photo was taken in front of the University College building on the UWO campus in London, Ontario.&nbsp;I am wearing a navy blue down coat and black faux leather gloves-both from Mexx. Jeans from American Eagle and olive Tretorn calf-length rain boots.
+My friend Jenny is an Inupiat from Nome, Alaska! She is an awesome human being who was on exchange at Western for one semester from the University of Washington in Seattle. Really amazing that we ended up in London at the same point in our respective lives.&amp;#8221;
+
+Jenny&amp;#8217;s description: &amp;#8220;I am wearing an American Apparel hat, Merrell jacket, Cheap Monday jeans and converse shoes and fair trade wool gloves.&amp;#8221;" /></a>
+              <div class="photoCaption"><p><strong>!!! DOUBLE THE FOLKS&#160;!!! DOUBLE THE DRESSING UP LIKE ESKIMOS&#160;!!!</strong></p>
+<p>Here&#8217;s a photo that Adamina and Jenny sent me. Adamina describes the photo and her outfit like this.</p>
+<p>"This photo was taken in front of the University College building on the UWO campus in London, Ontario. I am wearing a navy blue down coat and black faux leather gloves-both from Mexx. Jeans from American Eagle and olive Tretorn calf-length rain boots.</p>
+<div>My friend Jenny is an Inupiat from Nome, Alaska! She is an awesome human being who was on exchange at Western for one semester from the University of Washington in Seattle. Really amazing that we ended up in London at the same point in our respective lives.&#8221;</div>
+<div></div>
+<div>Jenny&#8217;s description: &#8220;I am wearing an American Apparel hat, Merrell jacket, Cheap Monday jeans and converse shoes and fair trade wool gloves.&#8221;</div></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="http://folksdresseduplikeeskimos.tumblr.com/post/39634113765/here-is-a-picture-of-my-friend-lisa-shes-pretty">4th Jan 2013</a> | <a href="http://folksdresseduplikeeskimos.tumblr.com/post/39634113765/here-is-a-picture-of-my-friend-lisa-shes-pretty#notes">2 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="http://folksdresseduplikeeskimos.tumblr.com/image/39634113765"><img src="http://25.media.tumblr.com/da73625e9e8eb671d608391c4d38f791/tumblr_mffy7ea2Rx1r6jg7do1_500.jpg" alt="Here is a picture of my friend Lisa. She&amp;#8217;s pretty awesome. In this photo, she&amp;#8217;s skating on a forest path in Ste Catherine de la Jacques Cartier.
+Side note: Cartier was one of the first &amp;#8220;explorers&amp;#8221; from France to come to North America/Turtle Island, and he met the Haudenosaunee people. You can see the real life reenactment here.&nbsp;
+Lisa provided this photo with the description below.&nbsp;
+&quot;I am using my skates from Canadian Tire, acrylic scarf that I initially thought was made of wool and it isn&amp;#8217;t, my down filled parka was a gift from my mother 30 years ago and I&amp;#8217;ve changed the fox fur around the hood since. My &quot;NorthFace&quot; windproof pants are actually from a Sherpa shop in the Himalayas. &nbsp;My mittens are from a Hunter Support shop in one of the communities I&amp;#8217;ve been to in Nunavik and my hat is an Ivakkak dog team race promotional item I got for free!&quot;" /></a>
+              <div class="photoCaption"><p>Here is a picture of my friend Lisa. She&#8217;s pretty <a href="http://www.nunatsiaqonline.ca/stories/article/65674photo_silver_for_nunaviks_lisa_koperqualuk_in_karate_competition/">awesome</a>. In this photo, she&#8217;s skating on a forest path in Ste Catherine de la Jacques Cartier.</p>
+<p>Side note: Cartier was one of the first &#8220;explorers&#8221; from France to come to North America/<a href="http://en.wikipedia.org/wiki/Turtle_Island_(North_America)">Turtle Island</a>, and he met the Haudenosaunee people. You can see the real life reenactment <a href="http://www.youtube.com/watch?v=O1jG58nghRo">here</a>. </p>
+<p>Lisa provided this photo with the description below. </p>
+<p><span>"I am using my skates from Canadian Tire, acrylic scarf that I initially thought was made of wool and it isn&#8217;t, my down filled parka was a gift from my mother 30 years ago and I&#8217;ve changed the fox fur around the hood since. My "NorthFace" windproof pants are actually from a Sherpa shop in the Himalayas.  My mittens are from a Hunter Support shop in one of the communities I&#8217;ve been to in Nunavik and my hat is an Ivakkak dog team race promotional item I got for free!"</span></p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+
+     
+      
+     
+        <nav id="pageNav">
+           <ul class="clearfix">
+              
+             
+             <li><a href="" class="active">1</a></li>
+             
+             
+             
+             <li><a href="/page/2">2</a></li>
+             
+             
+             <li><a href="/page/3">3</a></li>
+             
+             
+             <li><a href="/page/4">4</a></li>
+             
+             
+             <li><a href="/page/5">5</a></li>
+             
+             <li><a href="/page/2" id="pageNavOlder">Older</a></li> 
+           </ul>
+        </nav>
+      
+      
+     
+     
+     </div><!-- END layout -->
+     </section>
+
+     <footer id="sitemeta">
+        <div class="clearfix">
+           <div class="thefooter">
+              <p><a href="http://www.tumblr.com/theme/12051">The Minimalist Theme</a> designed by <a href="http://minimalist.co">The Minimalist</a> | Powered by <a href="http://tumblr.com">Tumblr</a></p>
+           </div>
+        </div>
+     </footer>
+
+     
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=03e46de2c31f616e91612be5ae062acd#src=http%3A%2F%2Ffolksdresseduplikeeskimos.tumblr.com%2F&amp;lang=en_US&amp;name=folksdresseduplikeeskimos&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_c37aec081365_64.png&amp;title=Folks+Dressed+Up+Like+Eskimos&amp;url=http%3A%2F%2Ffolksdresseduplikeeskimos.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Ffolksdresseduplikeeskimos.tumblr.com%2F&amp;lang=en_US&amp;name=folksdresseduplikeeskimos&amp;avatar=http%3A%2F%2F31.media.tumblr.com%2Favatar_c37aec081365_64.png&amp;title=Folks+Dressed+Up+Like+Eskimos&amp;url=http%3A%2F%2Ffolksdresseduplikeeskimos.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=1c38ddb221b64d02021cc5cc3fb77b98');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380561190&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZm9sa3NkcmVzc2VkdXBsaWtlZXNraW1vcy50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIn0=&U=KCAEAMMDPC&K=9bc29d663c2e13851c398cdac0c69c4c8499bf14e314a88065a3a22f3f41f486&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380561190&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZm9sa3NkcmVzc2VkdXBsaWtlZXNraW1vcy50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwibm9zY3JpcHQiOjF9&U=KCAEAMMDPC&K=7af6c00b778928cd5752b7866532709ec5903d1ffa791c0a1a1abdad25e322dc&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380561190&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2ZvbGtzZHJlc3NlZHVwbGlrZWVza2ltb3MudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJwb3N0aWQiOiI1MjMxMDM3NzY2MiIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI1MTQ0Nzk3NzQ0MCIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDIzNjgxMjI2NSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDE1NjgwNDc1NCIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDA3NTczNzQ0MyIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTk5NDA0NzI2MyIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTkwODcxNzQ2OSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTgxMjIzNDczMSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTcyMjM4MjkxOSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTYzNDExMzc2NSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM31dfQ==&U=AIIPGHCKDJ&K=16a1bc084a25a7a5c07d03f846b6aeea2a4e4a360cea712099d87ae6f80af6c0&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380561190&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2ZvbGtzZHJlc3NlZHVwbGlrZWVza2ltb3MudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJwb3N0aWQiOiI1MjMxMDM3NzY2MiIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI1MTQ0Nzk3NzQ0MCIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDIzNjgxMjI2NSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDE1NjgwNDc1NCIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiI0MDA3NTczNzQ0MyIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTk5NDA0NzI2MyIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTkwODcxNzQ2OSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTgxMjIzNDczMSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTcyMjM4MjkxOSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM30seyJwb3N0aWQiOiIzOTYzNDExMzc2NSIsImJsb2dpZCI6IjM0OTE3MzUwIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=AIIPGHCKDJ&K=35782a59a6300d519530efe704c7a0e2a9e2347800b78a40debd903d3058823d&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

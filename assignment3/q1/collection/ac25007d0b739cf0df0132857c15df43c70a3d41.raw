@@ -1,0 +1,531 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	Steve Jobs
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="Bill Gates, Steve Jobs, " /><meta id="MetaDescription" name="description" content="Bill Gates remembers Steve Jobs as a colleague, competitor, and friend, and reflects on the profound impact he had.
+" /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Personal/Steve-Jobs" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BRhCaWxsIEdhdGVzLCBTdGV2ZSBKb2JzLCBkAgMPFgIfAAV1QmlsbCBHYXRlcyByZW1lbWJlcnMgU3RldmUgSm9icyBhcyBhIGNvbGxlYWd1ZSwgY29tcGV0aXRvciwgYW5kIGZyaWVuZCwgYW5kIHJlZmxlY3RzIG9uIHRoZSBwcm9mb3VuZCBpbXBhY3QgaGUgaGFkLg0KZAIBEGRkFggCAQ9kFgJmD2QWBAICDxYCHgtfIUl0ZW1Db3VudAIHFg4CAQ9kFgICAQ9kFgJmDxUBGjxhIGhyZWY9Ii9Cb29rcyI+Qm9va3M8L2E+ZAICD2QWAgIBD2QWAmYPFQEpPGEgaHJlZj0iL1RvcGljcy9FZHVjYXRpb24iPkVkdWNhdGlvbjwvYT5kAgMPZBYCAgEPZBYCZg8VASM8YSBocmVmPSIvVG9waWNzL0VuZXJneSI+RW5lcmd5PC9hPmQCBA9kFgICAQ9kFgJmDxUBLTxhIGhyZWY9Ii9Ub3BpY3MvRGV2ZWxvcG1lbnQiPkRldmVsb3BtZW50PC9hPmQCBQ9kFgICAQ9kFgJmDxUBIzxhIGhyZWY9Ii9Ub3BpY3MvSGVhbHRoIj5IZWFsdGg8L2E+ZAIGD2QWAgIBDxYCHgVjbGFzcwUGYWN0aXZlFgJmDxUBIDxhIGhyZWY9Ii9QZXJzb25hbCI+UGVyc29uYWw8L2E+ZAIHD2QWAgIBD2QWAmYPFQEWPGEgaHJlZj0iL0FsbCI+QWxsPC9hPmQCBA8WAh8BAv////8PZAIDD2QWAmYPZBYCAgEPD2QWAh4Jb25rZXlkb3duBa4BaWYoZXZlbnQud2hpY2ggfHwgZXZlbnQua2V5Q29kZSl7aWYgKChldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgPT0gMTMpKSB7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDIwX1NlYXJjaEJ1dHRvbicpLmNsaWNrKCk7cmV0dXJuIGZhbHNlO319IGVsc2Uge3JldHVybiB0cnVlfTsgZAIFD2QWAmYPZBYCZg9kFg5mDw8WAh4HVmlzaWJsZWhkFgJmD2QWBGYPFgIfAQL/////D2QCAQ9kFgJmDxUBCT9zaG93YWxsPWQCAQ8WAh8EZ2QCAw9kFgJmDxYCHwEC/////w9kAgQPZBYCAgEPFgIfAQL/////D2QCDA8WAh8BZmQCDg8PFgIfBGhkFgJmD2QWBGYPFgIfAQL/////D2QCAQ9kFgJmDxUBCT9zaG93YWxsPWQCDw8WAh8BAv////8PZAIJD2QWAmYPZBYIAgEPFgIfAQIDFgZmD2QWAgIBDw8WBB4EVGV4dAUKQWxsIFRvcGljcx4LTmF2aWdhdGVVcmwFBy9Ub3BpY3NkZAIBD2QWAgIBDw8WBB8FBQVCb29rcx8GBQYvQm9va3NkZAICD2QWAgIBDw8WBB8FBQlFZHVjYXRpb24fBgURL1RvcGljcy9FZHVjYXRpb25kZAIDDxYCHwECAxYGZg9kFgICAQ8PFgQfBQUGRW5lcmd5HwYFDi9Ub3BpY3MvRW5lcmd5ZGQCAQ9kFgICAQ8PFgQfBQULRGV2ZWxvcG1lbnQfBgUTL1RvcGljcy9EZXZlbG9wbWVudGRkAgIPZBYCAgEPDxYEHwUFBkhlYWx0aB8GBQ4vVG9waWNzL0hlYWx0aGRkAgUPFgIfAQIBFgJmD2QWAgIBDw8WBB8FBQhQZXJzb25hbB8GBQkvUGVyc29uYWxkZAIHDxYCHwUFBDIwMTNkZMbasjNaJ/fcOaDf5Wn+eg7NSU1r" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK89umKBwLf6cCfDQKNhbaICQL5oamLBwQEwmgtF/YGWn9pc686oqNr7LsR" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="navLink"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="active"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+					<p class="image"></p>
+					
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+				<p class="date">October 05, 2011</p>
+				<h1>Remembering Steve Jobs</h1>
+				<h2></h2>
+
+				<blockquote></blockquote>
+				<p><i>I&rsquo;m truly saddened to learn of Steve Jobs&rsquo; death. Melinda and I extend our sincere condolences to his family and friends, and to everyone Steve has touched through his work.</i></p>
+<p><i></i></p>
+<p><i>Steve and I first met nearly 30 years ago, and have been colleagues, competitors and friends over the course of more than half our lives. </i></p>
+<p><i></i></p>
+<p><i>The world rarely sees someone who has had the profound impact Steve has had, the effects of which will be felt for many generations to come.&nbsp; </i></p>
+<p><i></i></p>
+<p><i>For those of us lucky enough to get to work with him, it&rsquo;s been an insanely great honor.&nbsp; I will miss Steve immensely.&nbsp; </i></p>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{AE749CA5-CA23-4F73-AC33-4A3E0B7B26A8}";
+    var disqus_url = "http://www.thegatesnotes.com/Personal/Steve-Jobs";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Steve Jobs', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Steve Jobs', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Steve Jobs', 'WT.ti', 'End: Steve Jobs', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Steve Jobs', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Steve-Jobs"
+    s.channel = ""
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html xmlns:fb="https://www.facebook.com/2008/fbml" dir="ltr" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/">
+<head><link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/A.style.css.pagespeed.cf.2LgkBu5XDI.css"/>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/colorbox/A.colorbox.css.pagespeed.cf.viYNlQsvpV.css"/>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sociable/css/A.sociable.css,qver=3.3.1.pagespeed.cf.ylJvnUl3f_.css"/>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/A.events.css,qver=3.3.1.pagespeed.cf.6ERkLwWKk1.css"/>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/assets/gui/css/A.jquery.dop.ThumbnailGallery.css,qver=3.3.1.pagespeed.cf.ztVEfIDvFw.css"/>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jquery-1.6.4.min.js,qver=3.3.1.pagespeed.jm.XcwxvchXUp.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sharebar/js/sharebar.js,qver=3.3.1.pagespeed.jm.MyjKz7wS7Q.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sociable/js/addtofavorites.js,qver=3.3.1.pagespeed.jm.Xt4Oc0yE0x.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/jquery.pjax.js,qver=3.3.1.pagespeed.jm.lbg5wY1Ewq.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/events.js,qver=3.3.1.pagespeed.jm.Pq50IFoILK.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-includes/js/comment-reply.js,qver=20090102.pagespeed.ce.YYW5hq-CGg.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jtwt.js,qver=3.3.1.pagespeed.jm.gB5ILxrSXb.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jquery.nivo.slider.pack.js,qver=3.3.1.pagespeed.jm.-ScjH1ZEbq.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/colorbox/jquery.colorbox-min.js,qver=3.3.1.pagespeed.jm.8EzvDcG-55.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/libraries/js/json2.js,qver=3.3.1.pagespeed.jm.8Hg3Z2QVZx.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/libraries/js/jquery.mousewheel.js,qver=3.3.1.pagespeed.jm.6u3z--8fBL.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/libraries/js/jquery.jscrollpane.min.js,qver=3.3.1.pagespeed.jm.zP6uDnOw3T.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/assets/js/jquery.dop.ThumbnailGallery.js,qver=3.3.1.pagespeed.jm.RoKsD1sC1C.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/functions.js,qver=1.1.pagespeed.jm.7MdGlWCiPH.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/flux.js,qver=1.1.pagespeed.ce.3dacU7QCVk.js"></script>
+<script type="psa_prefetch" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/pub.js,qver=1.1.pagespeed.jm.H3OcqFdbFE.js"></script>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/easy-mashable-social-bar/A.styles.css.pagespeed.cf.kJpLalrjqb.css"/>
+<script type="text/javascript">var links = document.getElementsByTagName('link');for (var i = 0; i < links.length; ++i) {  if (links[i].getAttribute('rel') == 'stylesheet') {    links[i].disabled=true;  }}</script><script type='text/javascript'>window.mod_pagespeed_prefetch_start = Number(new Date());window.mod_pagespeed_num_resources_prefetched = 22</script><script type="text/javascript">(function(){var d=window,e=document,f="documentElement",g="scrollTop",k="prototype",l="body",m="getAttribute",n="",p="1",q="data",r="img",s="load",t="number",u="on",v="onload",w="pagespeed_lazy_position",x="pagespeed_lazy_replaced_functions",y="pagespeed_lazy_src",z="position",A="relative",B="resize",C="scroll",D="src",E=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(u+b,c);else{var h=a[u+b];a[u+b]=function(){c.call(this);h&&h.call(this)}}};d.pagespeed=d.pagespeed||{};var F=d.pagespeed,G=function(a){this.d=[];this.a=0;this.b=!1;this.n=a;this.e=null;this.i=0;this.j=200;this.c=!1};G[k].r=function(){var a=0;typeof d.pageYOffset==t?a=d.pageYOffset:e[l]&&e[l][g]?a=e[l][g]:e[f]&&e[f][g]&&(a=e[f][g]);var b=d.innerHeight||e[f].clientHeight||e[l].clientHeight;return{top:a,bottom:a+b,height:b}};G[k].m=function(a){var b=a[m](w);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&&(b+=this.m(c));b=Math.max(b,0);a.setAttribute(w,b);return b};
+G[k].q=function(a){var b=this.m(a);return{top:b,bottom:b+a.offsetHeight}};G[k].p=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(e.defaultView&&e.defaultView.getComputedStyle){var c=e.defaultView.getComputedStyle(a,null);if(c)return c.getPropertyValue(b)}return a.style&&a.style[b]?a.style[b]:n};
+G[k].o=function(a){if(!this.c&&(0==a.offsetHeight||0==a.offsetWidth))return!1;if(this.p(a,z)==A)return!0;var b=this.r(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.q(a),a=c.top-b.bottom,b=c.bottom-b.top);return a<=this.a&&0<=b+this.a};
+G[k].l=function(a){this.k(a);var b=this;d.setTimeout(function(){var c=a[m](y);if(null!=c)if((b.b||b.o(a))&&-1!=a.src.indexOf(b.n)){var h=a.parentNode,H=a.nextSibling;h&&h.removeChild(a);a.g&&(a.getAttribute=a.g);a.removeAttribute(v);a.removeAttribute(y);a.removeAttribute(x);h&&h.insertBefore(a,H);a.src=c}else b.d.push(a)},0)};G[k].loadIfVisible=G[k].l;G[k].t=function(){this.b=!0;this.f()};G[k].loadAllImages=G[k].t;G[k].f=function(){var a=this.d,b=a.length;this.d=[];for(var c=0;c<b;++c)this.l(a[c])};
+G[k].h=function(a,b){return a.a?null!=a.a(b):null!=a[m](b)};G[k].u=function(){for(var a=e.getElementsByTagName(r),b=0;b<a.length;++b){var c=a[b];this.h(c,y)&&this.k(c)}};G[k].overrideAttributeFunctions=G[k].u;G[k].k=function(a){var b=this;this.h(a,x)||(a.g=a[m],a.getAttribute=function(a){a.toLowerCase()==D&&b.h(this,y)&&(a=y);return this.g(a)},a.setAttribute(x,p))};
+F.s=function(a,b){var c=new G(b);F.lazyLoadImages=c;E(d,s,function(){c.c=!0;c.b=a;c.a=200;c.f()});0!=b.indexOf(q)&&((new Image).src=b);var h=function(){if(!(c.c&&a||c.e)){var b=c.j;(new Date).getTime()-c.i>c.j&&(b=0);c.e=d.setTimeout(function(){c.i=(new Date).getTime();c.f();c.e=null},b)}};E(d,C,h);E(d,B,h)};F.lazyLoadInit=F.s;})();
+
+pagespeed.lazyLoadInit(false, "//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif");
+</script>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="google-site-verification" content="BFNWzN104oNqH29OawC8Tgl0EdPBP1A1yRFMeNOjz7U"/>
+<meta property="fb:app_id" content="336890539700877"/>
+
+ 
+<title>George Takei, Patty Duke Talk Social Security</title>
+
+<script type='text/javascript'>window.mod_pagespeed_start = Number(new Date());</script><link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/A.style.css.pagespeed.cf.2LgkBu5XDI.css" type="text/css"/>
+<link rel="stylesheet" href="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/colorbox/A.colorbox.css.pagespeed.cf.viYNlQsvpV.css" type="text/css"/>
+
+<link rel="alternate" type="application/rss+xml" title="Tubefilter RSS Feed" href="http://feeds.feedburner.com/tubefilterNews/"/> 
+
+<link rel="shortcut icon" href="http://www.tubefilter.com/wp-content/uploads/2012/03/tf_favicon.ico"/>
+
+<meta name='OBKey' content='nROKPypgl5zcOKPkLMrULw=='/>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.1.5 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="Social Security signed up Goerge Takei of Star Trek and Patty Duke for an online ad campaign informing aging Boomers on how to obtain their benefits."/>
+<meta name="keywords" content=", advertising, campaigns, George Takei, government, Patty Duke, PSA, Social Security"/>
+<link rel="canonical" href="http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/"/>
+<meta property='og:locale' content='en_US'/>
+<meta property='og:title' content='George Takei, Patty Duke Talk Social Security'/>
+<meta property='og:description' content='Social Security signed up Goerge Takei of Star Trek and Patty Duke for an online ad campaign informing aging Boomers on how to obtain their benefits.'/>
+<meta property='og:url' content='http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/'/>
+<meta property='og:site_name' content='Tubefilter'/>
+<meta property='og:type' content='article'/>
+<meta property='og:image' content='http://www.tubefilter.com/wp-content/themes/tubefilter/images/fb_image.jpg'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Tubefilter &raquo; George Takei, Patty Duke Talk Social Security, Diss Captain Kirk Comments Feed" href="http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/feed/"/>
+
+<style id='fbComments_hideWpComments-css' media='all'>#respond,#commentform,#addcomment,.entry-comments{display:none}</style>
+<link rel='stylesheet' id='sociablecss-css' href='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sociable/css/A.sociable.css,qver=3.3.1.pagespeed.cf.ylJvnUl3f_.css' type='text/css' media='all'/>
+<style id='fbc_rc_widgets-style-css' media='all'>#fbc_rc_widget{width:auto;margin-left:0!important}li.fbc_rc_comment{min-height:80px;height:100%;position:relative;margin:2px;border-bottom:1px dotted rgba(88,88,88,1)}ul#fbc_rc_widget li.odd{}ul#fbc_rc_widget li.even{background-color:rgba(222,222,251,1)}.fbc_rc_comment-meta{}.fbc_rc_comment-author{}.fbc_rc_date{font-size:.8em}ul#fbc_rc_widget .avatar{float:right;padding-bottom:2px}.fbc_rc_text{margin:5px;padding-bottom:25px}.fbc_rc_permalink{position:absolute;bottom:2px}</style>
+<link rel='stylesheet' id='tribe-events-calendar-style-css' href='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/A.events.css,qver=3.3.1.pagespeed.cf.6ERkLwWKk1.css' type='text/css' media='all'/>
+<style id='DOPTG_JScrollPaneStyle-css' media='all'>.jspContainer{overflow:hidden;position:relative}.jspPane{position:absolute}.jspVerticalBar{background:none;height:100%;position:absolute;right:0;top:0;width:4px}.jspHorizontalBar{background:none;bottom:0;height:4px;left:0;position:absolute;width:100%}.jspVerticalBar *,.jspHorizontalBar *{margin:0;padding:0}.jspCap{display:none}.jspHorizontalBar .jspCap{float:left}.jspTrack{background:#e0e0e0;position:relative}.jspDrag{background:#777;cursor:pointer;left:0;position:relative;top:0}.jspHorizontalBar .jspTrack,.jspHorizontalBar .jspDrag{float:left;height:100%}.jspArrow{background:#50506d;cursor:pointer;display:block;text-indent:-20000px}.jspArrow.jspDisabled{background:#80808d;cursor:default}.jspVerticalBar .jspArrow{height:10px}.jspHorizontalBar .jspArrow{float:left;height:100%;width:10px}.jspVerticalBar .jspArrow:focus{outline:none}.jspCorner{background:#eeeef4;display:none;float:left;height:100%}* html .jspCorner{margin:0 -3px 0 0}</style>
+<link rel='stylesheet' id='DOPTG_ThumbnailGalleryStyle-css' href='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/assets/gui/css/A.jquery.dop.ThumbnailGallery.css,qver=3.3.1.pagespeed.cf.ztVEfIDvFw.css' type='text/css' media='all'/>
+<style id='wp125style-css' media='all'>#wp125adwrap_1c{width:100%}#wp125adwrap_1c .wp125ad{margin-bottom:10px}#wp125adwrap_2c{width:100%}#wp125adwrap_2c .wp125ad{width:125px;float:left;padding:10px}</style>
+<style id='background-manager-pub-css' media='all'>.ui-tooltip-titlebar{font-size:14px!important;line-height:16px!important}.ui-tooltip,.qtip{max-width:350px!important}.myatu_bgm_fs{min-width:100%;min-height:100%;max-width:initial!important;max-height:initial!important;margin:0;padding:0;position:fixed;top:0;left:0}.myatu_bgm_info_blk{display:block;padding:0!important;position:fixed!important;z-index:19999}#myatu_bgm_pin_it_btn{height:25px!important;width:45px!important}#myatu_bgm_info_tab{color:#fff;font-family:"Lucida Grande",Helvetica,Arial,Verdana,sans-serif;font-size:12px;font-weight:bold;text-align:center;text-shadow:.1em .1em .2em black;height:25px!important;width:25px!important;cursor:help;cursor:-webkit-zoom-in;cursor:-moz-zoom-in}#myatu_bgm_info_tab a{color:#fff;text-decoration:none}.myatu_bgm_info_tab_content{color:#333;font-size:12px;line-height:14px;font-family:"Lucida Grande",Helvetica,Arial,Verdana,sans-serif}.myatu_bgm_info_tab_content a{color:#1982d1;text-decoration:none}.myatu_bgm_info_tab_content img{float:left;width:150px;height:150px;margin-right:10px;margin-bottom:5px;border:1px solid #ddd;padding:4px;-webkit-border-radius:3px;border-radius:3px;W -webkit-box-shadow:2px 2px 4px rgba(0,0,0,0.25);box-shadow:2px 2px 4px rgba(0,0,0,.25)}#myatu_bgm_img_group div{padding:0;margin:0}#myatu_bgm_bg_link{z-index:-1996}#myatu_bgm_overlay{z-index:-1997}#myatu_bgm_top{z-index:-1998}#myatu_bgm_prev{z-index:-1999}@media print{.myatu_bgm_fs,#myatu_bgm_pin_it_btn,#myatu_bgm_info_tab{display:none!important}}</style>
+<script type="text/javascript">var background_manager_ajax={"url":"http://www.tubefilter.com/wp-admin/admin-ajax.php","action":"background-manager","nonce":"7781f774c2","nonceresponse":"cae1d36f7a"};</script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jquery-1.6.4.min.js,qver=3.3.1.pagespeed.jm.XcwxvchXUp.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sharebar/js/sharebar.js,qver=3.3.1.pagespeed.jm.MyjKz7wS7Q.js'></script>
+<script type='text/javascript' src='http://www.tubefilter.com/wp-content/plugins/sociable/js/sociable.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/sociable/js/addtofavorites.js,qver=3.3.1.pagespeed.jm.Xt4Oc0yE0x.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/jquery.pjax.js,qver=3.3.1.pagespeed.jm.lbg5wY1Ewq.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/the-events-calendar/resources/events.js,qver=3.3.1.pagespeed.jm.Pq50IFoILK.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-includes/js/comment-reply.js,qver=20090102.pagespeed.ce.YYW5hq-CGg.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jtwt.js,qver=3.3.1.pagespeed.jm.gB5ILxrSXb.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/jquery.nivo.slider.pack.js,qver=3.3.1.pagespeed.jm.-ScjH1ZEbq.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/js/colorbox/jquery.colorbox-min.js,qver=3.3.1.pagespeed.jm.8EzvDcG-55.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/libraries/js/jquery.mousewheel.js,qver=3.3.1.pagespeed.jm.6u3z--8fBL.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/libraries/js/jquery.jscrollpane.min.js,qver=3.3.1.pagespeed.jm.zP6uDnOw3T.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/doptg/assets/js/jquery.dop.ThumbnailGallery.js,qver=3.3.1.pagespeed.jm.RoKsD1sC1C.js'></script>
+<script type='text/javascript'>var myatu_bgm={"current_background":{"id":0,"url":"","alt":"","desc":"","caption":"","link":"","thumb":"","bg_link":"","transition":"crossfade","transition_speed":0},"change_freq":"0","active_gallery":"0","is_fullsize":"false","is_preview":"false","initial_ease_in":"true","info_tab_thumb":"true","bg_click_new_window":"true","bg_track_clicks":"true","bg_track_clicks_category":"SMWLA Takeover"};</script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/functions.js,qver=1.1.pagespeed.jm.7MdGlWCiPH.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/flux.js,qver=1.1.pagespeed.ce.3dacU7QCVk.js'></script>
+<script type='text/javascript' src='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/background-manager/resources/js/pub.js,qver=1.1.pagespeed.jm.H3OcqFdbFE.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tubefilter.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tubefilter.com/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 3.3.1"/>
+<link rel='shortlink' href='http://www.tubefilter.com/?p=30004'/>
+<link rel='stylesheet' type='text/css' href='http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/plugins/easy-mashable-social-bar/A.styles.css.pagespeed.cf.kJpLalrjqb.css'/>
+<style media="screen">body ul#sharebar{display:none;position:absolute;width:65px;float:left;background:#fff;padding:0;text-align:center;border:1px solid #ccc;list-style:none;margin:0;z-index:99;padding-top:10px;padding-bottom:10px}body ul#sharebar li{display:block;margin:5px;padding:0;overflow:hidden;text-align:center}body ul#sharebarx{display:none;list-style:none;width:100%;float:left;margin:0 0 10px;padding:0}body ul#sharebarx a{line-height:14px;text-decoration:none}body ul#sharebarx li{float:left;margin-right:20px;line-height:18px}body ul#sharebarx li .st_email{margin:0 15px!important}.sharebar-button{font-size:11px;font-family:Verdana,Arial;padding:2px 4px;background:#f7f7f7;color:#444;border:1px solid #ddd;display:block;margin:0 0 5px}.sharebar-button:hover{border-color:#aaa}.credit{margin:0;padding:0;line-height:9px}.credit a{font-size:8px;color:#ccc;text-transform:uppercase;text-decoration:none;font-family:Verdana;line-height:9px}.FBConnectButton_Small{background-position:-5px -232px!important;border-left:1px solid #1a356e}.FBConnectButton_Text{margin-left:12px!important;padding:2px 5px 3px!important}.stButton{margin:0 0 6px!important}.stButton:last-child{margin:0!important}.stButton .stFb_vbubble{width:53px!important}.stButton .stFb_text{padding:2px 5px 3px!important;margin:1px 1px 0 14px!important}</style>
+<script type="text/javascript">jQuery(document).ready(function($){$('.sharebar').sharebar({horizontal:'false',swidth:'85',minwidth:60,position:'left',leftOffset:10,rightOffset:10});});</script>
+<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
+<script type='text/javascript'>var base_url_sociable='http://www.tubefilter.com/wp-content/plugins/sociable/'</script><script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script>
+<!-- Wordpress Popular Posts v2.2.1 -->
+<style media="screen">.wpp-post-title{}img.wpp-thumbnail{position:relative;z-index:1;margin-top:0;margin-right:10px;margin-bottom:0px;margin-left:0px;border:1px solid #d2d2d2;background-color:#fff;padding:5px;float:left}.wpp-excerpt{}.post-stats{font-size:9px;font-weight:bold}.wpp-comments{}.wpp-views{}.wpp-author{font-style:italic}.wpp-date{}.wpp-rating{}</style>
+<!-- End Wordpress Popular Posts v2.2.1 -->
+<!-- Wordpress Popular Posts v2.2.1 -->
+<script type="text/javascript" charset="utf-8">jQuery.post('http://www.tubefilter.com/wp-admin/admin-ajax.php',{action:'wpp_update',token:'d67fa48ccb',id:30004});</script>
+<!-- End Wordpress Popular Posts v2.2.1 -->
+            <style type="text/css" media="screen">body{background-image:none!important}</style>
+
+
+<script type="text/javascript">jQuery(document).ready(function($){(function($){$.fn.vAlign=function(){return this.each(function(i){var ah=$(this).height();var ph=$(this).parent().height();var mh=Math.ceil((ph-ah)/2);$(this).css('margin-top',mh);});};})(jQuery);$('.slider-item').nivoSlider({directionNav:false,effect:'fade',pauseTime:'8000',captionOpacity:1,directionNav:true,directionNavHide:true,keyboardNav:true});$('.tabs-wrapper').each(function(){$(this).find(".tab_content").hide();$(this).find("ul.tabs li:first").addClass("active").show();$(this).find(".tab_content:first").show();});$("ul.tabs li").click(function(e){$(this).parents('.tabs-wrapper').find("ul.tabs li").removeClass("active");$(this).addClass("active");$(this).parents('.tabs-wrapper').find(".tab_content").hide();var activeTab=$(this).find("a").attr("href");$(this).parents('.tabs-wrapper').find(activeTab).fadeIn();e.preventDefault();});$("ul.tabs li a").click(function(e){e.preventDefault();})
+$(".toggle-content").hide();$("h5.toggle").toggle(function(){$(this).addClass("active");},function(){$(this).removeClass("active");});$("h5.toggle").click(function(){$(this).next(".toggle-content").slideToggle();});$('.gallery').each(function(index,obj){var galleryid=Math.floor(Math.random()*10000);$(obj).find('a').colorbox({rel:galleryid,maxWidth:'95%',maxHeight:'95%'});});$("a.lightbox").colorbox({maxWidth:'95%',maxHeight:'95%'});$('#contactForm').live('submit',function(e){var form=$(this);var name=$(this).find('[name=pyre_name]').val();var email=$(this).find('[name=pyre_email]').val();var message=$(this).find('[name=pyre_message]').val();if(name==''){$(this).find('[name=pyre_name]').addClass('error');$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeIn();return false;}else{$(this).find('[name=pyre_name]').removeClass('error');$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeOut();}
+var email_regex=/^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;if(email==''||!email_regex.test(email)){$(this).find('[name=pyre_email]').addClass('error');$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeIn();return false;}else{$(this).find('[name=pyre_email]').removeClass('error');$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeOut();}
+if(message==''){$(this).find('[name=pyre_message]').addClass('error');$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeIn();return false;}else{$(this).find('[name=pyre_message]').removeClass('error');$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeOut();}
+$.ajax({url:'http://www.tubefilter.com/wp-admin/admin-ajax.php',data:jQuery(form).serialize()+'&action=pyre_contact_form',type:'POST',success:function(){$('.email_sent').fadeIn(400).delay(5000).fadeOut(400);}});e.preventDefault();});});</script>
+
+</head>
+
+<body class="single single-post postid-30004 single-format-standard"><noscript><meta HTTP-EQUIV="refresh" content="0;url='http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/?ModPagespeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/?ModPagespeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+
+		<div id="header-top-wrapper">
+	
+		<div id="header-top">
+        	
+            <div id="social-icons">
+                <!-- Horizontal social buttons Start -->
+                <!-- Twitter -->
+                <div style='float:left;margin-right:5px;height:21px; overflow:hidden;'>
+                <a href="https://twitter.com/tubefilter" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @tubefilter</a>
+                </div>
+                <!-- Google +1 -->
+                <div style='float:left; margin-right:5px;height:21px; overflow:hidden;'>
+                <g:plusone annotation='none' expr:href='http://www.tubefilter.com' size='medium'/>
+                </div>
+                <!-- Linked In -->
+                <div style='float:left; margin-right:5px;height:21px; overflow:hidden;'>
+                <script src="http://1-ps.googleusercontent.com/x/www.tubefilter.com/platform.linkedin.com/in.js.pagespeed.jm.1FTxczQwVY.js" type="text/javascript"></script>
+                <script type="IN/FollowCompany" data-id="221548" data-counter="none"></script>
+                </div>
+                <!-- Facebook Like+Send -->
+                <div style='float:left; margin-right:5px; width:47px; height:21px; overflow:hidden;'>
+                <fb:like colorscheme='light' expr:href='https://www.facebook.com/Tubefilter' font='' layout='button_count' send='false' show_faces='false'/>
+                </div>                
+                <!-- Horizontal social buttons End -->
+                
+                <!-- Scripts Start -->
+                <!-- Twitter -->		
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                
+                <!-- Facebook -->
+                <div id="fb-root"></div>
+                <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=291817010834872";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+                
+                <!-- Google +1 -->
+                <script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
+                <!-- Scripts End -->
+            </div>
+            
+            
+            	<ul id="menu-top-bar-links" class="menu"></ul>           
+            
+            <div id="top-search">
+            <form method="get" id="searchform" action="http://www.tubefilter.com/">
+<div><input type="text" name="s" id="s" class="search-input" value="Search Tubefilter" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+<input type="image" src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/images/xtop_search_button.png.pagespeed.ic.gTXCnwyGLV.png" alt="Submit button">
+</div>
+</form>
+            </div>
+            <div style='clear: both;'/>
+		
+		</div>
+	
+	</div>
+		
+	<div id="wrapper">
+	
+		<div id="header">
+		
+			<div id="logo">
+								<a href='http://www.tubefilter.com'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2012/03/xtubefilter_logo.png.pagespeed.ic.V_G3TdKtaJ.png" alt="Tubefilter" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a> 
+			</div>
+			
+						<div id="header-banner">
+				<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">google_ad_client="ca-pub-9037420082410300";google_ad_slot="9445708942";google_ad_width=728;google_ad_height=90;</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>			</div>
+					
+		</div>
+		
+		<div id="navigation-wrapper">
+		
+			<div id='navigation'>
+				<ul id="menu-main-navigation" class="menu"><li id="menu-item-37322" class="first-link menu-item menu-item-type-custom menu-item-object-custom menu-item-37322"><a href="/">Home</a></li>
+<li id="menu-item-37325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37325"><a title="Charts" href="/tag/Tubefilter-Charts/">Charts</a></li>
+<li id="menu-item-37324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37324"><a title="Millionaires" href="/tag/YouTube-Millionaires/">Millionaires</a></li>
+<li id="menu-item-37326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37326"><a title="YouTube" href="/category/youtube/">YouTube</a></li>
+<li id="menu-item-37327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37327"><a title="Branded Entertainment" href="/category/branded-entertainment/">Branded Entertainment</a></li>
+<li id="menu-item-37328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37328"><a title="Indie" href="/category/indie-spotlight/">Indie</a></li>
+<li id="menu-item-37844" class="last-link menu-item menu-item-type-post_type menu-item-object-page menu-item-37844"><a title="Streamy Awards" href="http://www.tubefilter.com/streamy-awards/">Streamy Awards</a></li>
+<li id="menu-item-37365" class="nav-right menu-item menu-item-type-post_type menu-item-object-page menu-item-37365"><a title="Events" href="http://www.tubefilter.com/events/">Events</a></li>
+<li id="menu-item-37364" class="nav-right menu-item menu-item-type-post_type menu-item-object-page menu-item-37364"><a title="Calendar" href="http://www.tubefilter.com/calendar/">Calendar</a></li>
+</ul>			</div>
+			
+		</div>
+        
+        <div id="callouts-wrapper">
+        
+    				        
+                
+        <div id="callout" style="background:url(http://www.tubefilter.com/wp-content/uploads/2013/09/pewdiepie-maker-studios-callout.jpg) top left no-repeat">
+        	
+									 <div id="callout-link"><a href="/2013/09/11/100-most-viewed-youtube-channels-worldwide-august-2013/" target="_self">Top 100 Most Viewed YouTube Channels • Aug. '13</a></div>
+					
+        </div>
+        
+                
+                
+        <div id="callout" style="background:url(http://www.tubefilter.com/wp-content/uploads/2013/09/key-and-peele-east-west-callout.jpg) top left no-repeat">
+        	
+									 <div id="callout-link"><a href="/2013/09/27/key-and-peele-comedy-central-youtube/" target="_self">Key & Peele Want You To Watch Them on TV</a></div>
+					
+        </div>
+        
+                
+                
+        <div id="callout" style="background:url(http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/xscorpion-mortal-kombat-legacy-callout.jpg.pagespeed.ic.rL7YllCSxm.jpg) top left no-repeat">
+        	
+									 <div id="callout-link"><a href="/2013/09/26/kevin-tancharoen-mortal-kombat-legacy-season-2/" target="_self">'Mortal Kombat: Legacy' Season 2 Drops All At Once</a></div>
+					
+        </div>
+        
+                
+                
+        <div id="callout" style="background:url(http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/xaziz-ansari-seth-rogen-buried-alive-netflix-callout.jpg.pagespeed.ic.JPXGS6Cuz4.jpg) top left no-repeat">
+        	
+									 <div id="callout-link"><a href="/2013/09/25/aziz-ansari-seth-rogen-buried-alive-netflix-trailer/" target="_self">Aziz Ansari, Seth Rogen Team Up For Netflix Special</a></div>
+					
+        </div>
+        
+                
+                
+        <div id="callout" style="background:url(http://www.tubefilter.com/wp-content/uploads/2013/09/drew-and-mark-callout.jpg) top left no-repeat">
+        	
+									 <div id="callout-link"><a href="/2013/09/25/mark-suster-social-media-week-los-angeles-keynote/" target="_self">Mark Suster's SMWLA Keynote Is Worth Watching</a></div>
+					
+        </div>
+        
+                        
+        </div>
+        <div style="clear:both;"></div>
+		<div id="main">
+		
+					
+							
+			<div id="post-wrapper" class="post-30004 post type-post status-publish format-standard hentry category-comedy category-featured category-news category-social-security tag-advertising tag-campaigns tag-george-takei tag-government tag-patty-duke tag-psa tag-social-security">
+			<ul id="sharebar" style="background:##ffffff;border-color:##d2d2d2;">
+<li><iframe src="//www.facebook.com/plugins/like.php?href=http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/&send=false&layout=box_count&width=56&show_faces=false&action=like&colorscheme=light&font&height=90&appId=291817010834872" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:52px; height:66px;" allowTransparency="true"></iframe></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="tubefilter">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script></li><li><script src="http://1-ps.googleusercontent.com/x/www.tubefilter.com/platform.linkedin.com/in.js.pagespeed.jm.1FTxczQwVY.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="top"></script></li><li><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></li><li><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script></span><span class="st_email" displayText="Email"></span></span></li></ul>
+				<div id="post-header">
+					
+					<h1>George Takei, Patty Duke Talk Social Security, Diss Captain Kirk</h1>
+											
+					<div class="post-meta">
+						<span class="author"><span style="color:#888888;">By</span> <a href="http://www.tubefilter.com/author/joshuajcohen/" title="Posts by Joshua Cohen" rel="author">Joshua Cohen</a></span>
+						<span class="date">April 11, 2011</span>
+											</div>
+						
+				</div>
+			
+				<div id="post">
+					
+										
+                    <div id="facebook-like-area">
+                        <div id="fb-root"></div>
+                        <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=291817010834872";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+                        
+                        <div class="fb-like" data-send="true" data-width="600" data-show-faces="false"></div>
+                    </div>
+					
+					<div class="post-content">
+						
+						                        
+													
+                        
+                                                
+                        <p><img style="margin-right:10px;margin-bottom:10px;" title="george-takei-patty-duke-social-security" pagespeed_lazy_src="http://www.tubefilter.com/wp-content/uploads/2011/04/george-takei-patty-duke-social-security.jpg" alt="george-takei-patty-duke-social-security" width="250" height="180" align="left" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>The  original <em>Star Trek</em> debuted in 1966. <em>The Patty Duke</em> show began  broadcasting in 1963. That makes both television series a couple decades  shy of <a href="http://www.socialsecurity.gov/retire2/agereduction.htm">retiring and receiving full Social Security benefits</a>. The stars of those shows, however, are more or less at the age where  they can start collecting. And they’re definitely at the age where they  can star in a lo-fi, low-budget online ad campaign instructing other  age-eligible individuals on how they can start collecting, too.</p>
+<p>Late last month, the <a href="http://www.ssa.gov/">US Social Security Administration</a> released a <a href="http://www.youtube.com/socialsecurityonline#p/u/11/vaOmOo8pySk">series of eight promo spots</a>. Those spots feature George Takei and Patty Duke dressed in faux <em>Star Trek</em> garb expounding the benefits and ease of <a href="http://www.youtube.com/socialsecurityonline#p/u/2/zDyTpeOoKYk">boldly going</a> to <a href="http://www.socialsecurity.gov/">SocialSecurity.gov</a> for all your Social Security-related questions and needs.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="570" height="343" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="src" value="http://www.youtube.com/v/vaOmOo8pySk?fs=1&amp;hl=en_US"/><param name="allowfullscreen" value="true"/><embed type="application/x-shockwave-flash" width="570" height="343" src="http://www.youtube.com/v/vaOmOo8pySk?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>The videos are out of this world (sorry!) because:</p>
+<ol>
+<li> <a href="http://www.youtube.com/user/SocialSecurityOnline#p/u/4/npZOkB7QBU0">Duke sports a set of Vulcan ears</a>.</li>
+<li>Duke and Takei engage in a special kind of tongue-in-cheek, back-and-forth banter usually reserved for <a href="http://www.youtube.com/watch?v=EFUUglrY7RA">late night advertisements from local car salesmen</a>.</li>
+<li>It’s kinda ridiculous to think a government organization developed  an online ad campaign for geriatrics.</li>
+<li>It’s kinda sweet to think a  government organization developed an online ad campaign that features  at least <a href="http://twitter.com/georgetakei">some semblance of cool</a>.</li>
+</ol>
+<p>SocialSeucirty.gov’s <em> Boldly Go</em> videos have so far accumulated some 33,000 views. My assessment is that relatively low number speaks more to the social media marketing capabilities of  the organization than the content of the videos. These are good! And if <a href="http://www.youtube.com/watch?v=_sUrQWsUjTA&amp;feature=player_embedded#at=26">George Takei as Spiderman can rack up 150,000 views</a>, there’s no reason <a href="http://www.youtube.com/watch?v=vaOmOo8pySk&amp;feature=channel_video_title">Takei and Duke making fun of Captain Kirk</a> shouldn’t break at least a million.<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type='text/javascript'>var OutbrainPermaLink="http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/";if(typeof(OB_Script)!='undefined'){OutbrainStart();}else{var OB_PlugInVer="7.0.0.0_Regular";;var OB_raterMode="none";var OB_recMode="strip";var OBITm="1333404798";var OB_Script=true;var OB_langJS="http://widgets.outbrain.com/lang_en.js";document.write(unescape("%3Cscript src='http://widgets.outbrain.com/OutbrainRater.js' type='text/javascript'%3E%3C/script%3E"));}</script></p>
+<p><!-- Quick Adsense WordPress Plugin: http://techmilieu.com/quick-adsense --></p>
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script type="text/javascript">google_ad_client="ca-pub-9037420082410300";google_ad_slot="5363147298";google_ad_width=468;google_ad_height=60;</script><br/>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div>
+                        
+                                                
+						
+						<div class="clear"></div>
+						
+											
+					</div>
+					
+									
+				</div>
+				
+								
+																								<div class="post-box-wrapper">
+                
+				
+					<!--<div id="post-ad">
+                    
+					
+						<script type="text/javascript"><!--
+						google_ad_client = "ca-pub-9037420082410300";
+						/* 468x60 banner for end of posts */
+						google_ad_slot = "2485799055";
+						google_ad_width = 468;
+						google_ad_height = 60;
+						
+						</script>
+						<script type="text/javascript"
+						src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script> 
+					
+					</div>-->
+				
+				</div>
+																
+				
+				<div id="comments" class="post-box-wrapper">
+					
+					<div class="post-box">
+                    <h5> Comments</h5>
+					
+						
+<!-- Facebook Comments for WordPress v3.1.3 by we8u (http://we8u.com/facebook-comments/) -->
+
+<a name='facebook-comments'></a>
+
+<script type='text/javascript'>var addedComment=function(response){$.post('http://www.tubefilter.com/wp-content/plugins/facebook-comments-for-wordpress/facebook-comments-ajax.php',{fn:'addComment',xid:'_post30004'},function(resp){if(resp==='true'){}else{}});$.post('http://www.tubefilter.com/wp-content/plugins/facebook-comments-for-wordpress/facebook-comments-ajax.php',{fn:'sendNotification',xid:'_post30004',postTitle:'George Takei, Patty Duke Talk Social Security, Diss Captain Kirk',postUrl:'http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/'},function(resp){if(resp==='true'){}else{}});};FB.Event.subscribe('comments.add',addedComment);</script>
+
+<div id='fbComments' style=''>
+<!-- facebook comments v2 only -->
+
+	<fb:comments xid='_post30004' href='http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/' numposts='5' width='610' publish_feed='false' migrated='1'></fb:comments></div>
+	
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+<div id="respond">
+
+	<h5>Leave A Response</h5>
+
+	<p class="cancel-comment-reply"><a rel="nofollow" id="cancel-comment-reply-link" href="/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/#respond" style="display:none;">Click here to cancel reply.</a></p>
+
+	
+	<form action="http://www.tubefilter.com/wp-comments-post.php" method="post">
+
+		
+		<div id="comment-input">
+		
+			<label for="author">Name <span class="req">(required)</span></label>
+			<input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' class="input-name"/>
+
+			<label for="email">Email <span class="req">(required)</span></label>
+			<input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' class="input-email"/>
+		
+			<label for="url">Website</label>
+			<input type="text" name="url" id="url" value="" size="22" tabindex="3" class="input-website"/>
+			
+		</div>
+		
+		<div id="comment-textarea">
+			
+			<label for="comment">Comment</label>
+			<textarea name="comment" id="comment" cols="39" rows="4" tabindex="4" class="textarea-comment"></textarea>
+		
+		</div>
+		
+		<div id="comment-submit">
+		
+			<p><input name="submit" type="submit" id="submit" tabindex="5" value="Post Comment" class="comment-submit"/></p>
+			<input type='hidden' name='comment_post_ID' value='30004' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+						
+		</div>
+
+		
+	</form>
+
+		
+</div>
+
+					
+					</div>
+					
+				</div>
+			
+			</div>
+			
+						
+		</div>
+		
+		<div id="sidebar">
+		
+						
+<!--begin of social widget--> 
+<div style="margin-bottom:18px;">
+<div id="inspiredmagz-mashable-bar" style="width:300px;"> <!-- Begin Widget -->
+	<!-- Place this tag where you want the badge to render -->
+    <div id="likebox-frame">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com/tubefilter&width=302&height=170&colorscheme=light&show_faces=true&border_color&stream=false&header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:302px; height:170px;" allowTransparency="true"></iframe>
+</div>
+    
+			<div class="g-plus" data-href="https://plus.google.com/109700398587332369695" data-width="300" data-height="69" data-theme="light"></div>
+		
+	<div class="googleplus" style="background: #F5FCFE;"> <!-- Google -->
+		<span>Recommend on Google</span><g:plusone size="medium" href="http://www.tubefilter.com"></g:plusone>
+		<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
+		
+	</div>
+
+	<div class="twitter" style="background: #EEF9FD;"> <!-- Twitter -->
+        	<iframe title="" style="width: 300px; height: 20px;" class="twitter-follow-button" src="http://platform.twitter.com/widgets/follow_button.html#_=1319978796351&amp;align=&amp;button=blue&amp;id=twitter_tweet_button_0&amp;lang=en&amp;link_color=&amp;screen_name=tubefilter&amp;show_count=&amp;show_screen_name=&amp;text_color=" frameborder="0" scrolling="no"></iframe>
+	</div>
+
+	<div id="email-news-subscribe" style="background: #E3EDF4;"> <!-- Email Subscribe -->
+		<div class="email-box">
+        	<div id="subscribe-title">Get the Tubefilter Daily Digest</div>
+			<form action="http://feedburner.google.com/fb/a/mailverify?uri=tubefilterNews" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=tubefilterNews', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">	
+				<input class="email" type="text" style="width: 140px; font-size: 12px;" id="email" name="email" value="Enter your email" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">		
+				<input type="hidden" value="tubefilterNews" name="uri">
+				<input type="hidden" name="loc" value="en_US">
+				<input class="subscribe" name="commit" type="submit" value="Subscribe">	
+			</form>
+		</div>
+	</div>
+
+<div id="other-social-bar" style="background: #D8E6EB;"> <!-- Other Social Bar -->
+	<ul class="other-follow">
+		<li class="my-rss">
+			<a rel="nofollow" title="RSS" href="http://feeds.feedburner.com/tubefilterNews" target="_blank">RSS Feed</a>
+		</li>
+		<li class="my-youtube">
+			<a rel="nofollow" title="Youtube" href="http://youtube.com/user/tubefilter" target="_blank">Youtube</a>
+		</li>
+		<li class="my-linkedin">
+			<a rel="nofollow" title="LinkedIn" href="http://linkedin.com/company/tubefilter" target="_blank">LinkedIn</a>
+		</li>
+	</ul>
+</div>
+
+<div id="get-inspiredmagz" style="background: #EBEBEB;border: 1px solid #CCC;border-top: 1px solid white;padding: 1px 8px 1px 3px;text-align: right;border-image: initial;font-size:10px;font-family: " Arial","Helvetica",sans-serif;">
+      </div></div> <!-- End Widget -->
+</div>
+<!--end of social widget--> 
+
+		<div class="widget"><div id="lijit_region_196989"></div>
+<script type="text/javascript" src="http://1-ps.googleusercontent.com/x/www.tubefilter.com/www.lijit.com/delivery/fp,qu=tubefilter,az=196989.pagespeed.jm.FYn8DUTPd3.js"></script></div><!-- Wordpress Popular Posts Plugin v2.2.1 [W] [weekly] [custom] -->
+<div class="widget">
+<h4>Trending Stories</h4><ul>
+<div class="widget-item"><span class="thumb-icon-small "></span><a href="http://www.tubefilter.com/2013/06/27/youtube-millionaires-how-to-basic/" title="YouTube Millionaires: How To Basic Breaks Out Of His Shell"><img width="50" height="50" pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/06/50x50xhow-to-basic-50x50.jpg.pagespeed.ic.rSmVJexdaU.jpg" class="thumb wp-post-image" alt="YouTube Millionaires: How To Basic Breaks Out Of His Shell" title="YouTube Millionaires: How To Basic Breaks Out Of His Shell" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a><h3><a href="http://www.tubefilter.com/2013/06/27/youtube-millionaires-how-to-basic/" title="YouTube Millionaires: How To Basic Breaks Out Of His Shell">YouTube Millionaires: How To Basic Breaks Out Of His Shell</a></h3> </div>
+<div class="widget-item"><span class="thumb-icon-small "></span><a href="http://www.tubefilter.com/2013/09/24/pronunciation-book-horse-ebooks-bear-stearns-bravo/" title="Mystery Solved: Pronunciation Book&#8217;s Creators Also Ran Horse_Ebooks"><img width="50" height="50" pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/50x50xhorse-ebooks-pronunciation-book-50x50.jpg.pagespeed.ic.Aj3ZuDngW4.jpg" class="thumb wp-post-image" alt="Mystery Solved: Pronunciation Book&#8217;s Creators Also Ran Horse_Ebooks" title="Mystery Solved: Pronunciation Book&#8217;s Creators Also Ran Horse_Ebooks" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a><h3><a href="http://www.tubefilter.com/2013/09/24/pronunciation-book-horse-ebooks-bear-stearns-bravo/" title="Mystery Solved: Pronunciation Book&#8217;s Creators Also Ran Horse_Ebooks">Mystery Solved: Pronunciation Book&#8217;s Creators Also Ran Horse_Ebooks</a></h3> </div>
+<div class="widget-item"><span class="thumb-icon-small "></span><a href="http://www.tubefilter.com/2013/08/12/100-most-viewed-youtube-channels-worldwide-july-2013/" title="Top 100 Most Viewed YouTube Channels Worldwide • July 2013"><img width="50" height="50" pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/08/50x50xpewdiepie-most-viewed-monthly-views-50x50.jpg.pagespeed.ic.NM50NlQbVY.jpg" class="thumb wp-post-image" alt="Top 100 Most Viewed YouTube Channels Worldwide • July 2013" title="Top 100 Most Viewed YouTube Channels Worldwide • July 2013" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a><h3><a href="http://www.tubefilter.com/2013/08/12/100-most-viewed-youtube-channels-worldwide-july-2013/" title="Top 100 Most Viewed YouTube Channels Worldwide • July 2013">Top 100 Most Viewed YouTube Channels Worldwide • July 2013</a></h3> </div>
+</ul>
+</div>
+<!-- End Wordpress Popular Posts Plugin v2.2.1 -->
+<div class="widget">
+<h4>Supporting Partners</h4><div id="wp125adwrap_2c">
+<div class="wp125ad odd"><a href="index.php?adclick=2" title="New Media" rel="nofollow"><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2012/10/xsag-aftra-box.jpg.pagespeed.ic.ruZfI-gpIZ.jpg" alt="New Media" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></div>
+<div class="wp125ad even"><a href="http://www.tubefilter.com/advertise" rel="nofollow"><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/spotlight/xspotlight-opportunity-ad.png.pagespeed.ic.DRSeAQawS4.jpg" alt="" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></div>
+<div class="wp125ad odd"><a href="http://www.tubefilter.com/advertise" rel="nofollow"><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/spotlight/xspotlight-opportunity-ad.png.pagespeed.ic.DRSeAQawS4.jpg" alt="" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></div>
+<div class="wp125ad even"><a href="http://www.tubefilter.com/advertise" rel="nofollow"><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/spotlight/xspotlight-opportunity-ad.png.pagespeed.ic.DRSeAQawS4.jpg" alt="" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></div>
+</div>
+</div><div class="widget"><h4>Tubefilter Job Board</h4>			<div class="textwidget"><!-- Begin Job-a-matic Customizable Widget Code v1.1 -->
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">var jbb_widget_domain='http://jobs.tubefilter.com';var jbb_widget_list_count=3;var jbb_widget_theme='customizable';var jbb_widget_width=300;</script>
+
+<div id="jbb_widget_customizable">
+<script type="text/javascript" src="http://jobs.tubefilter.com/c/jbb/js/jbb_widget_vertical_gel_custom.js"></script>
+<script type="text/javascript" src="http://jobs.tubefilter.com/a/jbb/find-jobs-json/jbb_widget_list_jobposts/3"></script>
+<div id="job_links"><a href="http://jobs.tubefilter.com/a/jbb/post-job" target="_blank">Post a job for $49</a> | <a href="http://jobs.tubefilter.com/a/jobs/find-jobs" target="_blank">View all jobs</a></div>
+<!-- End Job-a-matic Widget Code v1.1 -->
+</div></div>
+		</div><div class="widget"><script type="text/javascript">google_ad_client="ca-pub-9037420082410300";google_ad_slot="4352697069";google_ad_width=300;google_ad_height=250;</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>		
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div id="footer-wrapper">
+	
+		<div id="footer">
+	
+			<div class="widget">		<!-- BEGIN WIDGET -->
+		<h4>Recent Posts</h4>		
+							
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2013/09/30/david-choi-mike-song-onionflix/' title='David Choi And Mike Song&#8217;s Onionflix Spending $100,000 To Make You Cry'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/xdavid-choi-mike-song-50x50.jpg.pagespeed.ic.eCOUOBPrHN.jpg" alt="David Choi And Mike Song&#8217;s Onionflix Spending $100,000 To Make You Cry" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2013/09/30/david-choi-mike-song-onionflix/' title='David Choi And Mike Song&#8217;s Onionflix Spending $100,000 To Make You Cry'>David Choi And Mike Song&#8217;s Onionflix Spending $100,000 To Make You Cry</a></h3>
+		</div>
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2013/09/30/my-damn-channel-daddy-knows-best/' title='You Can Now Binge On Season 2 Of My Damn Channel&#8217;s &#8216;Daddy Knows Best&#8217;'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/xdaddy-knows-best-50x50.jpg.pagespeed.ic.5uwtmGV0vj.jpg" alt="You Can Now Binge On Season 2 Of My Damn Channel&#8217;s &#8216;Daddy Knows Best&#8217;" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2013/09/30/my-damn-channel-daddy-knows-best/' title='You Can Now Binge On Season 2 Of My Damn Channel&#8217;s &#8216;Daddy Knows Best&#8217;'>You Can Now Binge On Season 2 Of My Damn Channel&#8217;s &#8216;Daddy Knows Best&#8217;</a></h3>
+		</div>
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2013/09/28/philip-defranco-live-shows-dad-kidney/' title='Philip Defranco Teases More Live Shows As Dad Gets A Kidney'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/09/xphilip-defranco-dad-50x50.jpg.pagespeed.ic.4NBghje5kv.jpg" alt="Philip Defranco Teases More Live Shows As Dad Gets A Kidney" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2013/09/28/philip-defranco-live-shows-dad-kidney/' title='Philip Defranco Teases More Live Shows As Dad Gets A Kidney'>Philip Defranco Teases More Live Shows As Dad Gets A Kidney</a></h3>
+		</div>
+				<!-- END WIDGET -->
+		</div>			
+			<div class="widget">		<!-- BEGIN WIDGET -->
+		<h4>Latest Videos</h4>		
+							
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2013/08/11/shark-interview-shark-week-sharkzilla/' title='An Interview With Sharkzilla AKA The Shark From Shark Week'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2013/08/xshark-week-interview-sharkzilla-50x50.jpg.pagespeed.ic.Uh4Kuo30Ua.jpg" alt="An Interview With Sharkzilla AKA The Shark From Shark Week" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2013/08/11/shark-interview-shark-week-sharkzilla/' title='An Interview With Sharkzilla AKA The Shark From Shark Week'>An Interview With Sharkzilla AKA The Shark From Shark Week</a></h3>
+		</div>
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2012/04/11/eliza-dushku-leap-year/' title='Video: Eliza Dushku Behind the Scenes on Leap Year Season 2'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2012/04/xeliza-dushku-web-series-50x50.jpg.pagespeed.ic.VVabQ3t21H.jpg" alt="Video: Eliza Dushku Behind the Scenes on Leap Year Season 2" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2012/04/11/eliza-dushku-leap-year/' title='Video: Eliza Dushku Behind the Scenes on Leap Year Season 2'>Video: Eliza Dushku Behind the Scenes on Leap Year Season 2</a></h3>
+		</div>
+				<div class="widget-item">
+												<a href='http://www.tubefilter.com/2012/03/07/machinima-bite-me-season-2/' title='Machinima Debuts Bigger, Longer, Bloodier &#8216;Bite Me&#8217; Season 2'><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/uploads/2012/03/xbite-me-zombies-50x50.jpg.pagespeed.ic.sMYWDpm2c1.jpg" alt="Machinima Debuts Bigger, Longer, Bloodier &#8216;Bite Me&#8217; Season 2" class="thumb" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a>
+						<h3><a href='http://www.tubefilter.com/2012/03/07/machinima-bite-me-season-2/' title='Machinima Debuts Bigger, Longer, Bloodier &#8216;Bite Me&#8217; Season 2'>Machinima Debuts Bigger, Longer, Bloodier &#8216;Bite Me&#8217; Season 2</a></h3>
+		</div>
+				<!-- END WIDGET -->
+		</div>			
+			<div class="widget"><h4>About Tubefilter</h4>			<div class="textwidget"><p>Tubefilter is the curator of online video. We do that in a number of ways. From industry news, to web series reviews, to related events, and one heck of an Awards Show. Learn more about us and what we do <a href="/about" alt="About Us">here</a>.</p>
+
+<p><span class="subheading">Syndication Partners:</span></p>
+
+<div id="sponsor-logos">
+<a href="http://www.imdb.com" target="_blank" class="sponsor-imdb">IMDB</a>
+<a href="http://www.mashable.com" target="_blank" class="sponsor-mashable">Mashable</a>
+</div></div>
+		</div>			
+			<div class="widget last"><h4>Contact Us</h4>			<div class="textwidget"><p>We'd love to hear from you. </p>
+<p>If you you have a great news tip, are interested in advertising on Tubefilter, thinking about possible partnership opportunities, want to find out more about our upcoming events, would like to write a guest post, or just want to say "hello," be sure to drop us a line.  </p>
+<p><a href="/contact/"><span class="fancy-link">Get in touch &raquo;</span></a></p>
+</div>
+		</div>	
+		</div>
+	
+	</div>
+	
+	<div id="bottom-wrapper">
+		
+		<div id="bottom">
+		
+			<span class="totop"><a href="http://www.rackspace.com" target="_blank"><img pagespeed_lazy_src="http://1-ps.googleusercontent.com/h/www.tubefilter.com/wp-content/themes/tubefilter/images/168x27xrackspace_logo.png.pagespeed.ic.VajxK4g0Hf.png" width="168" height="27" alt="Powered by Rackspace Hosting" src="//1-ps.googleusercontent.com/h/www.gstatic.com/psa/static/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></span>
+						<span class="left">© Copyright 2007 - 2013 Tubefilter, Inc.  |  <a href="/terms-of-use">Terms of Use</a> | <small>Streamy Awards Photos by <a href="http://www.thebuibrothers.com">The Bui Brothers</a>. </small></span>
+									
+		</div>
+	
+	</div>
+	
+	<!-- Quantcast Tag -->
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt);})();_qevents.push({qacct:"p-1ePy2iF6F1wrk"});</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-1ePy2iF6F1wrk.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script src="http://1-ps.googleusercontent.com/x/www.tubefilter.com/static.getclicky.com/js.pagespeed.ce.NKEb4i3iAz.js" type="text/javascript"></script>
+<script type="text/javascript">try{clicky.init(66540441);}catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66540441ns.gif"/></p></noscript>
+
+<meta name="google-site-verification" content="BFNWzN104oNqH29OawC8Tgl0EdPBP1A1yRFMeNOjz7U"/>
+
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-29167854-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+
+<!-- Background Ad Code -->
+<script type="text/javascript">(function($){$(document).ready(function(){$(document).click(function(e){if(e.target.nodeName=="HTML"||e.target.nodeName=="BODY"){window.open('http://socialmediaweek.org/submit-event/');}})})})(jQuery);</script>
+<!-- End Background Ad Code --> 	
+	
+<!-- Background Manager Start -->
+
+<!-- Background Manager End -->
+
+<script pagespeed_no_defer="">(function(){var e=window,f=Math,g="round",h="performance",k="&rit_script=",r="&rit_link=",y="&rit_img=",z="&rit_css=",A="&nttfb=",B="&nfd=",C="&ndt=",D="&nct=",E="&nbt=",F="&mfd=",G="&attfb=",H="&afd=",I="&adt=",J="&act=",K="&abt=",L="";e.pagespeed=e.pagespeed||{};var M=e.pagespeed;
+M.getResourceTimingData=function(){if(e[h]&&(e[h].getEntries||e[h].webkitGetEntries)){for(var s=0,t=0,l=0,u=0,m=0,v=0,n=0,w=0,p=0,x=0,q=0,c={},d=e[h].getEntries?e[h].getEntries():e[h].webkitGetEntries(),b=0;b<d.length;b++){var a=d[b].duration;0<a&&(s+=a,++l,t=f.max(t,a));a=d[b].connectEnd-d[b].connectStart;0<a&&(v+=a,++n);a=d[b].domainLookupEnd-d[b].domainLookupStart;0<a&&(u+=a,++m);a=d[b].initiatorType;c[a]?++c[a]:c[a]=1;a=d[b].requestStart-d[b].fetchStart;0<a&&(x+=a,++q);a=d[b].responseStart-d[b].requestStart;
+0<a&&(w+=a,++p)}return H+(l?f[g](s/l):0)+B+l+F+f[g](t)+J+(n?f[g](v/n):0)+D+n+I+(m?f[g](u/m):0)+C+m+K+(q?f[g](x/q):0)+E+q+G+(p?f[g](w/p):0)+A+p+(c.css?z+c.css:L)+(c.link?r+c.link:L)+(c.script?k+c.script:L)+(c.img?y+c.img:L)}return L};M.getResourceTimingData=M.getResourceTimingData;})();
+(function(){var c=encodeURIComponent,f=window,h="performance",k="unload:",l="on",m="load:",n="load",p="ets=",q="beforeunload",r="EventStart",s="?",t="=",u="&url=",v="&ttfb=",w="&req_start=",x="&ref=",y="&r",z="&nt=",A="&nrp=",B="&nav=",C="&ifr=1",D="&ifr=0",E="&htmlAt=",F="&fp=",G="&dwld=",H="&dom_c=",I="&dns=",J="&connect=",K="&ccul=",L="&ccrl=",M="&ccos=",N="&ccis=",O="&cces=",P="&b_csi=",Q="&",R="";f.pagespeed=f.pagespeed||{};var S=f.pagespeed,T=function(a,d,b,e){this.d=a;this.a=d;this.b=b;this.e=e};S.beaconUrl=R;
+T.prototype.c=function(){var a=this.d,d=f.mod_pagespeed_start,b=Number(new Date)-d,a=a+(-1==a.indexOf(s)?s:Q),a=a+p+(this.a==n?m:k),a=a+b;if(this.a!=q||!f.mod_pagespeed_loaded){a+=y+this.a+t;if(f[h]){var b=f[h].timing,e=b.navigationStart,g=b.requestStart,a=a+(b[this.a+r]-e),a=a+(B+(b.fetchStart-e)),a=a+(I+(b.domainLookupEnd-b.domainLookupStart)),a=a+(J+(b.connectEnd-b.connectStart)),a=a+(w+(g-e)),a=a+(v+(b.responseStart-g)),a=a+(G+(b.responseEnd-b.responseStart)),a=a+(H+(b.domContentLoadedEventStart-
+e));f[h].navigation&&(a+=z+f[h].navigation.type);e=-1;b.msFirstPaint?e=b.msFirstPaint:f.chrome&&f.chrome.loadTimes&&(e=Math.floor(1E3*f.chrome.loadTimes().firstPaintTime));e-=g;0<=e&&(a+=F+e)}else a+=b;S.getResourceTimingData&&f.parent==f&&(a+=S.getResourceTimingData());a+=f.parent!=f?C:D;this.a==n&&(f.mod_pagespeed_loaded=!0,(b=f.mod_pagespeed_num_resources_prefetched)&&(a+=A+b),(b=f.mod_pagespeed_prefetch_start)&&(a+=E+(d-b)));S.panelLoader&&(d=S.panelLoader.getCsiTimingsString(),d!=R&&(a+=P+d));
+S.criticalCss&&(d=S.criticalCss,a+=N+d.total_critical_inlined_size+O+d.total_original_external_size+M+d.total_overhead_size+L+d.num_replaced_links+K+d.num_unreplaced_links);this.b!=R&&(a+=this.b);document.referrer&&(a+=x+c(document.referrer));a+=u+c(this.e);S.beaconUrl=a;(new Image).src=a}};S.f=function(a,d,b,e){var g=new T(a,d,b,e);f.addEventListener?f.addEventListener(d,function(){g.c()},!1):f.attachEvent(l+d,function(){g.c()})};S.addInstrumentationInit=S.f;})();
+
+pagespeed.addInstrumentationInit('http://1-ps.googleusercontent.com/beacon?org=109_1_dp', 'load', '&s_ttfb=14&id=1380564096948095', 'http://www.tubefilter.com/2011/04/11/george-takei-patty-duke-talk-social-security-diss-captain-kirk/');</script></body>
+
+</html>

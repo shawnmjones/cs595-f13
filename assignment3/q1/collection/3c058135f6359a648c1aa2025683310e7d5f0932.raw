@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>2012 Ibrahim Index of African Governance (IIAG)</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,maximum-scale=1.0">
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/^no-js ?/, '') + (!('ontouchstart' in window) ? ' is-not-touch' : '');
+        // Fix viewport width for iPad/tablets
+        if (document.querySelectorAll &&
+            ((navigator.userAgent.toLowerCase().indexOf('android') > -1 && window.innerWidth > 721) ||
+            (navigator.userAgent.toLowerCase().indexOf('android') === -1 && screen.width > 721)))
+        {
+            document.querySelectorAll('meta[name="viewport"]')[0].setAttribute('content', 'width=1024');
+        }
+    </script>
+    <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/mobile.css" media="(max-width: 721px) and (max-device-width: 840px)">
+    <style>
+        #device-beacon { position: absolute; left: -1px; top: 0; width: 0; }
+        @media (max-width: 721px) and (max-device-width: 840px) {
+            #device-beacon { width: 1px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+
+    <div class="header clearfix">
+        <h1 class="header-title">
+            <a href="http://www.moibrahimfoundation.org/" class="header-logo"></a>
+            <span>2012 Ibrahim Index of African Governance (IIAG)</span>
+        </h1>
+        <div id="header-nav" class="header-nav clearfix">
+            <div id="lang" class="lang">
+                <h2 class="visuallyhidden">Choose your language</h2>
+                <ul class="clearfix">
+                                    <li><a href="http://www.moibrahimfoundation.org/interact/" class="is-active">En<span class="visuallyhidden"> (English)</span></a></li>
+                    <li><a href="http://www.moibrahimfoundation.org/fr/interactives/" class="">Fr<span class="visuallyhidden"> (Français)</span></a></li>
+                                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="subheader" class="subheader">
+        <!--[if gt IE 6]><!-->
+        <div id="loading" class="loading">
+            <div></div>
+        </div>
+        <!--<![endif]-->
+    </div>
+    
+    <!-- FIXME: Move error messages to subheader? -->
+    <div id="main" class="main clearfix">
+        <noscript>
+            <p>Please enable Javascript to explore the index</p>
+        </noscript>
+        
+        <!--[if lt IE 7]>
+            <p class="error">Please upgrade your browser to explore the index</p>
+        <![endif]-->
+    </div>
+
+    <div id="palette" class="palette-wrapper">
+    </div>
+
+    <div id="footer" class="footer clearfix">
+        <a href="http://www.moibrahimfoundation.org/" class="footer-logo"></a>
+        <div id="footer-lang" class="footer-lang">
+            <ul class="clearfix">
+                                    <li><a href="http://www.moibrahimfoundation.org/interact/" class="is-active">English</a></li>
+                    <li><a href="http://www.moibrahimfoundation.org/fr/interactives/" class="">Français</a></li>
+                            </ul>
+        </div>
+        <ul class="footer-nav">
+            <li><a href="http://www.moibrahimfoundation.org/iiag/">
+                The Ibrahim Index            </a></li>
+            <li><a href="http://www.moibrahimfoundation.org/overview/">
+                About            </a></li>
+            <li><a href="http://www.moibrahimfoundation.org/contact/">
+                Contact            </a></li>
+            <li class="footer-copyright">© Mo Ibrahim Foundation 2013</li>
+        </ul>
+        <p class="footer-credit"><a href="http://appliedworks.co.uk">Designed by Applied Works</a></p>
+    </div>
+
+</div>
+
+<div id="device-beacon"></div>
+
+<script id="json-dictionary" type="text/json">
+{"search":"Search countries","regavg":"Regional Averages","movers":"Significant Movers 06-11","noindex":"Not Included<br>in the IIAG","nodata":["No<br>data","No data in this sub&#8209;category"],"findings":"Key findings","cfindings":"Country findings","outliers":"Highest\/lowest","rank":"Rank","country":"Country","score":"Score","next":"Next","prev":"Previous","cats":"Categories","sort":"Sort","sortby":"Sort by","tabtbl":"Table view","tabmap":"Map view","nosvg":"Unable to display map","share":"Share this view","custom-group":"Create custom group","cinfo":"Country information","since":"since","grps":"Groups","select":"Select countries from the table or map","avgscore":"Average score","edit":"Edit","save":"Save","clear":"Clear","indicators":"Indicators in this category","countries":{"dz":"Algeria","ao":"Angola","bj":"Benin","bw":"Botswana","bf":"Burkina Faso","bi":"Burundi","cm":"Cameroon","cv":["Cape Verde","Cabo Verde"],"cf":["Central African Rep.","Central African Republic"],"td":"Chad","km":"Comoros","cg":["Congo","The Congo","Congo-Brazzaville"],"cd":["Congo, Democratic Rep.","Congo, Democratic Republic","DR Congo","DRC","Congo-Kinshasa"],"ci":["C\u00f4te d\u2019Ivoire","Ivory Coast"],"dj":"Djibouti","eg":"Egypt","gq":"Equatorial Guinea","er":"Eritrea","et":"Ethiopia","ga":"Gabon","gm":["Gambia","The Gambia"],"gh":"Ghana","gn":"Guinea","gw":"Guinea-Bissau","ke":"Kenya","ls":"Lesotho","lr":"Liberia","ly":"Libya","mg":"Madagascar","mw":"Malawi","ml":"Mali","mr":"Mauritania","mu":"Mauritius","ma":"Morocco","mz":["Mozambique","Mo\u00e7ambique"],"na":"Namibia","ne":"Niger","ng":"Nigeria","rw":"Rwanda","st":["S\u00e3o Tom\u00e9 & Pr\u00edncipe","S\u00e3o Tom\u00e9 and Pr\u00edncipe"],"sn":"Senegal","sc":"Seychelles","sl":"Sierra Leone","so":"Somalia","za":"South Africa","sd":"Sudan","ss":"South Sudan","sz":"Swaziland","tz":"Tanzania","tg":"Togo","tn":"Tunisia","ug":"Uganda","zm":"Zambia","zw":"Zimbabwe","eh":"Western Sahara"},"groups":{"root":"Africa","c":"Central Africa","e":"East Africa","n":"North Africa","s":"Southern Africa","w":"West Africa","is":"Island countries","ll":"Landlocked countries","cs":"Coastal countries","custom":"Custom group"},"categories":{"root":"Overall","srl":"Safety &amp; Rule of Law","phr":"Participation &amp; Human Rights","sec":"Sustainable Economic Opportunity","hd":"Human Development","rl":"Rule of Law","a":"Accountability","ps":"Personal Safety","ns":"National Security","p":"Participation","r":"Rights","g":"Gender","pm":"Public Management","be":"Business Environment","i":"Infrastructure","rs":"Rural Sector","w":"Welfare","e":"Education","h":"Health"},"metadata":{"score":["Score","score"],"gdp":["GDP<br>(US$bn)","GDP","GDP (US$)"],"gdpc":["GDP per cap. (US$)","GDP per capita","GDP per capita (US$)"],"gdpg":["GDP growth","GDP growth","GDP growth"],"pop":["Pop.<br>(m)","population","Population"],"yc":["6 year<br>change","6 year change"],"alpha":["Country name","country name"],"reg":"Region","hos":"Head of state\/government","recs":"REC membership(s)","il":"Income level","la":"Land area","le":"Life expectancy","odac":"Net ODA per capita (US$)"},"income":{"l":"Low","lm":"Lower middle","um":"Upper middle","hnoecd":"High (non-OECD)"},"units":{"bn":"billion","m":"million"},"number":{"ordinals":[null,"st","nd","rd"],"ordinalThreshold":20,"defaultOrdinal":"th","decimalSeperator":".","thousandsSeperator":","},"tfindings":{"higher":"higher","lower":"lower","overall":"%s scores %s than the continental average (%s) and %s than the regional average (%s) for <a data-x=\"g:%s\">%s<\/a>.","highest":"%s\u2019s highest rank was in <a class=\"fg-%s\" data-x=\"ct:%s\">%s<\/a> (%s\/52) and largest 6-year score improvement was in <a class=\"fg-%s\" data-x=\"ct:%s\">%s<\/a> (%s)","lowest":"%s\u2019s lowest rank was in <a class=\"fg-%s\" data-x=\"ct:%s\">%s<\/a> (%s\/52) and largest 6-year score decline was in <a class=\"fg-%s\" data-x=\"ct:%s\">%s<\/a> (%s)"}}</script>
+
+<script id="json-groups" type="text/json">
+{"root":["dz","ao","bj","bw","bf","bi","cm","cv","cf","td","km","cg","cd","ci","dj","eg","gq","er","et","ga","gm","gh","gn","gw","ke","ls","lr","ly","mg","mw","ml","mr","mu","ma","mz","na","ne","ng","rw","st","sn","sc","sl","so","za","sz","tz","tg","tn","ug","zm","zw","eh","sd","ss"],"c":["cm","cf","td","cd","cg","gq","ga"],"e":["bi","km","dj","er","et","ke","rw","sc","so","tz","ug","sd","ss"],"n":["dz","eg","ly","mr","ma","tn","eh"],"s":["ao","bw","ls","mg","mw","mu","mz","na","za","sz","zm","zw"],"w":["bj","bf","cv","ci","gm","gh","gn","gw","lr","ml","ne","ng","st","sn","sl","tg"],"is":["cv","km","mg","mu","st","sc"],"ll":["bw","bf","bi","cf","td","et","ls","mw","ml","ne","rw","sz","ug","zm","zw","ss"],"cs":["dz","ao","bj","cm","cg","cd","ci","dj","eg","gq","er","ga","gm","gh","gn","gw","ke","lr","ly","mr","ma","mz","na","ng","sn","sl","so","za","tz","tg","tn","eh","sd"]}</script>
+
+<script id="json-categories" type="text/json">
+[{"id":"root","colour":"2d3a41","movers":["ao","lr","mg","sl"],"children":[{"id":"srl","colour":"d62628","movers":["lr","ly","mg","sl"],"children":[{"id":"rl"},{"id":"a"},{"id":"ps"},{"id":"ns"}]},{"id":"phr","colour":"d2952a","movers":["gn","mg"],"children":[{"id":"p"},{"id":"r"},{"id":"g"}]},{"id":"sec","colour":"496614","movers":["cf","lr","ly","mu"],"children":[{"id":"pm"},{"id":"be"},{"id":"i"},{"id":"rs"}]},{"id":"hd","colour":"0063ba","children":[{"id":"w"},{"id":"e"},{"id":"h"}]}]}]</script>
+
+<script src="js/vendor/jquery-1.10.1.min.js"></script>
+<script src="js/vendor/script-2.2.6.min.js"></script>
+<script src="js/loader.js"></script>
+
+<script>
+    $(window).load(function() {
+        new Loader('prod', 'en');
+    });
+</script>
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35586210-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+    
+</body>
+</html>

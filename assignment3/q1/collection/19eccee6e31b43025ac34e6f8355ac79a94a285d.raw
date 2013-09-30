@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US"    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:og="http://opengraphprotocol.org/schema/"
+    xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta property="fb:app_id" content="217056148424105" />
+<meta property="og:site_name" content="name" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="America Under the Gun" />
+<meta property="og:url" content="http://www.americanprogress.org/issues/civil-liberties/report/2013/04/02/58382/america-under-the-gun/" />
+<meta property="og:description" content="A new CAP analysis suggests a relationship between weak state gun laws and high levels of gun violence." />
+<meta property="og:image" content="http://www.americanprogress.org//wp-content/uploads/2013/03/AmericaUnderTheGunCOVERART-01.jpg" />
+
+<link rel="shortcut icon" href="http://www.americanprogress.org/wp-content/themes/c3/images/cap_favicon.ico" type="image/x-icon" />
+
+<!-- The default, desktop style, which includes the CSS reset and video CSS -->
+<link href="http://www.americanprogress.org/wp-content/shared/css/style.css?cb=20130905" rel="stylesheet" type="text/css" media="all"> 
+
+<!-- Tablets and iPads -->
+<link href="http://www.americanprogress.org/wp-content/shared/css/midsize.css?cb=20130905" rel="stylesheet" type="text/css" media="only screen and (min-width:641px) and (max-width:900px), only screen and (max-device-width : 1024px) and (orientation : landscape)"> 
+
+<!-- iPhones and typical mobile small screens -->
+<link href="http://www.americanprogress.org/wp-content/shared/css/mobile.css?cb=20130905" rel="stylesheet" type="text/css" media="only screen and (max-width:640px)">  
+
+<!-- The fix for the high-resolution phones, mostly android, just up to the ratio of 2 -->
+<link href="http://www.americanprogress.org/wp-content/shared/css/mobile.css?cb=20130905" rel="stylesheet" type="text/css" media="
+only screen and (-webkit-min-device-pixel-ratio: 1.5) and (-webkit-max-device-pixel-ratio: 1.99),
+only screen and (-o-min-device-pixel-ratio: 3/2) and(-o-max-device-pixel-ratio: 3.99/2),
+only screen and (min--moz-device-pixel-ratio: 1.5) and (max--moz-device-pixel-ratio: 1.99),
+only screen and (min-device-pixel-ratio: 1.5) and (max-device-pixel-ratio: 1.99)">
+
+<!-- The retina iPad fix to make it render the tablet style, not the phone style -->
+<link href="http://www.americanprogress.org/wp-content/shared/css/midsize.css?cb=20130905" rel="stylesheet" type="text/css" media="only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 2)">
+
+
+<link href="http://www.americanprogress.org/wp-content/shared/css/print.css?cb=20130905" rel="stylesheet" type="text/css" media="print"> 
+
+<!--[if lt IE 8]>
+<link href="http://www.americanprogress.org/wp-content/shared/css/midsize.css?cb=20130905" rel="stylesheet" type="text/css" media="screen"> 
+<link href="http://www.americanprogress.org/wp-content/shared/css/ie-fixes.css?cb=20130905" rel="stylesheet" type="text/css" media="screen"> 
+<![endif]-->
+
+
+<!-- This fixes the orientation switch bug in iOS... forces a better resize when someone rotates an iPhone or iPad -->
+<script type="text/javascript">
+	if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
+    var viewportmeta = document.querySelector('meta[name="viewport"]');
+    if (viewportmeta) {
+        viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0';
+        document.body.addEventListener('gesturestart', function () {
+            viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6';
+        }, false);
+    }
+}
+</script>
+
+<!-- HTML5 Support for old browsers -->
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<meta name="elq-topic" content="civil-liberties" />
+
+<title>America Under the Gun | Center for American Progress</title>
+
+
+
+<script type='text/javascript' src='http://www.americanprogress.org/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.americanprogress.org/wp-content/shared/js/consolidated/ui-utils.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.americanprogress.org/wp-content/wp-content/shared/js/flowplayer/flowplayer_all.min.js?ver=20130905'></script>
+<script type='text/javascript' src='http://www.americanprogress.org/wp-content/wp-content/shared/js/analytics-events.js?ver=20130905'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.americanprogress.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.americanprogress.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Growing the Wealth' href='http://www.americanprogress.org/issues/labor/report/2013/04/02/57409/growing-the-wealth/' />
+<link rel='next' title='The Facts on Immigration Today' href='http://www.americanprogress.org/issues/immigration/report/2013/04/03/59040/the-facts-on-immigration-today-3/' />
+<meta name="generator" content="WordPress 3.3.1" />
+<link rel='canonical' href='http://www.americanprogress.org/issues/civil-liberties/report/2013/04/02/58382/america-under-the-gun/' />
+<link rel="stylesheet" href="http://www.americanprogress.org/wp-content/plugins/ap-solr-for-wordpress/template/autocomplete.css" type="text/css" media="screen" />
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $("#s").suggest("?method=autocomplete",{});
+        $("#qrybox").suggest("?method=autocomplete",{});
+    });
+</script>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<script type='text/javascript'>
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 8871;
+	_sf_async_config.domain = 'www.americanprogress.org';
+	_sf_async_config.useCanonical = true;
+	_sf_async_config.sections = '';  //CHANGE THIS
+	_sf_async_config.authors = '';    //CHANGE THIS
+	/** CONFIGURATION END **/
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-246439-2']);
+  _gaq.push(['_setLocalRemoteServerMode']);
+  _gaq.push(['_setDomainName', 'www.americanprogress.org; ']);
+  _gaq.push(['_trackPageview', '/issues/civil-liberties/report/2013/04/02/58382/america-under-the-gun/']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></head>
+
+<body>
+<div id="masthead" >
+	<div class="pre-banner">
+		<div class="pre-social">
+		<ul>
+
+			<li><a href="http://www.facebook.com/americanprogress" alt="Facebook Icon" class="facebook">Facebook</a> <span>42,532</span></li> 
+
+		   <li><a href="http://www.twitter.com/amprog" alt="Twitter Icon" class="twitter">Twitter</a> <span>30,757</span></li>
+
+			<li><a href="http://www.youtube.com/user/seeprogress" alt="Youtube icon" class="youtube">Youtube</a> <span>3,221</span></li>
+
+	    	<li><a href="/about/rss-feeds/"alt="RSS icon" class="rss">RSS</a></li>
+			</ul>	
+		</div>
+		<span><a href="/espanol/inicio/view/">CAP en Español</a></span>
+	</div>
+
+	<a href="/">
+	<!--[if lte IE 8]><img class="banner fit" src="http://www.americanprogress.org/wp-content/themes/c3/images/c3-slim-banner-880.png" alt="Center for American Progress masthead"><![endif]-->
+    <!--[if gt IE 8]><img class="banner fit" src="/wp-content/shared/images/CAP_BigBanner.svg" alt="Center for American Progress masthead"><![endif]-->
+    <!--[if !IE]> --><img class="banner fit svg" src="/wp-content/shared/images/CAP_BigBanner.svg" data-img-fallback="http://www.americanprogress.org/wp-content/themes/c3/images/c3-slim-banner-880.png" alt="Center for American Progress masthead"><!-- <![endif]-->
+	</a>
+	<a href="/">
+	<!--[if lte IE 8]><img src="http://www.americanprogress.org/wp-content/themes/c3/images/mobile-banner-960.jpg" alt="Small CAP Banner" class="mobile-only minibanner"><![endif]-->
+    <!--[if gt IE 8]><img src="/wp-content/shared/images/CAPMobileBanner.svg" alt="Small CAP Banner" class="mobile-only minibanner"><![endif]-->
+    <!--[if !IE]> --><img src="/wp-content/shared/images/CAPMobileBanner.svg" data-img-fallback="http://www.americanprogress.org/wp-content/themes/c3/images/mobile-banner-960.jpg" alt="Small CAP Banner" class="mobile-only minibanner svg"><!-- <![endif]-->
+	</a>
+
+    <nav><ul class="trending"><li>TRENDING:</li><li><a href="http://www.americanprogress.org/tag/syria/view/">Syria</a></li><li><a href="http://www.americanprogress.org/tag/gun-violence/view/">Gun Violence</a></li><li><a href="http://www.americanprogress.org/tag/sequestration/view/">Sequestration</a></li><li><a href="http://www.americanprogress.org/tag/immigration-reform/view/">Immigration Reform</a></li><li><a href="http://www.americanprogress.org/tag/climate-action-plan/view/">Climate Action Plan</a></li><li><a href="http://www.americanprogress.org/projects/middle-out-economics/view/">Middle-Out Economics</a></li></ul></nav>
+</div> <!-- close #masthead -->
+
+<div id="wrapper">
+
+	<nav class="topnav">
+        <script type="text/javascript">
+            function submitform() {
+                document.forms["search-form"].submit();
+            }
+        </script>
+
+        <div id="mainsearch">
+            <form name="searchbox" method="get" id="search-form" action="/search/">
+                <input type="text" id="search-input" name="query">
+                <a href="#" id="search-submit" class="search-submit"><img src="http://www.americanprogress.org/wp-content/themes/c3/images/mag.png" alt="Search Icon"></a>
+            </form>
+            <script>
+	            jQuery(document).ready(function($) {
+	                // $() will work as an alias for jQuery() inside of this function
+	                $("#search-input").watermark("search");
+	                $("a.search-submit").click(function(event){event.preventDefault();$(this).parents("form").submit()});
+	            });
+            </script>
+        </div> 
+
+		<ul class="primary">
+			<li class="issues"><a  class="active"  href="/about/our-issues/">Issues</a>
+				<ul>
+<li><a href="/issues/china/view/"   >China</a></li><li><a href="/issues/civil-liberties/view/"  class="active"  >Civil Liberties</a></li><li><a href="/issues/economy/view/"   >Economy</a></li><li><a href="/issues/education/view/"   >Education</a></li><li><a href="/issues/green/view/"   >Energy and Environment</a></li><li><a href="/issues/budget/view/"   >Federal Budget</a></li><li><a href="/issues/guns-crime/view/"   >Guns and Crime</a></li><li><a href="/issues/healthcare/view/"   >Health Care</a></li><li><a href="/issues/higher-education/view/"   >Higher Education</a></li><li><a href="/issues/housing/view/"   >Housing</a></li><li><a href="/issues/immigration/view/"   >Immigration</a></li><li><a href="/issues/labor/view/"   >Labor and Work</a></li><li><a href="/issues/lgbt/view/"   >LGBT</a></li><li><a href="/issues/media/view/"   >Media</a></li><li><a href="/issues/military/view/"   >Military</a></li><li><a href="/issues/security/view/"   >National Security</a></li><li><a href="/issues/open-government/view/"   >Open Government</a></li><li><a href="/issues/poverty/view/"   >Poverty</a></li><li><a href="/issues/progressive-movement/view/"   >Progressive Movement</a></li><li><a href="/issues/public-opinion/view/"   >Public Opinion</a></li><li><a href="/issues/race/view/"   >Race and Ethnicity</a></li><li><a href="/issues/regulation/view/"   >Regulation and Markets</a></li><li><a href="/issues/religion/view/"   >Religion and Values</a></li><li><a href="/issues/tax-reform/view/"   >Tax Reform</a></li><li><a href="/issues/technology/view/"   >Technology and Science</a></li><li><a href="/issues/terrorism/view/"   >Terrorism</a></li><li><a href="/issues/women/view/"   >Women's Rights</a></li>				
+				
+				</ul>
+			</li>
+			<li><a  href="/projects/our-projects/">Projects</a>
+			    			    				<div class="drop four">
+				<h5>Our Projects</h5>
+				<p>The Center for American Progress helps advance progressive ideas through a range of projects in key issue areas.</p>
+				
+								<ul class="cleanlist split left">
+				<li><a href="/projects/climate-migration-security/view/"  target="_self" >Climate-Migration-Security</a></li>
+<li><a href="http://www.drsforamerica.org"  target="_blank" >Doctors for America</a></li>
+<li><a href="/projects/doing-what-works/view/"  target="_self" >Doing What Works</a></li>
+<li><a href="http://enoughproject.org"  target="_blank" >Enough</a></li>
+<li><a href="/projects/faith/view/"  target="_self" >Faith and Progressive Policy</a></li>
+<li><a href="http://genprogress.org"  target="_blank" >Generation Progress</a></li>
+<li><a href="/projects/just-jobs/view/"  target="_self" >Just Jobs</a></li>
+<li><a href="/projects/leadership-institute/view/"  target="_self" >Leadership Institute</a></li>
+<li><a href="/projects/legal-progress/view/"  target="_self" >Legal Progress</a></li>
+<li><a href="http://middleeastprogress.org"  target="_blank" >Middle East Progress</a></li>
+				</ul>
+								
+								<ul class="cleanlist split right">
+				<li><a href="/projects/middle-out-economics/view/"  target="_self" >Middle-Out Economics</a></li>
+<li><a href="/projects/our-future-together/view/"  target="_self" >Our Future, Together</a></li>
+<li><a href="/projects/working-nation/view/"  target="_self" >Our Working Nation</a></li>
+<li><a href="/projects/progress-2050/view/"  target="_self" >Progress 2050</a></li>
+<li><a href="/projects/progressive-studies/view/"  target="_self" >Progressive Studies Program</a></li>
+<li><a href="/projects/reel-progress/view/"  target="_self" >Reel Progress</a></li>
+<li><a href="http://scienceprogress.org"  target="_blank" >Science Progress</a></li>
+<li><a href="/projects/sustainable-security/view/"  target="_self" >Sustainable Security</a></li>
+<li><a href="/projects/ending-global-poverty/view/"  target="_self" >The World in 2030: Ending Global Poverty</a></li>
+				</ul>
+								</div>
+					
+			</li>
+			<li><a  href="/about/experts-alphabetical/">Experts</a>
+				<div class="drop four">
+				<h5><a href="/about/experts-alphabetical/">Find Experts by Name</a></h5>
+				<h5>... or Find Experts by Issue:</h5>
+<ul class="third"><li><a href="/about/experts-by-issue/?termid=101">China</a></li><li><a href="/about/experts-by-issue/?termid=102">Civil Liberties</a></li><li><a href="/about/experts-by-issue/?termid=103">Economy</a></li><li><a href="/about/experts-by-issue/?termid=104">Education</a></li><li><a href="/about/experts-by-issue/?termid=105">Energy and Environment</a></li><li><a href="/about/experts-by-issue/?termid=106">Federal Budget</a></li><li><a href="/about/experts-by-issue/?termid=127">Guns and Crime</a></li><li><a href="/about/experts-by-issue/?termid=108">Health Care</a></li><li><a href="/about/experts-by-issue/?termid=109">Higher Education</a></li></ul><ul class="third"><li><a href="/about/experts-by-issue/?termid=110">Housing</a></li><li><a href="/about/experts-by-issue/?termid=111">Immigration</a></li><li><a href="/about/experts-by-issue/?termid=112">Labor and Work</a></li><li><a href="/about/experts-by-issue/?termid=107">LGBT</a></li><li><a href="/about/experts-by-issue/?termid=113">Media</a></li><li><a href="/about/experts-by-issue/?termid=114">Military</a></li><li><a href="/about/experts-by-issue/?termid=115">National Security</a></li><li><a href="/about/experts-by-issue/?termid=116">Open Government</a></li><li><a href="/about/experts-by-issue/?termid=117">Poverty</a></li></ul><ul class="third"><li><a href="/about/experts-by-issue/?termid=118">Progressive Movement</a></li><li><a href="/about/experts-by-issue/?termid=119">Public Opinion</a></li><li><a href="/about/experts-by-issue/?termid=120">Race and Ethnicity</a></li><li><a href="/about/experts-by-issue/?termid=121">Regulation and Markets</a></li><li><a href="/about/experts-by-issue/?termid=122">Religion and Values</a></li><li><a href="/about/experts-by-issue/?termid=123">Tax Reform</a></li><li><a href="/about/experts-by-issue/?termid=124">Technology and Science</a></li><li><a href="/about/experts-by-issue/?termid=125">Terrorism</a></li><li><a href="/about/experts-by-issue/?termid=126">Women's Rights</a></li></ul>				</div>
+			</li>
+			<li><a   href="/events/upcoming-events/">Events</a></li>
+			<li><a   href="/reports/view/">Reports</a></li>
+			<li><a   href="/about/mission/">About Us</a>
+				<div class="drop three">
+					
+					<h5>About Center for American Progress</h5>
+				<p>
+				<!--[if lte IE 8]><img src="/wp-content/shared/images/cap250.png" alt="CAP Logo" class="fithalf picright"><![endif]-->
+                <!--[if gt IE 8]><img src="/wp-content/shared/images/CAP_logo.svg" alt="CAP Logo" class="fithalf picright"><![endif]-->
+                <!--[if !IE]> --><img src="/wp-content/shared/images/CAP_logo.svg" data-img-fallback="/wp-content/shared/images/cap250.png" alt="CAP Logo" class="fithalf picright svg"><!-- <![endif]-->
+				The Center for American Progress is an independent nonpartisan educational institute dedicated to improving the lives of Americans through progressive ideas and action. <a href="/about/mission/" class="more">Read more <span>&rarr;</span></a></p>
+<p class="secondary">
+<a href="/about/staff/">Staff & Fellows</a> &middot; 
+<a href="/about/job-listings/">Jobs</a> &middot; 
+<a href="/about/internships/">Internships</a> &middot; 
+<a href="/press/view/">Press Room</a>
+</p>
+
+				</div>
+			</li>
+			<li class="no-mobile"><a   href="/donate/">Donate</a></li>
+		</ul>
+
+	</nav>
+
+<div id="core">
+<div id="main">
+
+<p class="breadcrumbs"><a href="/about/our-issues/">Issues</a> &raquo; <a href="/issues/civil-liberties/view/" class="last">Civil Liberties</a></p>
+<article>
+<h1>America Under the Gun</h1>
+<h2>A 50-State Analysis of Gun Violence and Its Link to Weak State Gun Laws</h2><img src="/wp-content/uploads/2013/03/AmericaUnderTheGunCOVERART-01.jpg" alt="America Under the Gun Cover Art" class="mainphoto"><p class="photosource">SOURCE: CAP Illustration/iStock</p><p class="photocaption">Many of the states with the weakest gun laws also have the highest levels of gun violence.</p><p class="byline">By <a href="/about/staff/gerney-arkadi/bio/">Arkadi Gerney</a>, <a href="/about/staff/parsons-chelsea/bio/">Chelsea Parsons</a>,  and <a href="/about/staff/posner-charles/bio/">Charles Posner</a> | <span class="timestamp">April 2, 2013</span></p>
+<ul class="storytools">
+<span class="no-mobile">PRINT: 
+<li class="print"><a href="#" onClick="window.print();return false;"><img src="http://www.americanprogress.org/wp-content/themes/c3/images/print24.png" width="24" height="24" alt="print icon"></a></li></span>
+SHARE: 
+<li><a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fcivil-liberties%2Freport%2F2013%2F04%2F02%2F58382%2Famerica-under-the-gun%2F" target="_blank"><img src="http://www.americanprogress.org/wp-content/themes/c3/images/facebook24.png" width="24" height="24" alt="Facebook icon"></a></li>
+<li><a href="https://twitter.com/share?url=http%3A%2F%2Fampr.gs%2F16vYg3V&text=America+Under+the+Gun&via=amprog" target="_blank"><img src="http://www.americanprogress.org/wp-content/themes/c3/images/twitter24.png" width="24" height="24" alt="Twitter icon"></a></li>
+<li><a href="https://plus.google.com/share?url=http://www.americanprogress.org/issues/civil-liberties/report/2013/04/02/58382/america-under-the-gun/" onclick="javascript:window.open(this.href,
+        '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img
+        src="http://www.americanprogress.org/wp-content/themes/c3/images/googleplus24.png" alt="Share on Google+"/></a></li>
+<li><a href="http://www.addthis.com/bookmark.php" class="addthis_button_email"><img src="http://www.americanprogress.org/wp-content/themes/c3/images/email24.png" alt="Email icon"></a></li>
+</ul>
+
+
+
+<ul class="readbox"><img src="/wp-content/uploads/2013/03/AmericaUnderTheGunCOVER.jpg" width="150" alt="America Under the Gun" class="cover"><li>Download the report: <br/><a href="/wp-content/uploads/2013/04/AmericaUnderTheGun-4.pdf">PDF</a></li><li>Read it in your browser: <br/><a href="http://www.scribd.com/doc/133035248/America-Under-the-Gun">Scribd</a></li></ul>
+<p><strong>See also:</strong> <a href="http://www.americanprogress.org/issues/civil-liberties/news/2013/04/02/58293/interactive-measuring-gun-violence-across-the-50-states/">Interactive: Measuring Gun Violence Across the 50 States</a> by Emma Shapiro and Charles Posner</p>
+<p><strong>This report contains a correction.</strong></p>
+<p><em><strong></strong>Endnotes and citations are available in the PDF version of this report.</em></p>
+<p>In the aftermath of mass shootings and other gun-related tragedies, there is often a surge of interest on the part of community leaders, social-science researchers, and elected officials to root out the causes of gun violence in an effort to prevent such tragedies from occurring again. Any study into the causes of gun violence is necessarily complicated, however, as there are innumerable factors that contribute to the nature and prevalence of gun-related violence in any community.</p>
+<p>Despite this complex web of factors that influence the rate of gun violence, this report finds a clear link between high levels of gun violence and weak state gun laws. Across the key indicators of gun violence that we analyzed, the 10 states with the weakest gun laws collectively have an aggregate level of gun violence that is more than twice as high—104 percent higher, in fact—than the 10 states with the strongest gun laws.</p>
+<p>The data analyzed in this report relate to the following 10 indicators of gun violence:</p>
+<ol>
+<li>Overall firearm deaths in 2010</li>
+<li>Overall firearm deaths from 2001 through 2010</li>
+<li>Firearm homicides in 2010</li>
+<li>Firearm suicides in 2010</li>
+<li>Firearm homicides among women from 2001 through 2010</li>
+<li>Firearm deaths among children ages 0 to 17, from 2001 through 2010</li>
+<li>Law-enforcement agents feloniously killed with a firearm from 2002 through 2011</li>
+<li>Aggravated assaults with a firearm in 2011</li>
+<li>Crime-gun export rates in 2009</li>
+<li>Percentage of crime guns with a short “time to crime” in 2009</li>
+</ol>
+<p>Using these data, we rank each state according to the rate of each indicator of gun violence and create an overall ranking of the states across all 10 indicators, resulting in an overall state ranking for the prevalence of gun violence. Finally, we compare this overall state gun-violence ranking with a Law Center to Prevent Gun Violence ranking of states based on the strength of their gun laws.</p>
+<p>Our analysis determined that the following are the 10 states, by rank, that suffer the highest levels of gun violence:</p>
+<ol>
+<li>Louisiana</li>
+<li>Alaska</li>
+<li>Alabama</li>
+<li>Arizona</li>
+<li>Mississippi</li>
+<li>South Carolina</li>
+<li>New Mexico</li>
+<li>Missouri</li>
+<li>Arkansas</li>
+<li>Georgia</li>
+</ol>
+<p>The Law Center to Prevent Gun Violence analysis shows that eight of these states are among the 25 states with the weakest gun laws.</p>
+<p>While the strength of a state’s gun laws is just one factor in the prevalence of gun-related violence in the state and cannot alone account for gun violence, there is a clear link between weak gun laws and high levels of gun violence across the United States.</p>
+<p><em>Arkadi Gerney is a Senior Fellow at the Center for American Progress. Chelsea Parsons is Associate Director of Crime and Firearms Policy at the Center. Charles Posner is the State Communications Assistant at the Center.</em></p>
+<p><strong>To see each of the top 10 state fact sheets, visit the following links:</strong></p>
+<ul>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/LouisianaGunViolence1.pdf">Louisiana</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/AlaskaGunViolence1.pdf">Alaska</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/AlabamaGunViolence1.pdf">Alabama</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/ArizonaGunViolence1.pdf">Arizona</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/MississippiGunViolence1.pdf">Mississippi</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/SouthCarolinaGunViolence1.pdf">South Carolina</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/NewMexicoGunViolence1.pdf">New Mexico</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/MissouriGunViolence1.pdf">Missouri</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/ArkansasGunViolence1.pdf">Arkansas</a></li>
+<li><a href="http://www.americanprogress.org/wp-content/uploads/2013/04/GeorgiaGunViolence1.pdf">Georgia</a></li>
+</ul>
+<p><em><strong>* Correction, April 22, 2013:</strong> This report incorrectly stated the national average of law-enforcement agents feloniously killed with a firearm from 2002 through 2011. The correct average is 0.2 per 100,000 people.</em></p>
+<div class="storyextra">
+
+<p><strong>To speak with our experts on this topic, please contact:</strong>
+
+<p><strong>Print:</strong> Katie Peters (economy, education, health care, gun-violence prevention)
+<br>202.741.6285 or <a href="mailto:kpeters1@americanprogress.org">kpeters1@americanprogress.org</a>
+
+<p><strong>Print:</strong> Anne Shoup (foreign policy and national security, energy, LGBT issues)
+<br>202.481.7146 or <a href="mailto:ashoup@americanprogress.org">ashoup@americanprogress.org</a>
+
+<p><strong>Print:</strong> Crystal Patterson (immigration)
+<br>202.478.6350 or <a href="mailto:cpatterson@americanprogress.org">cpatterson@americanprogress.org</a></p>
+
+<p><strong>Print:</strong> Madeline Meth (women's issues, poverty, Legal Progress)
+<br>202.741.6277 or <a href="mailto:mmeth@americanprogress.org">mmeth@americanprogress.org</a>
+
+<p><strong>Print:</strong> Tanya Arditi (Spanish language and ethnic media)
+<br>202.741.6258 or <a href="mailto:tarditi@americanprogress.org">tarditi@americanprogress.org</a></p>
+
+<p><strong>TV:</strong> Lindsay Hamilton
+<br>202.483.2675 or <a href="mailto:lhamilton@americanprogress.org">lhamilton@americanprogress.org</a>
+
+<p><strong>Radio:</strong> Madeline Meth
+<br>202.741.6277 or <a href="mailto:mmeth@americanprogress.org">mmeth@americanprogress.org</a>
+
+</div>
+&nbsp;
+</article>
+
+</div> <!-- close Main -->
+
+<div id="side">
+
+
+<div class="sidebox subscribe clear"><h4>Subscribe to Progressive Movement News Alerts</h4><form name="oco_nwl_c3e_issues_and_subs" action="http://now.eloqua.com/e/f2.aspx" method="post"><input type="hidden" value="785" name="elqSiteID"><input type="hidden" value="c3long" name="RedirectPage"><input type="hidden" value="oco_nwl_c3e_issues_and_subs" name="elqFormName"><input type="hidden" name="ProgressiveMovement" value="3"><input type="hidden" value="oco_nwl_c3e_short_issues_civilliberties" name="TrackingNumber"><input id="emailProgressiveMovement" name="Email" class="required email" type="text" ><input name="" type="submit" value="subscribe" class="button"></form>		<script>
+			jQuery(document).ready(function($) {
+				// $() will work as an alias for jQuery() inside of this function
+				$("#emailProgressiveMovement").watermark("Your email");
+				$("form[name='oco_nwl_c3e_issues_and_subs']").validate();
+			});
+		</script></div>
+<div class="sidebox follow no-mobile">
+  <h4>Follow Civil Liberties</h4>
+  
+  <p class="clear"><a href="/issues/civil-liberties/feed/">
+  	<span class="icon rss"></span>
+     Subscribe to the Civil Liberties RSS feed</a></p>
+</div>
+
+<div class="sidebox related"><h4>Related Materials</h4><ul class="cleanlist related"><li><a href="http://www.americanprogress.org/issues/civil-liberties/news/2013/08/22/72744/infographic-from-the-civil-rights-era-to-the-present/">Infographic: From the Civil Rights Era to the Present</a> by Joy Moses</li><li><a href="http://www.americanprogress.org/issues/civil-liberties/news/2013/08/22/72698/the-march-on-washington-looking-back-on-50-years/">The March on Washington: Looking Back on 50 Years</a> by Joy Moses and Zach Murray</li><li><a href="http://www.americanprogress.org/issues/civil-liberties/news/2013/08/20/72443/judging-the-high-court-justices/">Judging the High Court Justices</a> by Billy Corriher</li><li><a href="http://www.americanprogress.org/issues/civil-liberties/report/2013/08/14/72199/dodging-a-billion-dollar-verdict/">Dodging a Billion-Dollar Verdict</a> by Billy Corriher and Brent DeBeaumont</li><li><a href="http://www.americanprogress.org/issues/civil-liberties/report/2013/07/29/70765/fixing-wisconsins-dysfunctional-supreme-court-elections/">Fixing Wisconsin’s Dysfunctional Supreme Court Elections</a> by Billy Corriher</li></ul></div>
+<div class="sidebox also-by"><h4>Also by Arkadi Gerney</h4><ul class="cleanlist"><li><a href="http://www.americanprogress.org/issues/guns-crime/report/2013/09/17/74132/license-to-kill/">License to Kill</a>, September 17, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/guns-crime/report/2013/06/18/66693/lost-and-stolen-guns-from-gun-dealers/">Lost and Stolen Guns from Gun Dealers</a>, June 18, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/civil-liberties/report/2013/06/10/65494/recommendations-for-executive-action-to-combat-illegal-gun-trafficking-and-gun-crime/">Recommendations for Executive Action to Combat Illegal Gun Trafficking and Gun Crime</a>, June 10, 2013</li>
+</ul></div><div class="sidebox also-by"><h4>Also by Chelsea Parsons</h4><ul class="cleanlist"><li><a href="http://www.americanprogress.org/issues/guns-crime/report/2013/09/17/74132/license-to-kill/">License to Kill</a>, September 17, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/guns-crime/report/2013/06/18/66693/lost-and-stolen-guns-from-gun-dealers/">Lost and Stolen Guns from Gun Dealers</a>, June 18, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/civil-liberties/report/2013/06/10/65494/recommendations-for-executive-action-to-combat-illegal-gun-trafficking-and-gun-crime/">Recommendations for Executive Action to Combat Illegal Gun Trafficking and Gun Crime</a>, June 10, 2013</li>
+</ul></div><div class="sidebox also-by"><h4>Also by Charles Posner</h4><ul class="cleanlist"><li><a href="http://www.americanprogress.org/issues/women/news/2013/09/25/75188/mapping-the-state-of-women-in-america/">Mapping the State of Women in America</a>, September 25, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/women/report/2013/09/25/74836/the-state-of-women-in-america/">The State of Women in America</a>, September 25, 2013</li>
+<li><a href="http://www.americanprogress.org/issues/women/news/2013/09/25/75076/explore-the-data-the-state-of-women-in-america/">Explore the Data: The State of Women in America</a>, September 25, 2013</li>
+</ul></div>
+</div> <!-- Close sidebar -->
+</div><!-- #main -->
+
+<div id="footer">
+
+<div class="two"><h5>Issues</h5><ul class="cleanlist"><li><a href="/issues/china/view/">China</a></li><li><a href="/issues/civil-liberties/view/">Civil Liberties</a></li><li><a href="/issues/economy/view/">Economy</a></li><li><a href="/issues/education/view/">Education</a></li><li><a href="/issues/green/view/">Energy and Environment</a></li><li><a href="/issues/budget/view/">Federal Budget</a></li><li><a href="/issues/guns-crime/view/">Guns and Crime</a></li><li><a href="/issues/healthcare/view/">Health Care</a></li><li><a href="/issues/higher-education/view/">Higher Education</a></li><li><a href="/issues/housing/view/">Housing</a></li><li><a href="/issues/immigration/view/">Immigration</a></li><li><a href="/issues/labor/view/">Labor and Work</a></li><li><a href="/issues/lgbt/view/">LGBT</a></li><li><a href="/issues/media/view/">Media</a></li><li><a href="/issues/military/view/">Military</a></li><li><a href="/issues/security/view/">National Security</a></li><li><a href="/issues/open-government/view/">Open Government</a></li><li><a href="/issues/poverty/view/">Poverty</a></li><li><a href="/issues/progressive-movement/view/">Progressive Movement</a></li><li><a href="/issues/public-opinion/view/">Public Opinion</a></li><li><a href="/issues/race/view/">Race and Ethnicity</a></li><li><a href="/issues/regulation/view/">Regulation and Markets</a></li><li><a href="/issues/religion/view/">Religion and Values</a></li><li><a href="/issues/tax-reform/view/">Tax Reform</a></li><li><a href="/issues/technology/view/">Technology and Science</a></li><li><a href="/issues/terrorism/view/">Terrorism</a></li><li><a href="/issues/women/view/">Women's Rights</a></li></ul></div>
+<div class="two"><h5>Projects</h5><ul class="cleanlist"><li><a href="/projects/climate-migration-security/view/"  target="_self" >Climate-Migration-Security</a></li>
+<li><a href="http://www.drsforamerica.org"  target="_blank" >Doctors for America</a></li>
+<li><a href="/projects/doing-what-works/view/"  target="_self" >Doing What Works</a></li>
+<li><a href="http://enoughproject.org"  target="_blank" >Enough</a></li>
+<li><a href="/projects/faith/view/"  target="_self" >Faith and Progressive Policy</a></li>
+<li><a href="http://genprogress.org"  target="_blank" >Generation Progress</a></li>
+<li><a href="/projects/just-jobs/view/"  target="_self" >Just Jobs</a></li>
+<li><a href="/projects/leadership-institute/view/"  target="_self" >Leadership Institute</a></li>
+<li><a href="/projects/legal-progress/view/"  target="_self" >Legal Progress</a></li>
+<li><a href="http://middleeastprogress.org"  target="_blank" >Middle East Progress</a></li>
+<li><a href="/projects/middle-out-economics/view/"  target="_self" >Middle-Out Economics</a></li>
+<li><a href="/projects/our-future-together/view/"  target="_self" >Our Future, Together</a></li>
+<li><a href="/projects/working-nation/view/"  target="_self" >Our Working Nation</a></li>
+<li><a href="/projects/progress-2050/view/"  target="_self" >Progress 2050</a></li>
+<li><a href="/projects/progressive-studies/view/"  target="_self" >Progressive Studies Program</a></li>
+<li><a href="/projects/reel-progress/view/"  target="_self" >Reel Progress</a></li>
+<li><a href="http://scienceprogress.org"  target="_blank" >Science Progress</a></li>
+<li><a href="/projects/sustainable-security/view/"  target="_self" >Sustainable Security</a></li>
+<li><a href="/projects/ending-global-poverty/view/"  target="_self" >The World in 2030: Ending Global Poverty</a></li>
+</ul></div>
+<div class="two">
+	<h5>Connect with CAP</h5>
+	<ul class="cleanlist">
+		<li><a href="/about/contact-us/">Contact Us</a></li>
+		<li><a href="/about/rss-feeds/">RSS</a></li>
+		<li><a href="https://twitter.com/amprog">Twitter</a></li>
+		<li><a href="https://www.facebook.com/americanprogress">Facebook</a></li>
+		<li><a href="http://www.youtube.com/seeprogress">YouTube</a></li>
+		<li><a href="http://amprog.tumblr.com">Tumblr</a></li>
+		<li><a href="/about/newsletters-alerts/">Newsletters</a></li>
+		<li><a href="/donate/">Donate</a></li>
+	</ul>
+</div>
+
+<div class="two">
+	<h5>Press</h5>
+	<ul class="cleanlist">
+		<li><a href="/press/view/">Press Room</a></li>
+		<!--<li><a href="#">Press Kit</a></li>-->
+		<li><a href="/about/cap-logos/">Logos</a></li>
+		<li><a href="/about/contact-us/">Press Inquiries &amp; Booking</a></li>
+		<li><a href="/about/contact-us/">General Inquiries</a></li>
+	</ul>
+	<!-- 
+	<h5>Series</h5><ul class="cleanlist"><li><a href="/series/impacto-de-la-alabama-hb56/view/">El impacto de la H.B. 56 en Alabama</a></li><li><a href="/series/going-rowe/view/">Going ROWE</a></li><li><a href="/series/innovation-for-the-public-good/view/">Innovation for the Public Good</a></li><li><a href="/series/legal-progress-toolkit/view/">Legal Progress Toolkit</a></li><li><a href="/series/middle-class-series/view/">Middle Class Series</a></li><li><a href="/series/progressive-authors/view/">Progressive Authors</a></li><li><a href="/series/progressive-traditions/view/">Progressive Traditions</a></li><li><a href="/series/roe-at-40-podcast-series/view/">Roe at 40 Podcast Series</a></li><li><a href="/series/romney-u/view/">Romney U</a></li><li><a href="/series/sequestration-nation/view/">Sequestration Nation</a></li><li><a href="/series/social-impact-bonds/view/">Social Impact Bonds</a></li><li><a href="/series/tax-expenditure-of-the-week/view/">Tax Expenditure of the Week</a></li><li><a href="/series/the-new-values-voters/view/">The New Values Voters</a></li><li><a href="/series/workplace-discrimination-series/view/">Workplace Discrimination Series</a></li><li><a href="/series/young-muslim-american-voices/view/">Young Muslim American Voices</a></li></ul>	
+	<h5>Columns</h5><ul class="cleanlist"><li><a href="/column/ask-the-experts/view/">Ask the Experts</a></li><li><a href="/column/budget-bullets/view/">Budget Bullets</a></li><li><a href="/column/easy-being-green/view/">Easy Being Green</a></li><li><a href="/column/economic-snapshot/view/">Economic Snapshot</a></li><li><a href="/column/faith-in-values/view/">Faith in Values</a></li><li><a href="/column/fish-on-fridays/view/">Fish on Fridays</a></li><li><a href="/column/idea-of-the-day/view/">Idea of the Day</a></li><li><a href="/column/public-opinion-snapshot/view/">Public Opinion Snapshot</a></li><li><a href="/column/race-and-beyond/view/">Race and Beyond</a></li><li><a href="/column/think-again/view/">Think Again</a></li></ul>	 -->
+</div>
+
+<div class="two last">
+	<h5>About Us</h5>
+	<ul class="cleanlist">
+		<li><a href="/about/mission">About CAP</a></li>
+		<li><a href="/about/staff/">Staff &amp; Fellows</a></li>
+		<li><a href="/events/upcoming-events/">Events</a></li>
+		<li><a href="/reports/view/">Reports</a></li>
+		<li><a href="/about/job-listings/">Jobs</a></li>
+		<li><a href="/about/internships/">Internships</a></li>
+		<!--<li><a href="#">Annual Report</a></li>-->
+		<br/>
+		<li><a href="/about/c3-privacy-policy/">Privacy Policy</a></li>
+		<li><a href="/about/c3-reuse-policy/">Reuse Policy</a></li>
+		<li><a href="/about/c3-terms/">Terms of Use</a></li>
+		<li><a href="/about/state-notices/">State Notices</a></li>
+	</ul>
+</div>
+
+<p class="ten clear"><a href="/">&copy; 2013 Center for American Progress</a></p>
+
+</div> <!-- Close Footer -->
+</div><!-- #page -->
+
+<script type="text/javascript" language="javascript" src="/wp-content/shared/js/elqNow/elqCfg.js"></script>
+<script type="text/javascript" language="javascript" src="/wp-content/shared/js/elqNow/elqImg.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+
+<script type='text/javascript' src='http://www.americanprogress.org/wp-includes/js/jquery/suggest.js?ver=1.1-20110113'></script>
+
+</body>
+</html>

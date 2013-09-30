@@ -1,0 +1,854 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+	<title>PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race &#8211; FatLip</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="http://fatlip.leoweekly.com/wp-content/themes/leoblog/style.css" />
+	<link rel="Shortcut Icon" href="http://fatlip.leoweekly.com/wp-content/themes/leoblog/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="FatLip &raquo; PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race Comments Feed" href="http://fatlip.leoweekly.com/2012/12/11/ppp-poll-mitch-mcconnell-unpopular-in-ky-vulnerable-in-2014-race/feed/" />
+<link rel='stylesheet' id='multilevelnav_style-css'  href='http://fatlip.leoweekly.com/?mlnmenu=css&#038;ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://fatlip.leoweekly.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://fatlip.leoweekly.com/wp-content/plugins/multi-level-navigation-plugin/scripts/superfish.js?ver=1.4.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fatlip.leoweekly.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fatlip.leoweekly.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Mitch McConnell&#8217;s existential crisis' href='http://fatlip.leoweekly.com/2012/12/11/mitch-mcconnells-existential-crisis/' />
+<link rel='next' title='McConnell campaign desperately spinning horrid poll numbers, failing hard' href='http://fatlip.leoweekly.com/2012/12/11/mcconnell-campaign-desperately-spinning-horrid-poll-numbers-failing-hard/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://fatlip.leoweekly.com/2012/12/11/ppp-poll-mitch-mcconnell-unpopular-in-ky-vulnerable-in-2014-race/' />
+<link rel='shortlink' href='http://fatlip.leoweekly.com/?p=17445' />
+
+<!-- Multi-level Navigation Plugin v2.3.5 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
+<!--[if lte IE 7]><script type="text/javascript" src="http://fatlip.leoweekly.com/wp-content/plugins/multi-level-navigation-plugin/scripts/suckerfish_ie.js"></script><![endif]--><script>jQuery(document).ready(function() {
+	jQuery("ul.sf-menu").superfish({
+		animation:     {opacity:"show",height:"show"},  // fade-in and slide-down animation
+		delay:        0,                            // delay on mouseout
+		speed:        "normal",  // animation speed
+		autoArrows:   "",  // enable generation of arrow mark-up
+		dropShadows:  ""  // enable drop shadows
+	});
+});
+/**
+* hoverIntent is similar to jQuery's built-in "hover" function except that
+* instead of firing the onMouseOver event immediately, hoverIntent checks
+* to see if the user's mouse has slowed down (beneath the sensitivity
+* threshold) before firing the onMouseOver event.
+*
+* hoverIntent r5 // 2007.03.27 // jQuery 1.1.2+
+* <http://cherne.net/brian/resources/jquery.hoverIntent.html>
+*
+* hoverIntent is currently available for use in all personal or commercial
+* projects under both MIT and GPL licenses. This means that you can choose
+* the license that best suits your project, and use it accordingly.
+*
+* // basic usage (just like .hover) receives onMouseOver and onMouseOut functions
+* $("ul li").hoverIntent( showNav , hideNav );
+*
+* // advanced usage receives configuration object only
+* $("ul li").hoverIntent({
+*	sensitivity: 7, // number = sensitivity threshold (must be 1 or higher)
+*	interval: 100,   // number = milliseconds of polling interval
+*	over: showNav,  // function = onMouseOver callback (required)
+*	timeout: 0,   // number = milliseconds delay before onMouseOut function call
+*	out: hideNav    // function = onMouseOut callback (required)
+* });
+*
+* @param  f  onMouseOver function || An object with configuration options
+* @param  g  onMouseOut function  || Nothing (use configuration options object)
+* @author    Brian Cherne <brian@cherne.net>
+*/
+(function($) {
+	$.fn.hoverIntent = function(f,g) {
+		// default configuration options
+		var cfg = {
+			sensitivity: 10,
+			interval: 200,
+			timeout: 0
+		};
+		// override configuration options with user supplied object
+		cfg = $.extend(cfg, g ? { over: f, out: g } : f );
+
+		// instantiate variables
+		// cX, cY = current X and Y position of mouse, updated by mousemove event
+		// pX, pY = previous X and Y position of mouse, set by mouseover and polling interval
+		var cX, cY, pX, pY;
+
+		// A private function for getting mouse position
+		var track = function(ev) {
+			cX = ev.pageX;
+			cY = ev.pageY;
+		};
+
+		// A private function for comparing current and previous mouse position
+		var compare = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			// compare mouse positions to see if they've crossed the threshold
+			if ( ( Math.abs(pX-cX) + Math.abs(pY-cY) ) < cfg.sensitivity ) {
+				$(ob).unbind("mousemove",track);
+				// set hoverIntent state to true (so mouseOut can be called)
+				ob.hoverIntent_s = 1;
+				return cfg.over.apply(ob,[ev]);
+			} else {
+				// set previous coordinates for next time
+				pX = cX; pY = cY;
+				// use self-calling timeout, guarantees intervals are spaced out properly (avoids JavaScript timer bugs)
+				ob.hoverIntent_t = setTimeout( function(){compare(ev, ob);} , cfg.interval );
+			}
+		};
+
+		// A private function for delaying the mouseOut function
+		var delay = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			ob.hoverIntent_s = 0;
+			return cfg.out.apply(ob,[ev]);
+		};
+
+		// A private function for handling mouse 'hovering'
+		var handleHover = function(e) {
+			// next three lines copied from jQuery.hover, ignore children onMouseOver/onMouseOut
+			var p = (e.type == "mouseover" ? e.fromElement : e.toElement) || e.relatedTarget;
+			while ( p && p != this ) { try { p = p.parentNode; } catch(e) { p = this; } }
+			if ( p == this ) { return false; }
+
+			// copy objects to be passed into t (required for event object to be passed in IE)
+			var ev = jQuery.extend({},e);
+			var ob = this;
+
+			// cancel hoverIntent timer if it exists
+			if (ob.hoverIntent_t) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t); }
+
+			// else e.type == "onmouseover"
+			if (e.type == "mouseover") {
+				// set "previous" X and Y position based on initial entry point
+				pX = ev.pageX; pY = ev.pageY;
+				// update "current" X and Y position based on mousemove
+				$(ob).bind("mousemove",track);
+				// start polling interval (self-calling timeout) to compare mouse coordinates over time
+				if (ob.hoverIntent_s != 1) { ob.hoverIntent_t = setTimeout( function(){compare(ev,ob);} , cfg.interval );}
+
+			// else e.type == "onmouseout"
+			} else {
+				// unbind expensive mousemove event
+				$(ob).unbind("mousemove",track);
+				// if hoverIntent state is true, then call the mouseOut function after the specified delay
+				if (ob.hoverIntent_s == 1) { ob.hoverIntent_t = setTimeout( function(){delay(ev,ob);} , cfg.timeout );}
+			}
+		};
+
+		// bind the function to the two event listeners
+		return this.mouseover(handleHover).mouseout(handleHover);
+	};
+})(jQuery);
+</script>	<link rel="alternate" type="application/rss+xml" href="http://fatlip.leoweekly.com/feed/" title="FatLip latest posts" />
+	<link rel="alternate" type="application/rss+xml" href="http://fatlip.leoweekly.com/comments/feed/" title="FatLip latest comments" />
+	<link rel="pingback" href="http://fatlip.leoweekly.com/xmlrpc.php" />
+
+<!-- Google Ad Manager code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3704224-20']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName','.leoweekly.com']);
+  _gaq.push(['_setAllowHash',false]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-0209217648456774");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-0209217648456774", "FatLip-LeoBlog-FullBanner");
+  GA_googleAddSlot("ca-pub-0209217648456774", "FatLip-LeoBlog-Leaderboard");
+  GA_googleAddSlot("ca-pub-0209217648456774", "FatLip-LeoBlog-MediumRect");
+  GA_googleAddSlot("ca-pub-0209217648456774", "FatLip-LeoBlog-WideLeftSidebar1");
+  GA_googleAddSlot("ca-pub-0209217648456774", "FatLip-LeoBlog-WideLeftSidebar2");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF Google Ad Manager header code -->
+
+</head>
+
+<body class="wordpress y2013 m09 d30 h13 single postid-17445 s-y2012 s-m12 s-d11 s-h11 s-category-uncategorized s-author-jsonka">
+
+<div id="wrapper" class="hfeed">
+
+	<div id="header">
+		<div id="generalbloglogo"><a href="http://www.leoweekly.com" title="Home"><img src="/wp-content/themes/leoblog/images/leo-logo.png" border=0 width=219 height=105 alt="LEO Weekly's FatLip blog"></a></div>
+		<div id="leaderboard"><script type="text/javascript">
+  GA_googleFillSlot("FatLip-LeoBlog-Leaderboard");
+</script></div>
+	</div><!--  #header -->
+	<div id="access">
+	<div id="navigation">
+
+<!-- Multi-level Navigation Plugin v2.3.5 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
+<div id="pixopoint_menu_wrapper1"><div id="pixopoint_menu1">		<ul class="sf-menu" id="suckerfishnav"><li><a href="http://www.leoweekly.com/news">News</a>
+  <ul>
+    <li><a href="http://www.leoweekly.com/news/stories">News</a></li>
+    <li><a href="http://www.leoweekly.com/news/views">Views</a></li>
+    <li><a href="http://www.leoweekly.com/news/inbox" title="Letters to the Editor">Inbox</a></li>
+  </ul>
+</li>
+<li><a href="http://www.leoweekly.com/blogs">Blogs</a>
+  <ul>
+    <li><a href="http://events.leoweekly.com">Event Horizon</a></li>
+    <li><a href="http://fatlip.leoweekly.com">Fat Lip</a></li>
+    <li><a href="http://bluecat.leoweekly.com">Bluegrass Catastrophe</a></li>
+    <li><a href="http://barbelle.leoweekly.com">The Bar Belle</a></li>
+    <li><a href="http://score.leoweekly.com">Score</a></li>
+  </ul>
+</li>
+<li><a href="http://www.leoweekly.com/arts-entertainment">A&amp;E</a>
+  <ul>
+    <li><a href="http://www.leoweekly.com/category/arts-and-entertainment-sub-section/visual-arts">Visual Arts</a></li>
+    <li><a href="http://www.leoweekly.com/category/arts-and-entertainment-sub-section/performing-arts">Performing Arts</a></li>
+    <li><a href="http://www.leoweekly.com/category/arts-and-entertainment-sub-section/film-tv">Film &amp; TV</a></li>
+    <li><a href="http://www.leoweekly.com/category/arts-and-entertainment-sub-section/books">Books</a></li>
+    <li><a href="http://www.leoweekly.com/category/arts-and-entertainment-sub-section/comedy">Comedy</a></li>
+  </ul>
+</li>
+<li><a href="http://www.leoweekly.com/music">Music</a>
+  <ul>
+    <li><a href="http://www.leoweekly.com/music/reviews">Reviews</a></li>
+    <li><a href="http://www.leoweekly.com/http://bluecat.leoweekly.com/">Podcast</a></li>
+  </ul>
+</li>
+<li><a href="http://www.leoweekly.com/dining">Dining</a></li>
+<li><a href="http://www.leoweekly.com/uloop-testing-page" title="Online Classifieds">Classifieds</a></li>
+<li><a href="http://www.leoweekly.com/promotions" title="Ongoing Web Promotions">Promo</a></li>
+</ul>
+	</div>
+</div>    </div>
+	</div><!-- #access -->
+
+	<div id="container">
+		<div id="content">
+						<div id="fullbanner">
+		<script type="text/javascript">
+  GA_googleFillSlot("FatLip-LeoBlog-FullBanner");
+</script>
+		</div>
+
+<div id="blogheader">
+<a href="http://fatlip.leoweekly.com" title="FatLip">
+<img src="/wp-content/themes/leoblog/images/FatLip-bar.png" border=0 width=503 height=98 alt="LEO Weekly's FatLip blog"></a>
+</div>
+
+
+			<div id="nav-above" class="navigation">
+				<div class="nav-previous"><a href="http://fatlip.leoweekly.com/2012/12/11/mitch-mcconnells-existential-crisis/" rel="prev"><span class="meta-nav">&laquo;</span> Mitch McConnell&#8217;s existential crisis</a></div>
+				<div class="nav-next"><a href="http://fatlip.leoweekly.com/2012/12/11/mcconnell-campaign-desperately-spinning-horrid-poll-numbers-failing-hard/" rel="next">McConnell campaign desperately spinning horrid poll numbers, failing hard <span class="meta-nav">&raquo;</span></a></div>
+			</div>
+
+			<div id="post-17445" class="hentry p1 post publish author-jsonka category-uncategorized untagged y2012 m12 d11 h11">
+				<h2 class="entry-title">PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race</h2>
+				<div class="entry-content">
+<p>Public Policy Polling &#8212; who <a href="http://www.fordham.edu/images/academics/graduate_schools/gsas/elections_and_campaign_/poll_accuracy_2012_presidential_election_updated_1530pm_110712_2.pdf">performed as well as any firm in the country</a> in last month&#8217;s election &#8212; <a href="http://www.publicpolicypolling.com/main/2012/12/mcconnell-highly-unpopular.html">released their poll of Kentucky voters today</a>, showing Sen. Mitch McConnell as unpopular and vulnerable in his 2014 reelection campaign, but still leading potential challengers.</p>
+<p>McConnell&#8217;s approval rating is only 37 percent, with his disapproval rating at a robust 55 percent. These numbers are slightly worse than what PPP found <a href="http://www.publicpolicypolling.com/pdf/2011/PPP_Release_KY_08311118.pdf">last September</a>, when McConnell was at 37/50. PPP says that he is the most unpopular senator in the country among whom they have polled.</p>
+<p>Despite these numbers, McConnell still leads the potential 2014 Democratic challengers that PPP put him up against head-to-head:</p>
+<p>McConnell 47, Jerry Abramson 43<br />
+McConnell 47, Ashley Judd 43<br />
+McConnell 47, Jack Conway 43<br />
+McConnell 46, Greg Fischer 41<br />
+McConnell 47, Alison Lundergan Grimes 40<br />
+McConnell 48, John Yarmuth 38<br />
+McConnell 48, Matthew Barzun 37<br />
+McConnell 48, Adam Edelen 36</p>
+<p>PPP leaving Steve Beshear off this list, as well as a generic Democrat, is inexplicable, but based on these numbers it wouldn&#8217;t be surprising to see McConnell losing in those match ups. But the fact McConnell is already within single-digits of the likes of Judd and Grimes &#8212; maybe to only two people from this list who are seriously looking at the race &#8212; is not the type of news that he was looking for as he tries to rebound from last week&#8217;s self-filibuster embarrassment. </p>
+<p>While a Republican primary challenger to McConnell has yet to emerge, PPP found that only half of Republicans wanted him to be their nominee, while 35 percent favor a Republican nominee who is &#8220;more conservative.&#8221; Adding to the less-than-overwhelming support from McConnell&#8217;s GOP base, Republicans give McConnell at 59/27 approval rating, which is a net 13 percent drop from last fall (64/20). While McConnell&#8217;s approvals were virtually unchanged with Democrats (23/73), he dropped a net 12 percent with Independents from last year to an unimpressive 33/58.</p>
+<p>We&#8217;ll have much more to come once we dig into more of the numbers, including the Democrats who were polled, among which Ashley Judd emerged as the most popular choice among Democrats to challenge McConnell in 2014. Stay tuned&#8230;</p>
+
+				</div>
+				<div class="entry-meta">
+					Posted by <span class="author vcard"><a class="url fn n" href="http://fatlip.leoweekly.com/author/jsonka/" title="View all posts by jsonka">jsonka</a></span> on <abbr class="published" title="2012-12-11T15:25:43-0400">December 11, 2012 at 3:25 pm</abbr>.<br/> <b>Tags:</b> <a href="http://fatlip.leoweekly.com/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a><br/><a href="http://fatlip.leoweekly.com/2012/12/11/ppp-poll-mitch-mcconnell-unpopular-in-ky-vulnerable-in-2014-race/" title="Permalink to PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race" rel="bookmark">Permalink</a> | Follow this story's comments with the <a href="http://fatlip.leoweekly.com/2012/12/11/ppp-poll-mitch-mcconnell-unpopular-in-ky-vulnerable-in-2014-race/feed/" title="Comments RSS to PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race" rel="alternate" type="application/rss+xml">RSS feed for this post</a>.<br/>
+					<a class="comment-link" href="#respond" title="Post a comment">Post a comment</a> or leave a trackback: <a class="trackback-link" href="http://fatlip.leoweekly.com/2012/12/11/ppp-poll-mitch-mcconnell-unpopular-in-ky-vulnerable-in-2014-race/trackback/" title="Trackback URL for your post" rel="trackback">Trackback URL</a>.
+				</div>
+			</div><!-- .post -->
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://fatlip.leoweekly.com/2012/12/11/mitch-mcconnells-existential-crisis/" rel="prev"><span class="meta-nav">&laquo;</span> Mitch McConnell&#8217;s existential crisis</a></div>
+				<div class="nav-next"><a href="http://fatlip.leoweekly.com/2012/12/11/mcconnell-campaign-desperately-spinning-horrid-poll-numbers-failing-hard/" rel="next">McConnell campaign desperately spinning horrid poll numbers, failing hard <span class="meta-nav">&raquo;</span></a></div>
+			</div>
+
+			<div id="comments">
+
+
+				<div id="trackbacks-list" class="comments">
+					<h3><span>3</span> Trackbacks</h3>
+
+					<ol>
+
+						<li id="comment-20856" class="pingback t0 c-y2012 c-m12 c-d11 c-h18 alt">
+							<div class="comment-author">By <a href='http://fatlip.leoweekly.com/2012/12/11/mcconnell-campaign-desperately-spinning-horrid-poll-numbers-failing-hard/' rel='external nofollow' class='url'>McConnell campaign desperately spinning horrid poll numbers, failing hard &#8211; FatLip</a> on December 11, 2012 at 10:15 pm</div>
+							<p>[...] GA_googleFillSlot(&quot;FatLip-LeoBlog-Leaderboard&quot;);           GA_googleFillSlot(&quot;FatLip-LeoBlog-FullBanner&quot;);        &laquo; PPP poll: Mitch McConnell unpopular in KY, vulnerable in 2014 race [...]</p>
+						</li>
+
+						<li id="comment-20982" class="pingback t1 c-y2012 c-m12 c-d20 c-h05">
+							<div class="comment-author">By <a href='http://fatlip.leoweekly.com/2012/12/20/mcconnell-leaks-internal-poll-confirming-judd-can-beat-him-and-hes-scared-to-death-of-her/' rel='external nofollow' class='url'>McConnell leaks internal poll confirming Judd can beat him, and he&#8217;s scared to death of her &#8211; FatLip</a> on December 20, 2012 at 9:54 am</div>
+							<p>[...] Mitch McConnell claims he is invincible, and that any poll showing otherwise &#8212; like that of Public Policy Polling last week, finding him unpopular and only 4 percent ahead of the likes of Ashley Judd &#8212; is [...]</p>
+						</li>
+
+						<li id="comment-21597" class="pingback t2 c-y2013 c-m01 c-d28 c-h12 alt">
+							<div class="comment-author">By <a href='http://fatlip.leoweekly.com/2013/01/28/c-j-poll-only-17-percent-plan-on-voting-for-mcconnell-in-2014/' rel='external nofollow' class='url'>C-J poll: Only 17 percent plan on voting for McConnell in 2014 &#8211; FatLip</a> on January 28, 2013 at 4:16 pm</div>
+							<p>[...] Public Policy Polling released a poll in December showing that Sen. Mitch McConnell was the least popular senator in America, McConnell&#8217;s campaign screamed bloody murder, accusing the pollster of a grand conspiracy to [...]</p>
+						</li>
+
+					</ol>
+				</div><!-- #trackbacks-list .comments -->
+
+
+				<div id="respond">
+					<h3>Post a Comment</h3>
+
+					<div class="formcontainer">	
+						<form id="commentform" action="http://fatlip.leoweekly.com/wp-comments-post.php" method="post">
+
+
+							<p id="comment-notes">Your email is <em>never</em> shared. Required fields are marked <span class="required">*</span></p>
+
+							<div class="form-label"><label for="author">Name</label> <span class="required">*</span></div>
+							<div class="form-input"><input id="author" name="author" class="text required" type="text" value="" size="30" maxlength="50" tabindex="3" /></div>
+
+							<div class="form-label"><label for="email">Email</label> <span class="required">*</span></div>
+							<div class="form-input"><input id="email" name="email" class="text required" type="text" value="" size="30" maxlength="50" tabindex="4" /></div>
+
+							<div class="form-label"><label for="url">Website</label></div>
+							<div class="form-input"><input id="url" name="url" class="text" type="text" value="" size="30" maxlength="50" tabindex="5" /></div>
+
+
+							<div class="form-label"><label for="comment">Comment</label></div>
+							<div class="form-textarea"><textarea id="comment" name="comment" class="text required" cols="45" rows="8" tabindex="6"></textarea></div>
+
+							<div class="form-submit"><input id="submit" name="submit" class="button" type="submit" value="Post Comment" tabindex="7" /><input type="hidden" name="comment_post_ID" value="17445" /></div>
+
+							<div class="form-option"><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="46f8fa8f47" /></p></div>
+
+						</form><!-- #commentform -->
+					</div><!-- .formcontainer -->
+
+				</div><!-- #respond -->
+
+			</div><!-- #comments -->
+
+		</div><!-- #content -->
+	</div><!-- #container -->
+
+	<div id="primary" class="sidebar">
+		<div id="mediumrect">
+	<script type="text/javascript">
+  GA_googleFillSlot("FatLip-LeoBlog-MediumRect");
+</script>
+	</div>
+
+
+
+			<div id="categories">
+				<div class="block-head musicblock">
+					<h3>Categories</h3>
+				</div>
+				<ul>
+	<li class="cat-item cat-item-72"><a href="http://fatlip.leoweekly.com/category/700-billion-bailout/" title="View all posts filed under $700 billion bailout">$700 billion bailout</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://fatlip.leoweekly.com/category/8664/" title="View all posts filed under 8664">8664</a>
+</li>
+	<li class="cat-item cat-item-119"><a href="http://fatlip.leoweekly.com/category/abortion/" title="View all posts filed under abortion">abortion</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://fatlip.leoweekly.com/category/aclu-ky/" title="View all posts filed under ACLU-KY">ACLU-KY</a>
+</li>
+	<li class="cat-item cat-item-895"><a href="http://fatlip.leoweekly.com/category/afghanistan/" title="View all posts filed under Afghanistan">Afghanistan</a>
+</li>
+	<li class="cat-item cat-item-1576"><a href="http://fatlip.leoweekly.com/category/african-american/" title="View all posts filed under African-American">African-American</a>
+</li>
+	<li class="cat-item cat-item-1366"><a href="http://fatlip.leoweekly.com/category/agriculture/" title="View all posts filed under agriculture">agriculture</a>
+</li>
+	<li class="cat-item cat-item-790"><a href="http://fatlip.leoweekly.com/category/architecture/" title="View all posts filed under architecture">architecture</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://fatlip.leoweekly.com/category/arena/" title="View all posts filed under Arena">Arena</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://fatlip.leoweekly.com/category/arena-authority/" title="View all posts filed under Arena Authority">Arena Authority</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://fatlip.leoweekly.com/category/art/" title="View all posts filed under art">art</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://fatlip.leoweekly.com/category/attack-ad/" title="View all posts filed under attack ad">attack ad</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://fatlip.leoweekly.com/category/barack-obama/" title="View all posts filed under Barack Obama">Barack Obama</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://fatlip.leoweekly.com/category/baron-hill/" title="View all posts filed under Baron HIll">Baron HIll</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://fatlip.leoweekly.com/category/bicycling/" title="View all posts filed under bicycling">bicycling</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://fatlip.leoweekly.com/category/books/" title="View all posts filed under books">books</a>
+</li>
+	<li class="cat-item cat-item-202"><a href="http://fatlip.leoweekly.com/category/bridges/" title="View all posts filed under bridges">bridges</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://fatlip.leoweekly.com/category/bruce-lunsford/" title="View all posts filed under Bruce Lunsford">Bruce Lunsford</a>
+</li>
+	<li class="cat-item cat-item-295"><a href="http://fatlip.leoweekly.com/category/bunning/" title="View all posts filed under Bunning!">Bunning!</a>
+</li>
+	<li class="cat-item cat-item-628"><a href="http://fatlip.leoweekly.com/category/butchertown/" title="View all posts filed under Butchertown">Butchertown</a>
+</li>
+	<li class="cat-item cat-item-1581"><a href="http://fatlip.leoweekly.com/category/census-2010/" title="View all posts filed under Census 2010">Census 2010</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://fatlip.leoweekly.com/category/centercity/" title="View all posts filed under CenterCity">CenterCity</a>
+</li>
+	<li class="cat-item cat-item-1540"><a href="http://fatlip.leoweekly.com/category/chris-thieneman/" title="View all posts filed under Chris Thieneman">Chris Thieneman</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://fatlip.leoweekly.com/category/civil-rights/" title="View all posts filed under civil rights">civil rights</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://fatlip.leoweekly.com/category/coal/" title="View all posts filed under coal">coal</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="http://fatlip.leoweekly.com/category/comedy/" title="View all posts filed under comedy">comedy</a>
+</li>
+	<li class="cat-item cat-item-1270"><a href="http://fatlip.leoweekly.com/category/cordish-cos/" title="View all posts filed under Cordish Cos.">Cordish Cos.</a>
+</li>
+	<li class="cat-item cat-item-391"><a href="http://fatlip.leoweekly.com/category/corruption/" title="View all posts filed under corruption">corruption</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://fatlip.leoweekly.com/category/crime-and-punishment/" title="View all posts filed under Crime and punishment">Crime and punishment</a>
+</li>
+	<li class="cat-item cat-item-1400"><a href="http://fatlip.leoweekly.com/category/david-tandy/" title="View all posts filed under David Tandy">David Tandy</a>
+</li>
+	<li class="cat-item cat-item-196"><a href="http://fatlip.leoweekly.com/category/david-williams/" title="View all posts filed under David Williams">David Williams</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://fatlip.leoweekly.com/category/derby-2008/" title="View all posts filed under Derby 2008">Derby 2008</a>
+</li>
+	<li class="cat-item cat-item-643"><a href="http://fatlip.leoweekly.com/category/derby-2009/" title="View all posts filed under Derby 2009">Derby 2009</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://fatlip.leoweekly.com/category/development/" title="View all posts filed under development">development</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://fatlip.leoweekly.com/category/dick-durbin/" title="View all posts filed under Dick Durbin">Dick Durbin</a>
+</li>
+	<li class="cat-item cat-item-1310"><a href="http://fatlip.leoweekly.com/category/doom/" title="View all posts filed under Doom">Doom</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="http://fatlip.leoweekly.com/category/downtown/" title="View all posts filed under downtown">downtown</a>
+</li>
+	<li class="cat-item cat-item-1329"><a href="http://fatlip.leoweekly.com/category/drugs/" title="View all posts filed under drugs">drugs</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://fatlip.leoweekly.com/category/economy/" title="View all posts filed under economy">economy</a>
+</li>
+	<li class="cat-item cat-item-230"><a href="http://fatlip.leoweekly.com/category/education/" title="View all posts filed under education">education</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://fatlip.leoweekly.com/category/election/" title="View all posts filed under election">election</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://fatlip.leoweekly.com/category/energy-crisis/" title="View all posts filed under energy crisis">energy crisis</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://fatlip.leoweekly.com/category/environment/" title="View all posts filed under environment">environment</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://fatlip.leoweekly.com/category/federal-holidays/" title="View all posts filed under federal holidays">federal holidays</a>
+</li>
+	<li class="cat-item cat-item-1279"><a href="http://fatlip.leoweekly.com/category/film/" title="View all posts filed under film">film</a>
+</li>
+	<li class="cat-item cat-item-1340"><a href="http://fatlip.leoweekly.com/category/flash-flood-09/" title="View all posts filed under Flash Flood &#039;09">Flash Flood &#039;09</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://fatlip.leoweekly.com/category/food-security/" title="View all posts filed under food security">food security</a>
+</li>
+	<li class="cat-item cat-item-1615"><a href="http://fatlip.leoweekly.com/category/fox-41/" title="View all posts filed under Fox 41">Fox 41</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://fatlip.leoweekly.com/category/fox-news/" title="View all posts filed under Fox News">Fox News</a>
+</li>
+	<li class="cat-item cat-item-1240"><a href="http://fatlip.leoweekly.com/category/gaffes/" title="View all posts filed under gaffes">gaffes</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://fatlip.leoweekly.com/category/gas/" title="View all posts filed under gas">gas</a>
+</li>
+	<li class="cat-item cat-item-1426"><a href="http://fatlip.leoweekly.com/category/good-news/" title="View all posts filed under good news">good news</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://fatlip.leoweekly.com/category/gov-beshear/" title="View all posts filed under Gov. Beshear">Gov. Beshear</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://fatlip.leoweekly.com/category/government/" title="View all posts filed under government">government</a>
+</li>
+	<li class="cat-item cat-item-1553"><a href="http://fatlip.leoweekly.com/category/greg-fischer/" title="View all posts filed under Greg Fischer">Greg Fischer</a>
+</li>
+	<li class="cat-item cat-item-1537"><a href="http://fatlip.leoweekly.com/category/hal-heiner/" title="View all posts filed under Hal Heiner">Hal Heiner</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://fatlip.leoweekly.com/category/health-care/" title="View all posts filed under health care">health care</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://fatlip.leoweekly.com/category/hillary-clinton/" title="View all posts filed under Hillary Clinton">Hillary Clinton</a>
+</li>
+	<li class="cat-item cat-item-946"><a href="http://fatlip.leoweekly.com/category/historic-preservation/" title="View all posts filed under historic preservation">historic preservation</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="http://fatlip.leoweekly.com/category/housing/" title="View all posts filed under housing">housing</a>
+</li>
+	<li class="cat-item cat-item-430"><a href="http://fatlip.leoweekly.com/category/human-rights/" title="View all posts filed under human rights">human rights</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://fatlip.leoweekly.com/category/humana/" title="View all posts filed under Humana">Humana</a>
+</li>
+	<li class="cat-item cat-item-1701"><a href="http://fatlip.leoweekly.com/category/immigration/" title="View all posts filed under immigration">immigration</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://fatlip.leoweekly.com/category/indiana/" title="View all posts filed under Indiana">Indiana</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://fatlip.leoweekly.com/category/indiana-primary/" title="View all posts filed under Indiana primary">Indiana primary</a>
+</li>
+	<li class="cat-item cat-item-1633"><a href="http://fatlip.leoweekly.com/category/jackie-green/" title="View all posts filed under Jackie Green">Jackie Green</a>
+</li>
+	<li class="cat-item cat-item-1588"><a href="http://fatlip.leoweekly.com/category/jcps/" title="View all posts filed under JCPS">JCPS</a>
+</li>
+	<li class="cat-item cat-item-1354"><a href="http://fatlip.leoweekly.com/category/jefferson-county-gop/" title="View all posts filed under Jefferson County GOP">Jefferson County GOP</a>
+</li>
+	<li class="cat-item cat-item-1387"><a href="http://fatlip.leoweekly.com/category/jim-king/" title="View all posts filed under Jim King">Jim King</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://fatlip.leoweekly.com/category/john-mccain/" title="View all posts filed under John McCain">John McCain</a>
+</li>
+	<li class="cat-item cat-item-1592"><a href="http://fatlip.leoweekly.com/category/jonathon-robertson/" title="View all posts filed under Jonathon Robertson">Jonathon Robertson</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://fatlip.leoweekly.com/category/journalism/" title="View all posts filed under journalism">journalism</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://fatlip.leoweekly.com/category/justice-resource-center/" title="View all posts filed under Justice Resource Center">Justice Resource Center</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://fatlip.leoweekly.com/category/kentucky/" title="View all posts filed under Kentucky">Kentucky</a>
+</li>
+	<li class="cat-item cat-item-1754"><a href="http://fatlip.leoweekly.com/category/kfc-yum-center/" title="View all posts filed under KFC Yum! Center">KFC Yum! Center</a>
+</li>
+	<li class="cat-item cat-item-1425"><a href="http://fatlip.leoweekly.com/category/ky-govt/" title="View all posts filed under KY Gov&#039;t">KY Gov&#039;t</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://fatlip.leoweekly.com/category/ky-3/" title="View all posts filed under KY-3">KY-3</a>
+</li>
+	<li class="cat-item cat-item-2079"><a href="http://fatlip.leoweekly.com/category/ky-governor-campaign-2011/" title="View all posts filed under Ky. Governor Campaign 2011">Ky. Governor Campaign 2011</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://fatlip.leoweekly.com/category/large-hadron-collider/" title="View all posts filed under Large Hadron Collider">Large Hadron Collider</a>
+</li>
+	<li class="cat-item cat-item-1093"><a href="http://fatlip.leoweekly.com/category/lebowski-fest/" title="View all posts filed under Lebowski Fest">Lebowski Fest</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://fatlip.leoweekly.com/category/leo-weekly/" title="View all posts filed under LEO Weekly">LEO Weekly</a>
+</li>
+	<li class="cat-item cat-item-406"><a href="http://fatlip.leoweekly.com/category/lexington/" title="View all posts filed under Lexington">Lexington</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="http://fatlip.leoweekly.com/category/lgbt/" title="View all posts filed under LGBT">LGBT</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://fatlip.leoweekly.com/category/louisville/" title="View all posts filed under Louisville">Louisville</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://fatlip.leoweekly.com/category/louisville-gop/" title="View all posts filed under Louisville GOP">Louisville GOP</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://fatlip.leoweekly.com/category/louisville-housing-market/" title="View all posts filed under Louisville housing market">Louisville housing market</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://fatlip.leoweekly.com/category/lunchbox/" title="View all posts filed under Lunchbox">Lunchbox</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://fatlip.leoweekly.com/category/madeleine-albright/" title="View all posts filed under Madeleine Albright">Madeleine Albright</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://fatlip.leoweekly.com/category/mayor-abramson/" title="View all posts filed under Mayor Abramson">Mayor Abramson</a>
+</li>
+	<li class="cat-item cat-item-1342"><a href="http://fatlip.leoweekly.com/category/mayoral-campaign-2010/" title="View all posts filed under Mayoral Campaign 2010">Mayoral Campaign 2010</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://fatlip.leoweekly.com/category/media/" title="View all posts filed under Media">Media</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://fatlip.leoweekly.com/category/metro-council/" title="View all posts filed under Metro Council">Metro Council</a>
+</li>
+	<li class="cat-item cat-item-1347"><a href="http://fatlip.leoweekly.com/category/metro-govt/" title="View all posts filed under Metro Gov&#039;t">Metro Gov&#039;t</a>
+</li>
+	<li class="cat-item cat-item-511"><a href="http://fatlip.leoweekly.com/category/metro-housing-scandal/" title="View all posts filed under Metro Housing Scandal">Metro Housing Scandal</a>
+</li>
+	<li class="cat-item cat-item-1628"><a href="http://fatlip.leoweekly.com/category/metro-parks/" title="View all posts filed under Metro Parks">Metro Parks</a>
+</li>
+	<li class="cat-item cat-item-1538"><a href="http://fatlip.leoweekly.com/category/metro-police/" title="View all posts filed under Metro Police">Metro Police</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://fatlip.leoweekly.com/category/michelle-obama/" title="View all posts filed under Michelle Obama">Michelle Obama</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://fatlip.leoweekly.com/category/mitch-mcconnell/" title="View all posts filed under Mitch McConnell">Mitch McConnell</a>
+</li>
+	<li class="cat-item cat-item-140"><a href="http://fatlip.leoweekly.com/category/mountaintop-removal-mining/" title="View all posts filed under mountaintop removal mining">mountaintop removal mining</a>
+</li>
+	<li class="cat-item cat-item-1970"><a href="http://fatlip.leoweekly.com/category/museum-plaza/" title="View all posts filed under Museum Plaza">Museum Plaza</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://fatlip.leoweekly.com/category/new-albany/" title="View all posts filed under New Albany">New Albany</a>
+</li>
+	<li class="cat-item cat-item-2127"><a href="http://fatlip.leoweekly.com/category/newburg-neighborhood/" title="View all posts filed under Newburg neighborhood">Newburg neighborhood</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://fatlip.leoweekly.com/category/northup/" title="View all posts filed under Northup">Northup</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://fatlip.leoweekly.com/category/obama/" title="View all posts filed under Obama">Obama</a>
+</li>
+	<li class="cat-item cat-item-1295"><a href="http://fatlip.leoweekly.com/category/ohio-river-bridges-project/" title="View all posts filed under Ohio River Bridges Project">Ohio River Bridges Project</a>
+</li>
+	<li class="cat-item cat-item-1399"><a href="http://fatlip.leoweekly.com/category/old-louisville-neighborhood/" title="View all posts filed under Old Louisville neighborhood">Old Louisville neighborhood</a>
+</li>
+	<li class="cat-item cat-item-1575"><a href="http://fatlip.leoweekly.com/category/parkland-neighborhood/" title="View all posts filed under Parkland neighborhood">Parkland neighborhood</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://fatlip.leoweekly.com/category/politics/" title="View all posts filed under politics">politics</a>
+</li>
+	<li class="cat-item cat-item-1604"><a href="http://fatlip.leoweekly.com/category/portland-neighborhood/" title="View all posts filed under Portland neighborhood">Portland neighborhood</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://fatlip.leoweekly.com/category/possibility-city/" title="View all posts filed under possibility city">possibility city</a>
+</li>
+	<li class="cat-item cat-item-289"><a href="http://fatlip.leoweekly.com/category/poverty/" title="View all posts filed under poverty">poverty</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://fatlip.leoweekly.com/category/presidential-campaign/" title="View all posts filed under Presidential campaign">Presidential campaign</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://fatlip.leoweekly.com/category/public-art/" title="View all posts filed under public art">public art</a>
+</li>
+	<li class="cat-item cat-item-1748"><a href="http://fatlip.leoweekly.com/category/public-housing/" title="View all posts filed under public housing">public housing</a>
+</li>
+	<li class="cat-item cat-item-1603"><a href="http://fatlip.leoweekly.com/category/public-transportation/" title="View all posts filed under public transportation">public transportation</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://fatlip.leoweekly.com/category/race/" title="View all posts filed under race">race</a>
+</li>
+	<li class="cat-item cat-item-916"><a href="http://fatlip.leoweekly.com/category/rand-paul/" title="View all posts filed under Rand Paul">Rand Paul</a>
+</li>
+	<li class="cat-item cat-item-114"><a href="http://fatlip.leoweekly.com/category/random/" title="View all posts filed under random">random</a>
+</li>
+	<li class="cat-item cat-item-1108"><a href="http://fatlip.leoweekly.com/category/religion/" title="View all posts filed under religion">religion</a>
+</li>
+	<li class="cat-item cat-item-1969"><a href="http://fatlip.leoweekly.com/category/rubbertown-neighborhood/" title="View all posts filed under Rubbertown neighborhood">Rubbertown neighborhood</a>
+</li>
+	<li class="cat-item cat-item-982"><a href="http://fatlip.leoweekly.com/category/science/" title="View all posts filed under science">science</a>
+</li>
+	<li class="cat-item cat-item-1594"><a href="http://fatlip.leoweekly.com/category/sen-mitch-mcconnell/" title="View all posts filed under Sen. Mitch McConnell">Sen. Mitch McConnell</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://fatlip.leoweekly.com/category/senate-race-08/" title="View all posts filed under Senate Race &#039;08">Senate Race &#039;08</a>
+</li>
+	<li class="cat-item cat-item-141"><a href="http://fatlip.leoweekly.com/category/sex/" title="View all posts filed under sex">sex</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://fatlip.leoweekly.com/category/shawnee-neighborhood/" title="View all posts filed under Shawnee neighborhood">Shawnee neighborhood</a>
+</li>
+	<li class="cat-item cat-item-1751"><a href="http://fatlip.leoweekly.com/category/smoketown-neighborhood/" title="View all posts filed under Smoketown neighborhood">Smoketown neighborhood</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://fatlip.leoweekly.com/category/smoking-ban/" title="View all posts filed under smoking ban">smoking ban</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://fatlip.leoweekly.com/category/snow/" title="View all posts filed under snow">snow</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://fatlip.leoweekly.com/category/social-justice/" title="View all posts filed under social justice">social justice</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://fatlip.leoweekly.com/category/south-end/" title="View all posts filed under South End">South End</a>
+</li>
+	<li class="cat-item cat-item-583"><a href="http://fatlip.leoweekly.com/category/space/" title="View all posts filed under Space">Space</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://fatlip.leoweekly.com/category/sports/" title="View all posts filed under sports">sports</a>
+</li>
+	<li class="cat-item cat-item-206"><a href="http://fatlip.leoweekly.com/category/steve-beshear/" title="View all posts filed under Steve Beshear">Steve Beshear</a>
+</li>
+	<li class="cat-item cat-item-134"><a href="http://fatlip.leoweekly.com/category/stimulus/" title="View all posts filed under Stimulus">Stimulus</a>
+</li>
+	<li class="cat-item cat-item-631"><a href="http://fatlip.leoweekly.com/category/stinky/" title="View all posts filed under stinky">stinky</a>
+</li>
+	<li class="cat-item cat-item-1491"><a href="http://fatlip.leoweekly.com/category/tarc/" title="View all posts filed under TARC">TARC</a>
+</li>
+	<li class="cat-item cat-item-574"><a href="http://fatlip.leoweekly.com/category/technology/" title="View all posts filed under technology">technology</a>
+</li>
+	<li class="cat-item cat-item-1321"><a href="http://fatlip.leoweekly.com/category/television/" title="View all posts filed under television">television</a>
+</li>
+	<li class="cat-item cat-item-1369"><a href="http://fatlip.leoweekly.com/category/terrorism/" title="View all posts filed under terrorism">terrorism</a>
+</li>
+	<li class="cat-item cat-item-820"><a href="http://fatlip.leoweekly.com/category/the-courier-journal/" title="View all posts filed under The Courier-Journal">The Courier-Journal</a>
+</li>
+	<li class="cat-item cat-item-1763"><a href="http://fatlip.leoweekly.com/category/todd-lally/" title="View all posts filed under Todd Lally">Todd Lally</a>
+</li>
+	<li class="cat-item cat-item-136"><a href="http://fatlip.leoweekly.com/category/transportation/" title="View all posts filed under transportation">transportation</a>
+</li>
+	<li class="cat-item cat-item-1563"><a href="http://fatlip.leoweekly.com/category/tyler-allen/" title="View all posts filed under Tyler Allen">Tyler Allen</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://fatlip.leoweekly.com/category/u-of-l/" title="View all posts filed under U of L">U of L</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://fatlip.leoweekly.com/category/us-congress/" title="View all posts filed under U.S. Congress">U.S. Congress</a>
+</li>
+	<li class="cat-item cat-item-1764"><a href="http://fatlip.leoweekly.com/category/us-house-campaign-2010/" title="View all posts filed under U.S. House Campaign 2010">U.S. House Campaign 2010</a>
+</li>
+	<li class="cat-item cat-item-1401"><a href="http://fatlip.leoweekly.com/category/us-senate-campaign-2010/" title="View all posts filed under U.S. Senate Campaign 2010">U.S. Senate Campaign 2010</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://fatlip.leoweekly.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="http://fatlip.leoweekly.com/category/utter-bullshit/" title="View all posts filed under utter bullshit">utter bullshit</a>
+</li>
+	<li class="cat-item cat-item-1075"><a href="http://fatlip.leoweekly.com/category/vintage-clothing/" title="View all posts filed under vintage clothing">vintage clothing</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://fatlip.leoweekly.com/category/war/" title="View all posts filed under war">war</a>
+</li>
+	<li class="cat-item cat-item-1309"><a href="http://fatlip.leoweekly.com/category/weather/" title="View all posts filed under Weather">Weather</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://fatlip.leoweekly.com/category/west-end/" title="View all posts filed under West End">West End</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://fatlip.leoweekly.com/category/wet-dry-vote/" title="View all posts filed under wet-dry vote">wet-dry vote</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://fatlip.leoweekly.com/category/winter-storm-09/" title="View all posts filed under winter storm 09">winter storm 09</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://fatlip.leoweekly.com/category/wnba/" title="View all posts filed under WNBA">WNBA</a>
+</li>
+	<li class="cat-item cat-item-655"><a href="http://fatlip.leoweekly.com/category/work/" title="View all posts filed under work">work</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://fatlip.leoweekly.com/category/yarmuth/" title="View all posts filed under Yarmuth">Yarmuth</a>
+</li>
+ 
+
+				</ul>
+			</div>
+
+			<div id="archives">
+				<div class="block-head newsblock">
+					<h3>Archives</h3>
+				</div>
+				<ul>
+	<li><a href='http://fatlip.leoweekly.com/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/08/' title='August 2013'>August 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/06/' title='June 2013'>June 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/03/' title='March 2013'>March 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/09/' title='September 2012'>September 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/08/' title='August 2012'>August 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/06/' title='June 2012'>June 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/08/' title='August 2011'>August 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/06/' title='June 2011'>June 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/08/' title='August 2010'>August 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/06/' title='June 2010'>June 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/05/' title='May 2010'>May 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/04/' title='April 2010'>April 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/03/' title='March 2010'>March 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/02/' title='February 2010'>February 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2010/01/' title='January 2010'>January 2010</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/12/' title='December 2009'>December 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/11/' title='November 2009'>November 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/10/' title='October 2009'>October 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/09/' title='September 2009'>September 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/08/' title='August 2009'>August 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/07/' title='July 2009'>July 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/06/' title='June 2009'>June 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/05/' title='May 2009'>May 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/04/' title='April 2009'>April 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/03/' title='March 2009'>March 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/02/' title='February 2009'>February 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2009/01/' title='January 2009'>January 2009</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/12/' title='December 2008'>December 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/11/' title='November 2008'>November 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/10/' title='October 2008'>October 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/09/' title='September 2008'>September 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/08/' title='August 2008'>August 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/07/' title='July 2008'>July 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/06/' title='June 2008'>June 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/05/' title='May 2008'>May 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/04/' title='April 2008'>April 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/03/' title='March 2008'>March 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/02/' title='February 2008'>February 2008</a></li>
+	<li><a href='http://fatlip.leoweekly.com/2008/01/' title='January 2008'>January 2008</a></li>
+
+				</ul>
+			</div>
+
+	</div><!-- #primary .sidebar -->
+
+	<div id="secondary" class="sidebar">
+	
+	<div id="topads">
+	<script type="text/javascript" language="javascript">
+aveNews_url = 'class.avenews.com';
+aveNews_title_bgColor = '#0099FF';
+aveNews_layout = 'vertical'; // vertical | horizontal
+aveNews_width = '160px';
+aveNews_border_color = 'black';
+aveNews_border_style = 'ridge'; // solid | dotted | double | groove | ridge
+aveNews_border_width = '1px';
+aveNews_bgColor = '#999999';
+aveNews_font_family = 'arial';
+aveNews_font_size = '12px';
+aveNews_font_weight = 'normal'; // normal | bold | bolder
+aveNews_font_style = 'normal'; // normal | italic | oblique
+aveNews_font_color = 'black';
+</script>
+<script src="http://class.avenews.com/avenewsbar/aveNewsBar.cfm?cid=49EF1441-2BF4-55D0-F1F9B9CDCE840F94"></script>
+	</div>
+	
+	<div id="wideskyscraper">
+	<script type="text/javascript">
+  GA_googleFillSlot("FatLip-LeoBlog-WideLeftSidebar1");
+</script>
+	</div>
+	
+		<div id="wideskyscraper">
+	<script type="text/javascript">
+  GA_googleFillSlot("FatLip-LeoBlog-WideLeftSidebar2");
+</script>
+	</div>
+
+
+<li id="linkcat-2" class="linkcat"><div class="block-head"><h3>Blogroll</h3></div>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.8664.org/">8664</a></li>
+<li><a href="http://www.alternet.org/">Alternet</a></li>
+<li><a href="http://www.altweeklies.com/">AltWeeklies</a></li>
+<li><a href="http://hosse.blogspot.com/">Another Opinion</a></li>
+<li><a href="http://aan.org/">Association of Alternative Newsweeklies</a></li>
+<li><a href="http://barefootandprogressive.com/">Barefoot &amp; Progressive</a></li>
+<li><a href="http://www.billyreedsays.com/">Billy Reed</a></li>
+<li><a href="http://bluegrassredstate.blogspot.com/">Blue Grass, Red State</a></li>
+<li><a href="http://www.bluegrassreport.org/">Bluegrass Report</a></li>
+<li><a href="http://www.bluegrassroots.org/">Bluegrass Roots</a></li>
+<li><a href="http://www.conservachick.com/">ConservaChick</a></li>
+<li><a href="http://cyberhillbilly.blogspot.com/">Cyberhillbilly</a></li>
+<li><a href="http://www.ditchmitchky.com/">Ditch Mitch</a></li>
+<li><a href="http://geoffbugbee.com/">Geoff Oliver Bugbee</a></li>
+<li><a href="http://ohioriver606.blogspot.com/">Jeff Noble</a></li>
+<li><a href="http://www.kypolitics.org/">Kentucky Politics</a></li>
+<li><a href="http://www.kentuckyvotes.org/">Kentucky Votes</a></li>
+<li><a href="http://kentuckyrepublicanvoice.blogspot.com/">KY Republican Voice</a></li>
+<li><a href="http://www.metroissues.com/louisville/">Louisville History &amp; Issues</a></li>
+<li><a href="http://jimwelp.blogspot.com/">Oh, For God&#8217;s Sake</a></li>
+<li><a href="http://www.kyinbridges.com/">Ohio River Bridges Project</a></li>
+<li><a href="http://www.pageonekentucky.com/">Page One</a></li>
+<li><a href="http://stateofthecommonwealth.wordpress.com/">State of the Commonwealth</a></li>
+<li><a href="http://www.louisvillehardcore.com/steakcharmer/">Steakcharmer (Media Critiques)</a></li>
+<li><a href="http://the-soulution.blogspot.com/">The SOULution</a></li>
+<li><a href="http://thevillevoice.com/">The Ville Voice</a></li>
+<li><a href="http://www.villevoiceeats.com/">Ville Voice Eats</a></li>
+
+	</ul>
+</li>
+
+			<div id="rss-links">
+			<div class="block-head newsblock">
+				<h3>RSS Feeds</h3></div>
+				<ul>
+					<li><a href="http://fatlip.leoweekly.com/feed/" title="FatLip latest posts" rel="alternate" type="application/rss+xml">All posts</a></li>
+					<li><a href="http://fatlip.leoweekly.com/comments/feed/" title="FatLip latest comments" rel="alternate" type="application/rss+xml">All comments</a></li>
+				</ul>
+			</div>
+
+
+	</div><!-- #secondary .sidebar -->
+	<div id="footer">
+<div class="content"><ul class="footer-menu">
+  <li><a href="http://www.leoweekly.com/about">About</a></li>
+<li><a href="http://www.leoweekly.com/issue">Archive</a></li>
+
+<li><a href="http://www.leoweekly.com/contact">Contact</a></li>
+<li><a href="http://www.leoweekly.com/advertising">Advertising</a></li>
+<li><a href="http://www.leoweekly.com/privacypolicy">Privacy Policy</a></li>
+</ul>
+		</div><!-- #footer -->
+
+</div><!-- #wrapper .hfeed -->
+
+
+</body>
+</html>

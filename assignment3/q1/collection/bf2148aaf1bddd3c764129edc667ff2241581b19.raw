@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+	<title>Aaron McPherson Studio</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<meta name="generator" content="WordPress 3.5.2" /> <!-- leave this for stats please -->
+	<link rel="stylesheet" href="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/style.css" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://aaronmcphersonstudio.com/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://aaronmcphersonstudio.com/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://aaronmcphersonstudio.com/feed/atom/" />
+	<link rel="pingback" href="http://aaronmcphersonstudio.com/xmlrpc.php" />
+			<link rel='stylesheet' id='ai1ec_stytle-css'  href='http://aaronmcphersonstudio.com/?ai1ec_render_css=1374013601&#038;ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://aaronmcphersonstudio.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='multilevelnav_style-css'  href='http://aaronmcphersonstudio.com/?mlnmenu=css&#038;ver=3.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/require.js?ver=1.10-standard' data-main='http://aaronmcphersonstudio.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/main.js'></script>
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/plugins/multi-level-navigation-plugin/scripts/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://cdn.wibiya.com/Toolbars/dir_1210/Toolbar_1210459/Loader_1210459.js?ver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aaronmcphersonstudio.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aaronmcphersonstudio.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.2" />
+
+<!-- Multi-level Navigation Plugin v2.3.5 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
+<!--[if lte IE 7]><script type="text/javascript" src="http://aaronmcphersonstudio.com/wp-content/plugins/multi-level-navigation-plugin/scripts/suckerfish_ie.js"></script><![endif]--><script>jQuery(document).ready(function() {
+	jQuery("ul.sf-menu").superfish({
+		animation:     {opacity:"show",height:"show"},  // fade-in and slide-down animation
+		delay:        0,                            // delay on mouseout
+		speed:        "normal",  // animation speed
+		autoArrows:   "",  // enable generation of arrow mark-up
+		dropShadows:  ""  // enable drop shadows
+	});
+});
+/**
+* hoverIntent is similar to jQuery's built-in "hover" function except that
+* instead of firing the onMouseOver event immediately, hoverIntent checks
+* to see if the user's mouse has slowed down (beneath the sensitivity
+* threshold) before firing the onMouseOver event.
+*
+* hoverIntent r5 // 2007.03.27 // jQuery 1.1.2+
+* <http://cherne.net/brian/resources/jquery.hoverIntent.html>
+*
+* hoverIntent is currently available for use in all personal or commercial
+* projects under both MIT and GPL licenses. This means that you can choose
+* the license that best suits your project, and use it accordingly.
+*
+* // basic usage (just like .hover) receives onMouseOver and onMouseOut functions
+* $("ul li").hoverIntent( showNav , hideNav );
+*
+* // advanced usage receives configuration object only
+* $("ul li").hoverIntent({
+*	sensitivity: 7, // number = sensitivity threshold (must be 1 or higher)
+*	interval: 100,   // number = milliseconds of polling interval
+*	over: showNav,  // function = onMouseOver callback (required)
+*	timeout: 0,   // number = milliseconds delay before onMouseOut function call
+*	out: hideNav    // function = onMouseOut callback (required)
+* });
+*
+* @param  f  onMouseOver function || An object with configuration options
+* @param  g  onMouseOut function  || Nothing (use configuration options object)
+* @author    Brian Cherne <brian@cherne.net>
+*/
+(function($) {
+	$.fn.hoverIntent = function(f,g) {
+		// default configuration options
+		var cfg = {
+			sensitivity: 10,
+			interval: 200,
+			timeout: 0
+		};
+		// override configuration options with user supplied object
+		cfg = $.extend(cfg, g ? { over: f, out: g } : f );
+
+		// instantiate variables
+		// cX, cY = current X and Y position of mouse, updated by mousemove event
+		// pX, pY = previous X and Y position of mouse, set by mouseover and polling interval
+		var cX, cY, pX, pY;
+
+		// A private function for getting mouse position
+		var track = function(ev) {
+			cX = ev.pageX;
+			cY = ev.pageY;
+		};
+
+		// A private function for comparing current and previous mouse position
+		var compare = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			// compare mouse positions to see if they've crossed the threshold
+			if ( ( Math.abs(pX-cX) + Math.abs(pY-cY) ) < cfg.sensitivity ) {
+				$(ob).unbind("mousemove",track);
+				// set hoverIntent state to true (so mouseOut can be called)
+				ob.hoverIntent_s = 1;
+				return cfg.over.apply(ob,[ev]);
+			} else {
+				// set previous coordinates for next time
+				pX = cX; pY = cY;
+				// use self-calling timeout, guarantees intervals are spaced out properly (avoids JavaScript timer bugs)
+				ob.hoverIntent_t = setTimeout( function(){compare(ev, ob);} , cfg.interval );
+			}
+		};
+
+		// A private function for delaying the mouseOut function
+		var delay = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			ob.hoverIntent_s = 0;
+			return cfg.out.apply(ob,[ev]);
+		};
+
+		// A private function for handling mouse 'hovering'
+		var handleHover = function(e) {
+			// next three lines copied from jQuery.hover, ignore children onMouseOver/onMouseOut
+			var p = (e.type == "mouseover" ? e.fromElement : e.toElement) || e.relatedTarget;
+			while ( p && p != this ) { try { p = p.parentNode; } catch(e) { p = this; } }
+			if ( p == this ) { return false; }
+
+			// copy objects to be passed into t (required for event object to be passed in IE)
+			var ev = jQuery.extend({},e);
+			var ob = this;
+
+			// cancel hoverIntent timer if it exists
+			if (ob.hoverIntent_t) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t); }
+
+			// else e.type == "onmouseover"
+			if (e.type == "mouseover") {
+				// set "previous" X and Y position based on initial entry point
+				pX = ev.pageX; pY = ev.pageY;
+				// update "current" X and Y position based on mousemove
+				$(ob).bind("mousemove",track);
+				// start polling interval (self-calling timeout) to compare mouse coordinates over time
+				if (ob.hoverIntent_s != 1) { ob.hoverIntent_t = setTimeout( function(){compare(ev,ob);} , cfg.interval );}
+
+			// else e.type == "onmouseout"
+			} else {
+				// unbind expensive mousemove event
+				$(ob).unbind("mousemove",track);
+				// if hoverIntent state is true, then call the mouseOut function after the specified delay
+				if (ob.hoverIntent_s == 1) { ob.hoverIntent_t = setTimeout( function(){delay(ev,ob);} , cfg.timeout );}
+			}
+		};
+
+		// bind the function to the two event listeners
+		return this.mouseover(handleHover).mouseout(handleHover);
+	};
+})(jQuery);
+</script>
+<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[207,236] -->
+<link rel="canonical" href="http://aaronmcphersonstudio.com" />
+<!-- /all in one seo pack -->
+	<link rel="stylesheet" href="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/lava/style-lava.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/transition/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/transition/jqFancyTransitions.1.8.min.js"></script>
+
+	<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/lava2/jquery-1.3.1.min.js?ver=3.3.1'></script>
+
+    <script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/lava2/custom.js?ver=3.3.1'></script>
+
+
+	<script>
+    $(document).ready( function(){ 
+        $('#ft').jqFancyTransitions
+		(
+			{ 
+				width: 910, 
+				height: 263,
+				strips: 20, // number of strips
+				delay: 7000, // delay between images in ms
+				stripDelay: 100, // delay beetwen strips in ms
+				titleOpacity: 0.7, // opacity of title
+				titleSpeed: 1000, // speed of title appereance in ms
+				position: 'top', // top, bottom, alternate, curtain
+				direction: 'left', // left, right, alternate, random, fountain, fountainAlternate
+				navigation: false, // prev and next navigation buttons
+				links: false // show images as links
+
+			}
+		);
+    });
+    </script>
+	
+
+       
+</head>
+
+<body>
+<div id="outer-bg-wrapper">
+	<div id="main-wrapper">
+    	<div id="header-wrapper">
+        	<!--
+            <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/logo-header.png" width="944" height="223" alt="" border="0" />
+            -->
+	        <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/logo-header2.png" width="541" height="111" style="padding-bottom:12px; padding-top:10px; padding-left:40	px;"  />
+        </div>
+        <div id="menu-wrapper">
+            
+            <ul id="nav" class="lavaLampWithImage">
+                <li   class="current_page_item" ><a href="http://aaronmcphersonstudio.com">Home</a></li>
+                
+                <li >
+                	<a href="http://aaronmcphersonstudio.com/classes-coaching/" >Coaching &amp; Workshops</a>
+					<ul class="children">
+                        <li ><a href="http://aaronmcphersonstudio.com/classes-coaching/#scene-study">Scene Study </a></li>               
+                        <li ><a href="http://aaronmcphersonstudio.com/classes-coaching/#on-camera-audition">On-Camera Audition</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/classes-coaching/#private-coaching">Private Coaching</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/classes-coaching/#on-set-coaching">On-Set Coaching</a></li>
+					</ul>
+                </li>
+                <li >
+                	<a href="http://aaronmcphersonstudio.com/about/" >About</a>
+					<ul class='children'>
+                        <li ><a href="http://aaronmcphersonstudio.com/about/#bio">Bio</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/about/#reviews">Reviews</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/about/#press">Press</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/about/#events-and-shows">Events and Shows</a></li>
+                    </ul>
+                </li>
+                <li >
+                	<a href="http://aaronmcphersonstudio.com/members-only/">MEMBERS ONLY</a>
+                    
+                    <ul class='children'>
+                        <li ><a href="http://aaronmcphersonstudio.com/class/">Class Calendar</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/members-only/">Studio Packet</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/members-only/">Material</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/actors-resource/">Actor Resources</a></li>
+                        <li ><a href="http://aaronmcphersonstudio.com/members-only/">Student Payment </a></li>
+                    </ul>    
+                
+                </li>
+                <li ><a href="http://aaronmcphersonstudio.com/connect/">Connect</a></li>
+
+                 
+            </ul>
+            
+	        <div class="clear"></div>    
+        </div>
+        
+		
+        <div id="home-testimonial-wrapper">
+	        <div id="ft">
+
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/aaronmcpherson.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/odedfehr.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/ashleyfink.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/dolflundgren.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/amypietz.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/stephenspinella.png" width="910" height="263" />
+                <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/banners/jenicabergere.png" width="910" height="263" />
+			</div>
+        </div>
+                
+        <div id="content-wrapper">
+
+			  
+
+							<div class="clear"></div>
+            <div style="padding-top:10px; height:10px; width:10px;"></div>            
+                <div class="box">
+    			  <div class="top"></div>		           	
+				  <div class="mid">
+						
+						                                    <div class="title center">CLASSES &amp; COACHING</div>
+<ul class="no-disc">
+<li><a href="http://aaronmcphersonstudio.com/classes-coaching/#on-camera-audition">On-Camera Audition Technique</a></li>
+<li><a href="http://aaronmcphersonstudio.com/classes-coaching/#scene-study">Scene Study</a></li>
+<li><a href="http://aaronmcphersonstudio.com">Semi-Private On-Camera Audition Technique</a></li>
+</ul>
+<div class="see-more"><a href="http://aaronmcphersonstudio.com/classes-coaching">SEE MORE CLASSES &gt;</a></div>
+<div class="clear"></div>
+<ul class="no-disc">
+<li><a href="http://aaronmcphersonstudio.com/classes-coaching/#private-coaching">Private Coaching</a></li>
+<li><a href="http://aaronmcphersonstudio.com/classes-coaching/#on-set-coaching">On-Set Coaching</a></li>
+</ul>
+<div class="read-more"><a href="http://aaronmcphersonstudio.com/classes-coaching">READ MORE ABOUT COACHING &gt;</a></div>
+<div class="clear"></div>
+                        
+                                      
+                  </div>
+                  <div class="bottom"></div>
+                </div>
+                
+                <div class="box-maroon margin-left margin-right" >
+    			  <div class="top"></div>		           	
+				  <div class="mid">
+
+                  
+						                                    <div class="title center">NEW ACTOR ORIENTATION</div>
+<div class="form">
+<form action="http://aaronmcphersonstudio.com/wp-login.php?action=register" method="post">
+<p class="title2">Name:</p>
+<p><input class="text" id="user_login" type="text" name="user_login" /></p>
+<p class="title2">Email:</p>
+<p><input class="text" id="user_email" type="text" name="user_email" /></p>
+<p class="title2">Phone:</p>
+<p><input class="text" id="user_phone" type="text" name="user_phone" /></p>
+<p><input class="btn" id="register" type="image" src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/class-btn.png" value="Register" /></p>
+<p><a class="tweentyonepx bankgothic-med line-height-style1 eighteenpx" href="http://aaronmcphersonstudio.com/events/"><strong>View our Orientation Schedule &gt;</strong></a></p>
+</form>
+</div>
+                                          
+                  </div>
+                  
+                  <div class="bottom"></div>
+					
+                    
+                    
+                </div>
+                
+                <div class="box">
+    			  <div class="top"></div>		           	
+				  <div class="mid">
+                    <div class="title center">STAY IN THE LOOP</div>
+                    <p style="font-size:21px;">Sign up for our Newsletter!</p>                        
+                    <div class="form">
+                    <form action="" onsubmit="return newsletter_check(this)" method="post">
+                    <input type="hidden" name="na" value="s"/>
+                    <input type="hidden" name="nr" value="widget"/>
+
+						<p  class="title2">Name:</p>
+                        <p><input type="text" class="text" name="nn" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue" /></p>
+                        <p  class="title2">Email:</p>
+                        <p><input type="text" class="text" name="ne" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue" /></p>
+                        <p><input type="image" src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/newsletter-btn.png" class="btn" /></p>
+					</form>
+                    </div>
+
+                  
+
+                    
+                  </div>
+                  <div class="bottom"></div>
+
+                </div>    
+			
+                <div class="clear"></div>  
+           
+                <div class="clear"></div>
+		      
+        	
+            <div id="phone-social-media">
+				
+                <!--
+              <div class="phone"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/phone-number.png" width="227" height="33" border="0" alt=""  /></div>
+            	 -->
+                <div class="social-media">
+                    
+                    <div class="icons">
+                    <img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/follow-us.png"  width="197" height="45"/>
+                    <a href="https://www.facebook.com/aaronmcphersonactingstudio" target="_blank"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/facebook.png" width="57" height="58" border="0" alt=""  /></a>
+                    <a href="https://twitter.com/McPhersonStudio" target="_blank"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/twitter.png" width="58" height="58" border="0" alt=""  /></a>
+                    <a href="http://www.yelp.com/biz/aaron-mcpherson-acting-studio-los-angeles-2" target="_blank"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/yelp.png" width="57" height="58" border="0" alt=""  /></a>
+
+<!--                    
+<a href="#"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/facebook.png" width="57" height="58" border="0" alt=""  /></a>
+                    <a href="#"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/twitter.png" width="58" height="58" border="0" alt=""  /></a>
+                    <a href="#"><img src="http://aaronmcphersonstudio.com/wp-content/themes/aaronmcpherson/images/yelp.png" width="57" height="58" border="0" alt=""  /></a>
+-->
+                    </div>
+                    <div class="clear"></div>
+                </div>
+	       
+              <div class="clear"></div>
+            </div>
+            
+        
+      </div>
+        
+    </div>
+    
+    <div id="footer">
+	    <div id="footer-wrapper">
+
+
+            <div class="credits">
+                
+                <p> &copy; 2013 Aaron McPherson Studios. All Rights Reserved. Website Designed  by <a href="http://www.crestmediainc.com" target="_blank">Crest Media Inc.</a></p>
+				<p>&nbsp;</p>
+
+			</div>
+    		
+		</div>
+    </div>
+<noscript><a href='http://www.wibiya.com/'>Web Toolbar by Wibiya</a></noscript><script type='text/javascript'>
+/* <![CDATA[ */
+timely.define( 'ai1ec_calendar', {"export_url":"webcal:\/\/aaronmcphersonstudio.com\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&cb=1673800246","fonts":[{"name":"League Gothic","url":"http:\/\/aaronmcphersonstudio.com\/wp-content\/themes-ai1ec\/vortex\/font_css\/font-league-gothic.css"},{"name":"fontawesome","url":"http:\/\/aaronmcphersonstudio.com\/wp-content\/themes-ai1ec\/vortex\/font_css\/font-awesome.css"}]} );
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/pages/common_frontend.js?ver=1.10-standard'></script>
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/aaronmcphersonstudio.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aaronmcphersonstudio.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201340'></script>
+</div>
+</body>
+</html>

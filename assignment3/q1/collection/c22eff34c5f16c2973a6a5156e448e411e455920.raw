@@ -1,0 +1,1628 @@
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+
+	<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><meta name="title" content="Annual Letter 2012" />
+
+		<!-- CSS -->
+		<link rel="stylesheet" type="text/css" media="screen,print" href="/stylesheets/gfo/style.min.min.css?r=E82E85E6B9ACE9818A71F30B2A2044B5" /><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/gfo/responsive.min.css?r=7EC1D9A41C3C29CBB267FE02DE6ACC27" /><link rel="stylesheet" type="text/css" media="screen,print" href="/stylesheets/gfo/search.min.css?r=D3D846FA5233880706E5018894B49F07" /><link rel="stylesheet" type="text/css" media="print" href="/stylesheets/gfo/print.min.css?r=B766AEC5C6F77AF4024B3FE6CED8543F" /><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/gfo/jquery.loadmask.min.css?r=4EADE2AC96C5D7F472375E93C2B6A0B1" />
+		
+		<!-- JavaScript -->
+
+		<script src="https://use.typekit.net/fdu6nid.js"></script>
+		<script>try { Typekit.load(); } catch (e) { }</script>
+
+		<script src="/javascripts/gfo/libs/modernizr2.6.1.min.js?r=46EF7709826990CBB7C630686537E7DA"></script>
+
+		<!-- Grab Google CDN's jQuery. Fall back to local if offline. -->
+		
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		
+		<script>
+			window.jQuery || document.write('<script src="/javascripts/gfo/libs/jquery-1.7.2.js"><\/script>')
+		</script>
+
+		<!--[if IE]>
+			<script src="/javascripts/gfo/libs/json2.min.js?r=82D75B929B71AE95560495B89A895356"></script>
+		<![endif]-->
+
+		
+		<script src="/javascripts/gfo/libs/combined.js?r=E0109794449359A20C7E79886943AE3D"></script><script src="/javascripts/gfo/combined.js?r=D5393D05D736B0BA09BD2C41DAFCFEDA"></script>
+			
+		<!-- Scripts for search pages. -->
+		
+			<script>
+				log = function () {};
+			</script>
+		
+		
+		<script>
+			jQuery(document).ready(function() {
+				var twoLetter = 'en';
+				var langStr = twoLetter != 'zh' ? twoLetter : 'zh-cn';
+				moment.lang(langStr); 
+			});
+			
+			SitecorePageMode = {
+				IsPageEditor: false,
+				IsNormal: true,
+				IsPreview: false,
+				IsProfiling: false,
+				IsDebugging: false
+			}
+		</script>
+	<title>
+	Annual Letter 2012 - Bill &amp; Melinda Gates Foundation
+</title></head>
+
+	<body class="home">
+		<form name="form1" method="post" action="/who-we-are/resources-and-media/annual-letters-list/annual-letter-2012" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="j3T1awdaVKDyNw1/DGfKjZI8Mu1r1IsIkswMXfYo6RdRnL5VFrTaz+c+8saYOpYQkey8TPVsnPMt2AK9dv7adtT96hSYuKJ8YfKt3z60Jj9Pz/J7QqnvjZGNhIhm1tYwv7h3HCpqGIjnuUeNjfnUAB6eUWNyZ2OKDIs+9nMgMgz0ajSJXBUmZDgqA2m4IKfghze7i/8iDX6BFlQhJ8kog938CEbV3d5vIHb0qIb4LPoLz762WSWROflYrq1sHouoJ3o3CNEbC5Q8V0QX1zXFIZQ7UDOPJDKKMxkZqez01hyu9GY32c4KRt9w6Ho8o1OGhCaw7/9f0neAO1GFHe+2hbu8/CBAFEPATtC4lDC9wUt8dw/B1Sg3q0c/jEWLPCc8pGhH6JsAJwMLpuggYH/GmxAPjhIA+0tlWDL5qugJjCZug1Bs6FV5LH2u8WodbZYUJwVpR6FMVY29872GlOxbZbKKe0sny4hhjrZ9/48OAm3qC/oDCXwtRbxNl7Qaprj2/VeC/p4vwAnk9aqZUAYW5Bt66pLy8ZSbv77i0ywDAiT00PeINT8dadXvEdkdKJh04UP61PBZegScQKTCx9QhP7KtfkRsa2PBwX/hWIRSEC6iE/9Bn9dzeKiBkcAbQsXR5gdRdWQwoGRmj8rZnbtW+Cjw1Lzejp9rHH3KV0HSlOaVy3AJGIDlSHS0sWZfpbZ/bnT7XHya65KA4MxRW7xW2Ohwc9lfpDGgaeSUilWSETAoT0Y5qOBBrKdbjWALxfrtQbEjCeBAOVZFhkxkPLTo9WjZ15f9/moh3NkspHlrR9fqfOWTN81SSxtTGjgFprn8/RPJXKv8bKybwdQN4y78dWx/giyfZNiQpBS8EjQLQJ3ki0b8UH6ZeHNUe8oQ3UuQG56czioABE/Pq7RWZOPXPih0icHRhfzusJq/WF0ErEcjER/FzXYplDnWgBPV+hXcHFs8UackSVZ+y7c2s+hwpl4nLe+AT5DWJs56Je0d+e8ThNaEITVS1Xae5qoMkWxGj72aezE1h7gDi5CH4BqZxrrmOIzJRF36WOm45FGCZANR8hLmV6t4S71+qihD4fMow+p1ecnX2es3oHLaK7NlJhhN10/CQVcaxfYL3yDUBkymXTlSwe6YCkFN39mAZ7kWIeyJw9iPzCx2Snu2Llwvp9IhBj7nf7H1wV/p6TJu3AiRQY0m6HxOtx9o129/N7sZsb+QTJDllGVhEamwc3M+TW/4lJ94HYkq7ZdkiqQCioi2hkqDNj6Qr6uFDt2gBLT5QI0YTWMvy5IO/BE1rkshmRP2NXTlIn2eNUVd/54YWGm2Tzm9g6RUuyLfvG5Hr72JkCZcu+wgjEGjRrNi/gqBFdxLFvzNA4NUN/n1AXqBOLABVY0FoXtEFl96xpHeWb1cqVQQIESmdcKcs+eTPzIT6CaL8QR4QMN3PBzyPQO/XA/TMPFvWcTb2ZvCG3L8/90uwo27MDfTAsijnizbr0l1cWwClNt/nth5i1V+ZwdppTsJtWhCXp1YAY+Jk0sNDZypuz3ORXDfZjrvR0bXQOco2ShsouIfmKtj3FEE6J4hOkNm/zPRUi+V3jXSR1IDj6TH/AzFcGVMaqbG6m9gwSYHea2fFrJyzPIK7VNaB+TrXudO9qgcbgvDdfK7lyRxa9tgoHEfBJOndMHJMLdSEhR2mKuONk9D4OWt+DN16K453pw8XyVu21yXS+EyNVgVYGF+A+RZ7sM+P4V6n1H/5Q966fuEhpA8wiCbpyKRPm+GfG8B7OCUWpQrIAgT/KmKfWrwxS/sXJpjD5MamsL6OOjmEvvXDAyu5rS07DEs6SzNi2EgJGxGIMXj3oJYlXmdBIODcZrQrRoC7G45I/V+6w2HssdR6uQu4ckIGKZHaQg3A3fVu+HBJerlOBymUxUBtaRbtAE9n8Us01Jxp1OE4N2pyrFnvgdkfBwQrAHTPY0/hbswWGyegR/ZYye+CBYcRYFhUmKsaElGJ50FEdoD0c17t5zgd47ObvJULvvGdv4D7KByY+5HH/8WFCthBDJ1+C78pgQ+s/Gz36kIlgoncA1a+YcPM3BicOblCz1WTMxrm8pciWB1f6xKDA6W+eucwbqUnmXGgqd5RjGoUxtnNZSO1hGVYTHjf+SNYea2L3fceqaJ2r5OIH5kwSYINgOx8XsNXJyMoKDO3SR8JawdhCgM10VxrWiY0MhGoTvKEF9UQHO1iUJVGciLoOVasABgHYQZy04GuK50qedLAjla969crTSN0Tda/bnWKkXUJongkN1bh5ucoVvATW8WHsxrbJ2w+tON2uqmW/j9jcIZae5F8h9IH+Zq7M7RYc8Oclp2MnMl45n+J63FY4ANZW1S5KC//MFdwaaDS8bnZkmZX9ESqnSVyzh6JW2yAQ0uPfH7KC+AcGQoAwthSlR0Grjkau4mnsShC7qeKOm07raBtJ3oLruAENW9HxbB8HRksRCz1v3ANOXON9CqTCAMRqnitfnbNWBFuEDcF9WlYrAjUmP7iJhlhAl17B8wLjZbZI7gMkMZD1rzzH0M2huTEGUciVcAD7vB0CAol3R9Am69/T9bBlNXDdDmG6BNHUqP11Peu2s2Jfkd5opyk1mXZZPFS/C9ZENRGx1xUPHENeazJQsu1wm3qoHV0MPpMZ6ZvOEZDCdgRazyIL9ZWJo9qO/bEF5ddtQCQhZ+gsPG8fIRA9RU0oCJ71xCQACqHadWoltFvDVhxHTS48OQtDx+/Qba2n3F5WbTE0hSDb8VIfQYOfn3Z6hqj6fQRbOsC3is7XcQUMKgGuUgPUL1AI7dKy2HXZjlHf7U0KW01OPbyidqJiewlc6EyH8hHEfMcr4gPcYMPHHxUsdojnlxqrvMNcBe1mt5pxjZAyOvfxAI84nTUFFWp+PLZNE7iNdoYUgkOklDgdA43Qe+iJREeXNHphSOOXZSEO+wdi8u21zdHoBD/ePas/X/xeODTIt1uJtRf+FZC4TL1c4TlMfHT6CEh9hD9ebH7B7wbx3JUWL02hXm0jQ1dA9av7FG+rTYwc8p35t78xBtqW0/vvYtRNXla4VQYWXX1IzH1n2G9X0c9BsLgJgiDsruX6DPLbn8R3dsR9uVc32f2ck/1e+7ixs69lWTMlnMREDjqHctyr13lqVgthgWHXiwFf1T6sybA5viOa+U7OsdWMuxftkkN1JuU5zeeN1jkaq+BHvBV2JD2uyFkMjSL54qxOxTZUqF/jiKdiHgph1WSCDaE8Kjwt/iTeIX+ppmNQaT6uFiYukzDAjRfQvy2EVicgT3bC51rYVV9p2xfPLMlTf5TIWyahZ5tMCwTtK09VZUiuJSQzuVb/i9acOxWrMpRGjovTiLEQCC7Yv8q4DVs/6QttMROtgm/S0TfenXsSiI/iXGqjWh/h4hCIOKe1vcnU7C2/a0atrmbrnmhV239vIYqiSkK7NAZwIIG2NA+0KyXQ+JE0lm6eD2fxpuWf6U1XO/nczt3QgaW5R4zPhT3SJKUc1mlLwADgv9eTngH7SEps0h8u30lPsq05ErkHiUUwYiAnM72BZp/iC8NS1g+whhKbUqgHEcUze5rzVHEKDFi3muipONYgwjpPxs2ipcsEnrO75h+T6IcO6UfWL1uAB/7rAWt/QY29CKbbBn9My01pFnKFzQSio4wvGL360klXwK7sKJ7mzUl0jYYfnVLBJvvVueDB6LzYuIV7gsns/aqrRUY0fJebc39bCwhQJXIMkMFltGf4BcJKbgvCOsa+b8aRhOHfIlRmxoSgx0CL76o5gdV8kLA3rvTHGQbtYTr5LVHhcVz0XRJBhUmoMy1o2aXXnicoTEXl01myfS1VLOtZKpaZs+Z0sHqrigPXojg4F2O5GSedFUK9vkHCKEl3LJWXqO153ceYJ8J5iJFkxhVqZIP0parfJ10Zn78oq/EDRH9A+wRVSsiAo/TWudiAcqAYqmsK/Jl/ZYzZNH64doocDpgHLCjNhtYrCD29W1YWYluyMllATRcUxqZELOuOnQia+SSUisEHsqa7hNm6biCcEpC6pE/vkM1R3dCIrTYNvg5P3/7pV2RtT4Swr2RBFZB43PBqYyxlTiX94CnX/zy+L82lAQoHnuAwWy2uIFqplM0paT6+hpOLETWt605n0n5PbsJPUmdHZ6Kwp9Q+4vL2B6uR7R3wKoWHXRHvqS3Xl7UxZb4nKWgoDCf4FQ7iFYMVIGQbn1+329KUu26TN1BaPQnOvzrsJQ7w64IzbhbL1+goe26iZrl5Mim8WmFT8GR+1XcNFiOvyoEBip9m61pfW4P3y2ZfHLyy+Kqr20MTg2ooJAjKV2Z+DiuBuCo1CQbCWJw3RBU/o8fYIKCMSsoQC4RlD/ABtUxyh/ieQxfrL2vwrifitNJ5SwRt1kVShNbx5irQgB/dtjfIs6Bmc4ab+DwzE2ubltdsnEoog01af67pcIlBgyCVFeCxQ3KIRPUuDLt57nFmIfCiwfumaQTwlovfgcIpF2yE5Nn2uIfZaQDYCKiVmfdMsybLmIFAJYDKRxYE8qFn3Z015AeuDU824IVKLc9GgKEOBsa+icpOkSdPOBDib+GfwFFCfq/Zhbqa7kOhwAIdkyir/SgiJVJCRoCsTmwxotCBrrvX1J21sRP+P2iUYpeKWmD2bzdgAifOw+71MCCUdyare3210Nl6qi5PwTk3dml3hseRT3ZpXZx1MS4B0w0+1PmkMI7B80MQgLLEQOnkM++1OBKkNkTZgtLsZ36ciULNOLRRdhFKPmRAXld7Kd6yL9zqWpylEo+hFSX2p8uLow1UOPcpCYKmFlFanT5I0yVcWu4k6d85IMyrMI8EaBVRTEnb7dDF9rlvoNxrj6cvsf2skTBzYPkj6RQ66SPL6J2/7MCZQBhHX465muni8qBjMwR05E/TweUYbQm+YO7e+iv+iE/nn3VIrORmQmaTlLa6qzRm8N/mNRrOfg7eMKkBMNnKmLyt6oGej7sBlMwRXr4f71MyvIi/RiUqbIsrO0SiU/g7Lnr80pc/ZUuNHyFwdz1aBz5udxUu//rn5P/YpFH2hlA4l45UaqSyIXXqen1wm5xDUeVemg2fGUOSj+HP9deYgB9qgcVYIJXnDY5/oR+7+elNPWMVUmqgjlgRpzV2uCxJBF2NsZ9RCYopLJthy13SswAEdoIG+XXnmpkOrdMQHJdWXq8SqbvbqIOP3k3yZ1DS4HejyzDK94pB4IJuJYfQ/B/qFPsGYIhGHL1YKvKOeoGGTy/7URmSeek1BXnk9mILa3MALLOo/ngJQmdf5MWpVXcYFPyeVepPw5ZDUbCtz+MS8xDnXrqipmNE99lk3iC6Q282qv9UsqhWJwps95JSv4a1cF1vrHXS+apj3sbakwSjtG3sw4G2qLqLIA62uTIfA/ASJaTfysWfkmc+pu+m7+UvDiJ+eP/CzBFkcpXwrOeIgYvQYb9MuDIJQco9cdXzgL+RRpyoCjabBpLfN1JouIeC0SXPA+Ow1flTdksQG+fY2RvwEmFDzsvGpXneCk/iIdBJjiNYgOn5Px72iV0IQCfKt2j6b8HdfmpYkaOoinH4YBsVNRMUuy8/1MBtBDxO2qaN9xA6hqJJtQgHVQrQdrXQZQHb8WgNKar/zsomy/cB3CYegD4XS/cjvoGeGzxOxnoXkmq++DdltuUayG2XzLoRyg7f0rYcsjjezZmjz66rWj7gyaXx5CYgOfg3adeIT1QpwDjMoFsjtf9IbUsiXcx6QjZTNa69IXfmEmK0RFfGTm6FKabOBPnBwIBcyfAxaiXSA0jhONIAFeNKacG/GarOeOjSnXAMlKX8nRcMIfBfbw5hkQJOSXY8vhgVnSSOHhxXBZHNk+iVMwOVcXbrEewn855fvmZ9TSwMNL4rNaafzSL4g5jf2W/7Fg57Imzda4ADQNarQzPJjHKoWlVG8mwAooQv+02cHwe0nJ8fXxn7UIm0T3YemMx98zndzMvmBmgMVjuSych/680UjOIzVG3lbVUHqyJZBD+O5toqbHXUSKa80aWeXuvFbdBY5Q/7Ih0pYxdq47vmkVdUF6EW4T2ZBPYIjn7Ze30uIH02V1juOSudH6GzBMMMHsqVmClylNyNOWNnEFnE16/Lhwir+NpZZStKvwZJg+bt/BYHNUXRh6Z9iIsYlP7OeQ+zW90dIqK6iKdi6vYGbivgFI9azEp2qgTkM/xHXgQip6jPndfEOMaJXOLr/XNCeJxDK20jx136/l18A5Bl5IiAOONcoLpfUKnbFX+R9E3eKBkEYfUd205GqGrNzn5CRtpPztEbP30KXUlVbecJ0EdmlkSk1py+iBKs0/c8yt6T6C13QhxpoRvR4t6BsgJATG4rpIpvrMrIXBnT6whhyv3D0kD+fEZDe79eVvj78dnWWnCeH0BlsnakXzddl+vXjgow8TKiy1+rvj8yZ8Uhif5aVaUWZhot2xDmFsEfrhSf0poujElgg3R5nO9vN0lP6/Dx8i2XwSwcJYNz43Dz0jaq9Hi1AtTyyu/tR6KLuoIeJZfMyiGuzzWNCUlKW+Xockkr+T0fTWG3iYYhqaxoDKTXCC6O0C2FS7teHVre7jo27EK4iN5WZDChi91fgkrpd/HX0Wo5NLK4oTVh07qLtAf0HZj8DYZi5GkaR+zmFKPI7KTYDHk1FyvB96xR6cdpUR3u6Bsuvlwg2u074BeMjOYsjhJooblq44NsCVo8JH97wOouLxGbSJnwlR5gu72R8gZTM4qxjVPBBILgTCJ3opEj2raZGy6JQCKUiwyVKHfiB1yUAr9OjUQ82+kVBg1JNDNcs+yMJpJlzDDScsmgkvyLl0I9MBWLIXMxHvn27DcYxtxw0UN8PfXVk9f5DRApiSwzXADFLTmgutrxPPsUkSd9EvUXyTBEoEXs2mZwSCgHb+OjoLT+iEgOM8/PJ/GLs5LPuS7KFOnYiIar/12loepoea7uK7VwoWPVVrqp+l1WZEItfDPn7xbYaJizJaaF3UkcUD4dDBWMIf1PbTlwR96MMk1McoIXyZV6KOZCoUSbp+1FYzotc28pKIWavellg/XOitn7IpYIn+9FkiOrEuX8DxBf0y/Hriv+Agiuds7062wV8VVSHL4UlUaTHjpWoU5WhgEBHKRh8PX9UHseegj3V1cMsfhaLeTnBmqKsdNlSRQKGNzBHdO5qsGSYUpNZXfhbOa7vcXzjjg77IoD0SE9I6xAJvsCkh69llyGRE3jlhFW0PWb4bq4sU491/X7pXoqLPYfNPnqwAtDft9AL8nqTPceMcuIk8e3NFyGVntuGRb/L15vx1C1ktMB5XMyik/3NkkvIEf7qG+JtLBlpPOiJiJLE/M+XgUDNtbo43mJQrP9oscpa0MtI/cScgWDIEEdOxgKbNuDO+NbAgLA9ovXhZTKLHx0pnpZNURYjtjGgVKhireg5cfchkEqw13QmuLvfnisU9Z6V2VH579VJ6Kf0KZRJ8hqWaD+GYLsSmqeHwfWbSWZZ7t0iAQ332ILfDscf6hP+lJHPFUJxtYJe4lbCEVvRku5i/NDCGsikHBK/fUyaV8wG4FerFurmgscafSSFSI44US1iKzWoOLCs/r7EfKn2tcmJLHoFJnePPCFAAbLfJqXhix1eWHdSWUuxaxN+8heV3+7+7Vm5naXpL9otnj3GMo5PT6gXbd19tDJmPek6ysrL+5HTyd4et0tqT54yiskfDC4p5ItT7DsWBG3nFoVTnyuqQoCQv14qjGahaYDWSs9thaKu/2XSaAzzahwxq3F14g0PeA0yX+TXrTq/+aqXDEr3g4Cws+wI9JrhQm3+lkPb/R+jOt8cPB3T7zfRY5gjfV2JKveope3QnqCmE9mEXfHMJSZ9pTpelH/Iu0nY3sbaMHwAxrGagppd5DzLb3YXNFAsQiTK4ZfAgeukSJ7MQ43LTiWI/5fV8DfYUc3541Mnns/q85r8wla0TfHUMACgDjC8EsjKpG00ahPfhwhXhY00n1VwWMT6Q/QzfLrGQVZQVxy+8Ig0xb4LBk83/gFx/VEuSBcPOLJ1M15wDvzbfxlatgmEIUmAdr1u50q60aYKYtUSDJa5QUmdUZHbQN3J+nYGzHMYIGpKY8I0qJUbdSnIDkwVGkSTjSv33EzSsOg9X4erC8s45dps1gkOF++3YYs4JcXUBryW6gJsyE1qtXlgzXEwPFoBWkfyWe8eJ4t7wqJtALvjdyMQKQVR4oHmUeKMCSc8vaXPKxkXZ9T98dh1YT8HWH/gzD0x0LJqjV99aIbPNyPP0zx8Gd3HhBefqOaW6d+buoPN0+AtGy0bLkPn1ONAuyBcdywiAER7iMoiUkfRLwujSJ7SW8atVOt8+/J5iskg3O98AcV+ASqbDAU9VCSkTaEjsuZ7nEsYnF8iOHQ0Bx7zn2uEKKeYhobaznns0+1L/ti0RkozSSDkqY7ICsb44erEgvFOxf+T77cKlilOZOZx+4PZgATMZD0Vyi2Iy6ej47ZmgQXhsCN+8fkK5RxVNwWQE4p3bc5UFo0Qr+KFwJIF/nKkUR3CrPqnlGOiZMwKjWRmMQR7H17T9CnjkH1wkyC+GJjtLUluVqCYaHpdFmcEMbjXUEaiah7Upfro2dzMjNxUy8YSMRdZOXbgBGMsJWZuUkO7S0znwnR5y1zVOKmpP7QLTYKOTszm3UeWhIlgC0KH8Iqu16+lzUzMuGrz5MfeU7oWBjl4V0Xirs5FAF8nXx+Tn+ENlAF+ieqad8jYAE+GB3up/ErLjkYg1/n1X9zXxV9FxMXAxRchty8KvsTGn/40e5Qo8lw7YXTyk5bwixJnyKpcAsa5u2nuynFSQH2HkUWENrQhhWgZAps6ntGDACWVFWjR0Oy0Anct1K6RG38H+sk5VVanDbKyOT8i+TphybR57Nd8bFwuRDsSIBah6nthbNJG6fkFB0dhU152zUsdk0cuI5kBefnxfqiyrx60buqn96Z92DION3MOOeoEb7E0pf1bXuNbOKL1j1dq3uBlWZeLl7w/JY0qynbTSEAe1LXG6vCxUZFRoHlZ9tbTH2cojKGf9bguc2mF7ALXIDf6A9msUIj0Eu/fqDnw+Uud2DtEx/IYkJmNa1852qv5BRxJc59sx+zT96c/IzdhG6nnJ9CSZnHbYUBdDFCeyY1Bl4xnZMN97IbzOR5WdBXCJCl4kSDTdaImkn+ZK5+h38zWHHonQBt4h2ImBN5zVGKOyLK7tZHXTalpaP8//C0YcFsKD3Lf9s83CGxDQNyhVBHnDFCQ+07nufB+jopMHG8NwfONHylw5YxVhaJvZ+3KigMlMr5DLzar5m52Hr2OVIQo0Kgk/bALJGLsbgmjP968P0XOOXY4dgS7tf1Ya+eCHI5Z5Z4fCLnhB9P161RVhiDsyI3XPgl1o61A/eX7N8QCasYvghrpwQQHfiQB/mVMwdKdOWHjI5n8YORgr9yEp4RMbdL5AJj7n4S9puBmYxJBU/OeaSe6Sb/eovbvUF/ste7GDvG1HDffXj232Lc2HWwQ2W80HTNZIVzVBZ1sISPWMFZ5yVLuhmjw30IB16LesGpD1SppQpy7JTo9DzVPJVWJaL8vPj618XExqgLqoh9afjn59+xoA9j9UIL2w4Jcu2UsUapSKVyNGGL2BUUE3Io+R7AKLFqzopIMRazoy2HO2m3voU7Hcdhw4LOutALtoAb/Vu6oGs1VnCeNNKosGFjjmlydOoKUlbhaXKZ2hRsjwGrdS41TA59L5JdhHDq3JO8eiPc764hzX7xV4cOXnUvym2srXeFsz2srzW6ZeGdmYNfBE0HovdNwEqCCaQLFwBKDB08hsNOJ4N7Jyfv9fDGQxe1QHpIth+g6zUPpEcgnK3z6MXp/YPr0tjp/8i7guXRtpXlg7d0d93BQ6kR4zUTRshteVePk5Nt18paQlEpShRLbUlqc95CDJlrazPA7mGMl9dgFeYnVRfNrGBEPhJCWhjuWqudzTHKRwF8fyi5gmZ60TchgWLleKLqZM6AGMyHDMQhwhj7QfYZAQ6enf152UvSFgN8TUsItSBUhOIS/rKzaEYb/ahXuu63lXywuZBsI29FRBg3fMrPZjb4fCSyGfQVm52x8VkOOGs3b2Go4lSW92BE9G83xpnmJgS75eh6uHiz9N6uzE6nG6Xaab+fls5SKPwIhba45d1h3rCh56QZfjyzxv0cHN9AAvbTM72i0VTZxiB8K+x6AIl9fs0KYW9Ky+CpzR0HSgKkMiQ1gYnalIL51GXy9l6J7MFplLSshjOtS2jfj+bVTxjT13YNVGWKBoqKM3/5GuPeClzEJejW16RrViWLwg7jQjEuMMZ8ADjqWl1Yb6EqloM9obnFvHa0xpisSFtmw9kcICHQ0JYogYlignAMP276yyF2lt95H3syuT0BooQ5VtyZKNGh0UFJ/dzwbGFnMDhgEKfMnSnTotPtNYc84MeBAqV9i/kElkTn37SV3O2b1BlLDBer4atoSDDdgQSkwBGgzSf6PvYpQ29EXObrmB1vxvL5dJDapAhHnxwpyolFk3YLVFOO1IXmM5RLyUQ8oEFsld2V8VjXVwPo+pVsxrqSr3s0HsK5OzmLe+nLr31YYbM2B9Z7/KGlqr1U0GeSgibY94xgC1z54NCeC3Ueh3Mb7PR3wtHoK7GBN6y34Hfs83HDcf5TjfcLimy07ULZMUqHYW5m6bvhXcpzgvuH0D2yErARsrRK+f3U7Lj/th8etYxpPo3TqlAkU8ZONugQNt5c1H0hSqFrcZ2axmQxLM7RSAskDmUb2Lkhq+/e0N6+b1w2HFWsRE/38XqcHZQjdbqLlHPwOBtLl1J/j1PGnWegN5UhThVporPq+uimKP98OuCev4DVDL+1vswSBAe2JbgrkN4soZSABg4DsmlefNbk/pu1bYDBqWjCtBot/DnD7aerI+mjOYh/ChWknK7rnw0jXLVgGWzYLN0oof+VrynJAEZKzmQSeGwmX/P4EeLKIuE1ljihNLmkxFyXRpRIE36L9xGjxQlOuB2rbDBXqZ0Mli7PAHG/mdQRnF0slW+qsYRetA5ONnkgGnainX6F6v1/b7Fks5LCElLLDlfB8OIHIsSc0JIA5fWPgDzSBXqogejMLf8ev6Rv1Pp8qv+0PJ7k5//0tdJoKad2iTeAWrwwGpUPMFgoQ+mfglXOR24g05fy08X/rFwbeugxRLn8I9AADPEFfxl4fq8FzefHrrArx02Pws0qEYO9QHzAYKzZkDMoHeBQrdzJE9N7elJUrYRLs2qnKNQHpe7ufw8D7CB2naBhfXh4qrhxZ69cq9z0o5XCz34Tq8YbjdFTLXUYChvjUGmkqjQKXMhSCiuhgJSc/pGv7bzr3GoiZRBRRIIlSHrb704AsdOJ5ozJIrOjQeUufi5Aogh3RDCoDI25GBgtq3szMkyW78cDH5k+ouPEx/pQEUnPDR/qpD6ld/kH+nnLfd0mb8il8vuwFFDFNN9Upc+8/nFs13XBy0GA3npayw+2qI0+N150B37Job0M+Uv1OfUxxQ5/vcNQZHqqhY8ztre7+0CjpXV+i0vB3B5qLpQIOZdMsUWqYGzPJ/tlkNuiwTXvpdprD9eGYO5bXFxOT/OJYebE0xWrqXaVxErfcgSB7a1k6YJ7nE9pqUClZAnBEjkuqblgEHZgcGWR7z+UqIi300XG1WJcwwf2cnCPCV9ZNxW2rX+V1S6RkSQ9aH65jeeh5NFJWAVcqYgCLGmYfCyrRkCzmyibCbBPwefIVtawweNkjXdLUuq5AL6HV3A2Oncl30e0UYQoMUq97mqzQRMwiQWeKjOuhkjt692DKv6EehJYuF8nCnq+rb6AiIoc+DGYf2zcx1T05W3ohxFr8vRzsrjYQPsV9fNXcoPsmcWcKZ0WYCFRP9SYoPyks7oLInwEo3Cv/Do9iHKKb2dTNqhLM77bZX6n8dTeWgve1o5V7PrDzakf+C0lWDgpfWcbc2MQoyBppvBXVMoheH9XqlyGY9/Gk2vYbJBfMX7z3n4WBHa5ZUwZx++mT8XD4DKnNO7Ru8Ta3+q4XKj28JcmFkYxcxn9b4rroyRnaudJctV32Q1MHO8Kb6Vi89tlDris4jig1uJeiec5Ky3iHuqB6y+42nxEvBVdnlONOpUjOOAKYwHSbyDFz139KJuo07+w4J/8xHhLeNS3VEH/G7/0BuvIOKShEHGS6YnqiAml85L/dz7bMr/+OHrrPbMH1aJpcZVNgH6155/SAPG/l5BUT+OnADwbnhBx8t7wTOsR+rXXhTbCFVzGEeFaz9AY4nwDknx2dzfl8ZvAGwFivyrdiws3DxT0jQOa5DW7HKHQExHYw/0C1Lc4CbeHHBopAojkbofrtFIWdWxPEzV720H/1CEVSgQqXRPjt65wOM2q8Er63NSLWHYJLDl8Xprst8WwNH7DuvB1klWLbd04AMncBiTMiOEMHUWf7b2MIJIHOd49d07G4jFI8HIzMgBvyIbg/ckNVm0D3mP5AqlM9QV3+fM5TwUt+uJtvHMGkXSpBeNoCkShJSrkdygDeblNaqIpZhEQFGN+Ogj3JIYc/hgE7EysM2WnF6y5GFqzszk86D24rXZuOXot2WnYB5X/mivYFmXCF0QeJ5481hFxWTO/LTtwf7anNf0Dhie1JMicr8R2lANXjC61ufP9bDrm9Pd05P/eezqxtPhFzNNGbmC33IPRzAC106bPIBBktJBRIap0eMHOiPU88NKUQidxLqsbqvdfBXo33wZg3aqY6Pz9pOjGFmTeaDTAO9Hu9ZFpnte//DXYU7S6nvimlY/SZZUZ8wau+Z+DwbiHk+cOPf46mBt13PFCkmA8J80Nsdpz930SkiNp9fPYlX1Zi3D3+DZGMoTD4Y8CcXYNpBAyJUA5gJcAv/+XeHSnbyxLqJNK58xW5hRdFCMJSEd2sbj9+qcZDsj4zpfjQHY/RsOyfYI4ELOxk40HO54UlFS7RQ/rIq//eTBPq+smPiyQrKu5Ba7W0FBiswffw5s1SgSPeRZasWzCKP2mDiYLCS0AXq/zEx6gblDC60ntctlnIaNa8vAjnEGEetJWB5MHNpHa3m/u9Q1+F1KILi2CNqDrC2Mo6fUfPtWIkYAI1ZJWwLHiIXpxS4puNDXfgATa1+bWYRTqdPpLw8wlsLTWrpQ+xFyPx12NR6fVhenVvvHuugGwTR6Z0kSOAvQNtN4yAHrqcmQDsVuRB04MToV7+v2ZVY5HJyIyZ4TNPxMRdimkwbGiV8x4REHBJRmDrGU4mF5ifmrJMFDTA7xm7IaO6+DBenDC/1Qdy/pqwL0nVsYcL/fNWLhvU8GeS8uGoHqAukTspMf+kVBNtNl9KOL3uyacLeW2wr0EqBj1IB3q2PIxSweY8lb1IAlF1KnT2/3hCjdS5wNN0ZJ1hCeZZQQ++k65DbN4nkYWC19TJ5mgOCa6yvKqepX4dUOBAB98Dp27uvIe0Yf1ZRod8ynDznMAaVS7WogOKp/WEcN/FNxM4q7JBrdEiQZydkuL8QctX1vX+jmkVImD/gVVdNHZ6/Q0KoltYdCGLdqYoQro3f2/suxQI8vBgF+0uNQf4hCifpVBvWhlkKscsOy+4ao32bNRj9WwTeCl6OH66fyEkN6qk5B7yvjiaDBPvPKd3pFxGPRIwmCacLLuSxpov7f271dsaZamQd/hG+m802+euiYsEeYep2Zr4LTEtClFzeL0BZHCyeiwnKCBJmIoMbR+G2Tc4v6NfhE5v1qt7hQaXYucjLR3OOZqHaEsoEkhjWqDOOnDM0QZDtyNe7+DkP8jf6hCgE8VbHxVmP/cQtjJUAnVmC9QZYX6fl4jYjiXgfhg+C36G3JH+t39ZSFBs6gh9SF+Xo/gZYSwOZQtkkS7pXCgVrsbO63io25cTafwl8wf3AAWxDC1Ak7hLWrhKywx+hIbg+9QiphA1H0EyDRnqwwqTXSmehRlUFfVEOmq1WZkwaF4TZBsbG8wgajM5lN+7WLKAg1pXCDsvjUq8W3ZB3risYfd/TbMveu9wXWmdE5OJF7r6xAlbMB/EWsww+t1Y6ewpkNJRmMm6WZMbm+qpfaCAduYfx/Yxqptv1BqH6MoNq/sZzRAWkWnvgxtteIUu7ZTCrDIqxnXt8S5ZrducRK29eUZVchb+AMQw0RF5X7tLdOH9r7aklWBbp9g6EPMQrmVfgv+c0XGgutUTxmwlB7iaeO0XmSDq4X975k+SjqjKnGQ38He2H5A47AGE7ZdVdWbFGi+tAacvKqQyPbowlJgRYhkJ3Dvq0myQHE+ouSI7iDoR/xJqVfk6PCj/kdZIuhtcTvEXTzKX8IXY7XmzqaZMXezImGms8JT/ys6JfMBDbzoZf8YZphjB4pKPs4gadY5CTz8LkceZlAsTxvCyYiUDug3mOcG3lBYgM/6PsajK12rpS+s5Ol69+OlwaTQ0NCoPq+TVUs/ySOddZ07wvwVXsN1VtqqovGcnFSksi45qDBBTH851sslMsbOdzYW/I8LV+Lutmb+XlP4BzWAN46R9smB/4+EHCYTyfc57TomOTsUR1rwgGeQ2Y3NKEjpD6lvZNVF8bNPtd9uzO45/G8rxwBvj1TaCRvJMnlg6kzRqJZDShmN7piC0kNNuTWpuOTupj3ysaP7wHrBWo3eyd+jeDmxC48qDUZvvND8JXi7uY69LCY4thOvdbhRdh04Nhc+bwoiK9FX6I4WG2xDzy1g74nHykaB3OE3L6r8wGhgoRPxP/syFTEX3x8EzAU3rs+KgbO9U7zFuPpuKjRxvau9xHrqDWFEney/ZHvakePrYeUy8O17uno7d64952bFhh8zr0AIdcuMpo1YhKzy84UEYJsOFe0/lzBrod/he2HsGmlxTKMRmb8STOgl073k6XfEsLTp+NzpiUXkUyHDaYoZNzFX/HhrNqqmZGhDVS3mkzjmXYWysDH3O6Yejckj0p+uj9ZWLdGhYDZLlbjfrYC6shw5tuJH5v/z4XrvkXMXxP9Te2rhi08TOENm/NZddFsitLcyzicdYjzXqwZXU99zk33+mJkuyzvkaWO9IdgmC6EBU6nHgKz+pkZVu5eIPkUb65IdUThvTgjUZbuVCobXtdEfKBlePL342FwYboUCuf/zbxe/LvGbrLKrW0JdOcMYhaZCBPuW3PanS/Nzrv3O5PeN3tVQR83dO9sYddCX2PupPDHtTo1YKUosEyRtSb+/rbCXkspitZY8BDxqypjgXwloaGrXUpOdBBGxqw3ovdC/IlB2D253KWJjpYa1nhLMMdsobW0qI0WeC3+vBHd8tDCD9CYFQJ4feSYYIuxkeXmAugwWBdeaw1Z572YFLYwDDBWZQRmFMGBVN8wpNzyKzePKhPoJSHMtM+VgaD7J1SnQDKwXznSXwtkoY4AfxgEReABy19WKzeMtUagOEr7p5pZnWTANDD1nfK8PSNr9JdkhBW1Z5MgWRFPcibAzida0G8i4WMHVpH4L51wtjD0kg0Wrm24m4b0W2Jxc3XxYoSXcYQRuNedFR45u8G4ZPm0zfc086S7FNwuWzQzy8o6vLZgW3lSOQedwExvwYNaPJfeMxtE+xyqHXXeBia/n4B14RHbNn+S9xotz4ZKnLfWPFwjA4j5cLd1N0OaeZeavImC7OXGytQHvq1DVAfxLweI1bd2v4zenNWcWEsvqW6oJFYXD457qh/jYW5ib8FopoZNqOXBh2r0j6fuqVYNubV5Lh7gnWw5uYt8oFP/p1lRgE/thxc5Xlr96p//mJW1uWOwjaFd16Lrv/dCiPx30W2hTZW1yWwkYdow75Kw5JsWashAGRSRXVwy7naw5Wdy+RWDblh3i5UIsrRqAY2+RszukZ6i0eprOxEgDlMV3q8yJp8mAJ18KOeua1VOjzWs3f5EK9N9qpuml+NDrPY+atGEacUyci5zWo79dp3Jx6oNwN96Z3BsS0GNfB5Zl2eYJacLqB482LNhgx4aSjL7XVCtj5XWUsNIHEck48E4XPse09E+QIovkrTAuJcbyNASYtxEMxlyWuA0Ls6VWgHFeDOHI9AsJRgBsbxAIqjvaIraOHna9VT92ZWYBxAt08aZmSBAVPyrX/vlNonOTiwjXhZ1kpQxd8peqADGyFe4xdS61r0SxE3KdLZV1sbNerFiCucoNxOdSGgYkicC72sk6PW+54+ZoFdH9R/B2/i2wDAlU+42BqZhDG7JNpZtgFW/QqBIW3QlYAoqeh/gYpqZ0iuAfYaH/D5J2KWuApTaMpPFw8tvVGZlDpba5u6Ea2GGmbMC+FTTrqH85RTq61XXsFY7eGVdZ3pJxcIoghoFuZeJYiJf2Gvsb1IAqasuhmJmr2RQU2gfPjqRLnwJarYLWzaPH8AnXtnXPb1HWGHgGgSWFsizo8F5TjRRJJ1f2C2SdEQV5fRRUQ2T/07OmQs+UhREFmYWfQWVf5WdQw/WLGvUeztJq3bExmPsgLxIHS12KTRSNeKkJqhlDaQXBb5+eWyxFLAEXquhKVPnbiUlrn/8u+scOuXYFAgOyg2vkR4xsG9LYOCASNQbXVSkctSXfbH+fvyx9l03CzNF+INefuU5qo6VCBTB8EnNgqoJYZOOEtmdJac+g9cojDVEhWx22lfFVH0T+VbS0HdooQrR/5fE/BZI0Tduen6Kxs1YRivtJbX4bLB4/lQUzyKV8rV4cLQgfGK1g8HI6eucERslGfu6WhNRdY8PG8Nj/UEIydOfJiPC7in44SyV7xc4EFJDb1J9Rk1kM08ibwhuOigHa4/Ggp3Dldp5OcQ4ogNRTOPqmsJaExwxcRuMVK/pydBW1XufHm5HSavkAiy9o8tYosqOlLQQTcB5MaN4RhjZ51oYezWLHjv2AxgYRVdtjFxML5b5zG5mDuMuCP1CsH/GGzHIzSTkBICuQjwla7mmTFpTuAph/XUfYMJ08ToT9rnTcB80bhZvw1bF0oLeqcxSQ/jaI4LAz8MBI/FtDIDUh5/SM1NF17ZnX0aAzGH77KXLCUdRKS/9lctF9i4HcA7DtbORrKfst9jaDyub+o/Q4abZx62rklssZdylFhvL+vhN6EkywqPL1zE+jiW1+NCf5oq81SFJeKgxcbZiflqJP7VY5O4MWXyMUZk7Dy+98DBZWRm6RhR/FUKxMYHTqpuMxgEpBiIeIFaTiw1TBrOdr/mJ28DXRzMqEAXiWPrf3VIWLIBjP2tvlYI9soTiGWMq5ncWJ/xj4Qys/tkmRL00lgUm1MSdnmAqo/HLBIurqQFUU93Ll607hu7xhqxGbMrcbnhv7IR0P9Ewc2WbLxq11Lj8Htuj0LfCf8jiecGiXR0lmKqa07dyrD5kX1hkt4MNDy26Tm87i/UNbSG4hHZ1P5T3iXXCGKdMu/YMWg7UxNsrJ+vseQkQ6LcRh4VcExPQhX/BDZwDYaQQrWPKxbZT+OTgW42pIpSFH/c87EPzETrl5w02gFXaNyraoHp3NHvd9AGNvCM3hVMonrPI4g9ZzEtGc+DL8Y4TDu2iLnnrBP2F9tG32ITmnqWCFY3oSsD5jAHy/c7quG6SR2uMwnFNyUVm4/G1J5tWt88gbVO0u8EoXxoDXD4sxBUqOe9KPjHsYC/mXK/umOTOD+Ob3cUWRZ9QgH4WYoeunL2/dT+TiXHVZg4HElakZveunpr3WhZP1Cn7BgyHa9GhwnMUYzSzNUJ5D0l8OkGj+VIGb1ZS0cOVRg++YVvdPqAaI0SYeaSNr3RP2Abca9BWCJEUrEjj/X9CwRh8ZJnj4iZt3avGX+jRJOKz5baqIsEKnSyRcStSPkPParujGKJJmnxqe8vpBT9X5zRgpTGQ6OPteDzEH62iB/vHN5oJFJY/kbLbyf61jckKniZ0HyX3mjlw3HaOy6lXwwbxNy1kqVBsvm/YbTs92T94Rubt5mtYrnc96tsfKCh1Sjqd5AkRuEIUocXxMzXidDOc8Z3pMV4SNDmqbcQynCzUHN4VCKhv4ubDfCX2YuyMwJ3MJKH2/ZtCguP4fNoPx5ycGYz7WfmwMOEDxToZFormN/t/gKCvfMBrVykFyP8LOTln9zsSxoptnAKhzGT+hRn1dt/bAIRZ4xy1NMA1Xe+dpBDV36lphroPLhxT4OWocGlmEIb8IyXMgp3NdGikgB9KwB6doyk0M4F87YZtHNahIBSn3xaZsy8VX49DUV2zRMkFffWsEp+h60js9Nfw6YgMFT6LVNuKe9jrvR5GtH6p/ELatY/HaBKgaj98NECFZq/F3FuaZfDnkFSTA27usY9snya8RM6orW4vTsXLLPIizVRgpwFi96LstPyMDYxpRoLfZ7/oh6eOBOmnD1uIfcerb9fs4FiLBiAeRqleWfI7YKwh6KmnczcM6yc95tJdnOxNR41gP3Jq7KHVRrzF8yizuVpKrhHIaFP1b5gt5hO9MOoHq4HnvPz1Va0pEShqwsBK6Ov0wbTeTq2MrsgzAwjtAQKnAyOo3CAEGAsiW04L/yPcaM9YJhgmadSeaacYyAp6YuQr34p2aZt+l40CiiD3C+2qtB8xfuuhpezLpR3SQ/f55J901DyV5EEl4JP3r/I4XwerP1unEE4taL+xHzFfxYlNL5HsfYfCDW5CNhEygdUbWNkSicJTG7S/+7tNzNV9djOgUYaaJSyPnVtlYlXhcG24x2O1n9QrdBNKdUDU0gFBFWt/burFQThRoviLLVi7GXVsuVwMAOY+067uqkxT0tlMCWcCZ22HdQNGa2NJM+RFW1KtvHm0/W/oHeAWmJzcaC0Cj6tMTjgZ95CDek3FSbRcety3EG/orvHEt86YQpvP9UrQPoqqhybZUw1VPSmhcy+YS8HZ26J+jixkkTKnuSieywK72JuiOVSusrfWVNdYjbA6Aff8JOIXliBz0ptIrC/kbOUkiz62WLPsNgVpkxRQ8UfpHx/G3sSNq0gbZCh7ISnla27OyCwykSJlP+TIsXbUMxusuFlgz8P7gc1Mzbkc1F8fTRcsDPtoBwEtjbX01wI9EeQk/7gW8yGbiSXDJM8CowsYLja2kQGMyhKGZ6cauMgtDLVeGzGBy2zfqWZ0in5VYWaFI5CrJxAay9Xv21tqaVoMvJ51xh1jRUOfo9i6zC7us1OWJakuPs75UYLHumsJ9bbsV/pg10cquRfiifgOVhBoyb+V5ASt8GGOnnfxDTekBV9XJkwTnhyM4x9Yy0om4pN3tyvTGcRQWHIBv98MfAnGAa4Hy/5wLFsDZ+kYgCfaq/xW8UcuSf0EIBu4ZQI3dhNEKWpMzy2pwjY4Wh9ttfPEjSsgNxGI3CSnsuGYNZfZauX+ZEIKscnX/i8U1uBds1SrQN6F2rcHCNtGOf/aAbrsPzPTMM1V/uE6hC9vwJl5JXsrEW6tlYxGBmHHwgPsoi/Z0tMsV7VGA2r5c+/rMx9R5aI1B2F/7nPcJeYhxIjE+hhVb/5e/WlRnfyYLYy9ffJ/xIQqPAWwiGaoISsJdbleQvC06h46Br/v1nDkra54KrJGj7tjyTOwbwdFm12Ws8rewNNZkziuxHlkMfKVlYKkuAwjaGP/7BQLT9J4PubmvhHYBXW1NljTj+Ek7IuFZFjdmq5UxIwkNYNvBcTdxQF9dTc+6HkQjanRbUp5Gnxi9XUV3rUxEJ1ozEGdmJaTRhEeCBBAGXmV6/NkZolp/gpOhGE1uZnPZWXCt/E1kQGGzRVMcVo4FDAUGkE4BBtbawg7AH3yezk8oIVwbgNAsuyrqqJsmuSLX2/X1yHyumV3lpLatIKPmD6xz3wOFvQDqw57bwvx38E3MQho7/GrMNEi8KIbnGgyCmmUFp2P4x7Lw21VPbdv6g4tljTv6PPTnyDFYvzG3P3W0pqxTt0vtgfmNzkuaqhJjDeMG09qluETcYjG7feoSoApCaTqjfaPabltn1LyaM28zkH0uWl68UPqIhbVL1X9/JPhVetMwT2M5uzY3gIJDM1I8PvdRLZe3Eyy0r5gNgYtT8vW3dY8BLfD08VetvqiH2shbit2ERCYh0gG+4mR5VqRG8b3D+eXEU8TjBHi9cZD7abv7hUmjXJFpL3ufTTRXg5cEUMNvOAM3OM6M0vY52WYLCS2XA5KSrMYAe+6C/IvCN9cs5O2c7aUD+hhNASTjSUliNCYInJCLi3zB1O69bzo89CqYOxiBMcmImdmh1UzZcgTD6w9wa16pBiqd/s1hs9SEusq5D9CKgI2j+cJEoeVQRZmDZsNLfnL2BpObcvritj/vpD9njGq/4KYTs/fZa927QCU/e8QXNEObt2D2IyLb9BIwwT5u14jYHq7POEF9rVvtI6cWiTrAVvvQJ8er+Q/oZfbYc0MSME0QjZbluyxIoQT723XvsYO78OmXkjLrhMrsj7n8lfqvidFWQLWmqwnsZ0EeN7omV3aguVflOkAwJ8F+ibGN5X1CFdx/yprRRkZnO0tvGpwd6+n/LlCAXSS0VQEWzGe6iVmjSq+TsK4etW9jk4CrwM2Z4SPdML7oucCPkk9mySOcLXwv1Yb81EqIohBq6Cs3sVIx4rF1b3Y6BewHIPVyJ04V8zQ4/s3um3yHmuNa4Kp7WkTi5JVUAIFWMhFj2utaboaVjuIra0PkrEa4YHEAHWkyucxi/VzFQkap9xGyMxmY9npyW+KmlFYvPIHQ9yOMzd8RXjCgTOKPC/PPswWWy0/nfMRmm/9hhOXWidaqsrw7YtmKtM4Je6ASzxjXE8slmqFUUDyaC5sYFpaq4uoew=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=AQGG5VCZxm0ozRwpYBERCpqU_KK8RK4WNCeHO71x46SCQ5adClO2MnVWERibwIy2F1FvOjT0ia6fweON37YdtI13PHo1&amp;t=634994956515777402" type="text/javascript"></script>
+
+
+<script src="/javascripts/gfo/strategy.js?v=0" type="text/javascript"></script>
+<script src="/WebResource.axd?d=UL29IfLN_4aHHZ31CU0CbcBrBBAtDtCtBGsu2nV7UsYcUaIKnlUcPM2Y4FQC6qXRHInGGc5l78lYMJg1suf0boVR5AY1&amp;t=634994956515777402" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="UdIQzYhcyZ2Y+rkhZ9RyFoETVYCWqwWs3+Bfh73b9cBHEoQ9A6TS7EKkQFErkGOYgTyyat7PMrwXU8r5PNeBPCwLajyFcqkWmgi3+5KfP1x8MazCxB4Mo+gxR6I=" />
+</div>
+			<div class="mainContainer">
+				<noindex>
+<header class="mainHeader" role="banner">
+	<div class="wrapper">
+		<h1>Bill &amp; Melinda Gates foundation
+			<a id="headerregion_0_hlLogo" href="/"><img src="/~/media/GFO/Site/Logo Images/icon_small_bill_melinda_gates_foundation_logo.png" alt="" width="178" height="178"></a>
+		</h1>
+		
+
+<div class="languageBar" role="menubar">
+	<a class="selector" href="#" role="menuitem" tabindex="0" aria-haspopup="true">
+		<span>Languages</span>
+		<span class="short">en</span>
+	</a>
+	<div class="subMenu" role="menu" aria-hidden="true">
+		
+			<ul>
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl01_lnkLanguage" class="first omni-link-tracker" href="/" omni-title="Language: English" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=English;eVar17=English">
+					        <span>English</span>
+					        <span class="short">en</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl02_lnkLanguage" class=" omni-link-tracker" href="/de" omni-title="Language: Deutsch" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Deutsch;eVar17=Deutsch">
+					        <span>Deutsch</span>
+					        <span class="short">de</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl03_lnkLanguage" class=" omni-link-tracker" href="/fr" omni-title="Language: Français" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Français;eVar17=Français">
+					        <span>Français</span>
+					        <span class="short">fr</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl04_lnkLanguage" class=" omni-link-tracker" href="/es" omni-title="Language: Español" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Español;eVar17=Español">
+					        <span>Español</span>
+					        <span class="short">es</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl05_lnkLanguage" class=" omni-link-tracker" href="/zh" omni-title="Language: 中文" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=中文;eVar17=中文">
+					        <span>中文</span>
+					        <span class="short">zh</span>    
+					    </a>
+					</li>
+				</ul>
+	</div>
+</div>
+
+		
+		<div class="searchForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;headerregion_0_searchBox_btnSearch&#39;)">
+	
+
+	<div>
+		<input name="headerregion_0$searchBox$txtKeywords" type="text" id="headerregion_0_searchBox_txtKeywords" class="input-text has-placeholder" name="q" placeholder="Search" />
+		<span id="headerregion_0_searchBox_rfvKeywords" style="color:Red;visibility:hidden;"></span>
+		<input type="submit" name="headerregion_0$searchBox$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;headerregion_0$searchBox$btnSearch&quot;, &quot;&quot;, true, &quot;headerSearch&quot;, &quot;&quot;, false, false))" id="headerregion_0_searchBox_btnSearch" class="searchButton" />
+		<div class="replacement">GO</div>
+	</div>
+	<a href="#" class="mobile ir">Expand Search<span></span></a>
+
+
+</div>
+
+		<nav role="navigation">
+				
+						<ul role="menubar">
+					
+						<li id="headerregion_0_rptMainNav_ctl01_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true" class="first">
+							
+							<a class="active" href="/Who-We-Are">Who We Are</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>General Information</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Letter-from-Bill-and-Melinda-Gates">Letter from Bill and Melinda Gates</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Leadership">Leadership</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Who-We-Are/General-Information/History">History</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Foundation-Factsheet">Foundation Fact Sheet</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Financials">Financials</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Regional-Offices">Regional Offices</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Resources &amp; Media</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/Resources-and-Media/Annual-Letters-List">Annual Letters</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/Resources-and-Media/Annual-Reports">Annual Reports</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Media-Center">Press Room</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Quick Links</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Visitor-Center">Visitor Center</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Jobs">Jobs</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						<li id="headerregion_0_rptMainNav_ctl02_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true">
+							
+							<a href="/What-We-Do">What We Do</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>Global Health</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Discovery-and-Translational-Sciences">Discovery &amp; Translational Sciences</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Enteric-and-Diarrheal-Diseases">Enteric and Diarrheal Diseases</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Health/HIV">HIV</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Malaria">Malaria</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Neglected-Infectious-Diseases">Neglected Infectious Diseases</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Pneumonia">Pneumonia</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Tuberculosis">Tuberculosis</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Global Development</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Agricultural-Development">Agricultural Development</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Emergency-Response">Emergency Response</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Family-Planning">Family Planning</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Financial-Services-for-the-Poor">Financial Services for the Poor</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Global-Libraries">Global Libraries</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Maternal-Neonatal-and-Child-Health">Maternal, Neonatal &amp; Child Health</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Nutrition">Nutrition</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Polio">Polio</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Vaccine-Delivery">Vaccine Delivery</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl09_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Water-Sanitation-and-Hygiene">Water, Sanitation &amp; Hygiene</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>U.S. Program</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/US-Program/College-Ready-Education">College-Ready Education</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/US-Program/Postsecondary-Success">Postsecondary Success</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/US-Program/Washington-State">Washington State</a></li>
+														
+													
+											</ul>
+									
+											<h2>Global Policy &amp; Advocacy</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Tobacco-Control">Tobacco Control</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/G20-Report">G20 Report</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Vaccine-Summit">Vaccine Summit</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Regional-Offices">Regional Offices</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						<li id="headerregion_0_rptMainNav_ctl03_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true">
+							
+							<a href="/How-We-Work">How We Work</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>General Information</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Develop-Strategy">How We Develop Strategy</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Make-Grants">How We Make Grants</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/How-We-Work/General-Information/Information-Sharing-Approach">Information Sharing Approach</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Measure-Success">How We Measure Success</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grantseeker-FAQ">Grantseeker FAQ</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grant-Opportunities">Grant Opportunities</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grant-Seeking-Resources">Grant Seeking Resources</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/How-We-Work/General-Information/What-We-Do-Not-Fund">What We Do Not Fund</a></li>
+														
+													
+														
+													
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Resources for Grantees</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/Resources/Our-Commitment-to-Grantees">Our Commitment to Grantees</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/How-We-Work/Resources/Grantee-Profiles">Grantee Profiles</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/How-We-Work/Resources/Grantee-Perception-Report-Summary-2013">Grantee Perception Report</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/How-We-Work/Resources/Inside-the-Gates">Inside the Gates</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Quick Links</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/Quick-Links/Grants-Database">Awarded Grants</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						</ul>
+					
+
+		</nav>
+
+		
+
+
+<ul class="globalSites">
+	<li class="gatesFoundation-item">
+		<a id="headerregion_0_globalHeader_lnkGFO" class="gatesFoundation" href="http://www.gatesfoundation.org/">GatesFoundation.org</a>
+	</li>
+	<li class="io-item">
+		<a id="headerregion_0_globalHeader_lnkIO" class="io" href="http://www.impatientoptimists.org/" target="_blank">Impatient Optimists</a>
+	</li>
+</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="header-print">
+		<img src="/images/gfo/icon_bill_melinda_gates_foundation-print.png" />
+  </div>
+</header>
+</noindex>
+
+				
+
+<div class="main" role="main">
+
+
+
+<noindex>
+<div id="bodyregion_0_leftnavigation_0_divSidebar" class="sidebar">
+	
+	<a href="javascript:void(0);" id="bodyregion_0_leftnavigation_0_hlMobile" class="section-selector">
+		Annual Letters
+		<span class="arrow"></span>
+		<span class="close">Close</span>
+	</a>
+	
+	<div class="side-nav">
+		
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_divNavWrapper" class="nav-wrapper first">
+						<h2>
+							General Information
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl00_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/Who-We-Are/General-Information/Letter-from-Bill-and-Melinda-Gates">Letter from Bill and Melinda Gates</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/Who-We-Are/General-Information/Leadership">Leadership</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl02_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl02_hlNavItem" href="/Who-We-Are/General-Information/History">History</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl03_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl03_hlNavItem" href="/Who-We-Are/General-Information/Foundation-Factsheet">Foundation Fact Sheet</a></li>
+								
+									
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl05_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl05_hlNavItem" href="/Who-We-Are/General-Information/Financials">Financials</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl06_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl06_hlNavItem" href="/Who-We-Are/General-Information/Visitor-Center">Visitor Center</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl07_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl07_hlNavItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl08_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl08_hlNavItem" href="/What-We-Do/Global-Policy/Regional-Offices">Regional Offices</a></li>
+								
+						</ul>
+					</div>
+				
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_divNavWrapper" class="nav-wrapper">
+						<h2>
+							Resources &amp; Media
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl00_liNavItem" class="active">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/Who-We-Are/Resources-and-Media/Annual-Letters-List">Annual Letters</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/Who-We-Are/Resources-and-Media/Annual-Reports">Annual Reports</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl02_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl02_hlNavItem" href="/Media-Center">Press Room</a></li>
+								
+						</ul>
+					</div>
+				
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_divNavWrapper" class="nav-wrapper">
+						<h2>
+							Quick Links
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl00_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/Who-We-Are/General-Information/Visitor-Center">Visitor Center</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/Jobs">Jobs</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl02_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl02_hlNavItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+								
+						</ul>
+					</div>
+				
+					<div class="nav-wrapper">
+						<ul class="nav">
+				
+					
+				
+					</ul> </div>
+				
+		
+		
+	</div>
+</div>
+</noindex>
+
+
+<div class="main-content">
+	
+<div class="head push-bottom-small">
+	
+	<h2>
+		<span class="line"></span>
+			Who We Are
+		<span class="line"></span>
+	</h2>
+	
+	<h3>
+		Annual Letter 2012
+	</h3>
+	
+	
+	<a name="pageTitle"></a>
+	<div class="divider">
+	</div>
+</div>
+
+
+	
+<p class="p-small sans-serif push-bottom-small pull-left">
+	<a href="javascript:void(0);" onclick="history.back(-1);" class="link upper muted icon-click-area">
+		<i class="icon icon-left push-right-tiny"></i>Back
+	</a>
+</p>
+
+	
+
+
+
+<a class="print" href="#" onclick="window.print(); return false;">Print</a>
+	
+
+	<article class="articleWrapper">
+		
+		
+		<div class="strategySection">
+			<a id="Introduction"><h2>Introduction</h2></a>
+			<div id="bodyregion_0_interiorarticle_0_plcRightRail" class="placeholder right">
+				
+
+<div class="anchorList right">
+    <span>In This Page</span>
+    <ul>
+    	<li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_linkFirstSection">Introduction</a></li>
+    	
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl00_linkSection">Innovation in Agriculture</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl01_linkSection">Agricultural Research</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl02_linkSection">Global Health</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl03_linkSection">Vaccines</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl04_linkSection">Polio</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl05_linkSection">AIDS and the Global Fund</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl06_linkSection">Family Planning</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl07_linkSection">U.S. Education</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl08_linkSection">Foundation Updates</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl09_linkSection">Giving Pledge</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl10_linkSection">Why I'm Optimistic</a></li>
+			
+    </ul>
+</div>
+				
+				
+			</div>
+		
+			<p>Throughout my careers in software and philanthropy&mdash;and in each of my annual letters&mdash;a recurring theme has been that innovation is the key to improving the world. When innovators work on urgent problems and deliver solutions to people in need, the results can be magical. </p>
+<p sizcache005815738617176125="14" sizset="3"><img alt="" style="float: left; margin-right: 10px;" src="/~/media/GFO/Annual Letter Images/2012/Annual letter 2012intro.jpg">Right now, just over 1 billion people&mdash;about 15 percent of the people in the world&mdash;live in extreme poverty. On most days, they worry about whether their family will have enough food to eat. There is irony in this, since most of them live and work on farms. The problem is that their farms, which tend to be just a couple acres in size, don&rsquo;t produce enough food for a family to live on. </p>
+<p>Fifteen percent of the world in extreme poverty actually represents a big improvement. Fifty years ago, about 40 percent of the global population was poor. Then, in the 1960s and 1970s, in what is called the &ldquo;Green Revolution,&rdquo; Norman Borlaug and other researchers created new seed varieties for rice, wheat, and maize (corn) that helped many farmers vastly improve their yields. In some places, like East Asia, food intake went up by as much as 50 percent. Globally, the price of wheat dropped by two-thirds. These changes saved countless lives and helped nations develop. </p>
+<p>We have the ability to accelerate this historic progress. We can be more innovative about delivering solutions that already exist to the farmers who need them. Knowledge about managing soil and tools like drip irrigation can help poor farmers grow more food today. We can also discover new approaches and create new tools to fundamentally transform farmers&rsquo; lives. But we won&rsquo;t advance if we don&rsquo;t continue to fund agricultural innovation, and I am very worried about where those funds will come from in the current economic and political climate.</p>
+<p>&nbsp;The world faces a clear choice. If we invest relatively modest amounts, many more poor farmers will be able to feed their families. If we don&rsquo;t, one in seven people will continue living needlessly on the edge of starvation. My annual letter this year is an argument for making the choice to keep on helping extremely poor people build self-sufficiency.</p>
+<p>My concern is not only about farming; it applies to all the areas of global development and global health in which we work. Using the latest tools&mdash;seeds, vaccines, AIDS drugs, and contraceptives, for example&mdash;we have made impressive progress. However, if we don&rsquo;t make these success stories widely known, we won&rsquo;t generate the funding commitments needed to maintain progress and save lives. At stake are the future prospects of one billion human beings.</p>
+		</div>
+
+		
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_0_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="InnovationinAgriculture"><h2>Innovation in Agriculture</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#InnovationinAgriculture" addthis:title="Innovation in Agriculture" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Innovation in Agriculture" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Innovation in Agriculture" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Innovation in Agriculture" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Innovation in Agriculture" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Innovation in Agriculture" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Innovation in Agriculture" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_0_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<P>The private market does a great job of innovating in many areas, particularly for people who have money. The focus of Melinda’s and my foundation is to encourage innovation in the areas where there is less profit opportunity but where the impact for those in need is very high. That is why we have devoted almost $2 billion to helping poor farm families, most of which are led by women, boost their productivity while preserving the land for future generations. Those funds are invested in many areas of innovation, ranging from sustainable land management, to better ways to educate farmers, to connecting farmers to functioning markets.</P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20121.jpg">We do all these things with one goal in mind—helping people like Christina Mwinjipe, a farmer I met last year in Tanzania. Christina supports her family by farming cassava, a staple crop that provides a basic diet for more than 500 million people worldwide. (When dried to a powder, cassava is known as tapioca.) In the past two years, Christina’s crop has been invaded by two cassava diseases. The leaves of some of her plants are curled and withered, and covered in the white flies that carry mosaic disease. The roots of other plants are rotted by brown streak disease. Because of these diseases, she is depleting her savings to buy cassava to feed her three children Her oldest son just passed his examinations to enter secondary school, but she doesn’t know where she’ll find the money to pay his fees. She is not sure what she will do about food when her savings run out. </P>
+<P>For Christina and other small farmers—and for hundreds of millions of extremely poor people living in slums in big cities—getting food is the most pressing daily concern. And food is strongly connected to another constant worry: basic health. The lack of adequate nutrition is a key reason why poor children so often die of diseases like diarrhea that richer and better-fed children are able to fight off. Poor nutrition in childhood also prevents the development of both the brain and the body, severely and irreversibly limiting children’s ability to grow, learn, and become healthy, productive adults. Ultimately, there is very little in Christina’s life—or her children’s lives—that doesn’t depend on her cassava crop.</P>
+<P>Farming is a great example of something critical to the poor that gets very little attention in rich countries. Back in the 19th century, the majority of people in the United States worked in agriculture. Now less than 2 percent of the workforce is involved in farming, and less than 15 percent of U.S. consumer spending goes to food. Farming issues rarely make the news. The exceptions are when food is contaminated, when government subsidies are being debated, or when there is a famine like the current one in the Horn of Africa.</P>
+<P><IMG style="VERTICAL-ALIGN: middle" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20122.jpg"></P>
+<P>Despite the rich world’s distance from farming, food-related issues are important for all of us. In the 1960s and 1970s, when I was in high school, people worried that we simply couldn’t grow enough food to feed everyone in the world. A popular book that came out in 1968, <I>The Population Bomb </I>by Paul Ehrlich, began with the statement: “The battle to feed all of humanity is over. In the 1970s hundreds of millions of people will starve to death in spite of any crash programs embarked upon now. At this late date nothing can prevent a substantial increase in the world death rate…” Fortunately, due in large part to the Green Revolution, this dire prediction was wrong. </P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20123.jpg">But the world’s success in warding off famine led to complacency. Over time, governments in both developed and developing countries focused less on agriculture. Agricultural aid fell from 17 percent of all aid from rich countries in 1987 to just 4 percent in 2006. In the past 10 years, the demand for food has gone up because of population growth and economic development—as people get richer, they tend to eat more meat, which indirectly raises demand for grain. Supply growth has not kept up, leading to higher prices. Meanwhile, the threat of climate change is becoming clearer. Preliminary studies show that the rise in global temperature alone could reduce the productivity of the main crops by over 25 percent. Climate change will also increase the number of droughts and floods that can wipe out an entire season of crops. More and more people are raising familiar alarms about whether the world will be able to support itself in the future, as the population heads toward a projected 9.7 billion by 2050. </P>
+<P>I believe these new dire predictions can be wrong, too. We can help poor farmers sustainably increase their productivity so they can feed themselves and their families. By doing so, they will contribute to global food security. But that will happen only if we prioritize agricultural innovation.</P>
+		</div>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_1_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="AgriculturalResearch"><h2>Agricultural Research</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_1_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#AgriculturalResearch" addthis:title="Agricultural Research" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Agricultural Research" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Agricultural Research" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Agricultural Research" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Agricultural Research" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Agricultural Research" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Agricultural Research" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<P>Given the central role that food plays in human welfare and national stability,&nbsp;it is shocking—not to mention short-sighted and potentially dangerous—how little money is spent on agricultural research. In total, only $3 billion per year is spent on researching the seven most important crops. This includes $1.5 billion spent by countries, $1.2 billion by private companies, and $300 million by an agency called the Consultative Group on International Agricultural Research (CGIAR). Even though the CGIAR money is only 10 percent of the spending, it is critical because it focuses on the needs of poor countries. Very little of the country and private spending goes toward the priorities of small farmers in Africa or South Asia. </P>
+<P><IMG style="VERTICAL-ALIGN: middle" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20124.jpg"></P>
+<P>This shortage of funds for research is particularly worrying because of the increasing prevalence of plant diseases, such as those destroying Christina Mwinjipe’s cassava plants. Just like humans, plants get attacked by viruses, bacteria, and fungi. They also have to defend themselves against insects or animals, but unlike humans they can’t run away from their predators. Plants have developed sophisticated systems for defending themselves that we are just starting to understand. One amazing discovery is that in some species when one plant is attacked it gives off a scent that tells other plants to focus their energy on defending themselves rather than on growing.</P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20125.jpg">Because farmers plant seeds that give them the highest yields, the diversity of crop varieties in fields is quite limited. This creates a perfect opportunity for disease to spread. A famous example of this is the potato blight that spread across Europe in the 1840s and led to mass starvation in Ireland. Less well known is the southern corn leaf blight that swept through the United States in the early 1970s. Fortunately, in that case, the United States had sufficient strategic reserves to avert a crisis. </P>
+<P>Norman Borlaug, Nobel Prize winner and father of the Green Revolution, first got involved in plant science after he heard a professor give a speech entitled “These Shifty Little Enemies That Destroy Our Food Crops.” The Rockefeller Foundation enticed Borlaug to move to Mexico, where he created new varieties of wheat that were resistant to a fungus called wheat stem rust. It was only after he got there that he figured out additional strategies to increase wheat productivity. Borlaug was always concerned that new forms of wheat rust would emerge. Unfortunately, he was proven right in 1999 when a new and extremely virulent wheat rust called Ug99 was found in Uganda. Though Ug99 is still mostly in Africa, it has jumped the Red Sea and is now being found in Iran and Yemen, on its way toward India. </P>
+<P>The response to Ug99 started slowly, but great work by a collection of experts, including researchers in Ethiopia and Kenya, has led to new varieties with some level of resistance. A huge effort is being undertaken to make sure that the new resistant varieties are adopted broadly before the disease moves into Asia or the Americas. </P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20126.jpg">Another area where scientists need to do a lot more study is the effects of climate change on agricultural productivity. It looks like there may be varieties of rice and other crops that can deal with the higher temperatures and weather variations better than today’s plants. Some plant varieties actually benefit from the increased CO2 levels, although there is no clear data on how significant this will be. Early greenhouse studies were very promising, but field studies have shown much smaller effects. The world must invest in a variety of techniques to help poor farmers deal with weather impacts better than they can today.</P>
+<P>For example, when I was in India in March I met with about 20 rice farmers who had recently switched to a new rice seed called Swarna-Sub1, which is both very productive and can survive in flooded fields. Their rice fields get flooded every three to four years, and in past flood years they ended up with almost no food to eat. Now, these farmers can feed their families no matter the weather. Currently, 4 million tons of rice are lost to flooding every year in Bangladesh and India. But as farmers in the region adopt Swarna-Sub1, they will grow enough extra rice to feed 30 million people.</P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20127.jpg">Fortunately, there are reasons to believe that the chronic underfunding of research in agriculture is starting to change—and that there will be more breakthroughs like Swarna-Sub1. One approach that looks promising is innovative partnerships with private companies where the companies donate proprietary assets in which they have invested hundreds of millions of dollars, as well as their expertise, to help make appropriate varieties available royalty-free to poor farmers. Other key partners are rapidly growing countries like Brazil and China, which bring not only new resources but also deep experience in helping poor farmers at home. Brazil is a leader in soybeans, cassava, and tropical soils. China is a leader in rice and farmer education. This year the foundation entered into model agreements to work with both countries.</P>
+<P>There is also an extremely important revolution—based on understanding plant genes—taking place in the plant sciences. The tools that enable this revolution were created to help cure human diseases. The field of agriculture is just now in the process of figuring out how to take advantage of these tools, but it’s clear that they will greatly accelerate the pace of plant research. It is hard to overstate how valuable it is to have all the incredible tools that are used for human disease to study plants.</P>
+<P><IMG style="VERTICAL-ALIGN: middle" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20128.jpg"></P>
+<P>Historically, increasing the productivity of a crop meant finding two seed variants, each with some desirable and undesirable characteristics, and crossing them until you get a combination with mostly the good characteristics of the two parents. This required actually growing tens of thousands of plants to see how they develop in different growing conditions over time—for example, when water is plentiful and when it is not.</P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  20129.jpg">Now the process is quite different. Imagine the analogy of a large public library with rooms full of books. We used to have to use the card catalogue and browse through the books to find the information we needed. Now we know the precise page that contains the piece of information we need. In the same way, we can find out precisely which plant contains what gene conferring a specific characteristic. This will make plant breeding happen at a much faster clip. The private sector has moved the fastest to use new approaches, but academic groups, including a Chinese group called BGI that has more sequencing capability than any other group in the world, are catching up. </P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201210.jpg">When I was in Tanzania meeting Christina Mwinjipe, I also met Dr. Joseph Ndunguru, a plant scientist leading a project to fight the mosaic and brown streak diseases that are attacking Christina’s cassava crop. Dr. Ndunguru is part of a new generation of African scientists building up the capacity to do innovative science in Africa. Dr. Ndunguru was offered a high-paying job in South Africa, but he chose to keep working for the Tanzanian national program. I asked him why, and he replied that the work he was doing with the national program was the best way he could connect state-of-the-art science with the needs of the local farmers. </P>
+<P>When I talk about innovation, it can be abstract for some people. But the direct link between the challenges Christina faces when her crop is destroyed and the solutions that Dr. Ndunguru is working on every day makes it very concrete. Disease-resistant cassava is an answer to Christina’s prayers, and I look forward to the day when Dr. Ndunguru’s work is done and I can go back to Tanzania and see Christina’s field thick with healthy cassava plants. That is why I say that innovation has been and will continue to be the key to improving the world.</P>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_2_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="GlobalHealth"><h2>Global Health</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#GlobalHealth" addthis:title="Global Health" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Global Health" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Global Health" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Global Health" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Global Health" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Global Health" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Global Health" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_2_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<P>Most of the foundation’s resources go to global health issues, and our guiding<EM> </EM>principles for those investments are the same as for agriculture: Innovation is the means, and equity is the end goal. When Melinda and I started this work more than a decade ago, we were inspired by the conviction that “all lives have equal value.” So one of the first things we invested in was vaccines, which protect all children who receive them, no matter how rich or poor they may be. In short, vaccines work. Two years ago, Melinda and I called on the global health community to make this decade the “Decade of Vaccines.” </P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201211.jpg"></P>
+<P>The organization responsible for helping poor countries introduce new lifesaving vaccines is called the GAVI Alliance. Last summer, GAVI hosted a meeting to get pledges from donor countries and organizations. The goal was to raise at least $3.7 billion over five years, and we knew it wasn’t the ideal time to be asking for that kind of money. Throughout the spring, we really didn’t know if we were going to make it. Finally, a few weeks before the conference began, the pledges started trickling in—and they were consistently at the top of the range we’d expected. On the last day, we were tallying up the numbers as they came in to see what the total would be. GAVI ended up receiving $4.3 billion in pledges.</P>
+<P>Because of that money, the poorest infants in the world will start receiving the same vaccines that infants in rich countries receive. Due to donors’ generosity and to significant price reductions from vaccine manufacturers, GAVI is now supporting two relatively new vaccines, rotavirus (to prevent the leading cause of diarrhea) and pneumococcus. By 2015, these vaccines will prevent 190,000 diarrheal deaths and 480,000 respiratory deaths—not to mention improving the overall health of hundreds of millions of children. The money that has been pledged to GAVI will save 4 million lives by 2015. </P>
+<P>That’s why I think of June 13, 2011, the date of the pledging conference, as a historic day for global health equity. It was an emotional moment for Melinda and me. We were happy that our foundation played a role in helping the world reach that milestone. But what really moved us was the fact that so many partners share our vision of an equitable world and are willing to put money behind it, even in these tough times. When people know the kind of impact their generosity has, they are not only willing but eager to help. </P>
+<P>There were other huge milestones in global health last year. There were also a few setbacks. In this section of my letter, I will talk about those milestones and setbacks, the challenges that lie ahead, and the solutions that excite me most.</P>
+		</div>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_3_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="Vaccines"><h2>Vaccines</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_3_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#Vaccines" addthis:title="Vaccines" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_3_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Vaccines" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Vaccines" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_3_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Vaccines" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Vaccines" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_3_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Vaccines" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Vaccines" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<P>There are still years of work to be done to introduce the diarrhea and pneumonia<EM> </EM>vaccines into every country. Moreover, global coverage of basic childhood vaccines is around 80 percent, which is good compared to many other health interventions but leaves one out of five children unprotected. We need to recreate the high-level political focus that this issue received during the 1970s, when dedicated effort brought us from just 20 percent coverage to 80 percent coverage in most countries in just a decade. </P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201212.jpg">When I spoke at the World Health Assembly last May, I announced that I was creating the Gates Vaccine Innovation Award. We were pleased to receive 117 nominations encompassing a lot of amazing work. Vaccines are the only high-technology product that needs to be delivered to every single child. To miss zero children, it takes an incredible amount of ingenuity, and that’s why we created the award.</P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201213.jpg">I am pleased to announce here that the first award will recognize the work of Dr. Asm Amjad Hossain, a district immunization medical officer from Bangladesh. In 2009, Dr. Hossain was assigned to two districts where immunization rates were 67 and 60 percent, respectively. In 2010, they were 85 and 79 percent. These rapid improvements were the result of Dr. Hossain’s innovative approach to running an immunization program. He instituted a process of registering pregnant women with their expected date of delivery, location, and phone number, so vaccinators knew when children were born, where they were, and an easy way to contact their mothers. He provided annual schedules for vaccine sessions to make vaccinators more accountable to the community and had the vaccinators put their phone numbers on the children’s immunization cards, so parents with young children could get in touch with a health worker. These may seem like small innovations, but they show how looking at old problems in new ways can make a profound difference. Improvements like these are spreading to other locations because of the commitment and creativity of Dr. Hossain and many others like him. Delivering lifesaving vaccines takes the dedication of many well-known players like GAVI, the World Health Organization, and UNICEF; government officials; and perhaps most importantly hundreds of thousands of heroes on the frontline like Dr. Hossain.</P>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_4_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="Polio"><h2>Polio</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#Polio" addthis:title="Polio" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_4_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Polio" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Polio" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_4_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Polio" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Polio" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_4_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Polio" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Polio" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_4_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<p>The foundation&rsquo;s top priority remains helping to complete the eradication of polio<em>,</em>&nbsp;perhaps the best-known vaccine-preventable disease in the world. I spend a lot of my time learning about the disease and being an advocate for doing what it takes to end polio. At the start of 2011, poliovirus was still spreading in three areas: 10 countries in Africa (with viruses that originated primarily in Nigeria), Afghanistan and Pakistan, and India.</p>
+<p>Now India has reached a huge milestone. The country had only one case in 2011, which was recorded on January 13 in West Bengal. So on January 13, 2012, India celebrated its first year of being polio free. The challenge in India was mind-boggling. It&rsquo;s hard to imagine how you would design a polio campaign that reached every Indian child. More than a billion people live in the country. Massive numbers of families migrate constantly to find work. One of the largest states, Bihar, is flood-prone. In some cases, the vaccine didn&rsquo;t work as well as it had in other parts of the world, probably because of malnourishment, diarrhea, and other illnesses. But the government kept raising awareness and improving the quality of its campaigns, even in the toughest locations. The Indian government deserves special credit for this achievement. </p>
+<p>In 2012 we need to keep India and all the other places that are polio free from getting re-infected. The biggest focus for 2012 will be improving the polio vaccination campaigns in Nigeria, Chad, the Democratic Republic of Congo, Afghanistan, and Pakistan. I recently visited Chad and Nigeria to meet with leaders there, and it&rsquo;s clear that we have high-level political support. Still, deploying high-quality vaccination teams and educating parents so that every single child is vaccinated will take a lot of work. In Nigeria our biggest problems are low-quality campaigns and the fact that some parents don&rsquo;t trust that the vaccine is safe. In Pakistan these problems are compounded by the security situation.</p>
+<p>It will be challenging to continue raising the approximately $1 billion per year it takes to run the global campaign. Last year the United States, the United Kingdom, Australia, Japan, Canada, Norway, Saudi Arabia, the Crown Prince of Abu Dhabi, and Rotary International provided substantial contributions. Rotary continues to be the heart and soul of polio eradication, supporting the program directly while also taking on a larger role in encouraging other donors to give more. A new partner, FC Barcelona, is spreading the message of polio eradication to millions of football fans across the globe. </p>
+<p>We are continuing to invest in studies about how polio spreads and trying to model where we need to intensify the vaccination campaigns. We are also working on new vaccines. Finding every last poliovirus requires good tools along with trained and motivated workers in every single country. </p>
+<p>These are enormous obstacles, but the success of the polio eradication program in India and 90 other countries gives me confidence that we can triumph in these final challenging countries and end polio once and for all.</p>
+		</div>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_5_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="AIDSandtheGlobalFund"><h2>AIDS and the Global Fund</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_5_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#AIDSandtheGlobalFund" addthis:title="AIDS and the Global Fund" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_5_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: AIDS and the Global Fund" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=AIDS and the Global Fund" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_5_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: AIDS and the Global Fund" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=AIDS and the Global Fund" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_5_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: AIDS and the Global Fund" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=AIDS and the Global Fund" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<P>The AIDS community has three big goals<EM>:</EM> </P>
+<OL>
+<LI><B>Reduce the number of people getting infected. </B>By 2015, the goal is to cut infections to 1 million per year, which would represent a 68 percent drop from the peak a decade ago.&nbsp;</LI>
+<LI><B>Provide drugs for everyone who needs them, </B>so those with AIDS can live longer and more productive lives. Last year, 1.8 million people died of AIDS.&nbsp;</LI>
+<LI><B>Find a cure.&nbsp;</B>Although there are people working toward a cure, it is viewed as so difficult that we can’t count on ever having one. </LI></OL>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201214.jpg">There are many ways to tackle the first goal: reducing infection. These methods can work individually and in combination. One approach is to convince people to avoid risky behavior. Education efforts are important, and they are getting more targeted, but their impact is uncertain. </P>
+<P>A second approach is male circumcision, which reduces HIV transmission by up to 70 percent. Funding for circumcision is finally being prioritized, since the cost is quite low and the protection is lifelong. Over 1 million men ages 15–49 have been circumcised in 14 Southern and Eastern African countries with large AIDS epidemics, but that is only 5 percent of the total number who could benefit from the procedure. Even in the ancient practice of circumcision, innovation has the potential to make a big difference. The new PrePex and Shang Ring devices simplify the procedure and make surgery unnecessary. The first studies suggest that these devices are both safe and effective. (I will keep this letter G-rated by leaving out the pictures of how the devices work.) Botswana, Kenya, South Africa, and Tanzania are starting to show leadership by getting the message out to all young men that it is important to get circumcised. Kenya has made the most progress, circumcising 70 percent of eligible men. I will be very disappointed if, by 2015, any fewer than 15 million young men have chosen to protect themselves and their partners by getting circumcised. </P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201215.jpg">A third approach to prevention is to come up with an injection or pill or gel that reduces an uninfected person’s chance of becoming infected. The final results of studies of a number of these tools were reported in the last 18 months. In studies where the patients used the tool as they were supposed to, the results were quite good. However, in most studies the levels of usage were low and thus the overall results were disappointing. This has the field thinking hard about how you could motivate better adherence or create a tool that requires less effort from the patient. One example in early development is an injection that lasts 30 to 90 days. I think we will solve the adherence problem, but we are going to have to get medical scientists, social scientists, community representatives, and regulators working together. We have to develop and test overall delivery systems, including communication, support, and incentives, in ways that go beyond what a medical trial alone typically does.</P>
+<P>A fourth approach, called treatment for prevention, is to give antiretroviral (ARV) drugs to people with AIDS earlier in the course of their disease, greatly reducing the chance that they will infect others. This is already done for pregnant mothers to reduce the chance of infecting their babies during delivery or through breast-feeding. The field has a goal of getting drugs to 90 percent of HIV-positive mothers by 2015, virtually ending mother-to-child transmission. The main problem with treatment for prevention is that most people who are infected with and transmitting HIV don’t know they are infected, so you wouldn’t know to give them drugs. In order to realize the full potential of treatment for prevention, we need to encourage widespread HIV testing, which will require developing a reliable, inexpensive saliva test that can be used privately. </P>
+<P>One further approach to prevention is an AIDS vaccine. On this topic, this year’s news is very similar to last year’s. The scientific understanding of the AIDS virus—its shape, how it enters cells, and how we can use antibodies to block it—has advanced more than expected. However, plans for conducting trials of different constructs are still not as aggressive as they should be, given how game-changing a vaccine would be. It is still possible to have a vaccine within 12 years, but it will take some luck and better planning. </P>
+<P>It is exciting to have so many prevention approaches available, and to be making progress on most of them. Funding continues to be a serious concern, but I am optimistic that the field will develop combined approaches to significantly bring down the rate of infection. </P>
+<P>Meanwhile, there has also been amazing progress on the second major goal for the AIDS community: scaling up treatment. This is due mostly to the Global Fund to Fight AIDS, Tuberculosis and Malaria, and to a U.S. program called PEPFAR: the United States President’s Emergency Plan for AIDS Relief. More than 6.6 million people are alive today because they are taking ARV drugs. Ten years ago it looked as if almost all of these people would die because the drugs were available only in rich countries. </P>
+<P><IMG style="VERTICAL-ALIGN: middle" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201216.jpg"></P>
+<P>Between 2008 and 2010 the Global Fund gave $8 billion for AIDS (57 percent), malaria (29 percent), and tuberculosis (14 percent). Other than PEPFAR for AIDS, the Global Fund is the biggest donor for all three of these diseases. It provided the money for 230 million bednets, which have been key to the 20 percent decline in malaria deaths over the past decade. It also provided treatment for 8.6 million cases of tuberculosis. I am not doing a section on malaria or TB in this year’s letter, but there has been good progress in both diseases, with the Global Fund being key to this. </P>
+<P>The Global Fund does a lot to make sure its money is spent efficiently. Given the places where the Global Fund works, it is not surprising that some of the money was diverted for corrupt purposes. However, the Global Fund found these problems itself and changed the way it handled training grants, where most of the problems were. Unfortunately, news of any corruption makes many citizens think the entire program is mismanaged and a huge portion of the money is being wasted. Some of the headlines that talked about two-thirds of specific grants being misdirected fueled this impression. In fact, less than 5 percent of Global Fund money was misused, and with the new procedures in place that percentage will be even lower. Our foundation is the biggest nongovernment supporter of the Global Fund, committing $650 million over the years because of the incredible impact its spending has. I am confident that this is one of the most effective ways we invest our money every year, and I always urge other funders to join us in getting so much bang for our buck. </P>
+<P>Between 2011 and 2013, assuming that all donors honor their commitments, the Global Fund will disburse $10 billion. This is a $2 billion increase, but not nearly the $12–$14 billion that is needed and was hoped for. Citizens of donor countries should know about the difference their generosity has made. The cost of keeping a patient on AIDS drugs has been coming down, and it looks like getting it to $300 per patient per year should be achievable. That will mean every $300 that governments invest in the Global Fund will put another person on treatment for a year. Every $300 that’s not forthcoming will represent a person taken off treatment. That’s a very clear choice. I believe that if people understood the choice, they would ask their government to save more lives.</P>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_6_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="FamilyPlanning"><h2>Family Planning</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#FamilyPlanning" addthis:title="Family Planning" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_6_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Family Planning" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Family Planning" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_6_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Family Planning" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Family Planning" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_6_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Family Planning" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Family Planning" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_6_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<p>Melinda has focused a lot of her foundation time on family health issues, including&nbsp;maternal and infant health, nutrition, and family planning. In 2012 and beyond, she will really emphasize family planning&mdash;giving women the tools they need to plan how many children they have and when they have them. She will be talking much more about how having the ability to plan changes the lives of women and their families and improves whole societies. Last year, Melinda met with mothers in Korogocho, a slum outside of Nairobi, Kenya. She was touched by one woman who explained why she wanted to be able to space her births further apart: &ldquo;I want to bring every good thing to one child before I have another.&rdquo; </p>
+<p><img alt="" style="float: left; margin-right: 10px;" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201217.jpg">One amazing thing is that parents&rsquo; desire to bring every good thing to their children can have a huge impact on national economies. Melinda spoke at the World Bank about how developing countries have a chance to benefit from something called the &ldquo;demographic dividend.&rdquo; The idea is that as parents bring their family size down, countries can invest more in educating young people. When those young people reach working age, they boost productivity and economic growth. South Korea and Thailand are two recent examples of how countries that understand and capitalize on these principles can rapidly transform their economies. </p>
+<p>Over the next 40 years, the global population is projected to grow at just .8 percent per year. It just passed 7 billion and will reach 9.3 billion by 2050, according to the United Nations&rsquo; medium estimate. However, the populations of most poor countries, which have the hardest time feeding and educating their citizens, will more than double between now and 2050. If we compare population by continent now and in 2050, we see that Africa will more than double in population (from 1 billion to 2.2 billion) while Asia and the Americas will grow by 25 percent and Europe will hardly grow at all! </p>
+<p>Looking at the numbers at the country level gives an even starker picture. To take just one example, Nigeria, which has the biggest population in Africa, will grow from 163 million to 392 million&mdash;an increase of 140 percent. This will likely make the lives of people in that very poor country even more difficult.</p>
+<p><img alt="" style="vertical-align: middle;" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  2012175.jpg"></p>
+<p>Melinda and I believe, though, that if the right steps are taken&mdash;not just helping women plan their families but also investing in reducing child mortality and increasing nutrition&mdash;populations in countries like Nigeria will grow significantly less than projected. Almost all the foundation&rsquo;s global programs focus on goals that will help with this.</p>
+<p>&nbsp;Globally, more than 200 million women say they don&rsquo;t want to have a child within the next two years but aren&rsquo;t using contraceptives. If families that wanted to wait a longer period between births or have fewer children had access to the right tools, two things would happen. First, those families would have an easier time facing the challenges of poverty. Second, as national population growth rates came down gradually, governments would be able to better meet the needs of all their people. </p>
+<p>A significant number of women indicate that they would use modern family planning tools if they were available. Unfortunately, the funding to buy these tools, to make them cheaper, and to provide high-quality information to poor families has been lacking. </p>
+<p>The tools that are likely to have the highest adoption rates in sub-Saharan Africa are implants or injectables, not the oral contraceptives that are popular in the United States. Indonesia has made implants broadly available, and more than 1.7 million women are using implants today. The foundation has helped fund quality assurance for a lower-cost implant, Sinoplant II, which is registered today in more than 17 countries and costs 60 percent less than the alternatives. We also think that injections can be made cheaper and longer lasting and put into a format that women can administer themselves. There are a large number of steps required to get new tools not only approved and manufactured but also understood so that women can make informed choices about contraception. Our goal is that every woman should have the ability to choose when she wants to have children. The result will be healthier mothers and children and more prosperous nations.</p>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_7_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="USEducation"><h2>U.S. Education</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#USEducation" addthis:title="U.S. Education" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_7_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: U.S. Education" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=U.S. Education" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_7_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: U.S. Education" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=U.S. Education" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_7_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: U.S. Education" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=U.S. Education" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_7_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<P>Our work in U.S. education focuses on two related goals: making sure that all students graduate from high school ready to succeed in college and that young adults who want to get a postsecondary degree have a way to do so. </P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201218.jpg">On the K-12 side, our top priority is helping schools implement a personnel system that improves the effectiveness of teaching, because research shows that effective teaching is the most important in-school factor in student achievement. There are a lot of great teachers in public schools, and a lot of teachers who want to be great but don’t have the tools they need. If we could make the average teacher as good as the best teachers, the benefit to students would be phenomenal. </P>
+<P>A personnel system includes hiring; giving specific feedback; helping employees improve; and creating pay schedules, benefit plans, and termination procedures. There is consensus that the current personnel system in public schools doesn’t work. Every element of today’s system is criticized. However, there isn’t a strong consensus on what to change. Many states are moving away from guaranteed tenure with pay based solely on seniority and what degrees you have. But most of the alternative measures do not include much investment in teacher evaluation, which makes them very dependent on how good the principal is and how well student test scores measure teaching effectiveness. </P>
+<P>I still find it hard to believe that 95 percent of teachers are not given specific feedback about how to improve. Even more important than a pay schedule that rewards excellence is identifying and understanding excellence so that teachers know how they can improve. In all the meetings I have had with teachers around the country, and in the surveys we have done, it is clear that most teachers want more feedback and will use it to improve, even if the financial rewards for performance are comparatively modest. </P>
+<P>The most compelling example I have seen that this concept can work in a way that is great for both teachers and students is the school district of Tampa, Florida that Melinda and I visited this past fall. A key element of the agreement between the teachers’ union and the superintendent was to assign 2 percent of the teachers to become peer evaluators. These teachers were trained to observe classroom teaching and provide feedback on 22 different components. The principals have also been trained in this approach. Every teacher gets in-depth feedback from both the principal and the peer evaluator. </P>
+<P><IMG style="FLOAT: left; MARGIN-RIGHT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201219.jpg">Tampa has been doing this for three years now, and it is already making a big difference. Teachers told us they value having feedback from two different sources—the principal who knows the school the best and the peer who knows the challenges of their specific job. The first round of evaluation revealed that many teachers need help engaging the students to prompt critical thinking and problem solving. The district started to organize its professional development around these findings, and the teachers have seized that opportunity to become more effective in the classroom. </P>
+<P>When Melinda and I met with students, they told us that they had seen a big change during their time at the school. The success here required great work by Superintendent Mary Ellen Elia, Classroom Teachers Association President Jean Clements, and all of the teachers. I was particularly impressed with the peer evaluators. They all said they understood great teaching far better, having done the peer evaluation job. Some of the peer evaluators will go back to teaching and others will go into schools of education to help make sure new teachers have better preparation.</P>
+<P>After seeing how valuable peer evaluation is, I think it should be part of every public school personnel system. Dedicating 2 percent of teachers to do this work is a large investment. It can mean raising the average class size by 2 percent or spending 2 percent more money. With budgets as tight as they are, most states will not add extra money for evaluation so we will have to make the case that it is worth the small increase in class size (of fewer than one student per class on average). Without this investment I don’t think an evaluation system will get enough credibility with the teachers or provide enough specific feedback to help teachers improve. Looking at test scores is also valuable for most subjects, but test score data mostly just identifies who is succeeding—it doesn’t show a teacher what needs to change. I see the willingness to make this investment as a test of whether people are serious about an evaluation system that really works. </P>
+<P><IMG style="FLOAT: right; MARGIN-LEFT: 10px" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201220.jpg">Accelerating the development, discovery, and use of innovative educational technologies is another high priority for us. We have seen a tremendous amount of progress in this area recently, but it is really just the beginning. More needs to be done to equip teachers with the tools and information they need to make learning more personalized and engaging. </P>
+<P>Social networking is one of the most promising areas, because it helps teachers and students connect in ways that naturally augment what’s going on in the classroom. Services that use social networking, like Edmodo, are really starting to take off because teachers can manage all aspects of the classroom using a platform with which most people are comfortable. </P>
+<P>I’m also excited to see more and more schools “flip” the classroom so that passive activities like lectures are done outside of class and in-class time is used for more collaborative and personal interactions between students and teachers. Khan Academy is a great example of a free resource that any teacher can use to take full advantage of class time and make sure all students advance at their own pace. </P>
+<P>Great work is also being done by companies that are thinking beyond simply digitizing textbooks. CK-12 Foundation, Udemy, and Ednovo have great teacher- and community–generated content. A simple example of how powerful the community can be in this area is TeachersPayTeachers, a marketplace that facilitates the sharing and exchanging of lesson plans and other materials developed by teachers themselves. </P>
+<P>We’re also just starting to see how impactful gaming can be in an educational context. MangaHigh and Grockit are successfully delivering fun, competitive, game-based lessons that drive greater engagement and understanding. Zoran Popovic, at University of Washington’s Center for Game Science, is taking this even further through some amazing work creating games that automatically adapt to each student’s unique needs based on their interactions with the computer. </P>
+<P>Many of these new tools and services have the added benefit of providing amazing visibility into how each individual student is progressing, and generating lots of useful data that teachers can use to improve their own effectiveness. </P>
+<P>But how do most teachers figure out what’s available and right for them? There’s not yet a good answer to this question. Good technologies remain unused, and teachers spend too much of their own time and money. That’s why I’m launching a project this year to build an online service that helps educators easily discover and learn how to use these new tools and resources. I think there’s no limit to what a teacher with the right tools and information can do.</P>
+		</div>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_8_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="FoundationUpdates"><h2>Foundation Updates</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_8_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#FoundationUpdates" addthis:title="Foundation Updates" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_8_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Foundation Updates" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Foundation Updates" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_8_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Foundation Updates" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Foundation Updates" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_8_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Foundation Updates" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Foundation Updates" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<p><img alt="" style="float: right; margin-left: 10px;" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201222.jpg">Jeff Raikes continues to do a great job leading the foundation as CEO.<em>&nbsp; </em>Tachi Yamada, who ran our Global Health program, and Sylvia Mathews, who ran Global Development, moved on to other jobs, and we thank them for their great contributions. Jeff recruited Trevor Mundel to run Global Health and Chris Elias to run Global Development. We are very excited about the experience and talent they bring to the foundation. Our third group, the U.S. Program, which focuses primarily on our U.S. education work, continues to be ably run by Allan Golston. </p>
+<p>In June the foundation moved to a new campus. The campus is designed to facilitate collaboration, including space for meetings with lots of partners on key foundation topics. Melinda worked closely with the architecture firm NBBJ to mold the design to fit our work. Already our employees are seeing the benefit of being in one location where they can collaborate with each other more easily, and they say they really value being able to convene grantees and other partners on site. </p>
+<p>My father, William Gates, co-chair along with Melinda and me, continues to provide inspiration and guidance for a lot of our work. In June, he gave a speech to 10,000 Lions Club members who gathered in Seattle for their annual convention. The streets were closed for their parade, and then my dad spoke about the Lions&rsquo; impressive work fighting measles. Ten years ago, 2,000 people died from measles every day. Now, that number is down to 500. My father, who has always encouraged me, loved encouraging an arena full of people to keep saving children&rsquo;s lives.</p>
+	</div>
+</div>
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_9_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="GivingPledge"><h2>Giving Pledge</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#GivingPledge" addthis:title="Giving Pledge" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_9_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Giving Pledge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Giving Pledge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_9_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Giving Pledge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Giving Pledge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_9_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Giving Pledge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Giving Pledge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_9_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<p>The Giving Pledge, which entails wealthy individuals and families making a simple<em> </em>pledge to give away a majority of their wealth during their lifetime or in their will, has already grown to 69 people, which is more than we expected when we started. As we began 2012, we heard from several people who said they plan to take the pledge very soon. We&rsquo;re hopeful that many others will follow. It&rsquo;s inspiring to read people&rsquo;s rationale for making the pledge; you can find their letters at <a href="http://www.givingpledge.org">www.givingpledge.org</a>. </p>
+<p>We brought the group of pledgers together in May for the first of what will be an annual gathering to learn from each other. The event was a great success. A lot of people found they had goals in common, so even as the Giving Pledge celebrates the diversity of giving, it has helped spur collaboration. We&rsquo;re starting to see the fruits of that effort, as members of the group are now looking at co-funding projects. </p>
+<p>When Warren Buffett, Melinda, and I were in India in March, we sat down with around 60 wealthy families to hear from them about Indian philanthropy and share our experiences. Azim Premji, one of the pioneers of philanthropy in India, joined us for the panel discussion. Warren&rsquo;s energy and humor were in strong evidence. When talking about whether it would be better for the wealthy to use their money to create jobs, Warren noted that even Santa Claus creates jobs by employing the elves and reindeer!</p>
+<p>One thing that really struck me in both the Giving Pledge meeting and the India get-together is that a key factor holding people back from being even more generous is finding philanthropic endeavors that make them feel like they are having a significant and unique impact. It has me thinking a lot harder about how we can use the web to make it easier for givers of all sizes to connect to causes and see the results of their giving.</p>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_10_divDivider" class="divider"></div>
+	
+	
+	<div>
+		<a id="WhyImOptimistic"><h2>Why I'm Optimistic</h2></a>
+		<div class="placeholder right">
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Letters-List/Annual-Letter-2012#WhyImOptimistic" addthis:title="Why I'm Optimistic" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_10_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Why I&#39;m Optimistic" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Why I&#39;m Optimistic" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_10_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Why I&#39;m Optimistic" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Why I&#39;m Optimistic" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_10_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Why I&#39;m Optimistic" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Why I&#39;m Optimistic" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+		</div>
+
+		<div id="bodyregion_0_interiorarticle_0_strategysections_10_plcLeftRail" class="placeholder left">
+			
+		</div>
+		<div>
+			<p>Early in 2011, President Sarkozy of France invited me<em> </em>to write a report for the G20 and present it in person at their November meeting in Cannes. This was a huge honor, since it is the first time a philanthropist has been asked to speak to this group. The organizers weren’t even sure what country to put on my badge since I wasn’t coming as part of the U.S. official delegation. They decided to put “Invitee” on my badge, making me briefly the head of government of Invitee! </p>
+<p><img style="margin-right: 10px; float: left;" alt="" src="/~/media/GFO/Annual Letter Images/2012/Annual Letter  201223.jpg">My report focused on how the G20 can help ensure that the poorest are not forgotten, as rich countries deal with significant economic and budget challenges. The report, “Innovation with Impact: Financing 21st Century Development,” is on <a href="/">gatesfoundation.org</a>. It starts by describing how much life has improved for the poorest over the past 50 years. Part of the reason is the aid contributed by rich countries. A lot of media attention focused on my suggestions of a modest financial transaction tax, increased tobacco taxes, and a carbon tax to support aid commitments. None of these ideas has universal agreement, and none will solve the problem alone, but they can make a big difference if even just a few countries adopt them. </p>
+<p>Overall, however, I tried in the report to paint a picture of the incredible diversity of resources available for development. It’s not just rich countries giving aid that are having an impact. I described what poor countries themselves are doing to speed their own development; I pointed out how rapidly growing countries like Brazil, China, and India are bringing new experience and expertise to development; and I discussed some ways in which the private sector can get involved in improving the lives of the poor and helping countries develop. I am excited because innovative partnerships that capitalize on the comparative advantages of all these players can accelerate progress, speeding the transition beyond aid for many poor countries. </p>
+<p>The G20 conference itself was a microcosm of the challenges that leaders face, with the Eurozone crisis taking a lot of their time. I was impressed that the leaders took 90 minutes to discuss my report and related issues, and I hope they will set aside time for development when they meet in Mexico for next year’s summit. </p>
+<p>Following my presentation, a number of the leaders shared specific suggestions for addressing these issues. David Cameron said it would make his country’s leadership on giving .7 percent of gross domestic product by 2013 in tough times easier if more countries would do the same. I got the strong impression that the leaders themselves are very sympathetic to the case that aid budgets should not be cut even as governments reduce their spending. However, this will be possible only if their constituents understand that aid, which is less than 1 percent of the budget in most countries, has a significant impact on people’s lives. I have tried in this letter to make that case. Whether it’s fighting plant disease, treating people with AIDS, or getting a measles vaccine to a child in a remote area—modest investments in the poorest make a huge difference. </p>
+<p>Unfortunately, many people believe the opposite—that money spent on development is wasted, or that it doesn’t get lasting results. Melinda and I will spend a lot of time in the coming year explaining why they’re mistaken. The relatively small amount of money invested in development has changed the future prospects of billions of people—and it can do the same for billions more if we make the choice to continue investing in innovation. We will repeat that message over and over in our speeches and interviews, and on <a href="/">gatesfoundation.org </a>and <a href="http://www.gatesnotes.com" target="_blank">gatesnotes.com</a>, because we are convinced that when people hear stories of the lives they’ve helped to improve, they want to do more, not less.</p>
+<p><img alt="" src="/~/media/GFO/Annual Letter Images/2009/BillSignature.PNG" width="217" height="66"></p>
+<p>Bill Gates <br>
+Co-Chair, Bill &amp; Melinda Gates Foundation <br>
+January 2012</p>
+		</div>
+	</div>
+</div>
+
+	
+	</article>
+	
+	<div class="placeholder placeholder1">
+                
+			
+  				
+	</div>
+
+
+
+	
+
+</div>
+<div class="clear">
+</div>
+	<a href="http://www.impatientoptimists.org/" id="bodyregion_0_ctl02_lnkIO" class="visitBlog" target="_blank"><span></span>Visit Our Blog</a>
+</div>
+
+				<noindex>
+
+<footer>
+		<div class="wrapper">
+			<div class="subMenus">
+				<ul class="subMenu">
+						<li>
+							
+							<a class="first" href="/Who-We-Are/General-Information/Foundation-Factsheet">Fact Sheet</a>
+						</li>
+					
+						<li>
+							
+							<a href="/How-We-Work/General-Information/Grantseeker-FAQ">Grantseeker FAQ</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Who-We-Are/General-Information/Letter-from-Bill-and-Melinda-Gates">Letter from Bill &amp; Melinda Gates</a>
+						</li>
+					</ul>
+					
+						
+				<ul class="subMenu second">
+						<li>
+							
+							<a class="first" href="/Jobs">Jobs</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Media-Center">Press Room</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a>
+						</li>
+					</ul>
+
+			<figure class="teaser">
+				<img src="/~/media/GFO/Site/Footer Images/bg_bill_melinda_gates_foundation_visitor_center.jpg?mh=69&amp;mw=150" alt="Visitor Center" width="150" height="69">
+				<figcaption>
+					<h3>VISITOR CENTER</h3>
+					<p>At the Bill &amp; Melinda Gates Foundation Visitor Center, you&rsquo;ll find stories of work that is improving lives, from Seattle to South Africa. <a href="/Who-We-Are/General-Information/Visitor-Center">Plan a visit</a></p>
+				</figcaption>
+			</figure>
+			<div class="contactInfo">
+				<p><span>440 5th Ave N.,</span>
+<span>Seattle, WA 98109</span>
+<span>(206) 709-3100  ext.7100</span>
+<span>Hours: Tues - Sat</span>
+<span>10 a.m. &ndash; 5 p.m.</span>
+<span>Admission: Free</span></p>
+			</div>
+			<div class="clear"></div>
+	</div>
+		</div>
+		<div class="bottomFooter">
+			<div class="wrapper">
+				<div class="copyright">
+				<p>
+					© 1999-2013 Bill &amp; Melinda Gates Foundation. All Rights Reserved.
+				</p>
+
+				<p>
+						<a class="privacyPolicy" href="/Privacy-Policy">Privacy Policy</a>
+					
+						<a href="/Terms-of-Use">Terms of Service</a>
+					</p>
+
+				</div>
+				<section class="connect">
+					<h3>Connect</h3>
+					
+							<ul class="socialIcons">
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl01_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: flickr" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.flickr.com/photos/gatesfoundation" target="_blank">flickr
+		<span>
+			<img id="footerregion_0_rptSprites_ctl01_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconflickrdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl01_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconflickrblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl02_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: Facebook" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.facebook.com/billmelindagatesfoundation" target="_blank">Facebook
+		<span>
+			<img id="footerregion_0_rptSprites_ctl02_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconfacebookdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl02_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconfacebookblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl03_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: Impatient Optimists" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.impatientoptimists.org" target="_blank">Impatient Optimists
+		<span>
+			<img id="footerregion_0_rptSprites_ctl03_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconiodarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl03_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconioblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl04_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: twitter" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://twitter.com/gatesfoundation" target="_blank">twitter
+		<span>
+			<img id="footerregion_0_rptSprites_ctl04_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/icontwitterdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl04_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/icontwitterblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl05_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: youtube" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.youtube.com/user/GatesFoundation" target="_blank">youtube
+		<span>
+			<img id="footerregion_0_rptSprites_ctl05_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconyoutubedarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl05_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconyoutubeblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							</ul>
+							
+				</section>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="print-footer">
+        <span>About the Foundation</span>
+        <p>
+            Guided by the belief that every life has equal value, the Bill and Melinda Gates Foundation aspires 
+            to help all people lead healthy, productive lives. We are dedicated to discovering and disseminating 
+            innovative approaches to addressing extreme poverty and poor health in developing countries and improving 
+            the U.S. education system.  Because our financial resources, while siginificant, represent a small fraction 
+            of what’s needed to address these challenges, we work in partnership with governments, the private sector, 
+            and other donors and organizations to achieve the greatest possible impact.
+            <a href="http://www.gatesfoundation.org">www.gatesfoundation.org</a>
+        </p>
+    </div>
+</footer></noindex>
+			</div>
+
+			
+
+
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=gatesfoundation&domready=1"></script>
+<script type="text/javascript" language="javascript">
+	var addthis_config =	{
+		data_track_clickback: false,
+		pub_id: 'gatesfoundation',
+		ui_language: 'en'
+	};
+
+	var addthis_share = {
+		templates: {
+			twitter: "{{title}} {{url}} via @gatesfoundation"
+		},
+		url_transforms: {
+			shorten: {
+				twitter: 'bitly'
+			}
+		},
+		shorteners: {
+			bitly: {
+				login: 'gatesfoundation',
+				apiKey: 'R_1e5528c8252c17dcff3d30ee63b02233'
+			}
+		}
+	};
+
+      // Resets the AddThis button stacks, for use after loading AJAX content.
+	var script = 'https://s7.addthis.com/js/250/addthis_widget.js#username=gatesfoundation&domready=1';
+	function ResetAddThis() {
+
+		if (window.addthis) {
+			window.addthis = null;
+		}
+		jQuery.getScript(script, function () { addthis.init(); });
+		console.log("In ResetAddThis");
+	}
+	
+</script>
+		
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("headerregion_0_searchBox_rfvKeywords"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var headerregion_0_searchBox_rfvKeywords = document.all ? document.all["headerregion_0_searchBox_rfvKeywords"] : document.getElementById("headerregion_0_searchBox_rfvKeywords");
+headerregion_0_searchBox_rfvKeywords.controltovalidate = "headerregion_0_searchBox_txtKeywords";
+headerregion_0_searchBox_rfvKeywords.validationGroup = "headerSearch";
+headerregion_0_searchBox_rfvKeywords.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+headerregion_0_searchBox_rfvKeywords.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function () { jQuery.getScript(script, function () { addthis.init(); }); });
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>		
+	    
+    <script type="text/javascript">
+        var s_account = 'gatesfoundationcomgfoprd';
+    </script>
+    <script language="javascript" type="text/javascript" src="/javascripts/gfo/s_code.js"></script>
+    <script language="javascript" type="text/javascript"><!--
+	s.events = "event5";
+s.server = "FE01";
+s.channel = "Who We Are";
+s.pageType = "";
+s.pageName = "Annual Letter 2012";
+s.prop3 = "http://www.gatesfoundation.org/who-we-are/resources-and-media/annual-letters-list/annual-letter-2012";
+s.prop4 = "{CB3ABBDD-5DBF-47E8-8B3F-9E4588558BBA}";
+s.prop23 = "Annual Letter";
+s.prop26 = "";
+s.prop27 = "";
+s.prop28 = "";
+s.prop32 = "";
+s.prop34 = "";
+s.prop35 = "";
+s.eVar23 = "Annual Letter";
+s.eVar27 = "";
+
+	
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code;
+ //--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+//--></script>
+    <noscript>
+        <img src="http://omniture.gatesfoundation.org/b/ss/gatesfoundationcomgfoprd/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+    <script language="javascript" type="text/javascript" src="/javascripts/gfo/omnitracker.js"></script>
+    
+    <script language="javascript" type="text/javascript"><!--
+        if (typeof noTrack == 'undefined' || noTrack == false) { omniTracker.TrackPage(); }
+//--></script>
+    
+
+	</body>
+</html>

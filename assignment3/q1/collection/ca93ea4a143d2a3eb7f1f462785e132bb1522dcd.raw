@@ -1,0 +1,2173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+    <script type="text/javascript">if( navigator.userAgent.match(/(iPhone|android|blackberry|windows phone)/i) ){ document.location="http://scribblelive.mobi/Event/2013_Boston_Marathon_live_blog?Theme=4013&Page=0&lang=en"; }</script>
+
+    <link rel="stylesheet" media="screen" type="text/css" href="http://cdn.scribblelive.com/Style/pages/Thread.aspx?SiteId=243&v=ignaciousdalessio1_1.0.5021.22149&amp;lang=en&amp;IncludeDiscussion=1"> 
+    
+    <!--[if lte IE 7]>
+    <link rel="stylesheet" media="screen" type="text/css" href="http://cdn.scribblelive.com/Style/IE/WhiteLabelIE7.css?v=ignaciousdalessio1_1.0.5021.22149">
+    <![endif]-->
+
+    
+    
+     
+    <link rel="canonical" href="http://live.boston.com/Event/2013_Boston_Marathon_live_blog"> 
+    <script type="text/javascript" src="http://cdn.scribblelive.com/js/pages/Thread.aspx?SiteId=243&v=ignaciousdalessio1_1.0.5021.22149&amp;lang=en&amp;IncludeDiscussion=1"></script> 
+
+
+
+     <script type="text/javascript">
+        var Time = "6/12/2013 3:45:45 AM";
+        var ThreadId = "91750";
+        var IsLive = false;
+        var WebsiteId = 243;
+        
+        var UserId = "";
+        var UserThumbnail = "";
+        var AllowedToEdit = false;
+        var UserType = 4;
+        
+        NewestAtBottom = true;
+        
+        var IsMostRecentPage = false;
+        
+        var CommentBox_FadeStart = "#333333";
+        var CommentBox_FadeEnd = "#ececec";     
+        
+        var BannedUsers = new Array();  
+        
+        var BannedWebsiteUsers = new Array();
+
+        var HideAvatars = [0, 0, 0, 0, 0, 0, 0];
+
+        var IsWhitelabel = true;
+
+        var DiscussionsEnabled = false;
+
+		var UseCustomMeta = true;
+		var UseCustomCommentMeta = true;
+		var CustomMetaPostLocation = "Above";
+		var CustomMetaCommentLocation = "Above";
+        var UseCustomPostMetaFormat = true;
+        var UseCustomCommentMetaFormat = true;
+
+		
+			var CustomMetaPostFormat = "{{Author}}{{Date}}";     
+		
+			var CustomMetaCommentFormat = "{{Author}}{{Date}}";
+			
+		
+        var IsArticlePage = false;
+        soundManager.url = "/js/soundmanager/swf/";  
+        soundManager.debugMode = false;
+
+    </script>
+    
+    
+    <meta name="ICBM" content="38.000000000000000, -97.000000000000000">        
+    
+    <meta name="generator" content="ScribbleLive">
+    <meta name="twitter:card" content="summary">
+    
+    <!-- Open Graph Protocol http://opengraphprotocol.org/ -->
+    <meta property="og:title" content="2013 Boston Marathon live blog">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://live.boston.com/Event/2013_Boston_Marathon_live_blog">
+    <meta property="og:image" content="http://images.scribblelive.com/2013/4/11/41a4dbaf-e4ed-4f49-9b87-407d169e7ba4.jpg">
+    <meta property="og:description" content="Updates, photos, video and more about the 2013 Boston Marathon on April 15.">
+    <meta property="og:site_name" content="Current event template">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Updates, photos, video and more about the 2013 Boston Marathon on April 15.">
+
+    <link rel="Alternate" type="application/rss+xml" title="2013 Boston Marathon live blog" href="/Event/rss.aspx?id=91750">
+
+    
+
+    <script src="http://cdn.scribblelive.com/js/Metrics.js?v=ignaciousdalessio1_1.0.5021.22149" type="text/javascript"></script>	
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>2013 Boston Marathon live blog</title>
+<meta name="robots" content="noarchive">
+<meta http-equiv="charset" content="iso-8859-1">
+<meta property="fb:admins" content="100001044693856,507486035">
+<meta property="fb:app_id" content="117378991625799">
+<script language="javascript" type="text/javascript" src="http://cache.boston.com/universal/js/jquery-1.7.1.min.js"></script>
+<link rel="search" type="application/opensearchdescription+xml" title="Boston.com Search" href="http://cache.boston.com/search/files/bostonsearch.xml">
+<link rel="stylesheet" href="http://cache.boston.com/universal/css/bcom_global_styles.css" type="text/css">
+<!--[if IE]><link rel="stylesheet" href="http://cache.boston.com/universal/css/bcom_global_styles_ie.css" type="text/css" /><![endif]-->
+<script language="JavaScript" type="text/javascript" src="http://cache.boston.com/universal/js/bcom_global_scripts.js"></script>
+<link rel="stylesheet" href="http://cache.boston.com/universal/css/bcom_section_styles.css" type="text/css">
+<link rel="shortcut icon" href="http://cache.boston.com/favicon.ico">
+<script>ifSafari();</script>
+<!-- template based on http://www.boston.com/news/specials/scribblelivetemplate/ as of 2/26/13-->
+<!--Begin OAS MJX setup tag--><script language="JavaScript"><!--
+//configuration
+var site=document.URL.toLowerCase().match(/s_campaign=(\w+)/);
+  if (!(site))
+    {campaign="0000"}
+  else
+    {campaign=site[1]};
+OAS_sitepage='www.boston.com/news/special/scribble/article';
+OAS_listpos="TOP,CENTRAL,BOTTOM,POPUN,EXTRA,MISC1,MISC2,MISC3,MISC4,MISC5";
+//added: TOP,BOTTOM,CENTRAL
+oasquery='pagetype=generic_page&RM_Exclude=exclude_generic_page&s_campaign='+campaign;if(typeof OAS_query=='undefined'||!OAS_query)OAS_query=oasquery;else OAS_query+='&'+oasquery;
+OAS_url='http://rmedia.boston.com/RealMedia/ads/';OAS_target='_top';OAS_version=10;OAS_rn='001234567890';OAS_rns='1234567890';OAS_rn=new String(Math.random());OAS_rns=OAS_rn.substring(2, 11);
+//--></script><script language="JavaScript1.2"><!--
+var rerefer=/referrer=(\w+)/,urefer=document.URL.match(rerefer);if(urefer){if(OAS_query){var reexclude=/RM_Exclude=[\w,*]+/,OAS_query=OAS_query.replace(reexclude,OAS_query.match(reexclude)[0]+',exclude_referrer_'+urefer[1].toLowerCase());OAS_query+='&';}OAS_query+=urefer[0];}
+//--></script><script language="JavaScript"><!--
+function OAS_NORMAL(pos){document.writeln('<A HREF="'+OAS_url+'click_nx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'!'+ pos+'?'+OAS_query+'" TARGET='+OAS_target+'>');document.writeln('<IMG SRC="'+OAS_url+'adstream_nx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'!'+pos+'?'+OAS_query+'" BORDER=0></A>');}
+//--></script><script language="JavaScript1.1"><!--
+OAS_version=11;if((navigator.userAgent.indexOf('Mozilla/3')!=-1)||navigator.userAgent.indexOf('Mozilla/4.0 WebTV')!=-1){OAS_version=10;}if(OAS_version >= 11)document.writeln('<SCR'+'IPT LANGUAGE=JavaScript1.1 SRC="'+OAS_url+'adstream_mjx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'?'+OAS_query+'"> <\/SCRIPT>');
+//--></script><script language="JavaScript"><!--
+document.writeln('');
+function OAS_AD(pos){if(OAS_version >= 11)OAS_RICH(pos);else OAS_NORMAL(pos);}
+//--></script><!--End OAS MJX setup tag-->
+
+
+<meta name='parsely-page' content='{"tags": ["ScribbleLive blog"]}'>
+
+<style type="text/css">#Column1 {
+    width: 100%;
+    float: left;
+    margin: 0;
+    text-align: left;   
+}
+
+a {
+    color: #e90000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #002878;
+    text-decoration: underline;
+    border-bottom: none;
+}
+
+input, select {
+ color: #000;
+ font-family: Arial;
+ font-size: 12px;
+ font-weight: bold;
+ margin-bottom: 5px;
+}
+
+h2#ThreadTitle, h2 {
+    font-size: 20px;
+    color: #000;
+}
+
+h2#ThreadTitle em {
+ font-weight: bold;
+ font-style: normal;
+ color: #000;
+ text-decoration: none;
+ text-transform: none;
+ display: none;
+}
+
+h2#ThreadTitle em.CurrentVisitors {
+ color: #999;
+ font-size: 60%;
+ font-weight: normal;
+ float: right;
+}
+
+h3.Description {
+ margin: 10px 0;
+ font-weight: normal;
+ color: #000;
+ font-size: 16px;
+}
+
+/* Pagination ========== */
+
+#TopPagination {
+ text-align: left;
+ margin-bottom: 0px;
+ display: block;
+}
+
+#BottomPagination {
+    float: none;
+}
+
+#TopPagination ul.Pagination {
+ margin: 5px 0 10px 0;
+}
+
+#BottomPagination ul.Pagination {
+ margin: 0 0 10px 0;
+ text-align: center;
+ float: none;
+}
+
+ul.Pagination {
+ margin: 0;
+ padding: 0;
+ clear: both;
+}
+
+ul.Pagination li {
+ list-style: none;
+ margin: 0 4px 0 0;
+ padding: 0;
+ display: inline;
+ float: none;
+}
+
+ul.Pagination li a {
+ padding: 2px 4px;
+ border: 1px solid #E5e5e5;
+ font-size: 10px;
+ color: #2851A2;
+ text-decoration: none;
+ background: #fff;
+ display: inline-block;
+ margin: 0; 
+ padding: 4px 6px;
+ font-weight: normal;
+}
+
+
+ul.Pagination li a:hover, ul.Pagination li:first-child a.Current:hover {
+ color: #002878;
+ border-color: black;
+}
+
+ul.Pagination li:first-child a.Current, ul.Pagination li:last-child a.Current {
+ border: 1px solid #E5E5E5;
+        font-weight: normal;
+        color: #2851a1;
+}
+
+ul.Pagination li:first-child a.Current:hover, ul.Pagination li:last-child a.Current:hover {
+ border: 1px solid #000;
+        font-weight: normal;
+        color: #002878;
+}
+
+ul.Pagination li a.NotLink:hover {
+    color: #333;
+    border-color: #333;
+    cursor: default;
+}
+
+ul.Pagination li a.Current, ul.Pagination li a.Current:hover {
+ color: black;
+ background: transparent;
+ border: 0;
+ font-weight: bold;
+}
+
+#Column1 #Discussion {
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #000;
+    width: 100%;
+    height: auto !important;
+}
+
+#Discussion .Posts {
+    margin: 10px 0 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+
+#Discussion .Posts li {
+    list-style-type: none;
+    display: block;
+    clear: both;
+    padding: 10px 0 15px 15px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: 6px 25px;
+    color: #292929;
+    width: auto;
+ 
+    border-top: 1px solid #CCC;
+
+}
+#Discussion .Posts li.Tweet {
+    padding-bottom: 0;
+}
+
+#Discussion .Posts li.Thumbnail {
+ padding: 22px 0 25px 80px;
+}
+
+.Posts li .Content {
+    font-size: 15px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    display: block;
+}
+
+.Posts li.Comment .Content {
+ color: #444;
+}
+
+/* #Column1 #Discussion .Posts li.Comment {
+    background-color:#CEE3F9 !important;
+} */
+
+#Column1 #Discussion .Posts li.Comment div.avatar-area {
+    display: all;
+}
+
+#Discussion li.Comment .content-area {
+    margin-left: 0;
+}
+
+#Column1 #Discussion .Posts li.Comment .Content {
+    font-size:14px;
+}
+
+.Posts li .Meta {
+    display: block;
+    font-size: 11px;
+    color: #999;
+    padding: 0;
+    margin:0 0 5px 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.Posts li.Focus .Meta {
+    color: #999;
+}
+
+.Posts li .Meta em {
+ font-style: normal;
+ color: #000;
+ font-weight: bold;
+ font-size: 14px;
+ display: block;
+ float: left;
+}
+
+.Posts li.Focus .Meta em {
+    color: #666;
+}
+
+.Posts li .Meta span.DisplayPostTime {
+    display: block;
+    float: right;
+    padding: 0 6px 0 1px;
+    font-size: 12px;
+    color: #BBB;
+}
+
+.Posts li .Meta a {
+ padding: 1px 2px;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+.Posts li .Meta a:hover {
+ padding: 0 1px;
+}
+
+.Posts li .Meta .Source a {
+ background: none;
+ padding: 0;
+ font-weight: normal;
+}
+
+.Posts li .Meta .Source a:hover {
+ background: none;
+}
+
+#Discussion .Posts li.First {
+ border-top: 0;
+}
+
+/* Sticky Posts ========== */
+
+#Discussion #StickyPostHolder li {
+    background-color: #eaeaea;
+    border: 0;
+    padding: 0 15px 10px 0;
+    background-position: 15px 10px;
+}
+
+#StickyPostHolder li .Content {
+    background: url(Images/Embed/PushPin.gif) top left no-repeat;
+    display: block;
+    padding: 10px 0 6px 15px;
+}
+
+#StickyPostHolder li.Thumbnail .Content {
+    padding: 10px 0 6px 80px;  
+}
+
+#Column1 #Discussion #StickyPostHolder li .Meta {
+    padding: 0 0 5px 15px;
+}
+
+#Column1 #Discussion #StickyPostHolder li.Thumbnail .Meta {
+    padding: 0 0 22px 80px;
+}
+
+#Column1 #Discussion #StickyPostHolder li.Sticky ul.Actions {
+    right: 1px;
+}
+
+/* ===== */
+
+input#PostInput, input#NameInput {
+ margin: 0 0 0 10px;
+ border: 1px solid #ccc;
+    background: #f7fcfc;
+    width: 300px;
+    clear: both;
+}
+
+input#NameInput {
+ width: 250px;
+}
+
+#Column2 a {
+ text-decoration: none;
+}
+
+#Column2 dl {
+    margin: 0;
+}
+
+#Column1 #Discussion h3 {
+    margin: 0;
+}
+ 
+#Column1 #Discussion h3 a {
+    text-decoration: none;
+    font-weight: normal;
+}
+
+dl#WhosBloggingSidebar dd ul {
+ margin: 0;
+ padding: 0;
+}
+
+dl#WhosBloggingSidebar dd ul li {
+ margin: 0 0 3px;
+ padding: 0 10px 0 0;
+ list-style-type: none;
+ vertical-align: middle;
+ height: 20px;
+ display: block;
+ width: 270px;
+}
+
+dl#WhosBloggingSidebar dd ul li img {
+ height: 20px;
+ width: 20px;
+ margin-right: 5px;
+ float: left;
+}
+
+#Column2 dl dd {
+    margin: 0 1px;
+    padding: 0;
+    font-size: 11px;
+    text-align: left;
+    width: 298px;
+}
+
+#Column2 dl dd .Body {
+ margin: 8px;
+}
+
+#Column1 dl.Settings dd label {
+ width: 100px;
+ float: left;
+ text-align: right;
+ padding-right: 2px;
+ padding-top: 2px;
+}
+
+dl.Features ul, dl.Latest ul {
+    margin: 0;
+    padding-left: 15px;
+}
+
+dl.Features ul li, dl.Latest ul {
+    font-size: 15px;
+}
+
+#Discussion #LoginOptions iframe {
+    margin-left: 0;
+}
+
+textarea#PostInput {
+    width: 679px;
+    height: 88px;
+    margin: 10px 0 0 10px;
+}
+
+#UploadFrame {
+ float: left;
+ margin-left: 10px;
+ margin-top: 0;
+ margin-bottom: 2px;
+}
+
+.Posts li.Saving {
+    font-style: italic;
+}
+
+textarea {
+    border: 1px solid #ccc;
+    background: #f7fcfc;
+    margin: 0 0 5px 0;
+}
+
+span#NameInputAfter {
+ font-family: Arial;
+ font-size: 11px;
+ color: #000; 
+ margin-left: 10px;
+ clear: both;
+ float: left;
+ width: auto;
+ line-height: 11px;
+}
+
+#SaveButton {
+ float: right;
+ margin: 0 10px 0 0;
+}
+
+
+
+
+/* Captions ========== */
+
+ul.Posts div.Content p.Caption {
+    margin: 9px 0 0;
+}
+
+
+
+/* Comment and Options Toolbar ========== */
+
+ul#ToolbarMenu {
+    float: left;
+    background: #E5E5E5;
+    width: 100%;
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #999;
+}
+
+#Discussion ul#ToolbarMenu li {
+    padding: 5px;
+    float: left;
+    list-style: none;
+    line-height: 1em;
+    margin: 0;
+    background: transparent;
+}
+
+#Discussion ul#ToolbarMenu li.First {
+    padding-left: 5px;
+}
+
+#Discussion ul#ToolbarMenu li.Last {
+    padding-right: 5px;
+}
+
+
+#Discussion ul#ToolbarMenu li a {
+    display: block;
+    float: left;
+    padding: 5px;
+    line-height: 1em;
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    border: 0;
+}
+
+#Discussion ul#ToolbarMenu li.Last a {
+    border: 0;
+}
+
+#Discussion ul#ToolbarMenu li a:hover {
+    text-decoration: underline;
+    border-bottom: none;
+    color: black;
+    background: transparent;
+}
+
+#Discussion ul#ToolbarMenu li a.Selected {
+    background: none;
+    color: #2851A2;
+}
+
+#Discussion ul#ToolbarMenu li a:focus {
+    outline: none;
+}
+
+#Discussion ul#ToolbarMenu li.LiveIndicator {
+    color: #666;
+    font-weight: normal;
+    float: right;
+    margin-right: 10px;
+    padding: 9px 0 6px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#Discussion ul#ToolbarMenu li.LiveIndicator img {
+    vertical-align: middle;
+    float: none;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+a#MakeComment, a#HideComment {
+    display: none !important;
+}
+
+#Tools .Tool {
+    display: none;
+    float: none;
+}
+
+.CommentArea #CommentBox {
+    display: block !important;
+    border-bottom: 0;
+    width: 97%;
+}
+
+#Tools a.Button {
+    float: left;
+    clear: both;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 1px solid #d4d4d4;
+    border-bottom: 1px solid #b4b4b4;
+    border-right: 1px solid #b4b4b4;
+    width: auto;
+    padding: 5px 8px 4px;
+    text-shadow: 0 1px rgba(255, 255, 255, 0.75);
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+    background: #fff url(Images/Admin/ButtonGradient.png) bottom left repeat-x;
+    font-size: 12px;
+    position: relative;
+}
+
+#Tools a.Button:hover {
+    color: #000;
+}
+
+#Tools .ToolContent .Last {
+    border-right: 0;
+}
+
+/* Tools ========== */
+
+#Tools {
+    float: left;
+    width: 100%;
+    background: #ececec;
+    border-bottom: 1px solid #999;
+}
+
+#Tools .Tool .ToolContent {
+    padding: 10px 15px;
+}
+
+#Tools .Tool h4 {
+    margin: 0 0 15px;
+    font-size: 12px;
+    padding: 0;
+    background: transparent;
+    float: none;
+    border: 0;
+    color: #000;
+    text-transform: none;
+    font-family: Arial, sans-serif;
+    height: auto;
+    text-indent: 0;
+}
+
+#Tools .Tool h5 {
+    font-size: 11px;
+    color: #000;
+    margin: 0 0 5px;
+    font-weight: normal;
+    float: none;
+    font-family: Arial, sans-serif;
+    line-height: 1em;
+    background: transparent;
+    height: auto;
+    text-indent: 0;
+}
+     
+#SinglePost .Media .Caption {
+  margin-top: 5px;
+  text-align: left;
+  width: 100%;
+}
+
+#SinglePost a#ViewFullEvent {
+    font-size: 14px;
+}
+
+/* Others ========== */
+
+#Column1 #Discussion ul.Posts li ul.Actions {
+     bottom: 6px;
+     right: 6px;
+}
+
+
+#CommentBox #LoginOptions #AnonymousLogin {
+     width: 90%;
+}
+
+#LoginOptions div.Anonymous input#NameInput {
+     width: 100%;
+}
+
+#gigyamessage .messagetoshare a {
+     text-decoration: none;
+     color: #2851A2;
+}
+
+#gigyamessage .messagetoshare a:hover {
+     color: #002878;
+}
+
+.messagetoshare {
+     padding: 5px 7px
+}
+
+html body.news div#container div#containerBorder div#content.section div div#Col2 div#rightEmbed iframe#rightIframe {
+   display:none !important;
+}</style></head>
+<body onload="windowLoaded();" class="news specials">
+    <div id="container">
+      <div id="containerBorder">
+
+                <style>
+#middleLeft .globeTrial a {color:#D2232A;}
+#MastheadAug2011 .bgicontext a span {text-transform:none;}
+</style>
+<div id="MastheadAug2011">
+<div id="mastHead">
+  <div id="mastHeadTop">
+    <div id="signIn">
+      <span id="login">
+        <script language="JavaScript"><!--
+        try{showLoginRRD(147);}catch(e){document.writeln('&nbsp;');}
+        //-->
+        </script>
+        <noscript>&nbsp;</noscript>
+      </span>
+    </div>
+    <div id="headerRight" class="radioBDC">
+      <!--passthru-->  <style>
+    #mastHeadTop #headerRight.radioBDC {
+      position: relative;
+      left:-40px;
+    }
+
+    #headerRight.radioBDC {
+      float:right;
+      font-size:14px;
+      font-weight:bold;
+      padding-bottom:5px;
+      width:324px;
+      overflow:hidden;
+    }
+
+    #now-playing-header {
+      overflow:hidden;
+      height:14px;
+      float:right;
+      width: 220px;
+      position: relative;
+      margin-top:5px;
+    }
+
+    #now-playing-header .scrollMeAway {
+      position:absolute;
+      white-space:nowrap;
+      width:auto
+    }
+    a.listen-live {
+      color:#c33;
+    }
+  </style>
+<!--[if IE]>
+<style>
+#headerRight.radioBDC {width:323px}
+</style>
+<![endif]-->
+
+  <a href="http://www.boston.com/ae/radio/" class="radio-name"><img src="http://cache.boston.com/universal/site_graphics/player_iconlogo.png" alt="RadioBDC Logo"></a>
+  <div id="now-playing-header">
+    <div class="scrollMeAway">
+      <script>var radioType = 'none'</script>
+      <!--passthru--><span class="np-song-title"></span><span class="np-song-artist"></span>
+
+      <a class="listen-live imageLink" href="http://www.boston.com/ae/radio/player/" onclick="openWindow('http://www.boston.com/ae/radio/player/','radioBDC','width=870,height=580,resizable=no,scrollbars=no,toolbar=no,location=no,menubar=no,status=no'); return false; var s=s_gi('nytbglobe');
+s.linkTrackVars='eVar29,events';
+s.linkTrackEvents='event24';
+s.eVar29='Bcom Header';
+s.events='event24';
+s.tl(this,'o','RadioBDC Player Launch - Header');">
+	Listen Live</a>
+    </div>
+  </div>
+
+    </div>
+  </div>
+  <div id="middleLeft" style="width:210px;">
+    <a href="http://www.boston.com" class="imageLink" id="mastBcomLogo">Boston.com</a>
+    <!--[if lte IE 7]><div id="moveup10px" style="margin-top:-15px"><![endif]-->
+    <div id="mastSearch">
+      <form action="http://www.boston.com/search/">
+	 <input type="hidden" value="ssearch" name="q">
+        <input type="text" name="s.sm.query" value="Search" onclick="if(this.value=='Search'){this.value=''}" id="mastSearch" style="width:170px;">
+        <input type="submit" value="&nbsp;" class="mastSearch">
+      </form>
+    </div>
+    <!--[if lte IE 7]></div><![endif]-->
+  </div>
+  <div id="middleRight">
+    <iframe id="adTop" style="width:736px;height:100px;position:relative;float:right;border:0;padding:0;margin-top:-5px;" frameborder="0" scrolling="no" src="http://cache.boston.com/universal/site_graphics/spcr.gif"></iframe>
+  </div>
+</div></div><!-- end of masthead -->
+
+    <div id="globalNav">
+<ul class="gnavContainer" id="nav"><li id="ghome"><a href="http://www.boston.com/">Home</a></li><li id="gglobe"><a href="http://www.bostonglobe.com/">Today's Globe</a></li><li id="gnews"><a href="http://www.boston.com/news/">News</a></li><li id="gyourtown"><a href="http://www.boston.com/yourtown/">Your Town</a></li><li id="gbusiness"><a href="http://www.boston.com/business/">Business</a></li><li id="gsports"><a href="http://www.boston.com/sports/">Sports</a></li><li id="glifestyle"><a href="http://www.boston.com/lifestyle/">Lifestyle</a></li><li id="gae"><a href="http://www.boston.com/ae/">A&amp;E</a></li><li id="gthings"><a href="http://www.boston.com/thingstodo/">Things to do</a></li><li id="gtravel"><a href="http://www.boston.com/travel/">Travel</a></li><li id="gcars"><a href="http://www.boston.com/cars/">Cars</a></li><li id="gjobs"><a href="http://www.boston.com/jobs/">Jobs</a></li><li id="gre"><a href="http://www.boston.com/realestate/">Real Estate</a></li></ul>
+
+
+        </div>
+
+        <div id="introad" class="adContainer"><script language="JavaScript"><!--
+OAS_AD('INTRO');
+//--></script></div>
+        <div id="billboardAd" class="adContainer"><script language="JavaScript"><!--
+OAS_AD('BILLBOARD');
+//--></script></div>
+
+
+
+
+<div id="content" class="section section95">
+
+  <div>
+    <div id="Col1">
+    <div id="Col1Header"></div>
+        <div class="scribblelive-embed">
+    
+    
+
+<h2 id="ThreadTitle">2013 Boston Marathon live blog</h2>
+
+<h3 class='Description'>Updates, photos, video and more about the 2013 Boston Marathon on April 15.</h3><div><div id="TopHtml"><script type="text/javascript">
+
+var includeLocation = "http://www.boston.com/sports/marathon/boston_marathon_liveblog_include";
+
+var section="marathon";
+</script></div></div>
+    
+    
+     <script type="text/x-handlebars-template" id="emailnotificationsignup-tmpl">
+            <div id="EmailNotificationSignup">
+                <h3><img src="http://cdn.scribblelive.com/modules/notifications/images/alert_icon_embed_whitelabel.png"/> {{lbl_title}}</h3>
+                <input type="text" name="fname" id="EmailInput" placeholder="{{lbl_emailplaceholder}}"/>
+                <p id="NotificationMessage">{{content}}</p>
+                <a href="#" onclick="return SCRIBBLE.Notifications.Notifications.SignUp(null, true);" class="Button">{{submit}}</a>
+            </div>
+        </script>
+
+    
+    
+    
+<div id='Column1'>
+<div id="Column1Area_SyndicatedTopHtmlForBasicTemplate_Holder">
+    </div>
+<div id="Column1Area_ArticleArea">
+	
+<div id="Column1Area_ArticleHolder" class="LiveArticle"><br class="SL_C_22127705_59_60920397"><span class="SL_C_22127705_60_60920397"></span><br class="SL_C_22127705_61_60920397"><div class="SL_C_22127331_51"><span class="SL_C_6393702_3">BREAKING NEWS:&nbsp;</span><span class="SL_C_22127705_134_93097862"></span><br class="SL_C_22127705_135_93097862"><span class="SL_C_22127705_76_63986082"><span class="SL_C_6393702_25"><span class="SL_C_6393702_133">Two explosions occurred near the Boston Marathon finish line at 2:50 p.</span><span class="SL_C_6393702_134">m.</span></span><span class="SL_C_22127705_77_63986082"><span class="SL_C_6393702_76">&nbsp;The race was diverted before being halted as police and fire crews swept the area. Another</span><span class="SL_C_6393702_77">&nbsp;device was found, which was purposely detonated by Boston Police at Boylston Street. Another incident at JFK Library, which was thought to be a fourth-related incident, is now being considered as a fire-related issue by the Boston Police Department</span><span class="SL_C_6393702_78">.</span><span class="SL_C_6393702_79">&nbsp;&gt;&gt;&gt; This is a developing story.</span><span class="SL_C_22127705_78_63986082">&nbsp;</span></span></span><div class="SL_C_22127705_82_63986082"><span class="SL_C_22127705_81_63986082"><br class="SL_C_22127705_83_63986082"></span></div><div class="SL_C_22127705_62_60920397"><span class="SL_C_22127705_63_60920397">-- Boston Police are looking for tips: 617-635-4500 or 1-800-494-TIPS.&nbsp;</span></div><div class="SL_C_22127705_65_60920397"><span class="SL_C_22127705_64_60920397"><br class="SL_C_22127705_66_60920397"></span></div><div class="SL_C_22127705_51_60920397"><span class="SL_C_22127705_52_60920397"><a href="http://live.boston.com/Event/Live_blog_Explosion_in_Copley_Square" class="SL_C_22127705_68_60920397">FOLLOW ALONG OUR COVERAGE OF THE EXPLOSIONS AT COPLEY SQUARE</a><span class="SL_C_22127705_69_60920397">.&nbsp;</span></span></div><div class="SL_C_22127705_54_60920397"><span class="SL_C_22127705_53_60920397"><br class="SL_C_22127705_56_60920397"></span></div><div class="SL_C_22127705_55_60920397"><span class="SL_C_6393702_3_32127578"><br class="SL_C_22127705_57_60920397"></span></div></div><ul class="SL_C_6393702_32_37341271"><li class="SL_C_6393702_11_37341271"><b class="SL_C_6393702_28_37341271"><span class="SL_C_6393702_12_37341271">Rita Jeptoo of Kenya wins the women's division</span><span class="SL_C_6393702_3_37341271"></span><span class="SL_C_6393702_4_37341271"></span></b></li><li class="SL_C_6393702_20_37341271"><span class="SL_C_6393702_21_37341271"><b class="SL_C_6393702_29_37341271">Lelisa Desisa Benti of Ethiopia wins the men's division&nbsp;</b></span></li><li class="SL_C_6393702_13_37341271"><b class="SL_C_6393702_30_37341271"><span class="SL_C_6393702_14_37341271"><span class="SL_C_22127331_20">Tatyana McFadden of the United States wins the women's wheelchair race</span></span><span class="SL_C_6393702_17_37341271"></span></b></li><li class="SL_C_6393702_24_37341271"><span class="SL_C_6393702_25_37341271"><span class="SL_C_6393702_26_37341271"><b class="SL_C_6393702_31_37341271">Japan’s Hiroyuki Yamamoto won the men’s wheelchair race</b></span></span><span class="SL_C_6393702_44_37341271"></span></li></ul></div>
+
+
+</div>
+
+<div>
+<div id="TopPagination"><ul class='Pagination'><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=0' class='Current'>&lt; Oldest</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=0' class='Current'>1</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=1'>2</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=2'>3</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=3'>4</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=4'>5</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=5'>6</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=6'>7</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=7'>8</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=8'>9</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=9'>10</a></li><li><a href='#' target='_self' class='NotLink'>...</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=76'>Newest &gt;</a></li></ul></div>
+
+
+ <script type="text/javascript">
+    
+    ( new LiveArticle_Viewer( 46297, ".LiveArticle" ) ).AnimateEdits();
+    
+</script>
+
+    
+
+        <script type="text/x-handlebars-template" id="slideshow-container-tmpl">
+            <div class="SL_SlideShow" contenteditable="false" unselectable="on">
+                <div class="SlideContainer" contenteditable="false" unselectable="on"></div>
+                <div class="SlideShowPrev SlideShowNav" contenteditable="false" unselectable="on" title="Previous">Previous</div>
+                <div class="SlideShowNext SlideShowNav" contenteditable="false" unselectable="on" title="Next">Next</div>
+                <div class="SL_SlideShow_Counter" contenteditable="false" unselectable="on">
+                    <p unselectable="on"><span class="SL_SlideShow_Current" contenteditable="false" unselectable="on">{{current}}</span> of <span class="SL_SlideShow_Total" contenteditable="false" unselectable="on">{{total}}</span></p>
+                </div>
+            </div>
+        </script>
+
+        <script type="text/x-handlebars-template" id="slideshow-slide-tmpl">
+            <div class="SL_SlideShow_Slide" contenteditable="false" unselectable="on">
+                <div class="Slide-Inner" contenteditable="false" unselectable="on">
+                    <div class="MediaWrap" contenteditable="false" unselectable="on">
+                        <div class="Media" contenteditable="false" unselectable="on">
+                            {{#if imagePost }}
+                                <img src="{{imagePost}}" contenteditable="false" unselectable="on" />
+                                <div class="MetaWrap" contenteditable="false" unselectable="on">
+                                    <div class="Caption" contenteditable="true">
+                                        <span>{{{caption}}}</span>
+                                    </div>
+                                    <div class="Meta" contenteditable="false" unselectable="on">
+                                        <span unselectable="on">{{{metaby}}}</span>
+                                        <em unselectable="on">{{{metaname}}}</em>
+                                        <span unselectable="on">{{{metatime}}}</span>
+                                    </div>
+                                </div>
+                            {{/if}}
+                            {{#if content}}
+                                {{{content}}}
+                            {{/if}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </script>   
+
+        <script type="text/x-handlebars-template" id="slideshow-reorder-tmpl">
+            <div class="SlideShowReorderContainer">
+                <a href="#" class="Ignore ReorderSaveButton Edit Button Compact" style="position: relative;">Save</a>
+                <a href="#" class="Ignore ReorderCancelButton Edit Button Compact" style="position: relative;">Cancel</a>
+                <ul class="SlideShowReorder">
+                {{#reorder_images images}}
+                    <li><img src="{{src}}" class="{{className}}" /></li>
+                {{/reorder_images}}
+                </ul>
+            </div>
+        </script>
+    
+      
+    <script type="text/javascript">
+        var SlideShow = (typeof SCRIBBLE == 'undefined' ? SlideShow : SCRIBBLE.ui.SlideShow);
+    </script>
+
+<div id="Discussion" class="">
+
+
+
+
+<ul id="StickyPostHolder" class="Posts Descending Empty">
+
+	
+
+</ul>
+
+
+
+
+
+
+<ul id="Posts" class="Posts Ascending">
+
+	
+            
+			<li id="LiveBlog_Post71086614" class="First PostType_1 meta-top" data-postid="71086614">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/5/2013 11:25:23 AM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/5/2013 11:25:23 AM') )</script></span></span></div> <div class="Content">The Boston Marathon is April 15.</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post71106164" class=" PostType_1 meta-top Odd" data-postid="71106164">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/5/2013 2:27:42 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/5/2013 2:27:42 PM') )</script></span></span></div> <div class="Content">Top American marathoner Meb Keflezighi has withdrawn from the 2013 Boston Marathon.</div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72172286" class=" PostType_2 meta-top" data-postid="72172286">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/11/2013 12:56:34 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/11/2013 12:56:34 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/11/41a4dbaf-e4ed-4f49-9b87-407d169e7ba4_400.jpg"><p class='Caption'>Meet Alexis Drzewiecki, who is running the Boston Marathon on Monday, but also has a goal to do a marathon on all seven continents. The kicker: She's already checked off Antarctica</p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72172375" class=" PostType_1 meta-top Odd" data-postid="72172375">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/11/2013 12:57:11 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/11/2013 12:57:11 PM') )</script></span></span></div> <div class="Content"><a href="http://www.boston.com/sports/marathon/blog/2013/04/boston_next_stop_for_marathone.html">Here's our story on Alexis Drzewiecki.</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72172484" class=" PostType_1 meta-top" data-postid="72172484">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/11/2013 12:58:03 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/11/2013 12:58:03 PM') )</script></span></span></div> <div class="Content">Newton Running will hold natural running clinics near the Charles River on Friday and Saturday. Corner of Memorial Drive and Mass. Ave. Look for the green tents.</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72240189" class=" PostType_3 meta-top Odd" data-postid="72240189">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/2/23/c6205d43-597b-42bf-9242-2cbbf9408b0e.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22988980">Steve Silva, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/11/2013 7:54:52 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/11/2013 7:54:52 PM') )</script></span></span></div> <div class="Content"><span id="Playerb60e86fa94744c9bb60d33bba6d3847c" class="VideoEmbedHolder"></span><script type="text/javascript">LiveBlog.DisplayVideo("http://media.scribblelive.com/2013/4/11/9fc0e5ea-14b2-4b1e-ae7e-205cdf142d31.xml", "mp4", "Playerb60e86fa94744c9bb60d33bba6d3847c", document.getElementById("Playerb60e86fa94744c9bb60d33bba6d3847c"), 512, 288, 400, '', 72240189);</script><p class='Caption'>Brooks booth at Expo</p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72269702" class=" PostType_1 meta-top" data-postid="72269702">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/11/2013 11:21:00 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/11/2013 11:21:00 PM') )</script></span></span></div> <div class="Content">BAA will honor Newtown victims with special marker at Mile 26 of Boston Marathon.</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72359901" class=" PostType_1 meta-top Odd" data-postid="72359901">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 12:23:56 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 12:23:56 PM') )</script></span></span></div> <div class="Content">Lots of running and Marathon events going on this weekend. <a href="http://www.boston.com/sports/marathon/blog/2013/04/boston_marathon_weekend_events.html">Here's my quick review in our regular Marathon blog</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72361622" class=" PostType_1 meta-top" data-postid="72361622">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 12:36:56 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 12:36:56 PM') )</script></span></span></div> <div class="Content">Every year, Brooks Running is among the most creative companies at the Boston Marathon Expo, and this year is no exception. <a href="http://www.boston.com/sports/marathon/blog/2013/04/as_usual_brooks_gets_creative.html">Steve Silva got a behind the scenes look on Thursday. </a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72366320" class=" PostType_1 meta-top Odd" data-postid="72366320">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 1:13:01 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 1:13:01 PM') )</script></span></span></div> <div class="Content">The elite runners will be introduced this morning at a press conference. We'll bring you the latest starting around 10 a.m.</div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72380474" class=" PostType_1 meta-top" data-postid="72380474">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322722809514180608'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 2:48:08 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72380474, true );" onclick="return GoToSinglePostPermalink(72380474); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 2:48:08 PM') )</script></a></span></span></div> <div class="Content">American hopeful, Shalane Flanagan, speaking to the media at the John Hancock Media Conference. <a href="http://t.co/mRu2OsazsB">http://fb.me/22Z8nz73n</a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72380851" class=" PostType_1 meta-top Odd" data-postid="72380851">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322723341523877888'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 2:50:15 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72380851, true );" onclick="return GoToSinglePostPermalink(72380851); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 2:50:15 PM') )</script></a></span></span></div> <div class="Content">2012 Olympian, Kara Goucher, talking about what she'll need to do to bring home the glory at the 2013 Boston... <a href="http://t.co/GFdlzwCYtF">http://fb.me/1HTtf0cxR</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72389917" class=" PostType_2 meta-top" data-postid="72389917">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 3:45:42 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 3:45:42 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/a70c4777-6d05-492d-9608-ae6384775eae_400.jpg"><p class='Caption'>Lt. Colonel Rodney Freeman has been named the recipient of this year's Patriots' Award from the Boston Athletic Association. He founded the "Shadow Run" held on or near Patriots Day for US military stationed overseas.</p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72391814" class=" PostType_1 meta-top Odd" data-postid="72391814">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322740692533256192'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 3:59:12 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72391814, true );" onclick="return GoToSinglePostPermalink(72391814); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 3:59:12 PM') )</script></a></span></span></div> <div class="Content">Today's Boston Marathon Media Conference, featuring B.A.A. 5K and Invitational Mile runners, will be... <a href="http://t.co/N2YrrwsKwJ">http://fb.me/1ZYFDjBCh</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72400018" class=" PostType_2 meta-top" data-postid="72400018">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 4:59:53 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 4:59:53 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/79885fe9-ec6e-4b74-84b3-f678146c301d_400.jpg"><p class='Caption'>Welcome to the 2013 Boston Marathon Expo!</p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72402328" class=" PostType_2 meta-top Odd" data-postid="72402328">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 5:17:25 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 5:17:25 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/f757d840-973f-4c36-b62e-32ff5c56065d_400.jpg"><p class='Caption'>A line has already formed for number pick-up in the Hines Convention Center. The earliest arrival came at 11:30 this morning. </p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72403833" class=" PostType_2 meta-top" data-postid="72403833">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 5:30:05 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 5:30:05 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/c379ce77-b8d7-4443-bbe9-f7aa7b05ed87_400.jpg"><p class='Caption'>Rafael Caspeneda of Alaska and Jerome Gerrior of Nova Scotia anxiously await their number pickup. "I've never been so excited in my life," said Gerrior, 53.</p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72404897" class=" PostType_1 meta-top Odd" data-postid="72404897">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 5:38:17 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 5:38:17 PM') )</script></span></span></div> <div class="Content">The number pick-up line has already wrapped itself around the second level of the convention center but excitement and spirits are very high. </div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72405323" class=" PostType_1 meta-top" data-postid="72405323">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2012/3/30/20594b1f-b051-448f-8f1b-937460cc86b4.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator12065935">Elizabeth Comeau, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 5:41:19 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 5:41:19 PM') )</script></span></span></div> <div class="Content">Can't wait to pick up my #baa5k bib today!</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72406185" class=" PostType_2 meta-top Odd" data-postid="72406185">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 5:47:59 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 5:47:59 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/4c8caa2c-ced7-4b00-87a7-2dafa5184e11_400.jpg"><p class='Caption'>Miroslava Bedo traveled from the Florida Keys to run Boston for the third time. She says she hopes to beat her time from 2012, around 4:11. </p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72409314" class=" PostType_2 meta-top" data-postid="72409314">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:09:03 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:09:03 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/ec723d41-0ff1-413e-9156-7825606c695c_400.jpg"><p class='Caption'>Bob Steinberg, 62, of Winnipeg was first in line to pick up his number for the marathon. He said he'd be happiest finishing the race in under 3:55. </p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72409538" class=" PostType_2 meta-top Odd" data-postid="72409538">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:10:39 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:10:39 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/28c36136-f917-4af1-adc5-b9ca701c83e7_400.jpg"><p class='Caption'>Runners entered the expo through the official Adidas/Boston Marathon shop. </p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72410184" class=" PostType_2 meta-top" data-postid="72410184">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:15:11 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:15:11 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/cf1a7da1-8ccb-4107-8c26-47d9332482b3_400.jpg"><p class='Caption'>Companies like GU, Saucony and New Balance set up for runners to shop around and try samples. </p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72411529" class=" PostType_2 meta-top Odd" data-postid="72411529">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:24:46 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:24:46 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/d439efac-e767-4cc3-b7a6-ae3c6dd47781_400.jpg"><p class='Caption'>Jay Holder, 29, Lauren Holder, 32, and Josh Leech, 31, all of Manhattan, NY. decided on the newest line of Adidas sneakers. Jay Holder is running the marathon while Lauren Holder and Leech will run the BAA 5K on Sunday. </p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72413111" class=" PostType_2 meta-top" data-postid="72413111">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/5/1a43c9dd-943a-4dff-a659-afaf242b2fb0.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26150220">Marie Torto, Boston.com</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:33:38 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:33:38 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/12/5dd9ce54-60b9-44ab-854b-0d1f2b738ada_400.jpg"><p class='Caption'>Now a half hour into number pick-up, the main hall is flooded with excited participants. Runners can pick up their numbers until the Expo closes at 7pm.</p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72415649" class=" PostType_1 meta-top Odd" data-postid="72415649">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2010/4/19/7195569a-feda-4571-9841-bf81e472440c.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator966302">Boston Marathon News</em> <span class="Source">via <a href='http://twitter.com/GlobeMarathon/status/322783366682390528'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:48:46 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72415649, true );" onclick="return GoToSinglePostPermalink(72415649); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:48:46 PM') )</script></a></span></span></div> <div class="Content">Watch @ShalaneFlanagan talk about her first attempt at the #BostonMarathon in this video by @stevesilva <a href="http://t.co/RtLs8mv0CJ">http://bo.st/158NUco</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72409310" class="Comment PostType_1 meta-top" data-postid="72409310">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/default.png" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator26665470">florence currier</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 6:50:16 PM</span><span class="Posted Comment">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 6:50:16 PM') )</script></span></span></div> <div class="Content">best of luck flo</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72419556" class=" PostType_1 meta-top Odd" data-postid="72419556">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 7:13:08 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 7:13:08 PM') )</script></span></span></div> <div class="Content">Here's the <a href="http://www.boston.com/sports/baseball/redsox/extras/extra_bases/2013/04/rays-red_sox_po.html">full story on Shalane Flanagan's Boston Marathon outlook</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72431580" class=" PostType_1 meta-top" data-postid="72431580">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2010/4/19/7195569a-feda-4571-9841-bf81e472440c.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator966302">Boston Marathon News</em> <span class="Source">via <a href='http://twitter.com/GlobeMarathon/status/322809037106331649'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 8:30:46 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72431580, true );" onclick="return GoToSinglePostPermalink(72431580); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 8:30:46 PM') )</script></a></span></span></div> <div class="Content">#BostonMarathon preview: Kenyan marathoners dominate Boston and the world <a href="http://t.co/Yx0oGnNyyC">http://b.globe.com/12SmEOR</a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72432353" class=" PostType_1 meta-top Odd" data-postid="72432353">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322810469205278720'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 8:36:28 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72432353, true );" onclick="return GoToSinglePostPermalink(72432353); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 8:36:28 PM') )</script></a></span></span></div> <div class="Content">Replay of B.A.A. 5K &amp; Mile Media Conference <a href="http://t.co/K5z5f3ccyy">http://fb.me/1IhZEO44a</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72434185" class=" PostType_1 meta-top" data-postid="72434185">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322814110674849792'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 8:50:56 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72434185, true );" onclick="return GoToSinglePostPermalink(72434185); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 8:50:56 PM') )</script></a></span></span></div> <div class="Content">The John Hancock Elite Athlete Team is in Boston and ready to race. Thirty-Two of the best marathoners from 11... <a href="http://t.co/mwb0ippkm4">http://fb.me/1ga1aHFzC</a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72436715" class=" PostType_1 meta-top Odd" data-postid="72436715">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322818889799065600'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 9:09:55 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72436715, true );" onclick="return GoToSinglePostPermalink(72436715); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 9:09:55 PM') )</script></a></span></span></div> <div class="Content">FAQ FRIDAY:<br><br>(Q) What if I lost my Runner Passport™ or left it at home?<br><br>(A) Replacement passports are available... <a href="http://t.co/JOAfikSAig">http://fb.me/22b4P59u0</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72437515" class=" PostType_1 meta-top" data-postid="72437515">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 9:17:04 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 9:17:04 PM') )</script></span></span></div> <div class="Content">Runners flocking to Boston. <a href="http://www.boston.com/sports/marathon/blog/2013/04/runners_flock_to_city_for_bost.html">Full story here.</a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72438197" class=" PostType_1 meta-top Odd" data-postid="72438197">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2010/4/19/7195569a-feda-4571-9841-bf81e472440c.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator966302">Boston Marathon News</em> <span class="Source">via <a href='http://twitter.com/GlobeMarathon/status/322822096659038209'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 9:22:40 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72438197, true );" onclick="return GoToSinglePostPermalink(72438197); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 9:22:40 PM') )</script></a></span></span></div> <div class="Content">Runners invade city for #BostonMarathon <a href="http://t.co/gr5P05Vclr">http://bo.st/1594xok</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72438339" class=" PostType_1 meta-top" data-postid="72438339">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2010/4/19/7195569a-feda-4571-9841-bf81e472440c.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator966302">Boston Marathon News</em> <span class="Source">via <a href='http://twitter.com/GlobeMarathon/status/322822423852498944'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 9:23:58 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72438339, true );" onclick="return GoToSinglePostPermalink(72438339); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 9:23:58 PM') )</script></a></span></span></div> <div class="Content">Meet the first guy in line to pick up his #BostonMarathon number today: <a href="http://t.co/gr5P05Vclr">http://bo.st/1594xok</a></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72444941" class=" PostType_1 meta-top Odd" data-postid="72444941">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/4/12/55be46e6-5620-48d6-94f0-24c002b84888.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta">by <em class="Creator12724402">Boston Marathon</em> <span class="Source">via <a href='http://twitter.com/bostonmarathon/status/322836276128665600'>twitter</a></span>  <span class="DisplayPostTime"><span class="ServerTime">4/12/2013 10:19:01 PM</span><span class="Posted">  <a class="SinglePostLink" href="javascript:void(0)" onmouseover="this.href=GetSinglePostPermalink(72444941, true );" onclick="return GoToSinglePostPermalink(72444941); return false;"><script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/12/2013 10:19:01 PM') )</script></a></span></span></div> <div class="Content">Join  @citysports  and @adidasUS  Saturday for last minute race tips from Coach Terry Shea of the @B_A_A_  ! Details: <a href="http://t.co/xN5LStmB0T">http://bit.ly/156bJ4p</a></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72523016" class=" PostType_1 meta-top" data-postid="72523016">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 12:02:24 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 12:02:24 PM') )</script></span></span></div> <div class="Content">Charles river area absolutely packed with runners right now</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72523119" class=" PostType_2 meta-top Odd" data-postid="72523119">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 12:03:16 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 12:03:16 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/13/be0bd5cc-087e-449e-92b2-1fa43ba05f80_400.jpg"><p class='Caption'>Michael Blanchard is our guide this morning at the Newton Running natural running clinic.</p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72528944" class=" PostType_2 meta-top" data-postid="72528944">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 12:56:14 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 12:56:14 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/13/337e4211-9d5c-4470-b9e6-67a7c9983a62_400.jpg"><p class='Caption'>Race setup in progress at Copley </p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72529699" class=" PostType_2 meta-top Odd" data-postid="72529699">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 1:03:08 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 1:03:08 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/13/accafcb0-1214-4b34-aa3a-c3926a86a11c_400.jpg"><p class='Caption'>Finish line setup well under way</p></div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72532081" class=" PostType_1 meta-top" data-postid="72532081">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 1:24:38 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 1:24:38 PM') )</script></span></span></div> <div class="Content">New Balance hosting midnight run (actually starts at 11) from store on Boylston/Dartmouth to North End and back. Flashing lights, LED hats and other giveaways.</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72532538" class=" PostType_1 meta-top Odd" data-postid="72532538">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 1:28:30 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 1:28:30 PM') )</script></span></span></div> <div class="Content">Full details on New Balance's Midnight Run tonight:<br><br>Details:<br>-          Saturday 4/13<br>-          11pm start (sharp) at Boylston and Dartmouth (Copley Square); Look for the New Balance trolley near the NB Boylston Store.<br>-          4 miles to the North End (Revere Statue) and back, guided by Paul Revere and his friends.<br>-          Totally free!!!!<br>-          Flashing lights, LED hats and other give-aways!<br>-          This is not a race. Just a fun, free run through the city. Obey all traffic signs.</div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72536173" class=" PostType_2 meta-top" data-postid="72536173">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 1:56:54 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 1:56:54 PM') )</script></span></span></div> <div class="Content"><img src="http://images.scribblelive.com/2013/4/13/309c1c03-c093-40c1-8add-4d787e8334af_400.jpg"><p class='Caption'>BAA executive director Tom Grilk getting ready for the champions breakfast presentation </p></div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72537530" class=" PostType_1 meta-top Odd" data-postid="72537530">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 2:05:49 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 2:05:49 PM') )</script></span></span></div> <div class="Content">BAA executive director Tom Grilk: "Looks like we have a great day to run," on Monday </div>	
+						 					
+						
+					</div>
+                   
+			</li>
+		
+            
+			<li id="LiveBlog_Post72540376" class=" PostType_1 meta-top" data-postid="72540376">
+					 
+					<div class="avatar-area"><img src="http://avatars.scribblelive.com/2013/6/11/ae394e8d-1a80-4485-938e-1407fef6127a.jpg" class="avatar" alt=""></div>
+					<div class="content-area">
+						<div class="Meta"><em class="Creator22127331">Matt Pepin, Sports Editor</em> <span class="DisplayPostTime"><span class="ServerTime">4/13/2013 2:24:52 PM</span><span class="Posted">  <script type="text/javascript">document.write( LiveBlog.ConvertServerTimeToLocalTimeFriendlyString('4/13/2013 2:24:52 PM') )</script></span></span></div> <div class="Content">Deep wheelchair field this year because of bonus money on the line for best performance in both Boston on Monday and London next Sunday.</div>						
+						 
+						
+					</div>
+                   
+			</li>
+		
+
+</ul>
+
+</div>
+
+
+<div id="BottomPagination"><ul class='Pagination'><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=0' class='Current'>&lt; Oldest</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=0' class='Current'>1</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=1'>2</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=2'>3</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=3'>4</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=4'>5</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=5'>6</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=6'>7</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=7'>8</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=8'>9</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=9'>10</a></li><li><a href='#' target='_self' class='NotLink'>...</a></li><li><a target='_self' href='http://live.boston.com/Event/2013_Boston_Marathon_live_blog?Page=76'>Newest &gt;</a></li></ul></div>
+
+</div>
+
+
+
+
+<script type="text/javascript">
+var ThreadLiveBlog = new LiveBlog( ThreadId, NewestAtBottom, Time, UserId, AllowedToEdit, null, null, 400, 0 );
+
+
+
+ThreadLiveBlog.NewPostSound = "http://media.scribblelive.com/Sounds/1.mp3";
+ThreadLiveBlog.IsModerated = true;
+ThreadLiveBlog.PreviewImage = "http://images.scribblelive.com/2013/4/11/41a4dbaf-e4ed-4f49-9b87-407d169e7ba4_300.jpg";
+ThreadLiveBlog.Title = "2013 Boston Marathon live blog";
+ThreadLiveBlog.Description = "Updates, photos, video and more about the 2013 Boston Marathon on April 15."; 
+ThreadLiveBlog.URL = "http://live.boston.com/Event/2013_Boston_Marathon_live_blog";
+ThreadLiveBlog.UserName = "";
+ThreadLiveBlog.Language = "en";
+
+
+
+(new PostUI()).Setup();
+
+try {
+    if( ( document.location + "" ).match( /[\?&]translate=/i ) )
+    {
+        var PassedLanguage = ( document.location + "" ).match( /[\?&]translate=([a-z]+)/i )[1];
+        ThreadLiveBlog.TranslateAllPosts( PassedLanguage );
+    
+    }
+} catch(ex) {}
+</script>
+
+<a href="http://www.scribblelive.com" title="ScribbleLive liveblog liveblogging" id="PoweredBy">Powered by ScribbleLive</a></div></div>
+
+        <div id="BF_WIDGET_1">&nbsp;</div>
+			<script type="text/javascript">
+			(function( ){
+			BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+			BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=boston.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+			setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+			})();
+			</script>
+		</div>
+    <div id="Col2">
+        <div id="railTop"></div>
+        <div class="fixedAds"><iframe id="adCentral" style="width:310px;height:260px;border:0;padding:0;" frameborder="0" scrolling="no" src="http://cache.boston.com/universal/site_graphics/spcr.gif"></iframe></div>
+
+        <div class="padTop16"></div>
+
+        <div id="rightEmbed"><iframe id="rightIframe" src="http://cache.boston.com/universal/site_graphics/spcr.gif" frameborder="0" style="height:1200px;width:329px;"></iframe></div>
+		<div class="fixedAds"><iframe id="adVendor" style="width:310px;height:260px;border:0;padding:0;" frameborder="0" scrolling="no" src="http://cache.boston.com/universal/site_graphics/spcr.gif"></iframe></div>
+
+		<script type="text/javascript">
+			//add a right rail include
+			if (typeof(includeLocation) != 'undefined' && (includeLocation.length > 10)) {
+				   $('#rightIframe').attr('src',includeLocation);
+				   }
+			//now for section magic
+			if (typeof(section) == 'undefined') {var section="news"}
+			switch (section.toLowerCase())
+			{
+			case 'news':
+			  var sitepage = "news/special/scribble/article", omnitureSection = "News", omnitureSubsection = "News | Special reports", navID='gnews';
+			  break;
+			case 'sports':
+			  var sitepage = "sports/special/scribble/article", omnitureSection = "Sports", omnitureSubsection = "Sports | Specials", navID='gsports';
+			  break;
+			case 'a&e':
+			  var sitepage = "ae/special/scribble/article", omnitureSection = "A&E", omnitureSubsection = "A&E | Specials", navID='gae';
+			  break;
+			case 'ae':
+			  var sitepage = "business/special/scribble/article", omnitureSection = "Business", omnitureSubsection = "Business | Specials", navID='gbusiness';
+			  break;
+			case 'lifestyle':
+			  var sitepage = "lifestyle/special/scribble/article", omnitureSection = "Lifestyle", omnitureSubsection = "Lifestyle | Specials", navID='glifestyle';
+			  break;
+			case 'yourtown':
+			  var sitepage = "news/yourtown/scribblelive/blog", omnitureSection = "Your Town", omnitureSubsection = "Your Town", navID='gyourtown';
+			  break;
+			case 'hive':
+			  var sitepage = "business/innovation/inside-the-hive/blog", omnitureSection = "Business", omnitureSubsection = "Business | Innovation", navID='gbusiness';
+			  break;
+			case 'marathon':
+			  var sitepage = "sports/marathon/blog", omnitureSection = "Sports", omnitureSubsection = "Sports | Boston Marathon", navID='gsports';
+			  break;
+			default:
+			  var sitepage = "news/special/scribble/article", omnitureSection = "News", omnitureSubsection = "News | Special reports", navID='gnews';
+			  break;
+			}
+			var eventTitle = $('#ThreadTitle').text().replace(/ Live$/,'');
+			//display ads
+			var OAS_rn = '001234567890';
+			OAS_rn = new String (Math.random()); var OAS_rns = OAS_rn.substring(2, 11);
+			$('#adCentral').attr('src',"http://rmedia.boston.com/RealMedia/ads/adstream_sx.ads/www.boston.com/"+sitepage+"/@CENTRAL?rid=1" + OAS_rns);
+			$('#adTop').attr('src',"http://rmedia.boston.com/RealMedia/ads/adstream_sx.ads/www.boston.com/"+sitepage+"/@TOP?rid=1" + OAS_rns);
+			$('#adVendor').attr('src',"http://rmedia.boston.com/RealMedia/ads/adstream_sx.ads/www.boston.com/"+sitepage+"/@VENDOR?rid=1" + OAS_rns);
+			//fix nav
+			$('#'+navID+' a').css('color','#FFFFFF');
+			$('#'+navID).css('background-image','url(http://cache.boston.com/universal/site_graphics/nav_main_on.gif)');
+			$('#'+navID).css('background-color','#3F5F9C')
+
+
+			if (section == 'marathon')
+			{//marathon special case
+			var marathon = "<link rel='stylesheet' href='http://cache.boston.com/_webdesignready/2010/sports/marathon/code/styles/homepage.css' type='text/css' />  			<scr"+"ipt type='text/javascript' src='http://cache.boston.com/_webdesignready/2009/news/campaign_pages/code/scripts/jquery.tools.tabs.js'></scr"+"ipt>  			 				  			<div id='bdc_marathon2010' class='nine outset'>  			<ul class='mainNav hp clearfix'>  				<li class='first'><a class='navItem' href='http://www.boston.com/sports/marathon/blog/'>Blog</a></li>  				  				<li class='second'><a class='navItem' href='http://www.boston.com/sports/marathon/whyirun2013/'>Why I Run</a></li>  				  				<li style='list-style: none'>  					<h1><a href='http://www.boston.com/sports/marathon/'><img id='image9col' src='http://cache.boston.com/_webdesignready/2011/sports/marathon_dz/images/marathon_flag_2011_v2.gif'></a></h1>  				</li>  				  				<li class='third'><a class='navItem' href='http://www.boston.com/sports/marathon/galleries/'>Photos</a></li>  				  				<li class='last'><a class='navItem' href='http://www.boston.com/sports/marathon/course/'>Course</a><br>  			 					<!--  SPONSORSHIP? -->  					<div style='position:absolute; right:0; top:46px; width:auto; padding:0;'></div> 				</li>  			</ul>  			</div>  <!-- marathon2010 -->  			  			  			  </div>";
+			$('#Col1Header').html(marathon);
+			}
+
+			//in stream advertising
+			var adInsertHTML = '<li class="AdPost" style="text-align:center;"><iframe id="adStream" style="width:310px;height:260px;border:0;padding:0;" frameborder="0" scrolling="no" src="http://rmedia.boston.com/RealMedia/ads/adstream_sx.ads/www.boston.com/SITEPAGE/@VENDOR?rid=0123456789"></iframe></li>';
+			if (typeof(adPostFrequency) == 'undefined') {
+				var adPostFrequency = 15;}
+			if (adPostFrequency > 0)
+				{
+				setTimeout( function() {var OAS_rn2 = new String (Math.random()); var OAS_rns = OAS_rn2.substring(2, 11); jQuerySL( adInsertHTML.replace('0123456789',OAS_rns).replace('SITEPAGE',sitepage)).insertAfter("#Posts li:nth-child(" + adPostFrequency + "n)"); }, 1000);
+				LiveBlog.prototype.OnConnectNewPost = function() {
+				   if( jQuerySL("#Posts li:nth-child(" + (adPostFrequency+1) + ")").hasClass("AdPost") && !jQuerySL("#Posts li:first").hasClass("AdPost") ) {
+			   			var OAS_rn2 = new String (Math.random()); var OAS_rns = OAS_rn2.substring(2, 11); jQuerySL( adInsertHTML.replace('0123456789',OAS_rns).replace('SITEPAGE',sitepage)).insertBefore("#Posts li:first");
+			   		}
+			 		return true;
+			 	}
+			 }
+		</script>
+
+
+    </div>
+    <div id="Col3"></div>
+    <div class="cf"></div>
+  </div>
+</div>
+
+
+          <div id="footer">
+  <div id="bottomBanner">
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR1');
+//--></script></div>
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR2');
+//--></script></div>
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR3');
+//--></script></div>
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR4');
+//--></script></div>
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR5');
+//--></script></div>
+<div class="sponLinks"><script language="JavaScript"><!--
+OAS_AD('SPONSOR6');
+//--></script></div>
+<div class="cf"></div>
+</div>
+  <div>
+  <div id="bottomLinks">
+    <ul class="gnavContainer">
+      <li><a rel="nofollow" href="http://www.boston.com/">Home</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/news/globe/">Today's Globe</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/news/">News</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/business/">Business</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/sports/">Sports</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/lifestyle/">Lifestyle</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/ae/">A&amp;E</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/thingstodo/">Things to Do</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/travel/">Travel</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/cars/" class="cfied">Cars</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/jobs/" class="cfied">Jobs</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/realestate/" class="cfied">Real Estate</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/search/" class="cfied">Local Search</a></li>
+    </ul>
+    <ul id="bcomLinks">
+      <li class="first"><a rel="nofollow" href="http://www.boston.com/help/bostoncom_info/">Contact Boston.com</a></li> <li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/">Help</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://services.bostonglobe.com/advertiser/online/online.aspx?id=13052">Advertise</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://jobs.nytco.com/content/the-new-england-media-group/">Work here</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/privacy_policy/">Privacy Policy</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/privacy_policy/#adchoice">Your Ad Choices</a></li><li class="listPipe">|</li>
+	  <li><a rel="nofollow" href="http://www.boston.com/help/memberagreement">Terms of Service</a></li><li class="listPipe">|</li>
+      <li><script language="JavaScript"><!--
+          signupLink();
+          //--></script><noscript><a href="http://www.boston.com/help/email">Newsletters</a></noscript></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/tools/mobile/">Mobile</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/tools/rss/">RSS feeds</a></li><li class="listPipe">|</li>
+      <li><a href="http://spiderbites.boston.com/sitemap-service/Home.xml">Sitemap</a></li>
+    </ul>
+    <ul id="bglobeLinks">
+      <li class="first"><a rel="nofollow" href="http://bostonglobe.com/aboutus/contact_us/default.aspx">Contact The Boston Globe</a></li><li class="listPipe">|</li>
+      <li><a href="http://services.bostonglobe.com/order/zip.aspx?rc=WW049774&od=372">Subscribe</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://services.bostonglobe.com/subscribers/custserv.aspx?id=5274">Manage your subscription</a></li><li class="listPipe">|</li>
+      <li><a href="http://services.bostonglobe.com/advertiser/default.aspx">Advertise</a></li><li class="listPipe">|</li>
+      <li><a rel-"nofollow"="" href="http://bostonglobe.com/insiders">Boston Globe Insiders</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.doriancolor.com/page3.html">The Boston Globe Gallery</a></li><li class="listPipe">|</li>
+      <li>&copy; <script> var crYear = new Date(); document.write(crYear.getFullYear());</script> NY Times Co.</li>
+    </ul>
+  </div>
+
+
+</div>
+
+</div>
+
+
+
+      </div>
+    </div>
+<script language="JavaScript"><!--
+OAS_AD('POPUN');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('EXTRA');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('MISC1');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('MISC2');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('MISC3');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('MISC4');
+//--></script>
+<script language="JavaScript"><!--
+OAS_AD('MISC5');
+//--></script>
+
+
+
+
+
+
+<!-- SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://cache.boston.com/omniture/hcode/s_code.js"></script>
+
+<script language="JavaScript"><!--
+s.pageName=omnitureSubsection+' | '+ eventTitle + ' | Live blog',s.channel=omnitureSection,s.prop1=omnitureSubsection;
+s.server='',s.pageType='',s.prop2='',s.prop3='',s.prop4='',s.prop5='',s.prop6='Scribble Live page',s.prop7='',s.prop8='',s.prop9='',s.prop10='',s.prop41='Boston.com';
+
+/* E-commerce Variables */
+s.campaign='',s.state='',s.zip='',s.events='',s.products='',s.purchaseID='',s.eVar1='',s.eVar2='',s.eVar3='',s.eVar4='',s.eVar5='',s.eVar6='',s.eVar7='',s.eVar8='',s.eVar9='',s.eVar10='',s.eVar41='Boston.com';
+var isFacebook = getCookie('fbs_135637993114591'), isBCom_PA = getCookie('pathAuth'), isBCom_PAS = getCookie('pathAuthSess');
+if((isBCom_PA != null) || ((isBCom_PA != null) && (isBCom_PAS != null))) {
+    s.prop35 = 'logged in', s.eVar20 = 'logged in', s.prop42 = 'Boston.com', s.eVar42 = 'Boston.com';
+}
+else {
+    if(isFacebook != null) { s.prop35 = 'logged in', s.eVar20 = 'logged in', s.prop42 = 'facebook', s.eVar42 = 'facebook'; }
+    else { s.prop35 = 'logged out', s.eVar20='logged out', s.prop42 = 'n/a', s.eVar42 = 'n/a'; }
+}
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://nytbglobe.112.2O7.net/b/ss/nytbglobe/1/H.19.3--NS/0" height="1" width="1" border="0" alt=""></a></noscript><!--/DO NOT REMOVE/-->
+
+
+<script src="http://cache.boston.com/universal/js/bcom_chartbeat.js"></script>
+
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="boston.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-604060h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-604060h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<script type="text/javascript">
+var gravityInsightsParams = {type:'content', site_guid:'fe6d5479cc3242c2b7ef253225b4bfcc'};
+document.write(unescape("%3Cscript src='http://cdn.insights.gravity.com/moth-min.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+    <script type="text/javascript">ActivateSidebarAccordion();</script>
+	
+    <script type="text/javascript">
+
+        jQuerySL( document ).ready( function(){
+    
+            
+                SCRIBBLE.Notifications.Notifications.ShowSignUp();
+            
+
+            if ( LiveBlog.IsjQueryAvailable == true && typeof SlideShow !== "undefined" )
+            {
+                SlideShow.Configure( false );
+            }
+
+            
+
+           var opts = {
+                PostShareText: "",
+                EventShareText: "",
+				GigyaSendTweetUrl: '/User/Gigya_SendTweet.aspx',
+                onShareComplete: function(shareType, providerType){
+                    var tracker = new SCRIBBLE.event.Tracking();
+                    tracker.gaTrackEvent("Social_Share", shareType + "_" + providerType, "Whitelabel");
+                }
+            };
+
+			new SCRIBBLE.social.Sharing(opts);
+
+            var $M;
+          	if (typeof SCRIBBLE.metrics !== 'undefined') {
+          		$M = SCRIBBLE.metrics.Lib;
+          	}
+
+        } );        
+        if (typeof gigya === 'undefined') {
+            var GigyaJsHost = (("https:" == document.location.protocol) ? "https://cdns." : "http://cdn.");
+            document.write(unescape("%3Cscript src='" + GigyaJsHost + "gigya.com/JS/gigya.js?services=socialize&apiKey=2_8nkPycJKm7ldFV5QUt1wRg0qQ7XghIJASqQ3VLM10AGUPeP5K-TGhqtkXbwU7RdA' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script>
+    <script async="" src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+ 
+
+<!-- ScribbleLive Site Metrics -->
+<script type="text/javascript">
+    var IsGAInstalled = false;
+    try
+    {
+        if (gaJsHost != null)
+        {
+            IsGAInstalled = true;
+        }
+    }
+    catch (Error)
+    {
+    }
+
+    if (!IsGAInstalled)
+    {
+        gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        (function ()
+        {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = gaJsHost + 'google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    }
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-289507-7']);
+    _gaq.push(['_trackPageview']);
+</script>
+
+<div id="SiteMetricsControl_StatCounterCodeBlock">
+	
+    <!-- Start of StatCounter Code -->
+    <script type="text/javascript">
+        var sc_project = 3505602;
+        var sc_invisible = 1;
+        var sc_partition = 33;
+        var sc_security = "dc7adfa0"; 
+    </script>
+
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+    <!-- End of StatCounter Code -->
+
+</div>
+
+
+<div id="SiteMetricsControl_ScribbleLiveCounterBlock">
+	
+
+<script type="text/javascript">
+    
+
+(function ()
+{
+    var CounterImage = null;
+    var CookiesEnabled = true;
+    var StatsUserId = null;
+    var UniquesList = null;
+    var SourceType = GetSourceType();
+
+    function HitCounter(pIsPageView)
+    {
+        try
+        {
+            if (StatsUserId == null)
+            {
+                StatsUserId = getCookie("SLStatUid");
+
+                if (StatsUserId == null)
+                {
+                    // Generate a unique ID for the user
+                    StatsUserId = (document.domain + "").hashCode() + "_" + (new Date()).getTime() + "_" + Math.floor((Math.random() * 10000000) + 1);
+                    setCookie("SLStatUid", StatsUserId);
+
+                    CookiesEnabled = (getCookie("SLStatUid") != null);
+                }
+            }
+
+            var ItemKey = null;
+
+            if (typeof ThreadId != "undefined")
+            {
+                ItemKey = ThreadId;
+            }
+            else if (typeof ScribbleLive_TopPostsWidget != "undefined")
+            {
+                ItemKey = ScribbleLive_TopPostsWidget.ThreadId;
+            }
+            else if ( typeof LiveArticleEmbed != "undefined" && LiveArticleEmbed.GetInstance() != "undefined" && LiveArticleEmbed.GetInstance() != null )
+            {
+                ItemKey = LiveArticleEmbed.GetInstance().ThreadId;
+            }
+
+            if (ItemKey != null)
+            {
+                var IsFirstView = pIsPageView;
+
+                if (pIsPageView)
+                {
+                    if (UniquesList == null)
+                    {
+                        UniquesList = getCookie("SLStatHist");
+                    }
+
+                    if (UniquesList == null) { UniquesList = ""; }
+
+                    // If we've already seen that item
+                    if (UniquesList.match(new RegExp("(^|\|)" + ItemKey)))
+                    {
+                        IsFirstView = false;
+                    }
+                    else
+                    {
+                        var MAXCOOKIELENGTH = 3500;
+                        var MAXVARLENGTH = 20000;
+
+                        IsFirstView = true;
+                        UniquesList += "|" + ItemKey;
+
+                        if (UniquesList.length > MAXVARLENGTH)
+                        {
+                            UniquesList = UniquesList.substring(UniquesList.length - MAXVARLENGTH);
+                            UniquesList = UniquesList.substring(UniquesList.indexOf("|"));
+                        }
+
+                        var CookieUniquesList = UniquesList;
+
+                        if (CookieUniquesList.length > MAXCOOKIELENGTH)
+                        {
+                            CookieUniquesList = CookieUniquesList.substring(CookieUniquesList.length - MAXCOOKIELENGTH);
+                            CookieUniquesList = CookieUniquesList.substring(CookieUniquesList.indexOf("|"));
+                        }
+
+                        setCookie("SLStatHist", CookieUniquesList);
+                    }
+
+                    //document.title = UniquesList;
+                }
+
+                CounterImage = new Image();
+                CounterImage.src = "http://counter.scribblelive.com/?page=" + ItemKey
+                        + (pIsPageView ? "&pageview=1" : "")
+                        + (IsFirstView ? "&first=1" : "")
+                //+ (CookiesEnabled ? "" : "&nocookies=1")
+                        + (StatsUserId ? "&uid=" + StatsUserId : "")
+                        + "&rand=" + Math.round(100000000 * Math.random())
+                        + "&Source=" + encodeURIComponent( GetSourceUrl( SourceType ) )
+                        + "&SourceType=" + SourceType;
+
+                setTimeout(function ()
+                {
+                    HitCounter();
+                }, getRandomInt(45000, 57000));
+            }
+        }
+        catch (err) { }
+    }
+
+    function GetSourceUrl( pSourceType )
+    {
+        var Source = "";
+
+        // Embed
+        if ( pSourceType == 3 )
+        {
+            Source = document.referrer !== "" ? document.referrer : document.location.href;
+        }
+        else
+        {
+            Source = document.location.href;
+        }
+
+        return Source;
+    }
+
+    function GetSourceType()
+    {
+        // default source type is API unless we determine otherwise
+        var $SourceType = 1;
+
+        // Whitelabel
+        if ( typeof IsWhitelabel !== "undefined" && IsWhitelabel === true )
+        {
+            $SourceType = 2;
+        }
+        // Embed
+        else if ( typeof EmbedWidth !== "undefined" )
+        {
+            $SourceType = 3;
+        }
+        //  Article
+        else if ( typeof IsArticlePage !== "undefined" && IsArticlePage === true )
+        {
+            $SourceType = 4;
+        }
+        // ScribbleLive.mobi Mobile Template
+        else if ( typeof IsMobileSite !== "undefined" && IsMobileSite === true )
+        {
+            $SourceType = 5;
+        }
+        // LiveArticle Embed
+        else if ( typeof LiveArticleEmbed != "undefined" && LiveArticleEmbed.GetInstance() != "undefined" && LiveArticleEmbed.GetInstance() != null )
+        {
+            $SourceType = 6;
+        }
+        // Recent Posts Embed
+        else if ( typeof RecentPosts !== "undefined" && typeof ScribbleLiveInstance !== "undefined" )
+        {
+            $SourceType = 7;
+        }
+        // Single Post Page
+        else if ( document.getElementById("SinglePost") !== null )
+        {
+            $SourceType = 8;
+        }
+        // Top Posts Widget
+        else if (typeof ScribbleLive_TopPostsWidget != "undefined")
+        {
+            $SourceType = 9;
+        }
+
+        return $SourceType;
+    }
+
+    function getRandomInt(min, max)
+    {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function getCookie(name)
+    {
+        var start = document.cookie.indexOf(name + "=");
+        var len = start + name.length + 1;
+        if ((!start) && (name != document.cookie.substring(0, name.length)))
+        {
+            return null;
+        }
+        if (start == -1) return null;
+        var end = document.cookie.indexOf(';', len);
+        if (end == -1) end = document.cookie.length;
+        return unescape(document.cookie.substring(len, end));
+    }
+
+    function setCookie(name, value, expires, path, domain, secure)
+    {
+        var today = new Date();
+        today.setTime(today.getTime());
+        if (expires)
+        {
+            expires = expires * 1000 * 60 * 60 * 24;
+        }
+        var expires_date = new Date(today.getTime() + (expires));
+        document.cookie = name + '=' + escape(value) +
+		        ((expires) ? ';expires=' + expires_date.toGMTString() : '') + //expires.toGMTString()
+		        ((path) ? ';path=' + path : '') +
+		        ((domain) ? ';domain=' + domain : '') +
+		        ((secure) ? ';secure' : '');
+    }
+
+    String.prototype.hashCode = function ()
+    {
+        var hash = 0;
+        var char2;
+        if (this.length == 0) return hash;
+        for (i = 0; i < this.length; i++)
+        {
+            char2 = this.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char2;
+            hash = hash & hash; // Convert to 32bit integer
+        }
+        return hash;
+    }
+
+    HitCounter(true);
+})();
+
+</script>
+
+</div>
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","318ad48542","122194","ZVZSMRMCVhJRVkJZDFwccTYxTF0XVVtCHxdaQVUEBU1ZEkBN",0,265,new Date().getTime(),"ACC59C32600F0333","","","",""]);</script></body>
+</html>

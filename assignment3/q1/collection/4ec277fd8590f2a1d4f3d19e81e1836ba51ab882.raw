@@ -1,0 +1,6379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<!-- Sticking this elsewhere until it can be fixed. -->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=IM+Fell+English">
+	<title>Daily Kos: Government reports just 88,000 jobs added in March, with 7.6% jobless rate. U6 falls to 13.8%</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="DC.description" content="" />
+	<meta name="DC.subject" content="" />
+	<meta name="DC.creator" content="Happy Cog Studios - http://www.happycog.com and Daily Kos" />
+	<meta name="DC.publisher" content="" />
+	<meta name="DC.language" content="en" />
+	<meta name="viewport" content="width=978" />
+	<!-- facebook thing. Hmph. -->
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<meta property="og:title" content="Daily Kos: Government reports just 88,000 jobs added in March, with 7.6% jobless rate. U6 falls to 13.8%" />
+	
+			<meta property="og:image" content="http://s3.amazonaws.com/dk-production/images/26732/large/PayrollMar2013.jpg?1365166328" />
+			
+	
+	
+	<meta property="og:description" content="
+
+March was the 30th consecutive month the government has reported that the seasonally adjusted job gains outpaced losses. But, at 88,000, the number announced by the Bureau of Labor Statistics was ..." />
+	
+	
+	<meta property="og:url" content="http://www.dailykos.com/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8" />
+	
+	<!-- Twitter js. Apparently it's supposed to be as close to the top as
+	     possible. -->
+	<script src="http://platform.twitter.com/anywhere.js?id=7IvZ5TAS7cSXI1yAAXnMA&v=1" type="text/javascript"></script>
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	
+	<!-- TODO: we should consolidate the css before launch -->
+
+	<!-- ask if this is actually OK. Hrmph. -->
+	<link href="/c/unified.css?rev=4d" media="all" rel="stylesheet" type="text/css" />
+	<!-- can this be unified? -->
+	<link href="/c/print.css" rel="stylesheet" media="print" type="text/css" />
+
+
+	<!--[if lt IE 8]><link href="/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	<!--[if lt IE 7]><link href="/c/ie6.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	
+		<script type="text/javascript"><!--
+		  document.write('<link href="/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+		//--></script>
+
+
+
+<!-- need the jquery up here for skins. I suppose it can be made to move
+     around as needed -->
+<script src="https://www.google.com/jsapi?key=ABQIAAAAJSSc0UDn-DPmAGTPsJgsxxQ_dDAjRQ0Rab5Jbkgn1xY6vdZysBRN7laBUGz651Zyl9lgP3ZAQA4D0A" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<script src="/j/jquery.cookie.js?body=1" type="text/javascript"></script>
+<script src="/j/detect_mobile.js?body=1" type="text/javascript"></script>
+<script src="/j/mobile_redirect.js?body=1" type="text/javascript"></script>
+	
+	
+	
+	
+	
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-4201116381449156");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK4_Story");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_ATF");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_BTF_Right");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_Homepage_Top_Right");
+
+GA_googleAddSlot("ca-pub-4201116381449156", "728X90_DK4_Story_Leaderboard");
+GA_googleAddSlot("ca-pub-4201116381449156", "DK_Skin_Background");
+
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/dailykos/loader.js"></script> 
+
+
+	
+	
+	<!-- canonical thingy -->
+	
+	<link rel="canonical" href="http://www.dailykos.com/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8" />
+	
+	<!-- end canonical thingy -->
+	<!-- END OF TAG FOR head SECTION -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-50193-1']);
+  _gaq.push(['_setDomainName', '.dailykos.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script src="/j/iframe-resize.js"></script>
+<script src="/j/underscore.js"></script>
+
+  </head>
+
+<body class="med-ad-one-col-sub">
+
+
+
+
+	
+
+
+<script type='text/javascript'>
+GA_googleFillSlot("DK_Skin_Background"); 
+</script>
+
+
+
+
+
+
+
+
+
+<div class="is-popup show-on-load " id="popup-user_login" title="Login">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/user/login"
+	method="POST">
+
+
+
+<div class="user-search" style="background:#eeeeee; margin:0px">
+<div id="search-users" style="background:#eeeeee">
+<div id="search-users-form" style="padding:0px">
+
+<table>
+<tr><td style="text-align:left">
+<label for="uname">Username:</label> <input style="margin:2px 0px" type="text" size="20" name="uname"><br/>
+<label for="pass" >Password:</label> <input style="margin:2px 0px" type="password" size="20" name="pass"><br/>
+
+</td>
+</tr><tr><td colspan="3">
+<label><a href="/accounts">Lost your password or username?<br />Need a new activation email? Click Here.</a></label>
+</td></tr></table>
+
+</div>
+</div>
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<!-- div style="width: 728px; height: 90px; margin: 15px auto 0px auto; position: relative;" -->
+
+<div style="width: 728px; margin: 15px auto 0px auto; position: relative;">
+
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_ATF_Header_728x90 -->
+
+<!-- story -->
+<!-- ca-pub-4201116381449156/DK_Story_ATF_728x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
+</script>
+<!-- END OF TAG FOR SLOT DK_FP_ATF_Header_728x90 -->
+
+</div>
+
+ 
+
+<div id="pageWrapper"> 
+<p class="move"><a href="#content">Skip to main content</a></p>
+<div id="header">
+
+<div id="header-authorization" style="text-align: right; font-size: 12px; font-family: Verdana; padding: 15px 0px; color: #adabab">
+  
+	  <a href="http://www.dailykos.com/login" style="display: inline !important;">Log In</a>
+    |
+    <a href="http://www.dailykos.com/newuser">Sign Up</a>
+	
+	|
+  <a href="http://campaigns.dailykos.com/signup_page/genericsignup" style="color: #918f8f; font-style: italic">Join the Action Alert list!</a>
+  |
+	<a href="http://www.dailykos.com/helpdesk_redirect" style="color: #918f8f;">Help</a>
+</div>
+
+  
+	<div id="masthead-dailykos" class="masthead">
+	  <h1><a href="http://www.dailykos.com/">Daily Kos</a></h1>
+	  <img id="flagman" src="/i/header/masthead/flagman.png" style="position: absolute; left: 368px; top: 11px; z-index: 100000"></img>
+	  <h2>News, Community, Action</h2>
+	</div>
+ 
+
+<div id="nav-main" class="clearfix">
+<ul>
+	
+	<li><a href="http://www.dailykos.com/people" class="people">PEOPLE</a></li>
+	<li><a href="http://www.dailykos.com/groups" class="groups">GROUPS</a></li>
+	<li><a href="http://www.dailykos.com/diaries" class="diaries">DIARIES</a></li>
+	<li><a href="http://www.dailykos.com/news" class="tags">TAGS</a></li>
+	<li><a href="http://labor.dailykos.com" class="labor vertical">LABOR</a></li>
+	<li><a href="http://comics.dailykos.com" class="comics vertical">COMICS</a></li>
+	<li><a href="http://elections.dailykos.com" class="econ vertical">ELECTIONS</a></li>
+	<li><a href="http://economics.dailykos.com" class="econ vertical">ECON</a></li>
+	<li><a href="http://dailykosradio.dailykos.com" class="radio vertical">RADIO</a></li>
+</ul>
+<form action="/search" method="get" id="search-form">
+	<div>
+	<label for="search-term" class="move">Search Term</label>
+	<input type="text" name="text" value="Search" id="search-term" onfocus="doDefaultFocus(this);" onblur="doDefaultBlur(this);" />
+	
+	<input type="hidden" name="time_begin" value="09/23/2013" />
+	<input type="hidden" name="time_end" value="now" />
+	<input type="hidden" name="text_type" value="any" />
+	<input type="hidden" name="text_expand" value="contains" />
+	<input type="hidden" name="search_type" value="search_stories" />
+	<input type="hidden" name="time_type" value="time_published" />
+	<input type="image" src="http://images1.dailykos.com/i/header/nav/button-go.gif" value="1" name="submit" id="search-submit" />
+	</div>
+</form>
+</div>    
+
+
+</div>
+
+
+
+
+<div id="content">
+
+
+	
+
+
+
+<div id="main" class="published">
+
+<div id="storyWrapper" class="ajax-delay-load">
+	
+
+<div id="article-1" class="article collapsable-panel", data-story_id="1199091">
+
+	
+
+	
+	
+	
+
+	<div class="meta share-expanded">
+		
+		
+		
+	      <div id="group_info" class="clearfix">
+                  <div class="image" style="float: left; border: 1px solid #cccccc; margin-right: 20px">
+                    <a href="/blog/labor"><img id="avatar" src="http://images.dailykos.com/i/user/314986/glogo_DailyKosLabor2.png" height="56" /></a>
+                  </div>
+                  <div class="heading">
+		    <span class="name">Daily Kos Labor</span><span class="follow"></span><span class="rss"><a href="/user/labor/rss.xml">RSS</a></span>
+		  </div>
+    	  <div><span class="group_member">Daily Kos group</span><span class="gift_subscription"></span></div>
+		  <ul class="actions">
+		    <li class="first"><a href="/user/labor">Profile</a></li>
+		    <li><a href="/blog/labor">Diaries</a> <a href="/user/labor/history">(list)</a></li>
+		
+		    <li><a href="/user/labor/stream">Stream</a></li>
+		
+		
+		  </ul>
+		</div>
+		<p class="date">Fri Apr 05, 2013 at 05:55 AM PDT</p>
+		<h2><a id="titleHref" href="/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8">Government reports just 88,000 jobs added in March, with 7.6% jobless rate. U6 falls to 13.8%</a><span style="white-space: nowrap"></span></h2>
+		
+		<p class="author"><span>by</span> <a href="/user/Meteor Blades">Meteor Blades</a><a class="ajax type-user do-hotlist do-updateContent size-tiny off altTooltip" alt="Follow this author" href="#?friend_id=6&is_stream=1">Follow</a> <span class="for">for</span> <a href="/blog/labor">Daily Kos Labor</a></p>
+    
+    <ul class="front-page-share clearfix">
+      
+      <li style="margin-left: 0px"><div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-href="http://www.dailykos.com/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8"></div></li>
+      <li><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="dailykos" data-related="markos" data-url="http://www.dailykos.com/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8" data-text="Government reports just 88,000 jobs added in March, with 7.6% jobless rate. U6 falls to 13.8%">Tweet</a></li>
+          
+		  <li style="margin-left: 0px"><a href="#" class="email">Email</a></li>
+		  
+		  <li><a href="/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8#comments" class="comments comment_count_with_new" data-story_id="1199091" data-comment_count="85">85 Comments</a></li>
+		</ul>
+		
+		
+	</div>
+	
+	<div class="article-body">
+		<div id="intro">
+			
+<div class="dkimg-c"><span class="image_container"><img src="http://s3.amazonaws.com/dk-production/images/26732/large/PayrollMar2013.jpg?1365166328" alt="" /></span></div>
+March was the 30th consecutive month the government has reported that the seasonally adjusted job gains outpaced losses. But, at 88,000, the number <a href="http://bls.gov/news.release/empsit.nr0.htm">announced</a> by the Bureau of Labor Statistics was far below the February figure and is clearly going in the wrong direction. The January and February numbers, however, were revised upward.
+<p>A consensus of experts surveyed ahead of time by Bloomberg News had forecast the BLS would report 193,000 new jobs had been added in March. Even the most pessimistic advance appraisal, however, didn't come close to the actual number. The official unemployment rate fell to 7.6%, but that was wholly a function of a reduced workforce.</p>
+<p>The private sector expanded by 95,000 jobs. Governments at all levels lost a total of 7,000 jobs, but 14,000 were lost in federal employment, so local and state governments have been doing some hiring. Last March, the BLS reported a seasonally adjusted gain of 205,000 private- and public-sector jobs.</p>
+<p>One good bit of news was that the BLS revised its previously reported growth in payroll employment for January from 119,000 to 148,000 and for February from 236,000 to 268,000. The BLS counted 11.7 million Americans as unemployed. Those unemployed for six months or more fell to 4.6 million. The civilian labor force participation ratio fell to 63.3 percent, its lowest level October 1978; the employment-population ratio fell to 58.5 percent. That is is within the range it has been in for the past four years but it had previously not been so low since 1983. Some 496,000 Americans left the labor force in March.</p>
+<p>In BLS jargon, the added 88,000 jobs constitute "U3." But the bureau also measures with an alternative gauge called "U6." This tallies workers who are part-time not by choice but for "economic reason," meaning they want full-time jobs but can't find them, and some but not all Americans who <em>want</em> jobs but have stopping looking for one. The U6 rate for March dropped to 13.8 percent. Add up the 11.7 million who are officially unemployed (U3), the 7.6 &nbsp;million underemployed (U6), and the 6.72 million who are not in the labor force but say they want a job, and you have 26 million <strong>un</strong>employed and <strong>under</strong>employed Americans.</p>
+<p>At the current pace, the increase in jobs means just getting back to where the nation was when the recession began 65 months ago will take until 2018 or later, more than a decade all told. But in the post-World War II era, the shortest time between one recession and the next was just under nine years. Critics have pointed out that, in one of the more insidious forms of class warfare, productivity gains have been accruing almost exclusively to employers not workers. Median household income now is eight percent less than it was in 2000. And corporate profits have doubled. In short, even those Americans lucky enough to have jobs are not, on average, faring as well as they were before the Great Recession struck.</p>
+<p>The federal budget sequester began March 1, and since the BLS closes the data for its report on the 12th of each month, it's a little early for the impact from that to be hitting very hard. But the Congressional Budget Office estimates that if it continues to the end of the fiscal year, it could cost 750,000 jobs. But some economists scoff at this, saying the CBO's methodology is off and, at worst, the sequester might force the shedding of 300,000 jobs. Split the difference, and the economy could lose two to three months worth of job growth between now and September 30.</p>
+<p>For more details about today's jobs report, please continue reading below the fold.</p>
+
+		</div>
+		
+		
+			<p class="divider-doodle" />
+		
+		
+			<div id="body" class="article-body">
+<p>As I have previously explained:</p>
+<blockquote>The government's BLS jobs report is the product of a pair of surveys, one of more than 410,000 business establishments called Current Employment Statistics, and one called the Current Population Survey, which questions 60,000 householders. The establishment survey determines how many new jobs were added, always calculated on a seasonally adjusted basis. The CPS provides data that determine the official "headline" unemployment rate, also known as "U3." That's the number which is now 7.7 percent.
+<p>The BLS report only provides a snapshot of what's happening at a single point in time. The jobs-created-last-month-numbers that it reports are not "real." Not because of a conspiracy, but because BLS statisticians apply seasonal adjustments to the raw data, estimate the number of jobs created by the "birth" and "death" of businesses, use other filters. In the fine print, they tell us that the actual number of newly created jobs reported is actually plus or minus 100,000.</p>
+</blockquote>
+Because of this range of possibilities, the economy could have lost as many as 12,000 jobs in March or could have added as many as 188,000. As better data are obtained, the BLS revises its count each month for the previous two months. Today's numbers will be fine-tuned in the May and June reports just as January's and February's were revised substantially upward by today's.
+<p>Every month, one or two days ahead of the BLS report, Automatic Data Processing, one of the nation's largest payroll services companies, also provides a snapshot of newly added seasonally adjusted jobs created solely by the private sector. On Wednesday ADP <a href="http://www.dailykos.com/story/2013/04/03/1198958/-ADP-s-monthly-report-on-private-job-growth-hints-at-weakness-in-government-report-due-Friday">reported</a> &nbsp;that the economy generated 158,000 new <em>private-sector</em> jobs in March.</p>
+<p>Also on Wednesday, TrimTabs Investment Research <a href="http://247wallst.com/2013/04/03/trimtabs-jobs-data-not-as-rosy-as-labor-department-nor-as-adp/">estimated</a> that 156,000 new jobs had been added to the economy in March. The firm calculates payroll job growth based on daily deposits of income taxes being withheld from people's paychecks.</p>
+<p>•••</p>
+<p>Here's what the job growth numbers looked like in March for the previous 10 years. These data have been recalculated via the BLS's annual benchmark revisions:</p>
+<p><strong>March 2003</strong>: - &nbsp;215,000<br />
+<strong>March 2004</strong>: + 333,000 &nbsp; &nbsp;<br />
+<strong>March 2005</strong>: + 135,000<br />
+<strong>March 2006</strong>: + 280,000<br />
+<strong>March 2007</strong>: + 186,000<br />
+<strong>March 2008</strong>: - &nbsp; &nbsp;79,000<br />
+<strong>March 2009</strong>: - &nbsp;830,000<br />
+<strong>March 2010</strong>: - &nbsp;154,000 &nbsp;<br />
+<strong>March 2011</strong>: + 205,000<br />
+<strong>March 2012</strong>: + 205,000<br />
+<strong>March 2013</strong>: + &nbsp; 88,000</p>
+<p><strong>Among other changes in today's job report:</strong></p>
+<p>• <strong>Professional services</strong>: + 51,000<br />
+• <strong>Leisure &amp; hospitality</strong>: + 13,000<br />
+• <strong>Health care</strong>: + 23,000<br />
+• <strong>Retail trade</strong>: - 24,000<br />
+• <strong>Construction</strong>: + 18,000<br />
+• The average workweek (for production and non-supervisory workers) rose 0.1 hour to 34.6 hours.<br />
+• Average manufacturing hours fell 0.1 to 40.8 hours.<br />
+• The average hourly earnings for all employees on private nonfarm payrolls rose 1 cent from February's revised figure to $23.82.<br /></p>
+<div class="dkimg-c"><span class="image_container"><img src="http://s3.amazonaws.com/dk-production/images/26733/large/EmployRecMar2013_(1).jpg?1365166433" alt="" /></span></div>
+</div>
+		
+		
+	</div>
+	
+	
+	
+	
+		<h4>Originally posted to <a href="/blog/labor/">Daily Kos Labor</a> on Fri Apr 05, 2013 at 05:55 AM PDT.</h4>
+	
+
+	
+		<h4>Also republished by 
+		
+		<a href="/blog/Economics/">Daily Kos Economics</a>  and <a href="/blog/main/">Daily Kos</a>.
+		</h4>
+	
+	
+	
+		<div class="tags">
+		<h4>Tags</h4>
+		
+			
+<ul>
+
+
+	<li><a href="/news/Economy">Economy</a></li>
+
+
+	<li><a href="/news/Jobs">Jobs</a></li>
+
+
+	<li><a href="/news/Labor">Labor</a></li>
+
+</ul>
+
+		
+		</div>
+	
+
+	
+
+	
+	
+	
+	
+		<div class="utility" style="display:block;margin-top:10px">
+			
+		</div>
+	
+
+	<!-- <a href="#" class="collapse-article collapsor">Collapse Article</a> -->
+
+	
+
+	
+
+<a id="doLoadPreview"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=preview&story_id=1199091">(Load)</a>
+<a id="doLoadEdit"			class="ajax do-delay-load invisible" href="/part/story/as_full?mode=edit&story_id=1199091">(Load)</a>
+<a id="doLoadPublished"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=published&story_id=1199091">(Load)</a>
+<a id="doLoadScheduled"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=scheduled&story_id=1199091">(Load)</a>
+<a id="doLoadQueued"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=queued&story_id=1199091">(Load)</a>
+<a id="doLoadUnpublished"	class="ajax do-delay-load invisible" href="/part/story/as_full?mode=unpublished&story_id=1199091">(Load)</a>
+<a id="doLoadDeleted"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=deleted&story_id=1199091">(Load)</a>
+
+<!-- popups -->
+
+
+
+<div id="share_email_popup" class="jqmWindow">
+  <div class="header">
+    <span class="title">EMAIL TO A FRIEND</span>
+    <a href="#" class="jqmClose">X</a>
+  </div>
+  <form method="post">
+    <label>To <span class="error_message">Please use one to three valid email addresses.</span></label>
+    <input name="to" data-default_value="Separate up to three multiple addresses with commas" value="Separate up to three multiple addresses with commas"/>
+    
+    <label>From <span class="error_message">Please use a valid email address.</span></label>
+    <input name="from" data-default_value="Enter your email address" value="Enter your email address" class="" />
+    
+    <label>Your Message</label>
+    <textarea class="message" name="message" data-default_value="Enter your message">Enter your message</textarea>
+    
+    <button type="button" class="cancel jqmClose">Cancel</button><button type="submit" class="submit">Send</button>
+    <div class="success">Your Email has been sent.</div>
+  </form>
+</div>
+
+
+</div>
+
+	<a class="ajax do-delay-load invisible" href="/part/story/as_full?story_id=1199091">(Load)</a>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_setTags" title="Add Diary Tags:">
+<div class="info-bar"  >You must add at least one tag to this diary before publishing it.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/setTags"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+<style>
+	#popup-story_setTags div.content-bar p { font-size: 13px; text-align: left; }
+	#popup-story_setTags div.content-bar a			{ color: #E5721E }
+	#popup-story_setTags div.content-bar a:hover,
+	#popup-story_setTags div.content-bar a:focused,
+	#popup-story_setTags div.content-bar a:visited	{ color: #7C470C }
+</style>
+
+<br /><div>
+	<p>Add keywords that describe this diary.
+		Separate multiple keywords with commas.<br />
+	  <a href="/special/tag_tips" target="_blank">Tagging tips</a>
+	- <a href="/search?search_tags=1" target="_blank">Search For Tags</a>
+	- <a href="http://www.dkosopedia.com/wiki/Tag:Tagfinder" target="_blank">Browse For Tags</a>
+	</p>
+	
+	<div class="pageTip hasTooltip" style="margin-top:3px">?</div>
+	<div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+		<p><b>More Tagging tips:</b></p>
+		<p>A tag is a way to search for this diary. If someone is searching for "Barack Obama," is this a diary they'd be trying to find?</p>
+		<p>Use a person's full name, without any title. Senator Obama may become President Obama, and Michelle Obama might run for office.</p>
+		<p>If your diary covers an election or elected official, use election tags, which are generally the state abbreviation followed by the office. 
+		CA-01 is the first district House seat. CA-Sen covers both senate races. NY-GOV covers the New York governor's race.</p>
+		<p>Tags do not compound: that is, "education reform" is a completely different tag from "education". A tag like "reform" alone is probably not meaningful.</p>
+	</div>
+	
+	<!-- <h4 id="p_tagErrorMessage">You must enter at least one Tag for this Diary Entry:</h4> -->
+	
+	<p><input id="p_tagInput" type="text" name="tag_draft" value="" size="70" />
+		<!-- <input id="tagSubmit" type="submit" name="submit" value="Submit" /> -->
+	</p>
+
+	
+	
+	<p style="font-style:italic">Consider if one or more of these tags fits your diary: 
+	
+	<a href="#" onClick="addTagToField('Civil Rights');return false;">Civil Rights</a>, <a href="#" onClick="addTagToField('Community');return false;">Community</a>, <a href="#" onClick="addTagToField('Congress');return false;">Congress</a>, <a href="#" onClick="addTagToField('Culture');return false;">Culture</a>, <a href="#" onClick="addTagToField('Economy');return false;">Economy</a>, <a href="#" onClick="addTagToField('Education');return false;">Education</a>, <a href="#" onClick="addTagToField('Elections');return false;">Elections</a>, <a href="#" onClick="addTagToField('Energy');return false;">Energy</a>, <a href="#" onClick="addTagToField('Environment');return false;">Environment</a>, <a href="#" onClick="addTagToField('Health Care');return false;">Health Care</a>, <a href="#" onClick="addTagToField('International');return false;">International</a>, <a href="#" onClick="addTagToField('Labor');return false;">Labor</a>, <a href="#" onClick="addTagToField('Law');return false;">Law</a>, <a href="#" onClick="addTagToField('Media');return false;">Media</a>, <a href="#" onClick="addTagToField('Meta');return false;">Meta</a>, <a href="#" onClick="addTagToField('National Security');return false;">National Security</a>, <a href="#" onClick="addTagToField('Science');return false;">Science</a>, <a href="#" onClick="addTagToField('Transportation');return false;">Transportation</a>, or <a href="#" onClick="addTagToField('White House');return false;">White House</a>.
+	If your diary is specific to a state, consider adding the state 
+	(<a href="#" onClick="addTagToField('California');return false;">California</a>,
+	<a href="#" onClick="addTagToField('Texas');return false;">Texas</a>, etc).
+	Keep in mind, though, that there are many wonderful and important diaries
+	that don't fit in any of these tags. Don't worry if yours doesn't.
+	</p>
+
+
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_hotlist" title="Hotlist This Diary:">
+<div class="info-bar"  >You can add a private note to this diary when hotlisting it:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/hotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1199091" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unHotlist" title="Remove Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from your hotlist?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unHotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1199091" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_removeRating" title="Remove Recommendation">
+<div class="info-bar"  >Are you sure you want to remove your recommendation? You can only recommend a diary once, so you will not be able to re-recommend it afterwards.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/removeRating"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_rescue" title="Rescue this Diary:">
+<div class="info-bar"  >Rescue this diary, and add a note:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/rescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unRescue" title="UnRescue Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from Rescue?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unRescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_addBlogQueue" title="Republish this Diary:">
+<div class="info-bar"  >Choose where to republish this diary. The diary will be added to the queue for that group. Publish it from the queue to make it appear.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/addBlogQueue"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+
+	<p>You must be a member of a group to use this feature.</p>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_update" title="Update Diary">
+<div class="info-bar"  >Add a quick update to your diary without changing the diary itself:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/update"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+
+<textarea class="is-validated vtype-required vtype-text" name="appendtext"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_deleteHow" title="Delete Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/deleteHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+
+	<table style="margin:4px;">
+	  <tr>
+		<td colspan="2" style="border-bottom:1px solid #dddddd; padding-bottom:4px;">
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="unpublish" checked />
+				<label for="where_hide" style="display:inline;padding-left:8px">Unpublish Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed from the site and returned to your drafts for further editing.)
+			</span>
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="hide"  />
+				<label for="where_hide" style="display:inline;padding-left:8px">Delete Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed.)
+			</span>
+		</td>
+	
+	  </tr>
+	</table>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishHow" title="Choose how to publish this diary:">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/publishHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+<input name="user_id"  value="6" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishChanges" title="Publish changes to this diary:">
+<div class="info-bar"  >Are you sure you want to save these changes to the published diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/edit"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+<input name="user_id"  value="6" type="hidden" />
+<input name="use_draft" value=1" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_bumpHow" title="Update timestamp for this diary now?">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/bumpHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1199091" type="hidden" />
+<input name="user_id"  value="6" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+
+
+
+<div style="width: 300px; margin: 0 auto; position: relative;">
+<!-- ca-pub-4201116381449156/DK_Story_BTF_300x250 -->
+<script type='text/javascript'>
+
+GA_googleFillSlot("300x250_DK4_Story");
+
+</script>
+</div>
+<div id='taboola-autosized-generated-2r' ></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'autosized-generated-2r', container:'taboola-autosized-generated-2r'});
+</script>
+
+
+
+	
+
+
+
+<div id="comment-prefs">
+      <div class="preferences-container">
+        <div class="preferences">
+	
+	<h4>Comment Preferences</h4>
+	<form id="cDForm" action="#" method="post">
+          <ul class="visibility">
+            <li><input type="radio" name="visibility" value="expand" id="comments-preferences-expand" checked="checked" /> <label for="comments-preferences-expand">expand</label></li>
+            <li><input type="radio" name="visibility" value="shrink" id="comments-preferences-shrink" /> <label for="comments-preferences-shrink">shrink</label></li>
+            <li><input type="radio" name="visibility" value="hide" id="comments-preferences-hide" /> <label for="comments-preferences-hide">hide</label></li>
+            <!-- <li class="remember"><input type="checkbox" name="visibility-remember" value="hide" id="comments-preferences-visibility-remember" /> <label for="comments-preferences-visibility-remember">Remember this selection</label></li> -->
+          </ul>
+          <!-- <ul>
+            <li><input type="radio" name="layout" value="indented" id="comments-preferences-indented" checked="checked" /> <label for="comments-preferences-indented">indented</label></li>
+            <li><input type="radio" name="layout" value="flat" id="comments-preferences-flat" /> <label for="comments-preferences-flat">flat</label></li>
+            <li class="remember"><input type="checkbox" name="layout-remember" value="hide" id="comments-preferences-layout-remember" /> <label for="comments-preferences-layout-remember">Remember this selection</label></li> 
+          </ul> -->
+	</form>
+	<form id="aRForm" action="#" method="post">
+              <ul class="visibility"><li>  <input type="checkbox" id="autoRefresh" name="autoRefresh" value=1  /> <label for="autoRefresh">Auto Refresh?</label>
+	</li></ul>
+        </form>
+        </div>
+      </div>
+
+</div>
+   <div id="comments">
+	<form id="rateAllForm" method="post" action="/" autocomplete="off">
+		<input id="story_id" value="1199091" type="hidden"/>
+		<input id="sid" value="2013/4/4/0399/32606" type="hidden"/>
+		<input type="hidden" id="uid" value="-1"  /> 
+		<input type="hidden" id="uname" value="Anonymous Coward" />
+      
+
+    
+	<div class="cbar"><h4>
+      
+                  <span class="cct">85</span> <span class="comment-text"><a href="/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8#comments">comments</a></span>
+                 | <a class="plink" href="/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8?detail=hide">Permalink</a>
+    </h4></div>
+      
+    
+
+<ul class="cm i0">
+
+
+
+
+
+
+
+
+<li id="c1">
+  <div class="cx" id="cx49811985">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Tip Jar</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49811985#c1?mode=alone;showrate=1#c1">25+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:98303">joedemocrat</a>, <a href="/user/uid:81388">crystal eyes</a>, <a href="/user/uid:2354">Paleo</a>, <a href="/user/uid:32258">superscalar</a>, <a href="/user/uid:7655">Powered Grace</a>, <a href="/user/uid:116553">bythesea</a>, <a href="/user/uid:198313">tardis10</a>, <a href="/user/uid:167631">Egalitare</a>, <a href="/user/uid:13682">eeff</a>, <a href="/user/uid:631455">Bon Temps</a>, <a href="/user/uid:2823">Chi</a>, <a href="/user/uid:242654">Darryl House</a>, <a href="/user/uid:70685">The Wizard</a>, <a href="/user/uid:175581">no way lack of brain</a>, <a href="/user/uid:39394">side pocket</a>, <a href="/user/uid:147796">jck</a>, <a href="/user/uid:27679">navajo</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:103080">bobswern</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:65489">gmnotyet</a>, <a href="/user/uid:915">JekyllnHyde</a>, <a href="/user/uid:46929">denise b</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49811985#c1">Fri Apr 05, 2013 at 05:55:26 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c2">
+  <div class="cx" id="cx49812051">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Still far below sufficient job growth</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812051#c2?mode=alone;showrate=1#c2">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:274938">MartyM</a>, <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:198313">tardis10</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:53256">Brooke In Seattle</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+www.buonoforgovernor.com
+</p>
+  <p class="cb">by <a href="/user/uid:2354">Paleo</a> on <a href="/comments/1199091/49812051#c2">Fri Apr 05, 2013 at 06:06:01 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812051" class="cm i1">
+
+
+
+
+<li id="c8">
+  <div class="cx" id="cx49812121">
+   <h5> <a class="de">&nbsp;</a><span class="cu">In related news....</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812121#c8?mode=alone;showrate=1#c8">8+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:631455">Bon Temps</a>, <a href="/user/uid:2823">Chi</a>, <a href="/user/uid:147796">jck</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:96793">LamontCranston</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:46929">denise b</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The senate Gang of 8 set to unveil an immigration reform legislature to increase, by orders of magnitude, the number of foreign workers allowed in to compete with U.S. unemployed for jobs.</p>
+<p>DailyKos members will cheer while wondering why unemployment is still so high.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198132">IT Professional</a> on <a href="/comments/1199091/49812121#c8">Fri Apr 05, 2013 at 06:16:02 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c2">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812121" class="cm i1">
+
+
+
+
+<li id="c18">
+  <div class="cx" id="cx49812229">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I won't cheer, these work visas stink</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812229#c18?mode=alone;showrate=1#c18">9+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:2823">Chi</a>, <a href="/user/uid:330078">JBraden</a>, <a href="/user/uid:140746">Wynter</a>, <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>There's more than enough evidence showing that companies are abusing the system and not even trying to recruit US workers then turning around and saying there's not enough skilled workers.</p>
+<p>They simply want a higher, cheaper supply of labor to screw workers.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Liberalism is trust of the people tempered by prudence. Conservatism is distrust of the people tempered by fear. ~William E. Gladstone, 1866
+</p>
+  <p class="cb">by <a href="/user/uid:221529">absdoggy</a> on <a href="/comments/1199091/49812229#c18">Fri Apr 05, 2013 at 06:32:44 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c8">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812229" class="cm i1">
+
+
+
+
+<li id="c41">
+  <div class="cx" id="cx49812586">
+   <h5> <a class="de">&nbsp;</a><span class="cu">No kidding.  Go to local job clubs and networking</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812586#c41?mode=alone;showrate=1#c41">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>groups and count the 40+ "independent consultants" you find.</p>
+<p>Yeah, we NEED those skills so badly that we don't want to use native talent.</p>
+<p>Sheesh. What a scam.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49812586#c41">Fri Apr 05, 2013 at 07:16:19 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c18">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c43">
+  <div class="cx" id="cx49812592">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Seen this happen...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812592#c43?mode=alone;showrate=1#c43">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I've been in offices where tech jobs are suddenly "outsourced" to Indian companies that promise cheap labor with work visas. These employees don't get paid the same as regular workers. I've talked with a few and they end up all living together in cramped apartments just to survive.</p>
+<p>This is not encouraging when "work visas" equate to "imported slave labor".</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49812592#c43">Fri Apr 05, 2013 at 07:16:45 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c18">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c26">
+  <div class="cx" id="cx49812401">
+   <h5> <a class="de">&nbsp;</a><span class="cu">When 12 million workers become "legal",</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812401#c26?mode=alone;showrate=1#c26">10+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:2823">Chi</a>, <a href="/user/uid:73410">shrike</a>, <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:140746">Wynter</a>, <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:46929">denise b</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>how many points will the UE rate jump?</p>
+<p>There are millions of potential workers here on visa overstays that will not be competing for entry-level jobs. &nbsp;They will be competing for much higher paying jobs in the tech, health and administrative fields.</p>
+<p>I have given up hope that my field, IT, will turn around anytime soon. &nbsp;More and more projects are being outsourced to India and Pakistan and elsewhere, or the government allows those workers to simply come here and earn slave wages for slave hours. &nbsp;And, all the workers who never bothered to go home will soon be given the red carpet treatment and allowed, with the blessings of the US government, to step into what few IT jobs are left.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49812401#c26">Fri Apr 05, 2013 at 06:56:00 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c8">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812401" class="cm i1">
+
+
+
+
+<li id="c48">
+  <div class="cx" id="cx49812860">
+   <h5> <a class="de">&nbsp;</a><span class="cu">IT industry failures...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812860#c48?mode=alone;showrate=1#c48">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:96793">LamontCranston</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:631455">Bon Temps</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I know what you mean. It's not that we are bitter IT workers towards them. But the companies that scam these people into the country are creating a real crisis. We expect each worker to be paid a commensurate wage. When companies fail to do so they create a vacuum. And when they ignore or prohibit hiring of the existing US IT workforce just to get cheap labor they end up breaking the overall industry.</p>
+<p>In the past workers had to strike to get fair wages for all. Nowadays, Congress is circumventing Labor through these Work Visa programs. They were not meant to be used as a cudgel against Labor. They were meant to find necessary skills when we didn't have enough in the country already.</p>
+<p>IT workers are currently underemployed or unemployed simply because the companies are either too cheap or too self-important to hire and train up the current work force. They are looking for extremely experienced and skilled IT workers at below rockbottom salaries. This isn't the way America works.</p>
+<p>There are a few tenets to IT hiring I tend to stick to.</p>
+<p>- Hire for skills, but look for talent: Hire skilled workers and trainable workers. You can hire a person with the right skills but you can't make them work. It takes skills plus talent to make a team work.</p>
+<p>- Pay people what they are worth and they work harder: Skimping on salaries just for budgetary reasons is a losing proposition. As a manager, you have the job of securing the funding necessary to make the project succeed. It's your failure if you can't. Underpaying workers depresses their talents and can even make them make mistakes that can cost you success overall. It's not worth it.</p>
+<p>- Train a workforce, don't just hire one: It's an old idea which has been discarded over the years thanks to outsourcing. But it needs to come back if we are going to make real jobs in this country. Hiring a worker is like planting a seed. You grow them into what you need them to be in the future as part of the overall team. You can build a tremendous team of individuals if you can follow all of these tenets correctly. People that can be dependable, dedicated and enthusiastic about your company's success.</p>
+<p>But of course, companies fail in this arena. They hire peicemeal for projects. The do so on the cheap and personnel move on to other places multiple times because of this. The IT world suffers because of it.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49812860#c48">Fri Apr 05, 2013 at 07:37:38 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c26">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812860" class="cm i1">
+
+
+
+
+<li id="c58">
+  <div class="cx" id="cx49813864">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I wish more managers had your philosophy</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813864#c58?mode=alone;showrate=1#c58">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:96793">LamontCranston</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:140746">Wynter</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:631455">Bon Temps</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Especially point three, training. &nbsp;This is a point that's often overlooked whenever people talk about the phantom "skills-gap" our nation faces. &nbsp;Now, somewhat obviously, there isn't any kind of skills gap, because if there were, unemployment would be near rock bottom in sectors of the economy, and wages would be sky-rocketing as companies fought over the highly-demanded but limited supply of skilled workers.</p>
+<p>But second, and more importantly, if there were a skills gap, how come companies aren't hiring people and training them? &nbsp;Are they such terrible employers they're afraid people will flee to greener fields as soon as the training is complete? &nbsp;</p>
+<p>The example I always call to mind is World War II. &nbsp;America sent its men off to war. &nbsp;But America also needed industry to produce the goods to win the war! &nbsp;So what did American companies do? &nbsp;They shattered the gender barrier, and hired completely unskilled women, who after being trained were assembling the planes, bombs, tanks, and ships we needed to win the war. &nbsp;That's what a skills shortage looks like. &nbsp;</p>
+<p>American companies today have a terrible disease of the mind. &nbsp;They don't want to please customers, just shareholders. &nbsp;They don't want to pay their employees, just their executives. &nbsp;And they don't want to train the next generation, they just want to import foreigners who have state-subsidized educations, who will work in America at rock bottom wages. &nbsp;It's terrible.<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198583">MPociask</a> on <a href="/comments/1199091/49813864#c58">Fri Apr 05, 2013 at 08:39:15 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c48">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813864" class="cm i1">
+
+
+
+
+<li id="c62">
+  <div class="cx" id="cx49814122">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I second that post!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814122#c62?mode=alone;showrate=1#c62">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:631455">Bon Temps</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Don't Let Your Mouth Write A Check, That Your Butt Can't Cash."
+</p>
+  <p class="cb">by <a href="/user/uid:96793">LamontCranston</a> on <a href="/comments/1199091/49814122#c62">Fri Apr 05, 2013 at 08:54:00 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c58">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c76">
+  <div class="cx" id="cx49817173">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Well, said.. and it's nice to hear</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49817173#c76?mode=alone;showrate=1#c76">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>a manager with your attitude.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49817173#c76">Fri Apr 05, 2013 at 12:32:13 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c48">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c77">
+  <div class="cx" id="cx49817952">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I agree and would add a couple things</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49817952#c77?mode=alone;showrate=1#c77">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:140746">Wynter</a>, <a href="/user/uid:46929">denise b</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>One is sort of an offshoot of your final point: when making any decision that might impact them, take them into account and if possible include them. This applies to numerous things, including not creating an environment so hectic they can't be effective (the studies on this should terrify managers concerned about productivity)</p>
+<p>The other builds on your first point - it <strong>is</strong> difficult to find workers who meet all the criteria for a professional IT position. Over the past few years, my small team at a large company has had occasion to need a number of people. Out of loads and loads of resumes, few were what we needed (and our needs are not unusual). Out of the few we interviewed, few would have worked out. Out of the few we actually hired. . .let's just say the trend continued, though there were a couple bright spots.</p>
+<p>&nbsp; &nbsp;The point of all this is that in IT at least, both employers and workers have focused too much on technical ability and not enough on other things that make for a good employee and a good team. The result is a workforce increasingly devoid of these skills. I tend to think that some older workers might be more likely to fit the bill if only companies were willing to invest the time on training. But the overall problem is a lack of focus on what matters most.</p>
+<p>The IT world isn't the only world that suffers because of this. The idea of a bright line between IT and the rest of the company is a concept that needs to go away in this day and age. For most of the nation's top companies, IT should be inextricably intertwined with the business.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Want a progressive global warming novel, not a right wing rant? Go to www.edwardgtalbot.com and check out New World Orders
+</p>
+  <p class="cb">by <a href="/user/uid:109546">eparrot</a> on <a href="/comments/1199091/49817952#c77">Fri Apr 05, 2013 at 01:30:05 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c48">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49817952" class="cm i1">
+
+
+
+
+<li id="c84">
+  <div class="cx" id="cx49821802">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Recruiting suffers of test aces.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49821802#c84?mode=alone;showrate=1#c84">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:109546">eparrot</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>IT has suffered a good deal from having too many skill sets that are in technology that is moving faster and faster. I can't tell you how many jobs I have seen that posted that want obscure skill sets or combinations of skillsets all at the expert level even though that version of the skill only came out a year or so ago.</p>
+<p>I'm one of those old school mainframe folks that grew into the .Net web area of developing. And there is no way in hell I can keep up with all the various branches to this segment of the field. Most of these specific skillsets are similar and if you can understand one you can figure out the other in with a little bit of training or on the job experience. But many recruiters don't look for that when they screen resumes. They look only for the keywords and don't delve deeper to see whether the candidate could actually compensate for this on the job.</p>
+<p>I pride myself as a jack of all trades that can adapt to almost any environment or requirement given a chance. But you can't shine in an interview these days with just that behind you. They fire off questions not designed to gauge your ability to solve problems but rather to ascertain if you know the keywords, jargon or obscure factoids that accompany a skillset. Only asking test type questions will always get you someone that can pass tests, not someone that can properly develop, code, and test an application. We have lost the ability in recruiting to adequately assess candidates.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49821802#c84">Fri Apr 05, 2013 at 09:12:35 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c77">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49821802" class="cm i1">
+
+
+
+
+<li id="c85">
+  <div class="cx" id="cx49827488">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Agreed 100%</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49827488#c85?mode=alone;showrate=1#c85">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>So much accurate in your comment, so yes!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Want a progressive global warming novel, not a right wing rant? Go to www.edwardgtalbot.com and check out New World Orders
+</p>
+  <p class="cb">by <a href="/user/uid:109546">eparrot</a> on <a href="/comments/1199091/49827488#c85">Sat Apr 06, 2013 at 03:46:15 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c84">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c61">
+  <div class="cx" id="cx49814094">
+   <h5> <a class="de">&nbsp;</a><span class="cu">You can now work an IT job here for $11/hr!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814094#c61?mode=alone;showrate=1#c61">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Don't Let Your Mouth Write A Check, That Your Butt Can't Cash."
+</p>
+  <p class="cb">by <a href="/user/uid:96793">LamontCranston</a> on <a href="/comments/1199091/49814094#c61">Fri Apr 05, 2013 at 08:52:11 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c8">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49814094" class="cm i1">
+
+
+
+
+<li id="c68">
+  <div class="cx" id="cx49814412">
+   <h5> <a class="de">&nbsp;</a><span class="cu">And spend the rest of you working life</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814412#c68?mode=alone;showrate=1#c68">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>trying to get to zero after paying off your student loans.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198132">IT Professional</a> on <a href="/comments/1199091/49814412#c68">Fri Apr 05, 2013 at 09:16:14 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c61">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c3">
+  <div class="cx" id="cx49812060">
+   <h5> <a class="de">&nbsp;</a><span class="cu">and of course, rightwingers are blaming Obama</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812060#c3?mode=alone;showrate=1#c3">10+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:94755">FishOutofWater</a>, <a href="/user/uid:81388">crystal eyes</a>, <a href="/user/uid:116553">bythesea</a>, <a href="/user/uid:167631">Egalitare</a>, <a href="/user/uid:28820">pollwatcher</a>, <a href="/user/uid:46607">TexasTom</a>, <a href="/user/uid:330078">JBraden</a>, <a href="/user/uid:147796">jck</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Republicans NEVER had any intention of compromising to PREVENT the Sequester.<br />
+When the Sequester passed - Boehner said he got "98% of what he wanted."</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Tax cuts for the 1% create jobs." -- Republicans, HAHAHA - in China
+</p>
+  <p class="cb">by <a href="/user/uid:274938">MartyM</a> on <a href="/comments/1199091/49812060#c3">Fri Apr 05, 2013 at 06:08:00 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812060" class="cm i1">
+
+
+
+
+<li id="c14">
+  <div class="cx" id="cx49812209">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It's partly O's fault, for NOT fighting!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812209#c14?mode=alone;showrate=1#c14">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:2823">Chi</a>, <a href="/user/uid:222086">jeopardydd</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:96793">LamontCranston</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>A lot of us knew this was coming when Obama/Reid caved on the debt fight and accepted exactly what the Repugs wanted, big budget cuts that would slash government!</p>
+<p>Did Obama learn anything? &nbsp;I doubt it. &nbsp;Next will come the cuts in Social Security and Medicare that this sequester was supposed to prevent. &nbsp;The right will claim it's Obama's fault, the left will claim it's more 11 dimensional chess, and the Oligarchs will win and the poor will lose.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28820">pollwatcher</a> on <a href="/comments/1199091/49812209#c14">Fri Apr 05, 2013 at 06:30:02 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c3">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c16">
+  <div class="cx" id="cx49812218">
+   <h5> <a class="de">&nbsp;</a><span class="cu">So you agree now</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812218#c16?mode=alone;showrate=1#c16">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:222086">jeopardydd</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>that was a sucky deal on Obama's part?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:10260">TJ</a> on <a href="/comments/1199091/49812218#c16">Fri Apr 05, 2013 at 06:31:57 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c3">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812218" class="cm i1">
+
+
+
+
+<li id="c44">
+  <div class="cx" id="cx49812622">
+   <h5> <a class="de">&nbsp;</a><span class="cu">No. The sequester was the right thing.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812622#c44?mode=alone;showrate=1#c44">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Let's let the Republicans cheer bad news.</p>
+<p>Sadly, it's like the old aerobics mantra: &nbsp;No Pain, no Gain.</p>
+<p>Fortunately, the worst of the pain is cushioned by exemptions in the sequester.</p>
+<p>Some vulnerable people are still being hurt, but the numbers are small enough that help can be arranged -- if anybody cares to do so.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49812622#c44">Fri Apr 05, 2013 at 07:19:02 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c16">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c4">
+  <div class="cx" id="cx49812062">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The sequester is working as planned</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812062#c4?mode=alone;showrate=1#c4">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:81388">crystal eyes</a>, <a href="/user/uid:167631">Egalitare</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:46929">denise b</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The increase in the number of jobs has declined. At this rate jobs will be declining in the next quarter.</p>
+<p>The Republicans will celebrate this good news.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+look for my eSci diary series Thursday evening.
+</p>
+  <p class="cb">by <a href="/user/uid:94755">FishOutofWater</a> on <a href="/comments/1199091/49812062#c4">Fri Apr 05, 2013 at 06:08:09 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812062" class="cm i1">
+
+
+
+
+<li id="c20">
+  <div class="cx" id="cx49812238">
+   <h5> <a class="de">&nbsp;</a><span class="cu">To be fair</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812238#c20?mode=alone;showrate=1#c20">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Everybody in the Village seems to be enthusiastic about austerity.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:10260">TJ</a> on <a href="/comments/1199091/49812238#c20">Fri Apr 05, 2013 at 06:33:15 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c4">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c5">
+  <div class="cx" id="cx49812108">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Strange how economists talk about uncertainty</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812108#c5?mode=alone;showrate=1#c5">7+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:198313">tardis10</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>holding down hiring, then pooh-pooh the effects of the sequester on jobs.</p>
+<p>The budget crap in Washington has dragged down consumer confidence which is leading to a drop in consumer spending. The drop in spending will lead to a drop in production and jobs.</p>
+<p>The indirect effects of the sequester may be more important that the direct effects.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+look for my eSci diary series Thursday evening.
+</p>
+  <p class="cb">by <a href="/user/uid:94755">FishOutofWater</a> on <a href="/comments/1199091/49812108#c5">Fri Apr 05, 2013 at 06:13:32 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812108" class="cm i1">
+
+
+
+
+<li id="c30">
+  <div class="cx" id="cx49812475">
+   <h5> <a class="de">&nbsp;</a><span class="cu">More likely the payroll tax than anything else..</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812475#c30?mode=alone;showrate=1#c30">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:104983">exreaganite</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:109546">eparrot</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Also, the IRS delayed payouts of refunds until the end of January. &nbsp;So, this year started out really poorly for consumers and retailers. &nbsp;Wal-Mart called January a "disaster".</p>
+<p>I don't think consumer confidence has much to do with the "budget crap". &nbsp;It has to do with how much cash Joe Blow has in his pocket - i.e. less.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49812475#c30">Fri Apr 05, 2013 at 07:04:30 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812475" class="cm i1">
+
+
+
+
+<li id="c78">
+  <div class="cx" id="cx49817973">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Excellent point!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49817973#c78?mode=alone;showrate=1#c78">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:631455">Bon Temps</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I for one hated the payroll tax break because of the risks it opened for SS. But it was one of the most stimulative things we;ve had, and it got removed.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Want a progressive global warming novel, not a right wing rant? Go to www.edwardgtalbot.com and check out New World Orders
+</p>
+  <p class="cb">by <a href="/user/uid:109546">eparrot</a> on <a href="/comments/1199091/49817973#c78">Fri Apr 05, 2013 at 01:31:41 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c30">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49817973" class="cm i1">
+
+
+
+
+<li id="c80">
+  <div class="cx" id="cx49818154">
+   <h5> <a class="de">&nbsp;</a><span class="cu">People forget that tax breaks are "stimulus"</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49818154#c80?mode=alone;showrate=1#c80">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:109546">eparrot</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>every bit as much as government spending money. &nbsp;Keynes even identified lowering taxes as a way to stimulate.</p>
+<p>While I agree with you that under funding SS was not a smart thing, the payroll tax holiday was a perfectly targeted stimulus. &nbsp;It affected lower and middle income earners much more than higher earners - and those lower income earners were much more likely to inject those dollars immediately back into the economy through consumer spending.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49818154#c80">Fri Apr 05, 2013 at 01:46:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c78">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49818154" class="cm i1">
+
+
+
+
+<li id="c81">
+  <div class="cx" id="cx49818601">
+   <h5> <a class="de">&nbsp;</a><span class="cu">You are correct</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49818601#c81?mode=alone;showrate=1#c81">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Just because it made me very uneasy doesn't mean I didn't recognize and support the stimulative impact. Many things aren't black and white.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Want a progressive global warming novel, not a right wing rant? Go to www.edwardgtalbot.com and check out New World Orders
+</p>
+  <p class="cb">by <a href="/user/uid:109546">eparrot</a> on <a href="/comments/1199091/49818601#c81">Fri Apr 05, 2013 at 02:28:01 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c80">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c6">
+  <div class="cx" id="cx49812113">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Not as bad as it appears</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812113#c6?mode=alone;showrate=1#c6">7+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:48208">jiffypop</a>, <a href="/user/uid:46607">TexasTom</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:73410">shrike</a>, <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:142501">nextstep</a>, <a href="/user/uid:34676">HeyMikey</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>the revisions to January and February were both very positive (+29k and +32k respectively) and I will expect this one to get revised up as well (seems to be the pattern for the past 2 years of weak initial reports and strong revisions). &nbsp;</p>
+<p>Also, U-6 declining is again a sign that this isn't all about "discouraged workers" but may be a more fundamental shift that we should have expected with an aging population. &nbsp;</p>
+<p>Overall, the initial read is not good, but let's see how the revisions come in.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:113884">SilverOz</a> on <a href="/comments/1199091/49812113#c6">Fri Apr 05, 2013 at 06:14:39 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812113" class="cm i1">
+
+
+
+
+<li id="c15">
+  <div class="cx" id="cx49812212">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It's worse</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812212#c15?mode=alone;showrate=1#c15">8+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:28820">pollwatcher</a>, <a href="/user/uid:631455">Bon Temps</a>, <a href="/user/uid:222086">jeopardydd</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Labor force participation is at a 34 year low.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:10260">TJ</a> on <a href="/comments/1199091/49812212#c15">Fri Apr 05, 2013 at 06:30:31 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c6">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812212" class="cm i1">
+
+
+
+
+<li id="c17">
+  <div class="cx" id="cx49812220">
+   <h5> <a class="de">&nbsp;</a><span class="cu">So?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812220#c17?mode=alone;showrate=1#c17">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:46607">TexasTom</a>, <a href="/user/uid:48208">jiffypop</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>This was predicted way back in 2002 by several studies. &nbsp;When your population ages your part rate declines. &nbsp;</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:113884">SilverOz</a> on <a href="/comments/1199091/49812220#c17">Fri Apr 05, 2013 at 06:31:59 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c15">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812220" class="cm i1">
+
+
+
+
+<li id="c23">
+  <div class="cx" id="cx49812339">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The BLS forecasts changes in the labor force...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812339#c23?mode=alone;showrate=1#c23">10+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:10260">TJ</a>, <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:39394">side pocket</a>, <a href="/user/uid:222086">jeopardydd</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:96793">LamontCranston</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>...participation rate every two years. It did not predict a drop this steep in 2002 or 2004 or 2006.</p>
+<p>And there's one big problem with the it's-just-the-aging-of-the-baby-boomers approach to this statistic: the hit going on for people in their prime earning years.<br /></p>
+<div class="dkimg-c"><span class="image_container"><img src="http://s3.amazonaws.com/dk-production/images/26751/large/participation_rate.png?1365169394" alt="" /></span></div>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49812339#c23">Fri Apr 05, 2013 at 06:46:28 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812339" class="cm i1">
+
+
+
+
+<li id="c29">
+  <div class="cx" id="cx49812467">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I never said "just the boomers"</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812467#c29?mode=alone;showrate=1#c29">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:48208">jiffypop</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>But they are a big part of it. &nbsp;Nor did I ever say none of it was cyclical. &nbsp;What I am saying is that a lot more of this is structural than people think (as evidenced by the U-6 decline). &nbsp;You are seeing more kids staying in school/not entering the workforce (a trend that has been underway since the early 90s). &nbsp;You are likely seeing more single income families (something made possible by extremely low interest rates and technology). &nbsp;In other words, I don't think the part rate is going back up anytime soon and thus arguments that we should discount the unemployment rate because of it are not relevant. &nbsp;</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:113884">SilverOz</a> on <a href="/comments/1199091/49812467#c29">Fri Apr 05, 2013 at 07:03:38 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c23">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812467" class="cm i1">
+
+
+
+
+<li id="c40">
+  <div class="cx" id="cx49812579">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Also note that the participation rate is forecast</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812579#c40?mode=alone;showrate=1#c40">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>to decline for these age groups regardless of any economic changes:</p>
+<p><a href="http://www.bls.gov/emp/ep_table_303.htm">BLS table</a></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Obama 2012 http://whatthefuckhasobamadonesofar.com/
+</p>
+  <p class="cb">by <a href="/user/uid:48208">jiffypop</a> on <a href="/comments/1199091/49812579#c40">Fri Apr 05, 2013 at 07:14:54 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c29">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c46">
+  <div class="cx" id="cx49812646">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Are you sure about that?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812646#c46?mode=alone;showrate=1#c46">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:104983">exreaganite</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Most of the Boomers I know are not leaving the labor force, mostly because many of us have been decimated by the economic flop.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49812646#c46">Fri Apr 05, 2013 at 07:21:37 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c29">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812646" class="cm i1">
+
+
+
+
+<li id="c47">
+  <div class="cx" id="cx49812731">
+   <h5> <a class="de">&nbsp;</a><span class="cu">up 1.2 million in last year</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812731#c47?mode=alone;showrate=1#c47">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:48208">jiffypop</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:34676">HeyMikey</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The number of those 65+ not in the labor force has increased by 1.2 million in the last year. &nbsp;See table A-6.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:113884">SilverOz</a> on <a href="/comments/1199091/49812731#c47">Fri Apr 05, 2013 at 07:28:54 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c46">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812731" class="cm i1">
+
+
+
+
+<li id="c64">
+  <div class="cx" id="cx49814147">
+   <h5> <a class="de">&nbsp;</a><span class="cu">So -- are they really out or "U6 out?"</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814147#c64?mode=alone;showrate=1#c64">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Not exactly the same thing.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49814147#c64">Fri Apr 05, 2013 at 08:55:34 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c47">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c50">
+  <div class="cx" id="cx49813055">
+   <h5> <a class="de">&nbsp;</a><span class="cu">But, workers near retirement age are DELAYING </span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813055#c50?mode=alone;showrate=1#c50">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>retirement, and have a higher participation rate.</p>
+<p>The issue is discouraged workers who are not near retirement.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">The most important way to protect the environment is not to have more than one child.</p>
+  <p class="cb">by <a href="/user/uid:142501">nextstep</a> on <a href="/comments/1199091/49813055#c50">Fri Apr 05, 2013 at 07:50:14 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c21">
+  <div class="cx" id="cx49812304">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I hope you are right</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812304#c21?mode=alone;showrate=1#c21">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Seems that I have heard this story before. Big February followed by blah March.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:304786">Dr Swig Mcjigger</a> on <a href="/comments/1199091/49812304#c21">Fri Apr 05, 2013 at 06:41:57 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c6">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812304" class="cm i1">
+
+
+
+
+<li id="c24">
+  <div class="cx" id="cx49812340">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Last year's March was only +120k</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812340#c24?mode=alone;showrate=1#c24">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:73410">shrike</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>When first reported, but was revised up to +205k. &nbsp;I expect a similar revision this March as well, as it has been the pattern for the past 2 years.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:113884">SilverOz</a> on <a href="/comments/1199091/49812340#c24">Fri Apr 05, 2013 at 06:46:49 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c21">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812340" class="cm i1">
+
+
+
+
+<li id="c34">
+  <div class="cx" id="cx49812507">
+   <h5> <a class="de">&nbsp;</a><span class="cu">SilverOz  -  good to see you again!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812507#c34?mode=alone;showrate=1#c34">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Us realists are dwindling away.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"The way to see by faith is to shut the eye of reason." - Thomas Paine
+</p>
+  <p class="cb">by <a href="/user/uid:73410">shrike</a> on <a href="/comments/1199091/49812507#c34">Fri Apr 05, 2013 at 07:08:06 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c24">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812507" class="cm i1">
+
+
+
+
+<li id="c52">
+  <div class="cx" id="cx49813277">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Glad to see SilverOz, too. But there are...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813277#c52?mode=alone;showrate=1#c52">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>...various views among realists. And three years ago, and two years ago, and one year ago, one branch of realists was declaring that finally the economy was throwing off its sluggish recovery and the rainbows were coming out at the end of the storm. And each time that declaration turned to ashes.</p>
+<p>That is not to say nothing good has happened since the recession officially ended nearly four years ago. Obviously, the growth we've had is better than what was happening right about now in 2009 with jobs being shed in the 600,000s each month. But the old saw about employment being a "lagging indicator" that improves several months to a year behind GDP recovery leaves a sour taste given how long the lagging has been going on.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49813277#c52">Fri Apr 05, 2013 at 08:01:43 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c34">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813277" class="cm i1">
+
+
+
+
+<li id="c79">
+  <div class="cx" id="cx49818011">
+   <h5> <a class="de">&nbsp;</a><span class="cu">And that is the key</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49818011#c79?mode=alone;showrate=1#c79">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>It can be true that some of the signs are positive, and some of the loss of workers is due to aging.</p>
+<p>It can also be true that the piss poor quality of jobs we do have and the increasing income gap while corporate profits are at record highs is all part of a disturbing economic picture. &nbsp;Not disturbing because we're going to have another crash next month or in six months, but because the way we've started out of this recovery is fundamentally different than others in a way that doesn't seem positive.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Want a progressive global warming novel, not a right wing rant? Go to www.edwardgtalbot.com and check out New World Orders
+</p>
+  <p class="cb">by <a href="/user/uid:109546">eparrot</a> on <a href="/comments/1199091/49818011#c79">Fri Apr 05, 2013 at 01:36:02 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c52">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c33">
+  <div class="cx" id="cx49812504">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Recovery Summer!  Part Deux!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812504#c33?mode=alone;showrate=1#c33">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Excuse me if I don't get too excited about these numbers...</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49812504#c33">Fri Apr 05, 2013 at 07:07:53 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c21">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c32">
+  <div class="cx" id="cx49812486">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Still, 2012 was better than 2013.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812486#c32?mode=alone;showrate=1#c32">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>We are going in the wrong direction.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49812486#c32">Fri Apr 05, 2013 at 07:06:06 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c6">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c45">
+  <div class="cx" id="cx49812633">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Discouraged workers fall off of the U6 radar.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812633#c45?mode=alone;showrate=1#c45">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:104983">exreaganite</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:53256">Brooke In Seattle</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I can't remember if it's 6 months or a year, but U6, while far better than U3, also under-reports when the economy is bad enough.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49812633#c45">Fri Apr 05, 2013 at 07:20:29 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c6">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812633" class="cm i1">
+
+
+
+
+<li id="c53">
+  <div class="cx" id="cx49813284">
+   <h5> <a class="de">&nbsp;</a><span class="cu">A year. n/t</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813284#c53?mode=alone;showrate=1#c53">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:53256">Brooke In Seattle</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49813284#c53">Fri Apr 05, 2013 at 08:02:01 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c45">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813284" class="cm i1">
+
+
+
+
+<li id="c57">
+  <div class="cx" id="cx49813557">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Thanks.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813557#c57?mode=alone;showrate=1#c57">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49813557#c57">Fri Apr 05, 2013 at 08:18:33 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c53">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c7">
+  <div class="cx" id="cx49812117">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I guess cutting a deal with US Chamber of Commer</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812117#c7?mode=alone;showrate=1#c7">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+How big is your personal carbon footprint?
+</p>
+  <p class="cb">by <a href="/user/uid:181518">ban nock</a> on <a href="/comments/1199091/49812117#c7">Fri Apr 05, 2013 at 06:15:37 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812117" class="cm i1">
+
+
+
+
+<li id="c10">
+  <div class="cx" id="cx49812130">
+   <h5> <a class="de">&nbsp;</a><span class="cu">hit post too soon</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812130#c10?mode=alone;showrate=1#c10">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198132">IT Professional</a>, <a href="/user/uid:631455">Bon Temps</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>commerce to bring in guest workers would straighten things out but quick.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+How big is your personal carbon footprint?
+</p>
+  <p class="cb">by <a href="/user/uid:181518">ban nock</a> on <a href="/comments/1199091/49812130#c10">Fri Apr 05, 2013 at 06:17:16 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c7">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c9">
+  <div class="cx" id="cx49812126">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The Republican playbook</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812126#c9?mode=alone;showrate=1#c9">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:170696">skillet</a>, <a href="/user/uid:150080">mchestnutjr</a>, <a href="/user/uid:175015">Mister Met</a>, <a href="/user/uid:330078">JBraden</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>First kill the recovery under the name of "austerity"..... &nbsp;but blame it on Obama. &nbsp;Use this contrived economic hardship to win elections.<br />
+Use the power of elected office to dismantle democracy.<br />
+Deregulate Wall Street, obstruct voters, stack the courts, rig the districts and revolve the doors.<br />
+Militarize the police and capture the media.<br />
+Finally, with our Constitutional checks and balances destroyed, let the bold days of bald face state sanctioned &nbsp;plutocracy begin.<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<big>If cats could blog, they wouldn't</big>
+</p>
+  <p class="cb">by <a href="/user/uid:81388">crystal eyes</a> on <a href="/comments/1199091/49812126#c9">Fri Apr 05, 2013 at 06:16:46 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c11">
+  <div class="cx" id="cx49812139">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Numbers bad?....Boehner to trash the president in</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812139#c11?mode=alone;showrate=1#c11">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:46607">TexasTom</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>5...4...3...2...1........Numbers good?......Boehner to praise GOP Obstruction in 5...4.....3....3....1.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:170696">skillet</a> on <a href="/comments/1199091/49812139#c11">Fri Apr 05, 2013 at 06:17:55 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c12">
+  <div class="cx" id="cx49812150">
+   <h5> <a class="de">&nbsp;</a><span class="cu">This is sequester pure and simple.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812150#c12?mode=alone;showrate=1#c12">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>And it's going to get a lot worse over the next few months. &nbsp;Companies are going to be very cautious and lay people off before they lose the government contracts.</p>
+<p>Shut down the National Parks on Sundays, make big lines at airports, stop federal licensing on Tues...</p>
+<p>People need to see what the sequester is going to do to this country and they need to start paying attention. &nbsp;The worst thing for the idiot government managers to do would be to try and hide the effects.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28820">pollwatcher</a> on <a href="/comments/1199091/49812150#c12">Fri Apr 05, 2013 at 06:19:41 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812150" class="cm i1">
+
+
+
+
+<li id="c22">
+  <div class="cx" id="cx49812311">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Cant't  be all the sequester</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812311#c22?mode=alone;showrate=1#c22">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>It's spread out over many areas over a period of time. Plus some if has already been mitigated by Congress.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:304786">Dr Swig Mcjigger</a> on <a href="/comments/1199091/49812311#c22">Fri Apr 05, 2013 at 06:43:22 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c12">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812311" class="cm i1">
+
+
+
+
+<li id="c27">
+  <div class="cx" id="cx49812409">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It's only the beginning</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812409#c27?mode=alone;showrate=1#c27">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Very,Very little was mitigated. &nbsp;Last weeks weekly jobless claims had spikes in states with lots of Federal jobs and contractors.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28820">pollwatcher</a> on <a href="/comments/1199091/49812409#c27">Fri Apr 05, 2013 at 06:57:14 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c22">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c35">
+  <div class="cx" id="cx49812524">
+   <h5> <a class="de">&nbsp;</a><span class="cu">There was no sequester in March</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812524#c35?mode=alone;showrate=1#c35">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:142501">nextstep</a>, <a href="/user/uid:304786">Dr Swig Mcjigger</a>, <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:109546">eparrot</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Most of the sequester hasn't even kicked in yet.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:631455">Bon Temps</a> on <a href="/comments/1199091/49812524#c35">Fri Apr 05, 2013 at 07:09:46 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c12">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c13">
+  <div class="cx" id="cx49812173">
+   <h5> <a class="de">&nbsp;</a><span class="cu">If Mitt Romney had won, this number</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812173#c13?mode=alone;showrate=1#c13">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>would be a lot higher. That is according to the analysis of one Ann Romney. Also, we'd have already started, and won, a war with North Korea.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+</p>
+  <p class="cb">by <a href="/user/uid:365">doc2</a> on <a href="/comments/1199091/49812173#c13">Fri Apr 05, 2013 at 06:23:45 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812173" class="cm i1">
+
+
+
+
+<li id="c19">
+  <div class="cx" id="cx49812237">
+   <h5> <a class="de">&nbsp;</a><span class="cu">And Iran. n/t</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812237#c19?mode=alone;showrate=1#c19">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49812237#c19">Fri Apr 05, 2013 at 06:33:15 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c13">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c82">
+  <div class="cx" id="cx49819896">
+   <h5> <a class="de">&nbsp;</a><span class="cu">"If Romney had won..."...like a punch line now...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49819896#c82?mode=alone;showrate=1#c82">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>It's as though we are to forget all the policy blunders - betrayal on the public option, extending the Bush tax cuts the first time, the sequester, and now cutting SS and Medicare - because "it could have been worse" with Romney.</p>
+<p>Are you planning to use that as the justification for Obama's bullshit until he leaves office?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Adequate health care should be a LEGAL RIGHT in the U.S without begging or bankruptcy. Until it is, we should not dare call our society civilized.
+</p>
+  <p class="cb">by <a href="/user/uid:645028">Love Me Slender</a> on <a href="/comments/1199091/49819896#c82">Fri Apr 05, 2013 at 05:09:50 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c13">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c25">
+  <div class="cx" id="cx49812362">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Am I the only one not surprised?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812362#c25?mode=alone;showrate=1#c25">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:28820">pollwatcher</a>, <a href="/user/uid:60601">FindingMyVoice</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The entire global economy has been slowing down for months. Most of the 1st world is already in recession.<br />
+&nbsp; &nbsp;yet for some reason most everyone thinks that America is going to be immune from it. It's nuts.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+¡Cállate o despertarás la izquierda! - protest sign in Spain
+</p>
+  <p class="cb">by <a href="/user/uid:15813">gjohnsit</a> on <a href="/comments/1199091/49812362#c25">Fri Apr 05, 2013 at 06:50:12 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812362" class="cm i1">
+
+
+
+
+<li id="c28">
+  <div class="cx" id="cx49812433">
+   <h5> <a class="de">&nbsp;</a><span class="cu">This is not just global economics</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812433#c28?mode=alone;showrate=1#c28">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>I think most of this is the U.S. buying into Austerity and now we're about to pay the price. &nbsp;Japan and soon China are about to stimulate while Europe and U.S. continue with this BS austerity. &nbsp;It'll be hard for both their export dependent economies to grow, if the economies of the people they export to are shrinking.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28820">pollwatcher</a> on <a href="/comments/1199091/49812433#c28">Fri Apr 05, 2013 at 07:00:31 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c25">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812433" class="cm i1">
+
+
+
+
+<li id="c51">
+  <div class="cx" id="cx49813244">
+   <h5> <a class="de">&nbsp;</a><span class="cu">US not in austerity, just slightly less stimulus</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813244#c51?mode=alone;showrate=1#c51">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:304786">Dr Swig Mcjigger</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>the US still has large stimulus from a $1 trillion federal deficit while interest rates are at historic lows.</p>
+<p>Federal spending in 2013 is still higher than in 2012.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">The most important way to protect the environment is not to have more than one child.</p>
+  <p class="cb">by <a href="/user/uid:142501">nextstep</a> on <a href="/comments/1199091/49813244#c51">Fri Apr 05, 2013 at 07:59:47 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c28">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c31">
+  <div class="cx" id="cx49812480">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Its interesting that though the report was</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812480#c31?mode=alone;showrate=1#c31">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>weak, thanks to austerity and the Guns Over People Party, that the unemployment rate dropped. I would love to hear Obama nail Boner and the GOP for the first effects felt for the Tea Party fueled austerity they so demanded. I won't hold my breath though.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:222068">Ewashstate</a> on <a href="/comments/1199091/49812480#c31">Fri Apr 05, 2013 at 07:05:11 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c36">
+  <div class="cx" id="cx49812533">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Don't forget</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812533#c36?mode=alone;showrate=1#c36">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:396497">MrAnon</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Something like $20 billion is coming out of the economy on a monthly basis due to the loss of relief in FICA taxes. The sequester results in an additional $14 billion that must be cut from the Fed budget over the next 6 months. Added together that's a $34 billion monthly hit to the economy split between retail sales (mostly discretionary I hope) and government purchases of goods and services from the private sector.</p>
+<p>There will be direct government jobs lost due to the sequester but there's no way you can cover any significant fraction of the costs by dumping employees. You have to close entire operating facilities and eliminate all associated costs.</p>
+<p>We've been experiencing an inventory build in the economy coming out of the 4th qtr and that led to a lot of early year hiring, same as has occurred in the last 3 years or so, but that's mostly over for now. The danger right now is if we start losing jobs going forward. That would be a major blow to confidence with potential contagion effects.</p>
+<p>The President stated that we could lose as many as 750k jobs due to the sequester. The Fed chairman said the sequester would cut 1.5 percentage points from GDP. I think we should consider these forecasts to be more accurate than what is coming out of wall street given that wall street's incentive for accuracy is dubious.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:65811">PointGuard</a> on <a href="/comments/1199091/49812533#c36">Fri Apr 05, 2013 at 07:10:26 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c37">
+  <div class="cx" id="cx49812544">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I meant $10 billion FICA taxes. Sorry. eom.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812544#c37?mode=alone;showrate=1#c37">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:65811">PointGuard</a> on <a href="/comments/1199091/49812544#c37">Fri Apr 05, 2013 at 07:11:40 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c38">
+  <div class="cx" id="cx49812547">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Sorry, MB, but 2018 does not add up, and I know </span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812547#c38?mode=alone;showrate=1#c38">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>you know the reason why: 63.3%.</p>
+<p>88,000 new jobs is not enough to keep up with the needs of our growing population. &nbsp;If the most recent numbers were to continue, the only way we could "recover" by 2018 is to knock millions of people completely out of the labor force.</p>
+<p>That said, we don't want to make too much out of any one month, given the way that the numbers are derived, but I fear that our leaders have decided to "solve" this problem by defining it away.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49812547#c38">Fri Apr 05, 2013 at 07:12:05 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812547" class="cm i1">
+
+
+
+
+<li id="c54">
+  <div class="cx" id="cx49813318">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I am not just using 88,000. I am using the...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813318#c54?mode=alone;showrate=1#c54">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:143389">dinotrac</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>...average for the past nine months.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49813318#c54">Fri Apr 05, 2013 at 08:04:07 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c38">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813318" class="cm i1">
+
+
+
+
+<li id="c63">
+  <div class="cx" id="cx49814146">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I was wondering, too. Thanks for clarifying. NT</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814146#c63?mode=alone;showrate=1#c63">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:143389">dinotrac</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"The true strength of our nation comes not from the might of our arms or the scale of our wealth, but from the enduring power of our ideals." - Barack Obama
+</p>
+  <p class="cb">by <a href="/user/uid:34676">HeyMikey</a> on <a href="/comments/1199091/49814146#c63">Fri Apr 05, 2013 at 08:55:34 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c54">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c65">
+  <div class="cx" id="cx49814176">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Ah.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814176#c65?mode=alone;showrate=1#c65">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>I wondered if you might be. &nbsp;It's not like you to get the math wrong or to report with a candy coating.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+LG: You know what? You got spunk. MR: Well, Yes... LG: I hate spunk!
+</p>
+  <p class="cb">by <a href="/user/uid:143389">dinotrac</a> on <a href="/comments/1199091/49814176#c65">Fri Apr 05, 2013 at 08:57:32 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c54">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c39">
+  <div class="cx" id="cx49812555">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Need the chart broken down by type of job...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812555#c39?mode=alone;showrate=1#c39">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The overall job number chart is a good start just to see if we are heading in the positive direction. But lately I am concerned if this number is a smokescreen for a more nasty problem we are seeing... low paying or underpaying jobs.</p>
+<p>We should be able to generate a job breakdown from the new jobs detailing out what types of jobs are being created. Are they "flipping burgers" or are they "engineering/tech" jobs?</p>
+<p>These trends will tell us if this is a good recovery overall or it's a false recovery that is just good for the 1%.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49812555#c39">Fri Apr 05, 2013 at 07:12:34 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812555" class="cm i1">
+
+
+
+
+<li id="c55">
+  <div class="cx" id="cx49813340">
+   <h5> <a class="de">&nbsp;</a><span class="cu">That kind of information is available...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813340#c55?mode=alone;showrate=1#c55">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>, <a href="/user/uid:140746">Wynter</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>...and I've reported on it frequently. But it's not available each month contiguous to the job report itself.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Don't tell me what you believe, show me what you <b>do</b> and I will tell you what you believe.
+</p>
+  <p class="cb">by <a href="/user/uid:6">Meteor Blades</a> on <a href="/comments/1199091/49813340#c55">Fri Apr 05, 2013 at 08:05:22 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c39">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813340" class="cm i1">
+
+
+
+
+<li id="c83">
+  <div class="cx" id="cx49821720">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Do we have any trend lines for them?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49821720#c83?mode=alone;showrate=1#c83">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Do we have enough information to make a general breakdown of whether we are fixing the job problem slowly or just making ourselves into a low wage, dead end country of jobs that no one least of all the weakest among us make a living at?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49821720#c83">Fri Apr 05, 2013 at 09:00:56 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c55">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c42">
+  <div class="cx" id="cx49812590">
+   <h5> <a class="de">&nbsp;</a><span class="cu">What recovery?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812590#c42?mode=alone;showrate=1#c42">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:198583">MPociask</a>, <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Look at where we should be in employment not just percent job loss, but relative to population growth. The civilian participation rate is a better measure. I just don't think that we have a real recovery.</p>
+<p>MB's observation that a recession will happen before we return to the employment level pre-crash is correct. But the goal is to attain the the level that we would have been at without the crash. This seems impossible. Given that each successive recession has taken longer and longer to recover we may have significant structural problems with the economy.</p>
+<p>The stock market, some local real estate markets and corporate earnings are up. Personal earnings are flat. I ask manufacturers and retailers in my business sector and the response is always the same "what recovery?" Granted, this is anecdotal evidence, but if we had a robust recovery it would have encompassed all of my sources.</p>
+<p>The unemployment rate becomes more and more suspect as the recession continues as more workers give up and potential new workers don't even try. The economist's definition of recession is dysfunctional. If we lost 80% of the economy and then in the next quarter grew 1% of what was left we would be out of a recession. When employment is back to where it should be as a function of population then I'd say that the recession is over.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:70685">The Wizard</a> on <a href="/comments/1199091/49812590#c42">Fri Apr 05, 2013 at 07:16:38 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49812590" class="cm i1">
+
+
+
+
+<li id="c56">
+  <div class="cx" id="cx49813397">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The definition of recession is not dysfunctional</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813397#c56?mode=alone;showrate=1#c56">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:34676">HeyMikey</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>It is about quarter to quarter growth not whether new all time highs are being reached.</p>
+<p>The your real issue is that the political class has succeeded in lowering expectations.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">The most important way to protect the environment is not to have more than one child.</p>
+  <p class="cb">by <a href="/user/uid:142501">nextstep</a> on <a href="/comments/1199091/49813397#c56">Fri Apr 05, 2013 at 08:08:53 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c42">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813397" class="cm i1">
+
+
+
+
+<li id="c59">
+  <div class="cx" id="cx49813985">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I'd say it's dysfunctional</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49813985#c59?mode=alone;showrate=1#c59">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:34676">HeyMikey</a>, <a href="/user/uid:70685">The Wizard</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Since, as you mentioned, it's pegged to quarter to quarter growth. &nbsp;Those are very fuzzy numbers - estimating GDP is an art, not a science. &nbsp;And if GDP is growing, not a recession! &nbsp;Never mind if all the gains are going to the top 10%, while the bottom 90% are worse off. &nbsp;</p>
+<p>Recession and growth are just arbitrary terms - we could redefine them by any metric we wanted, really. &nbsp;What would a people driven definition look like? &nbsp;Perhaps several factors - has job growth been outpacing population growth - have median wages been rising - how close is the economy to outputting at maximum capacity - what are poverty or food stamp numbers doing? &nbsp;</p>
+<p>It'd be a messier test than just saying GDP up, GDP down, but then again, reality is messy. &nbsp;</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198583">MPociask</a> on <a href="/comments/1199091/49813985#c59">Fri Apr 05, 2013 at 08:46:04 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c56">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49813985" class="cm i1">
+
+
+
+
+<li id="c69">
+  <div class="cx" id="cx49814427">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Context is all.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814427#c69?mode=alone;showrate=1#c69">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<blockquote>the goal is to attain the <strong>the level that we would have been at without the crash</strong>...When employment is back to <strong>where it should be as a function of population</strong> then I'd say that the recession is over.</blockquote>
+The unspoken assumption here is that employment "where we would have been without the crash" or "where it should be as a function of population" = employment where we actually were before the crash.
+<p><strong>That assumption, unfortunately, is incorrect.</strong></p>
+<p>We are dealing with <strong>both</strong>:</p>
+<p>(a) a hit to employment that should be short-term, but is being prolonged due to government austerity bungling (Dems) and malice (GOP);</p>
+<p>AND</p>
+<p><strong>(b) long-term, essentially permanent, changes due to automation and offshoring, which mean the US economy may never again provide jobs for as many people (% wise) as it used to.</strong></p>
+<p>This piece by Nobel economics winner Stiglitz is simply indispensable: <a href="http://www.vanityfair.com/politics/2012/01/stiglitz-depression-201201">http://www.vanityfair.com/...</a></p>
+<p>From a previous comment of mine:</p>
+<p>Google Shopping is already testing same-day delivery to homes and has bought BufferBox, a "delivery locker" company.</p>
+<p>Amazon has bought robot company Kiva Systems. Their plan is to have orders put together by teams of robots, each headed by a single human.</p>
+<p>Amazon is also buying up warehouse space in medium-sized cities. Looks like it will soon have next-day delivery standard, with same-day delivery optional. They are also rolling out "delivery lockers" where customers can pick up their Amazon orders at gas stations, drugstores, grocery stores, etc.</p>
+<p>Google's self-driving vehicles are, of course, already well-known.</p>
+<p>What this means is that soon <strong>most retail shopping will be done via the web, orders packaged by robots, orders delivered by robots. Most retail jobs will disappear.</strong></p>
+<p><strong>The current brick-and-mortar retail model is going the way of the horse and sailing ship: it will exist in small numbers for the luxury niche only.</strong></p>
+<p>Further reading:</p>
+<p><a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000841451">http://www.amazon.com/...</a></p>
+<p><a href="http://news.cnet.com/8301-1023_3-57576784-93/google-tiptoes-into-same-day-local-delivery-service/">http://news.cnet.com/...</a></p>
+<p><a href="http://online.wsj.com/article/SB10001424052702304724404577291903244796214.html">http://online.wsj.com/...</a></p>
+<p><a href="http://techcrunch.com/2013/03/26/walmart-follows-amazons-lead-starts-testing-locker-delivery-in-retail-stores/">http://techcrunch.com/...</a></p>
+<p><a href="https://www.bufferbox.com/">https://www.bufferbox.com/</a></p>
+<p><strong>Even fast food will soon be delivered to your home by robots</strong>--the <a href="http://www.darwinaerospace.com/burritobomber">Burrito Bomber</a> is somewhat tongue-in-cheek now, but the FAA anticipates 30,000 domestic non-military UAVs by the end of this decade: <a href="http://rt.com/usa/faa-drone-aircraft-us-335/">http://rt.com/...</a></p>
+<p><em><strong>Our government is fucking up doubly: it's addressing neither the short-term problem nor the long-term problem.</strong></em></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"The true strength of our nation comes not from the might of our arms or the scale of our wealth, but from the enduring power of our ideals." - Barack Obama
+</p>
+  <p class="cb">by <a href="/user/uid:34676">HeyMikey</a> on <a href="/comments/1199091/49814427#c69">Fri Apr 05, 2013 at 09:17:06 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c59">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49814427" class="cm i1">
+
+
+
+
+<li id="c70">
+  <div class="cx" id="cx49814801">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Automation</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814801#c70?mode=alone;showrate=1#c70">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Just means that certain jobs that were once done by people are now done by machines. &nbsp;This is something economies have been facing since, what, the water wheel? &nbsp;And more importantly, the Industrial Revolution? &nbsp;</p>
+<p>The Industrial Revolution was a plus for jobs - it freed up people from menial tasks and allowed them to put their talents to use at more productive positions. &nbsp;</p>
+<p>I guess if there's a point of divergence on how people view automation, it's this. &nbsp;You can believe either A) almost everyone has talents that can be put to use in an economy, and given the chance people will put those talents to work, or B) there's a significant amount of people who will have no talents to contribute in a highly automated society, and they will essentially be obsolete and unemployable. &nbsp;</p>
+<p>Put me in camp A. &nbsp;Bring on the Burrito Bombers! &nbsp;I think automation is just the fruition of John Adam's statement:</p>
+<blockquote>I must study politics and war that my sons may have liberty to study mathematics and philosophy. My sons ought to study mathematics and philosophy, geography, natural history, naval architecture, navigation, commerce, and agriculture, in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry, and porcelain.</blockquote>
+Tiny footnote - it's crazy we don't count stay at home parents as employed. &nbsp;Paycheck or no paycheck, that's a job.
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198583">MPociask</a> on <a href="/comments/1199091/49814801#c70">Fri Apr 05, 2013 at 09:41:38 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c69">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49814801" class="cm i1">
+
+
+
+
+<li id="c71">
+  <div class="cx" id="cx49814889">
+   <h5> <a class="de">&nbsp;</a><span class="cu">"In the long run, we're all dead"--Keynes.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814889#c71?mode=alone;showrate=1#c71">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:70685">The Wizard</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>You're absolutely right--but <strong>only in the long run, which (absent WWII-scale government intervention) will likely be decades</strong>.</p>
+<p><strong>Read the Stiglitz piece.</strong> It shows how leaps in farm efficiency created the Great Depression, by making millions of former farm workers "surplus." And they remained "surplus" until we went on the humongous Keynesian stimulus program known as World War II. And it shows how the same kind of thing has been going on for the last few decades in manufacturing, and (as I showed above) retail is next.</p>
+<p><em><strong>Read the Stiglitz piece: <a href="http://www.vanityfair.com/politics/2012/01/stiglitz-depression-201201">http://www.vanityfair.com/...</a></strong></em></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"The true strength of our nation comes not from the might of our arms or the scale of our wealth, but from the enduring power of our ideals." - Barack Obama
+</p>
+  <p class="cb">by <a href="/user/uid:34676">HeyMikey</a> on <a href="/comments/1199091/49814889#c71">Fri Apr 05, 2013 at 09:48:28 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c70">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c49">
+  <div class="cx" id="cx49812910">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Need more Sequester news...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49812910#c49?mode=alone;showrate=1#c49">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:28820">pollwatcher</a>, <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The media needs to step up to the plate and start highlighting all the bad news that is coming out of the Sequester and labeling it for exactly what it is.</p>
+<p>If we let them get away with it they will just start labeling any old downward trend as part of the slow recovery. The media needs to take responsibility for things and start investigating for a change.</p>
+<p>We are losing ground because the Sequester still exists.</p>
+<p>REPEAL the damn thing and we can move on to recovering jobs like we should have been doing years ago!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately." -- George Carlin, Satirical Comic,(1937-2008)
+</p>
+  <p class="cb">by <a href="/user/uid:140746">Wynter</a> on <a href="/comments/1199091/49812910#c49">Fri Apr 05, 2013 at 07:41:56 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c60">
+  <div class="cx" id="cx49814038">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Thanks MB</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814038#c60?mode=alone;showrate=1#c60">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>For doing these posts every month. &nbsp;It's real yeoman's work you do, and obviously a lot of time goes into it. &nbsp;Whenever I hear job news somewhere other than here first, I wait to read what you're going to write about it.</p>
+<p>A statistic you sometimes highlight is the amount of jobs needed to keep up with population growth - I think it's something like 100,000. &nbsp;In my book, that means this month we lost jobs. &nbsp;(Never mind using a sensible metric, like number of jobs needed per month to return to previous peak employment in, say, a year. &nbsp;If we counted jobs that way, people would realize what a catastrophe the job market is. &nbsp;But I guess it's hard to combat the scary sounding-ness of TRILLION DOLLAR DEFICIT).<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:198583">MPociask</a> on <a href="/comments/1199091/49814038#c60">Fri Apr 05, 2013 at 08:49:15 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c66">
+  <div class="cx" id="cx49814339">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I find this data to be complete and utter B.S.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814339#c66?mode=alone;showrate=1#c66">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>86,000 jobs added? &nbsp;Are you frickin kidding me? &nbsp;Someone's been botching with the data in my view or maybe the data has been reported to be insufficient.</p>
+<p>Either way, I'm not believing a single bit of it because I know the Bay Area (where I live) shouldn't be the least bit affected by this. &nbsp;We're adding jobs all around, companies are hiring (even Oracle is hiring sales people like mad) and it's been off the hook since last fall. &nbsp;Start-up comings are growing like crazy and it won't stop.</p>
+<p>Now for other areas n the U.S.? &nbsp;Well, that's to be determined. &nbsp;I can't speak for them.</p>
+<p>But assuming this data is in fact accurate. &nbsp;Well, we know we need to work to defeat all GOP in Congress for re-election one by one!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:97043">pipsorcle</a> on <a href="/comments/1199091/49814339#c66">Fri Apr 05, 2013 at 09:10:34 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c67">
+  <div class="cx" id="cx49814356">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Sorry 88,000 jobs added</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49814356#c67?mode=alone;showrate=1#c67">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Still, I've realized that the Bay Area's growth is only one small portion of the economy.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:97043">pipsorcle</a> on <a href="/comments/1199091/49814356#c67">Fri Apr 05, 2013 at 09:11:40 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c72">
+  <div class="cx" id="cx49815037">
+   <h5> <a class="de">&nbsp;</a><span class="cu">While the sequester formally did not hit until</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49815037#c72?mode=alone;showrate=1#c72">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>March 1, that it was coming has been known in earnest since the beginning of the year, and that may have sapped employers of confidence, particularly defense contractors.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:1957">BobNJ</a> on <a href="/comments/1199091/49815037#c72">Fri Apr 05, 2013 at 09:59:31 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c73">
+  <div class="cx" id="cx49816287">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Leadership of both Parties stabbing America in</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49816287#c73?mode=alone;showrate=1#c73">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>the back.</p>
+<p>1) Like many others here, I spent my own money and months of my time working during the Bush Administrations to overthrow the Republicans and install Democrats. &nbsp; &nbsp;In 2009 we had a Democrat in the White House, a huge Democratic supermajority in the House and a filibuster proof Democratic majority in the Senate. &nbsp;</p>
+<p>And what was the result?</p>
+<p>2) The Superrich got bailed out, &nbsp;$7 Trillion in debt was dumped onto the common citizen and we've endured almost 5 years of massive unemployment. &nbsp;</p>
+<p>A major cause of our recession is that income and wealth have become deeply concentrated in people who have put the money under mattresses in the Cayman Islands -- instead of investing it to provide jobs. &nbsp; The fix is to confiscate that income and wealth via taxes and give it to the lower 98% percent who will spend it and get the economy going. &nbsp; Instead, we &nbsp;extended the Bush Tax Cuts for the Rich.</p>
+<p>3) I despise Republican prostitutes. &nbsp; But I also despise Democrats who think our current situation is acceptable -- who argue that the Democratic leadership is only screwing us 93% whereas the Evil Republicans would screw us 95% &nbsp;and so we should give unquestioning obedience and support to the current leadership instead of trying to reform the Party.</p>
+<p>4) If Obama was like FDR he would have put the Republicans in the wilderness for 40 years for what they did when they were in power -- instead, &nbsp;he was totally silent for a year while the Tea Party Astroturf spread their lying propaganda and the Republicans were back in control of the White House 2 years later.</p>
+<p>5) SilverOz argument above that labor force participation is due to baby boomers going into golden retirement is utter crap -- most boomers no longer have the savings to retire. &nbsp; As at least one commentator has noted today, &nbsp;this longlived recession ensures that many baby boomers are going to be in deep poverty 10 years hence --even if Medicare and Social Security are not cut.</p>
+<p>6) But , hey, Bill Clinton has $40 million net worth last time I checked. &nbsp; Maybe he and Citigroup's Sandy Weill can explain how that financial deregulation they passed with &nbsp;Republican Senator Phil Gramm back in 1999 will bring on a golden age of prosperity shortly.</p>
+<p>7) There is one thing worse than an enemy that attacks you from the front --it is an enemy that takes command of your outrage and anger just so that they can lead you off a cliff and leave you impotent, impoverished, embittered and deeply depressed.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:42367">bmastiff</a> on <a href="/comments/1199091/49816287#c73">Fri Apr 05, 2013 at 11:27:58 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c74">
+  <div class="cx" id="cx49816392">
+   <h5> <a class="de">&nbsp;</a><span class="cu">What kind of a Party of the People would be</span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49816392#c74?mode=alone;showrate=1#c74">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>pushing for the admission of millions &nbsp;of immigrants -- and handing out H1 visas to let wealthy corporations bring in cheap foreign labor -- while we have 26 million unemployed American workers?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:42367">bmastiff</a> on <a href="/comments/1199091/49816392#c74">Fri Apr 05, 2013 at 11:37:02 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c75">
+  <div class="cx" id="cx49816584">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Awesome news </span>
+
+
+<span class="crd ntb">(<a href="/comments/1199091/49816584#c75?mode=alone;showrate=1#c75">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:68770">Tweedledee5</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>88,000 jobs added is better then 87,000 jobs, if we can Net 88,000 jobs per month unemployment will be under 1% by the time Hillary takes office in 2017. &nbsp;<br />
+Which also means I too will soon find a job and not have to take my MBA for retraining in burger flipping. &nbsp;<br />
+Lets keep this train rolling.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646429">anjguy</a> on <a href="/comments/1199091/49816584#c75">Fri Apr 05, 2013 at 11:52:59 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+
+<li id="eP">    
+<div class="cx" style="display:none;">
+	<h5><a class="de">&nbsp;</a><span class="cu" id="previewSubject">&nbsp;</span> <span class="crd ntb">(<a href="#">0 / 0</a>)</span></h5>
+	<div class="ct" id="previewComment"></div>
+	<div class="cf"><p class="sig"></p>
+		<p class="cb">by <a href="#" id="previewName">you</a> on <a href="#" id="previewDate">soon</a></p>
+		<div id="previewConfirm"><h5>If this is OK, click Post: &nbsp;
+			<input id="ePostButton" type="submit" value="Post" accesskey="s" tabindex="7" title="Post your comment. Comments cannot be edited or deleted after posting." /></h5>
+			<p>Or you may make changes below and Preview again, or Cancel this comment.</p>
+		</div>
+	</div>
+</div>
+</li>
+</ul>
+<div id="e" style="display:none;">
+	<fieldset id="eFieldset"><legend>Post Comment</legend>
+		<h4 id="eErrorMessage">You must enter a subject for your comment.</h4>
+		<dl><dt><label for="eSubject" accesskey="j">Subject:</label></dt>
+		<dd><input id="eSubject" tabindex="1" type="text" size="50" value="" maxlength="50" /></dd>
+		<dt><label for="eComment" accesskey="o">Comment:</label></dt>
+		<dd><textarea id="eComment" tabindex="2" cols="50" rows="20"></textarea></dd></dl>
+		<dl id="eLink"><dt><label for="eLinkUrl" accesskey="u">URL:</label></dt>
+		<dd><textarea id="eLinkUrl" cols="50" rows="1" tabindex="13" title="Paste or enter a URL you wish to link to, e.g. http://www.dailykos.com/">http://</textarea></dd>
+		<dt><label for="eLinkLabel" accesskey="a">Label:</label></dt>
+		<dd><input id="eLinkLabel" size="36" maxlength="256" tabindex="14" title="(optional) Paste or enter a label for this link, e.g. Outrageous article!" /> <input id="eLinkImage" type="checkbox" tabindex="15" title="Adds this link as an image when checked" /><label for="eLinkImage">Image</label> <input id="eAddLink" type="submit" value="Add" tabindex="16" title="Adds the link you have entered to the comment" /></dd></dl>
+		<div id="eHelp"></div>
+		<div id="eButtons" class="button-row"><input id="eBold" type="button" value="Bold" accesskey="b" tabindex="9" title="Text between &lt;strong&gt; and &lt;/strong&gt; will look bold" />
+			<input id="eItalic" type="button" value="Italic" accesskey="i" tabindex="10" title="Text between &lt;em&gt; and &lt;/em&gt; will look italic" /> <input id="eBlockquote" type="button" value="Blockquote" accesskey="q" tabindex="11" title="Select text anywhere on this page, click this button, and it will be quoted in a gray box" /> <input id="eLinkButton" type="button" value="Link" accesskey="l" tabindex="12" title="Helps you link to another web page or an image" /> <input id="eHelpButton" type="button" value="Help" accesskey="h" tabindex="17" title="Click here for help posting and formatting comments" /> &nbsp;
+			<input id="ePButton" type="submit" value="Preview" tabindex="6" accesskey="p" title="View a Preview of your comment, which you can then Post" /> <input id="eCancelButton" type="reset" value="Cancel" accesskey="c" tabindex="8" title="Abandons this comment entry" />
+		</div>
+	</fieldset>
+</div>
+</div> 
+</form>
+<div id="dbox"><p id="dbox_msg"></p><a id="dbox_close" href="#">Close</a></div>
+
+
+
+
+	
+	<div class="cbar"><h4>
+	
+	   <a class="plink" href="/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8?detail=hide">Permalink</a>
+	</h4>
+	</div>
+
+
+</div>	
+
+
+
+<div id="recommenders" class="hide">
+
+
+<a href="/user/676">GainesT1958</a>, <a href="/user/915">JekyllnHyde</a>, <a href="/user/2354">Paleo</a>, <a href="/user/7655">Powered Grace</a>, <a href="/user/13682">eeff</a>, <a href="/user/27679">navajo</a>, <a href="/user/32258">superscalar</a>, <a href="/user/32406">Eyesbright</a>, <a href="/user/46929">denise b</a>, <a href="/user/53256">Brooke In Seattle</a>, <a href="/user/70685">The Wizard</a>, <a href="/user/73863">gpoutney</a>, <a href="/user/88253">Cronesense</a>, <a href="/user/103080">bobswern</a>, <a href="/user/116553">bythesea</a>, <a href="/user/163899">Polly Syllabic</a>, <a href="/user/169685">Betty Pinson</a>, <a href="/user/175581">no way lack of brain</a>, <a href="/user/187444">FarWestGirl</a>, <a href="/user/198313">tardis10</a>, <a href="/user/234949">orpurple</a>, <a href="/user/281174">ricklewsive</a>, <a href="/user/631455">Bon Temps</a>
+</div>
+
+
+
+
+	
+	
+	<div id="sub" class="published">
+		<div id="subscription_bug">
+<p>
+
+<a href="https://www.dailykos.com/subscribe">Subscribe</a> or
+
+<a href="https://www.dailykos.com/donate">Donate</a> to support Daily Kos.
+</p>
+</div>
+
+		<div class="content">
+			
+			
+
+
+
+
+
+  
+
+  <div id="sub-med-ad">
+	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_BTF_300x250 -->
+	
+	<div style="width: 300px; margin: 0 auto; position: relative;">
+	<script type="text/javascript">
+	
+	  GA_googleFillSlot("300x250_DK_Story_ATF");
+	
+	</script>
+	</div>
+	<!-- END OF TAG FOR SLOT DK_FP_BTF_300x250 -->
+  </div>
+  
+
+
+
+
+
+
+	
+	
+	
+	<div id="users-recommending" class="ajax-delay-load">
+		
+<div id="recommenders_div" class="featured-articles collapsed collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="recommenders">Diary Recommended By</h2></a>
+<ul class="articles ajax-paged-content">
+<div class="listOfRecommenders">
+
+	<a href="/user/GainesT1958">GainesT1958</a>, <a href="/user/JekyllnHyde">JekyllnHyde</a>, <a href="/user/Paleo">Paleo</a>, <a href="/user/Powered Grace">Powered Grace</a>, <a href="/user/eeff">eeff</a>, <a href="/user/navajo">navajo</a>, <a href="/user/superscalar">superscalar</a>, <a href="/user/Eyesbright">Eyesbright</a>, <a href="/user/denise b">denise b</a>, <a href="/user/Brooke In Seattle">Brooke In Seattle</a>, <a href="/user/The Wizard">The Wizard</a>, <a href="/user/gpoutney">gpoutney</a>, <a href="/user/Cronesense">Cronesense</a>, <a href="/user/bobswern">bobswern</a>, <a href="/user/bythesea">bythesea</a>, <a href="/user/Polly Syllabic">Polly Syllabic</a>, <a href="/user/Betty Pinson">Betty Pinson</a>, <a href="/user/no way lack of brain">no way lack of brain</a>, <a href="/user/FarWestGirl">FarWestGirl</a>, <a href="/user/tardis10">tardis10</a>, <a href="/user/orpurple">orpurple</a>, <a href="/user/ricklewsive">ricklewsive</a>, <a href="/user/Bon Temps">Bon Temps</a>
+
+</div></ul>
+
+</div>
+
+		<a class="ajax do-delay-load invisible" href="/part/sidebar/stories/recommenders_as_list?story_id=1199091">(Load)</a>
+	</div>
+
+
+
+  
+	
+<div id="rec-by-user_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="rec-by-user">Recommended by Meteor Blades</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242510/-If-Elizabeth-Warren-is-Far-Left-Then-So-Is-the-American-Public">If Elizabeth Warren is "Far Left," Then So Is the American Public</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Last night, the New York Times published an article by former POLITICO writer Jonathan Martin , entitled "Warren is Now the Hot Ticket Among the Far Left." 
+
+I saw the article when progressive ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Liberty Equality Fraternity and Trees" class="author">Liberty Equality Fraternity and Trees</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242510/-If-Elizabeth-Warren-is-Far-Left-Then-So-Is-the-American-Public#comments" class="comment-count comment_count_with_new compact" data-story_id="1242510" data-comment_count="11">
+			    11 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;23&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242587/-Public-still-confused-about-Obamacare-blame-media">Public still confused about Obamacare, blame media</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+
+On the eve of Obamacare enrollment beginning, Americans ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Joan McCarter" class="author">Joan McCarter</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242587/-Public-still-confused-about-Obamacare-blame-media#comments" class="comment-count comment_count_with_new compact" data-story_id="1242587" data-comment_count="5">
+			    5 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;5&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242118/-Rogue-Ombudsman-at-NPR-Slows-Progress-on-Lakota-Child-Welfare-in-South-Dakota-Please-Help">Rogue Ombudsman at NPR Slows Progress on Lakota Child Welfare in South Dakota—Please Help!</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Chase Iron Eyes
+
+Hello my relatives. My name is Chase Iron Eyes and I represent the Lakota Peoples Law Project as South Dakota legal counsel. I am also the appointed Eyapaha (messenger) of ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Chase Iron Eyes" class="author">Chase Iron Eyes</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242118/-Rogue-Ombudsman-at-NPR-Slows-Progress-on-Lakota-Child-Welfare-in-South-Dakota-Please-Help#comments" class="comment-count comment_count_with_new compact" data-story_id="1242118" data-comment_count="15">
+			    15 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;69&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242531/-Your-birth-control-is-on-the-long-list-of-reasons-the-House-GOP-would-shut-down-government">Your birth control is on the long list of reasons the House GOP would shut down government</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+House Republicans don't just want to shut down government because Ted Cruz told them to, or because they really care about the deficit, or even because they want to nuke the United States ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242531/-Your-birth-control-is-on-the-long-list-of-reasons-the-House-GOP-would-shut-down-government#comments" class="comment-count comment_count_with_new compact" data-story_id="1242531" data-comment_count="56">
+			    56 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;51&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242544/-Paul-Ryan-We-Have-to-Use-Extortion-Because-We-Lost-the-Election">Paul Ryan: We Have to Use Extortion Because We Lost the Election </a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Yes, he said that.  Not in those precise words, but he said it.  You be the Judge:
+
+  " The reason this debt limit fight is different is, we don't have an election around the corner where we feel we ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/TomP" class="author">TomP</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242544/-Paul-Ryan-We-Have-to-Use-Extortion-Because-We-Lost-the-Election#comments" class="comment-count comment_count_with_new compact" data-story_id="1242544" data-comment_count="89">
+			    89 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;261&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/29/1242428/-Sunday-Train-Unleashing-the-Political-Power-of-Bio-Coal">Sunday Train: Unleashing the Political Power of Bio-Coal</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">cross-posted from Voices on the Square
+
+One point that constantly comes up when the push to 100% sustainable, renewable power is raised is the problem that "renewable power sources cannot be relied ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/BruceMcF" class="author">BruceMcF</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/29/1242428/-Sunday-Train-Unleashing-the-Political-Power-of-Bio-Coal#comments" class="comment-count comment_count_with_new compact" data-story_id="1242428" data-comment_count="42">
+			    42 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;53&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1242506/--New-Day-This-Week-In-American-Indian-News-Scars-Upon-Sacred-Land-Environmental-Edition">*New Day* — This Week In American Indian News: "Scars Upon Sacred Land" Environmental Edition</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Every day is a new day and with that, a new opportunity.
+EVERYONE is welcome and please join us each morning at 7:30 AM PACIFIC
+to tell us what you're working on, share your show & tell , vent, ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Aji" class="author">Aji</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1242506/--New-Day-This-Week-In-American-Indian-News-Scars-Upon-Sacred-Land-Environmental-Edition#comments" class="comment-count comment_count_with_new compact" data-story_id="1242506" data-comment_count="105">
+			    105 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;46&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/29/1242433/-Congressmen-Shimkus-Davis-team-up-to-show-hypocrisy-on-energy-prices">Congressmen Shimkus, Davis team up to show hypocrisy on energy prices</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Illinois Congressman Rodney Davis usually does a good job of sounding vaguely moderate, even when he's pursuing extremely conservative policies, so I'm a little surprised to see him co-author an ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Willinois" class="author">Willinois</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/29/1242433/-Congressmen-Shimkus-Davis-team-up-to-show-hypocrisy-on-energy-prices#comments" class="comment-count comment_count_with_new compact" data-story_id="1242433" data-comment_count="6">
+			    6 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;9&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/29/1242257/-Who-Broke-Party-Line-in-the-Budget-Votes-Last-Night">Who Broke Party Line in the Budget Votes Last Night?</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Last night, the House took several budget-related votes, putting us on the path toward a government shutdown. 
+
+The first vote was to amend the Senate continuing resolution, or CR, with the repeal ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Liberty Equality Fraternity and Trees" class="author">Liberty Equality Fraternity and Trees</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/29/1242257/-Who-Broke-Party-Line-in-the-Budget-Votes-Last-Night#comments" class="comment-count comment_count_with_new compact" data-story_id="1242257" data-comment_count="186">
+			    186 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;139&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/29/1242447/-WalMart-Walks-It-Back">WalMart Walks It Back</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">The right wing is yelling louder and louder about how ObamaCare is gonna cost jobs. We hear reports, here and there, of companies knocking employees back to part-time to avoid the crushing cost of ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Land of Enchantment" class="author">Land of Enchantment</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/29/1242447/-WalMart-Walks-It-Back#comments" class="comment-count comment_count_with_new compact" data-story_id="1242447" data-comment_count="106">
+			    106 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;288&nbsp;Recs</span>
+		</span>
+		</li>
+	
+
+</ul>
+
+<ul class="navigation">
+
+<li class="next"		><a class="ajax do-page-next" href="/part/sidebar/stories/recommended_by_user?user_id=6&page=1">Next</a></li>
+</ul>
+
+</div>
+
+
+	
+	
+				<!-- ca-pub-4201116381449156/300x250_DK_lower_med_rec -->
+		<div id="lower_side_ad" style="width: 300px; margin: 0px auto 20px auto; position: relative;">
+			<script type='text/javascript'>
+			
+				GA_googleFillSlot("300x250_DK_Story_BTF_Right");
+			
+			</script>
+		</div>
+	
+  
+
+  
+
+  
+	
+	
+<div id="tag-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="tag-list">Meteor Blades's Tags</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li ><a class="title" href="/news/Abortion">Abortion (10038)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Afghanistan">Afghanistan (10393)</a></li>
+	
+		<li ><a class="title" href="/news/Anti-War">Anti-War (1847)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Antiwar">Antiwar (383)</a></li>
+	
+		<li ><a class="title" href="/news/Bill Moyer">Bill Moyer (12)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Climate Change">Climate Change (16686)</a></li>
+	
+		<li ><a class="title" href="/news/Community">Community (61228)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Cranky Users">Cranky Users (291)</a></li>
+	
+		<li ><a class="title" href="/news/Daily Kos Photo Cooperative">Daily Kos Photo Cooperative (16)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/DK4">DK4 (1637)</a></li>
+	
+		<li ><a class="title" href="/news/Ecology">Ecology (1934)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Economy">Economy (45640)</a></li>
+	
+		<li ><a class="title" href="/news/eKos">eKos (11071)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Environment">Environment (31093)</a></li>
+	
+		<li ><a class="title" href="/news/FNN&V">FNN&V (20)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Gulf Watchers">Gulf Watchers (1191)</a></li>
+	
+		<li ><a class="title" href="/news/International">International (7805)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Jobs">Jobs (10666)</a></li>
+	
+		<li ><a class="title" href="/news/Labor">Labor (21325)</a></li>
+	
+		<li class="alt"><a class="title" href="/news/Libya">Libya (4038)</a></li>
+	
+
+</ul>
+
+<ul class="navigation">
+
+<li class="next"		><a class="ajax do-page-next" href="/part/sidebar/tags/by_user?user_id=6&page=1">Next</a></li>
+</ul>
+
+</div>
+
+	
+<div id="blogroll-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="blogroll-list">Meteor Blades's Blogroll</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li ><a class="title" href="http://digbysblog.blogspot.com/">digby</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.ipsnews.net/">Interpress News </a></li>
+	
+		<li ><a class="title" href="http://www.grist.org/">Grist</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.tpmmuckraker.com/">TPM Muckraker</a></li>
+	
+		<li ><a class="title" href="http://www.dailyhowler.com/">The Daily Howler</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.tomdispatch.com/">TomDispatch</a></li>
+	
+		<li ><a class="title" href="http://www.alternet.org/">Alternet</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.sadlyno.com/">Sadly, No!</a></li>
+	
+		<li ><a class="title" href="http://www.blackagendareport.com/">Black Agenda Report</a></li>
+	
+		<li class="alt"><a class="title" href="http://pandagon.net/">Pandagon</a></li>
+	
+		<li ><a class="title" href="http://www.theoildrum.com/">Oil Drum</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.chris-floyd.com/">Empire Burlesque</a></li>
+	
+		<li ><a class="title" href="http://www.talk2action.org/">Talk to Action</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.truthout.org/">Truth Out</a></li>
+	
+		<li ><a class="title" href="http://thinkprogress.org/">Think Progress</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.armscontrolwonk.com/">ArmsControlWonk</a></li>
+	
+		<li ><a class="title" href="http://www.pamshouseblend.com/frontPage.do">Pam&#39;s House Blend</a></li>
+	
+		<li class="alt"><a class="title" href="http://harpers.org/subjects/NoComment">Scott Horton</a></li>
+	
+		<li ><a class="title" href="http://angryarab.blogspot.com/">Angry Arab</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.juancole.com/">Juan Cole</a></li>
+	
+
+
+</ul>
+
+<ul class="navigation">
+
+<li class="next"		><a class="ajax do-page-next" href="#?page=1">Next</a></li>
+</ul>
+
+</div>
+
+  
+	
+	
+	<div id="fb_box" class="featured-articles collapsable-panel ajax-paged"> 
+	<iframe src="http://www.facebook.com/plugins/activity.php?site=www.dailykos.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;action=recommend" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowTransparency="true"></iframe>
+	</div>
+	
+
+
+
+
+
+
+		
+		</div>
+	</div>
+</div>
+
+    <div id="footer">    
+      <div id="nav-tag">
+        <h2><a href="/news/">Browse Tags</a></h2>
+
+        <ul>
+
+          <li><a href="/news/Civil Rights">Civil Rights</a></li>
+
+          <li><a href="/news/Community">Community</a></li>
+
+          <li><a href="/news/Congress">Congress</a></li>
+
+          <li><a href="/news/Culture">Culture</a></li>
+
+          <li><a href="/news/Economy">Economy</a></li>
+
+          <li><a href="/news/Education">Education</a></li>
+
+          <li><a href="/news/Elections">Elections</a></li>
+
+          <li><a href="/news/Energy">Energy</a></li>
+
+          <li><a href="/news/Environment">Environment</a></li>
+
+          <li><a href="/news/Health Care">Health Care</a></li>
+
+          <li><a href="/news/International">International</a></li>
+
+          <li><a href="/news/Labor">Labor</a></li>
+
+          <li><a href="/news/Law">Law</a></li>
+
+          <li><a href="/news/Media">Media</a></li>
+
+          <li><a href="/news/Meta">Meta</a></li>
+
+          <li><a href="/news/National Security">National Security</a></li>
+
+          <li><a href="/news/Science">Science</a></li>
+
+          <li><a href="/news/Transportation">Transportation</a></li>
+
+          <li><a href="/news/White House">White House</a></li>
+
+        </ul>
+      </div>      
+      <div id="legal">
+        <p><strong>&copy; Kos Media, LLC</strong> Site content may be used for any purpose without explicit permission unless otherwise specified</p>
+        <p>&ldquo;Kos&rdquo; and &ldquo;Daily Kos&rdquo; are registered trademarks of Kos Media, LLC</p>
+        <p><a href="/special/privacy">Privacy Policy</a></p>
+      </div>      
+      <div id="nav-footer">
+        <ul>
+          <li><h2 class="daily-kos-network">Daily Kos Network</h2>
+            <ul>
+              <li><a href="/">Daily Kos</a></li>
+              <li><a href="http://comics.dailykos.com">Comics</a></li>
+              <li><a href="http://elections.dailykos.com">Elections</a></li>
+              <!-- <li><a href="#">DK Answers</a></li> -->
+              <li><a href="http://www.dailykostv.com/">DKTV</a></li>
+              <li class="last"><a href="http://feeds.dailykos.com/dailykos/index.xml">RSS</a></li>
+				</ul><br/>
+				<ul>
+              <li><a href="http://www.mothertalkers.com/">Mother Talkers</a></li>
+              <li><a href="http://www.streetprophets.com/">Street Prophets</a></li>
+              <li class="last"><a href="http://www.congressmatters.com/">Congress Matters</a></li>
+            </ul>
+          </li>
+          <li><h2 class="about">About</h2>
+            <ul>
+              <li><a href="/special/about2">Masthead</a></li>
+              <li><a href="/special/about2#dk">History</a></li>
+              <li><a href="/special/about2#bio">Writers</a></li>
+              <li><a href="http://www.dkosopedia.com/wiki/DailyKos_FAQ">Frequently Asked Questions</a></li>
+              <li class="last"><a href="https://secure.actblue.com/page/dkendorsements2014?refcode=footer">Endorsements</a></li>
+            </ul>
+          </li>
+          <li><h2 class="advertise">Advertise</h2>
+            <ul>
+              <li><a href="/special/advertising">Advertising Overview</a></li>
+              <li class="last"><a href="http://www.quantcast.com/dailykos.com">Visits and Other Stats for Advertisers</a></li>
+            </ul>
+          </li>
+          <li><h2 class="store">Store</h2>
+            <ul>
+              <li class="last"><a href="http://www.bluecollardistro.com/dailykos/categories.php?cPath=1052">Shirts</a></li>
+            </ul>
+          </li>
+          <li class="last"><h2 class="contact">Contact</h2>
+            <ul>
+              <li><a href="/special/media">Media Inquiries</a></li>
+              <li><a href="/contactus">General Inquiries</a></li>
+              <li class="last"><a href="/special/jobs">Jobs</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>        
+    </div>			
+
+</div> <!-- matches div id="pageWrapper" in _topnav.html  -->
+
+
+
+	<script type="text/javascript" src="/j/unified-nolib.js?rev=4c"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready( App.initOnReady );
+	
+        kos.story_id = 1199091;
+        kos.sid = '2013/4/4/0399/32606';
+		//kos.LAST_SEEN = '0';
+		kos.LAST_SEEN = DailyKos.CommentCount.getReadCommentCount(kos.story_id);
+		kos.pub_status = 'published';
+		kos.version = 5;
+		kos.trcount = 0;
+		kos.trremain = 0;
+		kos.serial = 335;
+		kos.updated = '2013-08-08 02:03:54';
+		kos.hidingchoice = false;
+		kos.can_comment = 0;
+	
+		$('#popup-story_setTags').dialog({
+			autoOpen: false,
+			width: 600,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_hotlist').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unHotlist').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_removeRating').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_rescue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unRescue').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_addBlogQueue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_update').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_deleteHow').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishChanges').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish Changes" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_bumpHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Update Timestamp Now" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-user_login').dialog({
+			autoOpen: false,
+			width: 500,
+			position: [$(window).width()/2 - 345, $("#pageWrapper").offset()["top"] + 15],
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Login" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+</script>
+
+
+
+
+
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+<!-- FAcebook Tags -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:2709,domain:"dailykos.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<div style="background: #f4f4f4">
+
+
+ <!-- Quantcast Tag --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<script type="text/javascript">
+_qevents.push( { qacct:"p-94z2SIg8PaHLI"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-94z2SIg8PaHLI.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7520149,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7520149&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+<a class="skipmobile mobile_preference" href="#">Click here for the mobile view of the site</a>.
+
+
+
+
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 955959297;
+
+var google_conversion_language = "en";
+
+var google_conversion_format = "3";
+
+var google_conversion_color = "ffffff";
+
+var google_conversion_label = "9V3aCKe93wMQgZDrxwM";
+
+var google_conversion_value = 0;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/955959297/?value=0&amp;label=9V3aCKe93wMQgZDrxwM&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+</div>
+
+
+
+<!-- start mixpanel -->
+
+	<script type="text/javascript">		
+	  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+    b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+    '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+    'track_forms','register','register_once','unregister','identify','alias','name_tag',
+    'set_config','people.set','people.increment','people.track_charge','people.append'];
+    for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+    mixpanel.init("c560efce2a0fbd485ac276343781784a"); 
+  </script>
+
+
+<script type="text/javascript" src="/j/metrics.js"></script>
+
+
+	<script type='text/javascript'>
+	  DailyKos.Metrics.metricsOn = (1 === 1);
+	  DailyKos.Metrics.sampleSize = 10;
+		DailyKos.Metrics.setUserProperties({
+			requestFormat: 'full site',
+			subscriber: false,
+			mobile: $.browser.mobile,
+			loggedIn: false,
+			staff: false
+		});
+		DailyKos.Metrics.init();
+	</script>
+
+
+
+
+	
+	
+	  
+	  <script type='text/javascript'>
+	    if (document.location.pathname.match(/^\/story/)) {
+			  DailyKos.Metrics.track('Viewed Story', {  url: "http://www.dailykos.com/story/2013/04/05/1199091/-Government-reports-just-88-000-jobs-added-in-March-with-7-6-jobless-rate-U6-falls-to-13-8", 
+			                                            blog: "labor",
+			                                            author: $('.author').children('a').first().html(),
+			                                            title: $('#titleHref').html()
+			                                          });
+			} else if (document.location.pathname.match(/^\/comment/)) {
+			  DailyKos.Metrics.track('Viewed Comment');
+			}
+
+		</script>
+	
+
+	
+<script type='text/javascript'>
+	if($.cookie('meter_user') !== 'false') {
+		if ($('#ePostButton').length > 0) {
+		  $('#ePostButton').click(function() { 
+		    DailyKos.Metrics.track('Posted Comment', { 
+		      repliedTo: $(this).parents('#eP').prevAll('.cb').children('a').first().html() 
+		    });
+		  });
+		}
+		
+		if (!!document.location.pathname.match('activate') && $('h1:contains("Welcome to Daily Kos!")').length > 0) {
+		  DailyKos.Metrics.track('Signed Up');
+		}
+		
+		if (document.location.pathname === '/') {
+		  if (document.location.hostname.match(/^www|^dailykos/)) {
+		    DailyKos.Metrics.track('Viewed Front Page');
+		  } else {
+		    var subdomain = document.location.hostname.split('.')[0];
+		    DailyKos.Metrics.track('Viewed Vertical', { name: subdomain });
+		  }
+		}
+		
+		if ($('.ratinate').length > 0) {
+		  $('.ratinate').click(function() { DailyKos.Metrics.track('Recommended Comment') });
+		}
+		
+		if ($('.do-addRating.type-story').length > 0) {
+		  $('.do-addRating.type-story').click(function() { DailyKos.Metrics.track('Recommended Story') });
+		}
+		
+		if ($("form[action$='publishHow']").length > 0) {
+		  $(document).ready(function() {
+			  $('.type-story.do-publishHow').click(function() { DailyKos.Metrics.track('Published Story') });
+			 });
+		}
+		
+		if (document.location.pathname.match(/^\/user/) && $('li.here').length > 0) {
+		  if ($('.pageMenu:first li.here').children('a').html().match(/Stream/)) {
+		    DailyKos.Metrics.track('Viewed Stream', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:first li.here').children('a').html().match(/Profile/)) {
+		    DailyKos.Metrics.track('Viewed Profile', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:last li.here').children('a').html().match(/My Recent Replies/)) {
+		    DailyKos.Metrics.track('Viewed Replies');
+		  }
+		} 
+		
+		if ($('#search-tabbed').length > 0) {
+		  DailyKos.Metrics.track('Searched');
+		}
+		
+		if ($('#group-tables').length > 0) {
+			DailyKos.Metrics.track('Viewed Groups List');
+		}
+		
+		if (document.location.pathname.match(/^\/groups/) && $("#group_info").length > 0) {
+		  DailyKos.Metrics.track('Viewed Group', { name: $('.name').children('a').text() });
+		}
+		
+		if ($('.do-hotlist.type-user, .do-unHotlist.type-user').length > 0) {
+		  $('.do-hotlist.type-user, .do-unHotlist.type-user').click(function() {
+		    var nickName;
+		    nickName = ($(this).prev('a').html() || $('.name a').html())
+		    if ($(this).hasClass('do-hotlist')) {
+		      DailyKos.Metrics.track('Followed User', { nickname: nickName }) 
+		    } else if ($(this).hasClass('do-unHotlist')) {
+		      DailyKos.Metrics.track('Unfollowed User', { nickname: nickName }) 
+		    }    
+		  });
+		}
+	}
+</script>
+
+<!-- end mixpanel -->
+
+
+</body>
+</html>

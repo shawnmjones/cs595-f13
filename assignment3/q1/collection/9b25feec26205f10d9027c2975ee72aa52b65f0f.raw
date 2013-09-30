@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	
+	<link href="http://deciwatt.net/wp-content/uploads/2013/07/favicon1.png" rel="shortcut icon"></link>
+	<!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+	
+	<title></title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="http://deciwatt.org/wp-content/themes/cornerstone-child/style.css">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,700,800,600' rel='stylesheet' type='text/css'>
+
+	<link rel="alternate" type="application/rss+xml" title="Deciwatt \\ GravityLight &raquo; Feed" href="http://deciwatt.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deciwatt \\ GravityLight &raquo; Comments Feed" href="http://deciwatt.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deciwatt \\ GravityLight &raquo; Deciwatt \\ GravityLight Comments Feed" href="http://deciwatt.org/home/feed/" />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://deciwatt.org/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://deciwatt.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<script type='text/javascript' src='http://deciwatt.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://deciwatt.org/wp-content/themes/cornerstone/js/custom.modernizr.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://deciwatt.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://deciwatt.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Sample Page' href='http://deciwatt.org/sample-page/' />
+<link rel='next' title='orbit' href='http://deciwatt.org/orbit/' />
+
+<link rel='canonical' href='http://deciwatt.org/' />
+<link rel='shortlink' href='http://wp.me/P3saWf-y' />
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Deciwatt \\ GravityLight" />
+<meta property="og:description" content="doing more with less" />
+<meta property="og:url" content="http://deciwatt.org/" />
+<meta property="og:site_name" content="Deciwatt \\ GravityLight" />
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://deciwatt.org/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=103" />
+		
+</head>
+
+<body class="home page page-id-34 page-template page-template-home-php">
+
+<div class="panel">
+<div class="row">
+
+		<div class="large-8 columns">
+			    <a href="http://deciwatt.org/home"><img src="http://deciwatt.net/wp-content/uploads/2013/06/2013-06-06-deciwatt-logo_orange_03.png" width="300" alt="Deciwatt logo" style="vertical-align: text-bottom;"></a>
+        </div>
+        
+        <div class="large-4 columns">
+            <h3 style="text-align: right; margin-top: 20px;">doing more with less</h3>
+        </div>
+</div>
+    </div>
+
+<div class="sticky">
+<div class="row">
+<div class="large-12 columns">
+<nav class="top-bar">
+  <ul class="title-area">
+    <!-- Title Area -->
+    <li class="name">
+    	<div class="sitetitle" style="font-size:0.8125em;"><a href="http://deciwatt.org/home" title="Deciwatt \\ GravityLight" rel="home"><span class="entypo-home"></span> &nbsp; &nbsp; GravityLight</a></div>
+    </li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <ul class="left"><li class="divider"></li><li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a  href="/the-challenge">The Challenge</a></li>
+<li class="divider"></li><li id="menu-item-287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287 has-dropdown"><a  href="/the-campaign">The Campaign</a>
+	<ul class="dropdown">
+	<li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299"><a  href="/the-campaign">Indiegogo</a></li>
+	<li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292"><a  href="/the-campaign#terawatt">Terawatt supporters</a></li>
+	<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a  href="http://deciwatt.org/petawatt-supporters/">Petawatt supporters</a></li>
+	<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a  href="http://deciwatt.org/gigawatt-supporters/">Gigawatt Supporters</a></li>
+	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a  href="http://deciwatt.org/megawatt-supporters/">Megawatt supporters</a></li>
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a  href="http://deciwatt.org/kilowatt-supporters/">Kilowatt supporters</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"><a  href="/the-journal">The Journal</a></li>
+<li class="divider"></li><li id="menu-item-298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298"><a  href="/media">Media</a></li>
+</ul>
+    <ul class="right"><li class="divider"></li><li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a  href="/about">About Deciwatt</a></li>
+</ul>  </section>
+</nav>
+</div>
+</div>
+</div>
+<div class="row" style="background-color: #000; border-radius: 1em; color: #EEE;">
+    <div class="large-6 columns" style="text-align: right; padding-left: 150px;">
+        <div style="margin: 50px 0 30px 0; "><img src="http://deciwatt.net/wp-content/uploads/2013/07/GravityLight_logo_03.png" style="-webkit-filter: brightness(300%); -moz-filter: brightness(300%);"></div>
+        <p>GravityLight&trade; is an innovative device that generates light from gravity.</p>
+        <p>It takes only 3 seconds to lift the weight that powers GravityLight creating 25 minutes of light on its descent.</p>
+	<p>It can be used over and over again with no running costs.</p>
+        <ul class="clearing-thumbs clearing-feature" data-clearing>
+            <style>li img { text-aligh: right; height: 90px; cursor: pointer; }</style>
+            <li class="clearing-featured-img"><img data-caption="Demonstration of a typical kerosene lamp: which usually consists of an old medicine bottle. Filling it involved lots of spillage." src="http://deciwatt.net/wp-content/uploads/2013/05/DSC00235.jpg" alt="" /></li>
+            <li><img data-caption="Lighting it with a match produced a yellow flame, giving the light equivalent of a candle, and a lot of smoke." src="http://deciwatt.net/wp-content/uploads/2013/05/DSC00236.jpg" alt="" /></li>
+		    <li><img data-caption="Martin and Mary Riddiford visited Nawala School in Sri Lanka on 19th February 2013, where 20% of pupils’ homes have no electricity and kerosene lamps are used for lighting." src="http://deciwatt.net/wp-content/uploads/2013/05/DSC00210.jpg" alt="" /></li>
+            
+        </ul>
+    </div>
+    <div class="large-6 columns" style="background: url(http://deciwatt.net/wp-content/uploads/2013/07/GL_viz_large.jpg) center top no-repeat; border-radius: 2em; background-size: auto 550px; height: 500px;">&nbsp;</div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="large-12 columns">
+        <div class="panel callout radius" style="color: #FFF;">
+            <h3 class="white"><span class="entypo-flag"></span> Current Status</h3>
+            
+            <p class="white">    		    					<p><strong>Our first GravityLight samples are here!</strong> Martin &#038; Jim have returned from our manufacturers with the first few GravityLight samples. Data and modifications are underway and, if the second batch of samples work first time, we expect produce the GravityLights for our global trial across September and start shipping at the end of September.</p>
+    		</p>
+
+		<p style="text-align: right;"><a href="/the-journal"><span class="button small secondary">Latest updates <span class="entypo-right-open"></span></span></a></p>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+<style>
+        .white {color:white;}
+    </style>
+    <div class="large-6 columns">
+        <div class="panel radius" style="color: #FFF;">
+            <h3>GravityLight's mission</h3>
+            <p>to provide affordable, sustainable and reliable light, anytime, that enables people to break free from the economic, health and environmental hazards of 
+
+kerosene lamps.</p>
+        </div>
+    </div>
+    <div class="large-6 columns">
+        <ul class="panel" style="background: none; -webkit-box-shadow: none; box-shadow: none;">
+          <h3>Benefits</h3>
+             <style> li { list-style: none; display:block; color: #666; font-weight: 900; } </style>
+          <li><span class="entypo-check" style="color: #f15a24;"></span> Can be used over and over again, anytime</li>
+          <li><span class="entypo-check" style="color: #f15a24;"></span> No need for sunshine or batteries</li>
+          <li><span class="entypo-check" style="color: #f15a24;"></span> No running costs</li>
+          <li><span class="entypo-check" style="color: #f15a24;"></span> Long lasting</li>
+        </ul>
+        </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="large-12 columns">
+      <div class="panel">          
+        <div class="row">
+          <div class="large-9 columns">
+            <p>Who is Deciwatt?</p>
+          </div>
+          <div class="large-3 columns">
+            <a href="/about" class="radius button right">About Deciwatt <span class="entypo-right-bold"></span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="row">
+
+      
+      <div class="large-4 columns">
+        <h6><strong>&nbsp;</strong></h6>   
+        <p style="font-size:.7em;">GravityLight © 2012-2013 <a href="http://www.deciwatt.org">Deciwatt</a>. <br> All rights reserved. <a href="mailto:info@gravitylight.org">Contact us</a>.</p>
+      </div>
+      
+      <div class="large-4 columns">
+        <h6><strong>&nbsp;</strong></h6>
+        
+      </div>
+      
+      <div class="large-4 columns" style="text-align: right;">
+        <h6><strong>&nbsp;</strong></h6>
+        <p style="font-size:.7em; color: #999;"><a href="http://www.entypo.com">Entypo pictograms</a> by <a href="http://danielbruce.se/">Daniel Bruce</a></p>
+      </div>
+</div>
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201340'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2013Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://deciwatt.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://deciwatt.org/wp-content/themes/cornerstone/js/foundation.min.js?ver=3.5.1'></script>
+
+	<script src="http://stats.wordpress.com/e-201340.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.2.5',blog:'51044243',post:'34',tz:'0'});
+	var load_cmc = function(){linktracker_init(51044243,34,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+<script>
+jQuery(document).foundation();
+</script>
+</body>
+</html>

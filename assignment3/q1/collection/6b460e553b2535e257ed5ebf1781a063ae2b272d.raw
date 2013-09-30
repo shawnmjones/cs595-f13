@@ -1,0 +1,634 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	Fiscal-Summit-2013-Clinton-Gates
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="bill gates, bill clinton, fiscal summit, livestream, video, Q&amp;A, tamron, united states, us, economy, education, future" /><meta id="MetaDescription" name="description" content="It&#39;s always stimulating to talk with President Clinton, and last Monday I was lucky enough to join him on stage at the Peterson Foundation&#39;s Fiscal Summit. We did a Q&amp;A session for nearly an hour on budget and policy questions, foreign aid, American competitiveness and education. And that was just part of the discussion, which was hosted by the Today show&#39;s Tamron Hall." /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Personal/Fiscal-Summit-2013-Clinton-Gates?WT.mc_id=05_09_2013_fiscalvideo_tw&amp;WT.tsrc=Twitter" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BXZiaWxsIGdhdGVzLCBiaWxsIGNsaW50b24sIGZpc2NhbCBzdW1taXQsIGxpdmVzdHJlYW0sIHZpZGVvLCBRJkEsIHRhbXJvbiwgdW5pdGVkIHN0YXRlcywgdXMsIGVjb25vbXksIGVkdWNhdGlvbiwgZnV0dXJlZAIDDxYCHwAF9AJJdCdzIGFsd2F5cyBzdGltdWxhdGluZyB0byB0YWxrIHdpdGggUHJlc2lkZW50IENsaW50b24sIGFuZCBsYXN0IE1vbmRheSBJIHdhcyBsdWNreSBlbm91Z2ggdG8gam9pbiBoaW0gb24gc3RhZ2UgYXQgdGhlIFBldGVyc29uIEZvdW5kYXRpb24ncyBGaXNjYWwgU3VtbWl0LiBXZSBkaWQgYSBRJkEgc2Vzc2lvbiBmb3IgbmVhcmx5IGFuIGhvdXIgb24gYnVkZ2V0IGFuZCBwb2xpY3kgcXVlc3Rpb25zLCBmb3JlaWduIGFpZCwgQW1lcmljYW4gY29tcGV0aXRpdmVuZXNzIGFuZCBlZHVjYXRpb24uIEFuZCB0aGF0IHdhcyBqdXN0IHBhcnQgb2YgdGhlIGRpc2N1c3Npb24sIHdoaWNoIHdhcyBob3N0ZWQgYnkgdGhlIFRvZGF5IHNob3cncyBUYW1yb24gSGFsbC5kAgEQZGQWCAIBD2QWAmYPZBYEAgIPFgIeC18hSXRlbUNvdW50AgcWDgIBD2QWAgIBD2QWAmYPFQEaPGEgaHJlZj0iL0Jvb2tzIj5Cb29rczwvYT5kAgIPZBYCAgEPZBYCZg8VASk8YSBocmVmPSIvVG9waWNzL0VkdWNhdGlvbiI+RWR1Y2F0aW9uPC9hPmQCAw9kFgICAQ9kFgJmDxUBIzxhIGhyZWY9Ii9Ub3BpY3MvRW5lcmd5Ij5FbmVyZ3k8L2E+ZAIED2QWAgIBD2QWAmYPFQEtPGEgaHJlZj0iL1RvcGljcy9EZXZlbG9wbWVudCI+RGV2ZWxvcG1lbnQ8L2E+ZAIFD2QWAgIBD2QWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9IZWFsdGgiPkhlYWx0aDwvYT5kAgYPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmUWAmYPFQEgPGEgaHJlZj0iL1BlcnNvbmFsIj5QZXJzb25hbDwvYT5kAgcPZBYCAgEPZBYCZg8VARY8YSBocmVmPSIvQWxsIj5BbGw8L2E+ZAIEDxYCHwEC/////w9kAgMPZBYCZg9kFgICAQ8PZBYCHglvbmtleWRvd24FrgFpZihldmVudC53aGljaCB8fCBldmVudC5rZXlDb2RlKXtpZiAoKGV2ZW50LndoaWNoID09IDEzKSB8fCAoZXZlbnQua2V5Q29kZSA9PSAxMykpIHtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMjBfU2VhcmNoQnV0dG9uJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fX0gZWxzZSB7cmV0dXJuIHRydWV9OyBkAgUPZBYCZg9kFgJmD2QWDGYPDxYCHgdWaXNpYmxlaGQWAmYPZBYEZg8WAh8BAv////8PZAIBD2QWAmYPFQEJP3Nob3dhbGw9ZAIDD2QWAmYPFgIfAQL/////D2QCBA9kFgICAQ8WAh8BAv////8PZAIMDxYCHwECCBYQZg9kFgJmDxUDGi9TZWFyY2g/c2VhcmNoPURldmVsb3BtZW50C2RldmVsb3BtZW50AiwgZAIBD2QWAmYPFQMYL1NlYXJjaD9zZWFyY2g9RWR1Y2F0aW9uCWVkdWNhdGlvbgIsIGQCAg9kFgJmDxUDFy9TZWFyY2g/c2VhcmNoPVBlcnNvbmFsCHBlcnNvbmFsAiwgZAIDD2QWAmYPFQMWL1NlYXJjaD9zZWFyY2g9ZWNvbm9teQdlY29ub215AiwgZAIED2QWAmYPFQMaL1NlYXJjaD9zZWFyY2g9RGV2ZWxvcG1lbnQLZGV2ZWxvcG1lbnQCLCBkAgUPZBYCZg8VAxgvU2VhcmNoP3NlYXJjaD1FZHVjYXRpb24JZWR1Y2F0aW9uAiwgZAIGD2QWAmYPFQMXL1NlYXJjaD9zZWFyY2g9UGVyc29uYWwIcGVyc29uYWwCLCBkAgcPZBYCZg8VAxwvU2VhcmNoP3NlYXJjaD1Ob3J0aCtBbWVyaWNhDU5vcnRoIEFtZXJpY2EAZAIOD2QWAmYPZBYEZg8WAh8BAgQWCGYPZBYOAgEPZBYGZg8VASkvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1GYWNlYm9va2QCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEACkvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1GYWNlYm9vawAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEKS9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLUZhY2Vib29rAAAAZAIDD2QWAmYPFQMVRzIwLVNoYXJlLW9uLUZhY2Vib29rAABkAgcPFgIfBGcWAgIBDxYEHgRocmVmBeUBamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cuZmFjZWJvb2suY29tJywnZGNzdXJpJywnL3NoYXJlJywnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gRmFjZWJvb2sgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgnZmFjZWJvb2snLCBkb2N1bWVudC50aXRsZSk7fSkoKR8CBQhmYWNlYm9vaxYCZg8VAXA8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUHJldmlldyBUaWxlcy9Db250ZW50VGlsZXNfZmFjZWJvb2stMjIweDQ0LWEuanBnIiBhbHQ9IlNoYXJlIG9uIEZhY2Vib29rIi8+ZAIJD2QWAmYPZBYCZg9kFgJmDxUBtQI8YSBjbGFzcz0iZmFjZWJvb2siIG9uY2xpY2s9ImphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LmZhY2Vib29rLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIEZhY2Vib29rIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ2ZhY2Vib29rJywgZG9jdW1lbnQudGl0bGUpO30pKCk7cmV0dXJuIGZhbHNlOyIgaHJlZj0iIyI+U2hhcmUgVGhpcyBPbiBGYWNlYm9vazwvYT5kAgsPZBYCZg8VAbUCPGEgY2xhc3M9ImZhY2Vib29rIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy5mYWNlYm9vay5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBGYWNlYm9vayBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCdmYWNlYm9vaycsIGRvY3VtZW50LnRpdGxlKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlIFRoaXMgT24gRmFjZWJvb2s8L2E+ZAIND2QWAmYPFQEAZAIBD2QWDgIBD2QWBmYPFQEoL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tVHdpdHRlcmQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEACgvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1Ud2l0dGVyAABkAgUPZBYGAgEPZBYCZg9kFgICAg8VAQBkAgIPFQQoL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tVHdpdHRlcgAAAGQCAw9kFgJmDxUDFEcyMC1TaGFyZS1vbi1Ud2l0dGVyAABkAgcPFgIfBGcWAgIBDxYEHwUFngJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy50d2l0dGVyLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsICdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBUd2l0dGVyIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ3R3aXR0ZXInLCAnQSBDb252ZXJzYXRpb24gd2l0aCBCaWxsIEdhdGVzIGFuZCBCaWxsIENsaW50b24gaHR0cDovL2ItZ2F0LmVzLzE5NGdHclUnKTt9KSgpHwIFB3R3aXR0ZXIWAmYPFQFuPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL1ByZXZpZXcgVGlsZXMvQ29udGVudFRpbGVzX3R3aXR0ZXItMjIweDQ0LWEuanBnIiBhbHQ9IlNoYXJlIG9uIFR3aXR0ZXIiLz5kAgkPZBYCZg9kFgJmD2QWAmYPFQGVAjxhIGNsYXNzPSJ0d2l0dGVyIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy50d2l0dGVyLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsICdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBUd2l0dGVyIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ3R3aXR0ZXInLCAnJyk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZTwvYT5kAgsPZBYCZg8VAZUCPGEgY2xhc3M9InR3aXR0ZXIiIG9uY2xpY2s9ImphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LnR3aXR0ZXIuY29tJywnZGNzdXJpJywnL3NoYXJlJywgJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIFR3aXR0ZXIgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgndHdpdHRlcicsICcnKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlPC9hPmQCDQ9kFgJmDxUBAGQCAg9kFg4CAQ9kFgZmDxUBOS9Ub3BpY3MvRGV2ZWxvcG1lbnQvR3JlYXQtQm9va3Mtb24tU2NpZW5jZS1hbmQtSW5ub3ZhdGlvbmQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEJUdyZWF0IEJvb2tzIG9uIFNjaWVuY2UgYW5kIElubm92YXRpb245L1RvcGljcy9EZXZlbG9wbWVudC9HcmVhdC1Cb29rcy1vbi1TY2llbmNlLWFuZC1Jbm5vdmF0aW9uDkFwcmlsIDI4LCAyMDEzJUdyZWF0IEJvb2tzIG9uIFNjaWVuY2UgYW5kIElubm92YXRpb25kAgUPFgIfBGcWBgIBDw8WBB4HVG9vbFRpcAUlR3JlYXQgQm9va3Mgb24gU2NpZW5jZSBhbmQgSW5ub3ZhdGlvbh4LTmF2aWdhdGVVcmwFOS9Ub3BpY3MvRGV2ZWxvcG1lbnQvR3JlYXQtQm9va3Mtb24tU2NpZW5jZS1hbmQtSW5ub3ZhdGlvbmQWAmYPZBYCAgIPFQGZATxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9EZXZlbG9wbWVudC9OQVMvU2NpZW5jZS1Jbm5vdmF0aW9uLUJvb2tzLTJfQkxVRS0yMjB4LmpwZyIgYWx0PSJCaWxsIEdhdGVzOiBNeSBUb3AgUmVhZHMgb24gU2NpZW5jZSBhbmQgSW5ub3ZhdGlvbiIvPmQCAg8VBDkvVG9waWNzL0RldmVsb3BtZW50L0dyZWF0LUJvb2tzLW9uLVNjaWVuY2UtYW5kLUlubm92YXRpb24OQXByaWwgMjgsIDIwMTMlR3JlYXQgQm9va3Mgb24gU2NpZW5jZSBhbmQgSW5ub3ZhdGlvbrcBSSBiZWxpZXZlIHRoYXQgc2NpZW5jZSBhbmQgaW5ub3ZhdGlvbiBhcmUgdGhlIGtleXMgdG8gc29sdmluZyBtYW55IG9mIHRoZSB3b3JsZCdzIGJpZ2dlc3QgcHJvYmxlbXMuIEhlcmUgYXJlIHRoaXJ0ZWVuIGJvb2tzIG9uIHNjaWVuY2UgYW5kIGlubm92YXRpb24gdGhhdCBoYXZlIGluZmx1ZW5jZWQgbXkgdGhpbmtpbmcuZAIDDxYCHwRoFgJmDxUDJUdyZWF0LUJvb2tzLW9uLVNjaWVuY2UtYW5kLUlubm92YXRpb24AAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgMPZBYOAgEPZBYGZg8VAS0vVG9waWNzL0RldmVsb3BtZW50L1RoZS1GdXR1cmUtb2YtU291dGgtS29yZWFkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBC5XaGF0IEhhcHBlbnMgV2hlbiBhIENvdW50cnkgU3RvcHMgTmVlZGluZyBBaWQ/LS9Ub3BpY3MvRGV2ZWxvcG1lbnQvVGhlLUZ1dHVyZS1vZi1Tb3V0aC1Lb3JlYQxNYXkgMDIsIDIwMTMuV2hhdCBIYXBwZW5zIFdoZW4gYSBDb3VudHJ5IFN0b3BzIE5lZWRpbmcgQWlkP2QCBQ8WAh8EZxYGAgEPDxYEHwYFLldoYXQgSGFwcGVucyBXaGVuIGEgQ291bnRyeSBTdG9wcyBOZWVkaW5nIEFpZD8fBwUtL1RvcGljcy9EZXZlbG9wbWVudC9UaGUtRnV0dXJlLW9mLVNvdXRoLUtvcmVhZBYCZg9kFgICAg8VAYsBPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0RldmVsb3BtZW50L1NvdXRoLUtvcmVhL1Bob3Rvc1NLb3JlYTI3MDB4LmpwZyIgYWx0PSJCaWxsIEdhdGVzIHZpc2l0cyBQcmVzaWRlbnQgUGFyayBvZiBTb3V0aCBLb3JlYSIvPmQCAg8VBC0vVG9waWNzL0RldmVsb3BtZW50L1RoZS1GdXR1cmUtb2YtU291dGgtS29yZWEMTWF5IDAyLCAyMDEzLldoYXQgSGFwcGVucyBXaGVuIGEgQ291bnRyeSBTdG9wcyBOZWVkaW5nIEFpZD+dAVRoZSBzdG9yeSBvZiBTb3V0aCBLb3JlYSBpcyBwcmV0dHkgYW1hemluZy4gVGhleeKAmXZlIGdvbmUgZnJvbSBhIHJlY2lwaWVudCBvZiBhaWQgdG8gYSBkb25vci4gV2hhdOKAmXMgbmV4dCBmb3IgdGhlbT8gTGFzdCB3ZWVrIEkgdmlzaXRlZCBTZW91bCB0byBmaW5kIG91dC5kAgMPFgIfBGgWAmYPFQMZVGhlLUZ1dHVyZS1vZi1Tb3V0aC1Lb3JlYQAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCAQ9kFgJmDxUBCT9zaG93YWxsPWQCDw8WAh8BAv////8PZAIJD2QWAmYPZBYIAgEPFgIfAQIDFgZmD2QWAgIBDw8WBB4EVGV4dAUKQWxsIFRvcGljcx8HBQcvVG9waWNzZGQCAQ9kFgICAQ8PFgQfCAUFQm9va3MfBwUGL0Jvb2tzZGQCAg9kFgICAQ8PFgQfCAUJRWR1Y2F0aW9uHwcFES9Ub3BpY3MvRWR1Y2F0aW9uZGQCAw8WAh8BAgMWBmYPZBYCAgEPDxYEHwgFBkVuZXJneR8HBQ4vVG9waWNzL0VuZXJneWRkAgEPZBYCAgEPDxYEHwgFC0RldmVsb3BtZW50HwcFEy9Ub3BpY3MvRGV2ZWxvcG1lbnRkZAICD2QWAgIBDw8WBB8IBQZIZWFsdGgfBwUOL1RvcGljcy9IZWFsdGhkZAIFDxYCHwECARYCZg9kFgICAQ8PFgQfCAUIUGVyc29uYWwfBwUJL1BlcnNvbmFsZGQCBw8WAh8IBQQyMDEzZGQaCSaZ1vVmT64KIPhZonss2hLoeA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL9s6HtBQLf6cCfDQKNhbaICQL5oamLB/VB74oiM+/Hbf4sLQ8IKk4ops/F" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="navLink"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="active"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+				<p class="date">May 09, 2013 | Bill Gates</p>
+				<h1>My Conversation with Bill Clinton at the 2013 Fiscal Summit</h1>
+				<h2></h2>
+
+				<blockquote></blockquote>
+				<p>It's always stimulating to talk with President Clinton, and last Monday I was lucky enough to join him on stage at the Peterson Foundation's Fiscal Summit. We did a Q&amp;A session for nearly an hour on budget and policy questions, foreign aid, American competitiveness, and education. And that was just part of the discussion, which was hosted by the <em>Today</em> show's Tamron Hall.<br />
+<br />
+President Clinton has been a terrific advocate for Africa, and has done amazing work in philanthropy through his foundation and the Clinton Global Initiative, so it was great to catch up with him. We agreed on the need to address both the short-term and long-term fiscal problems facing the United States, particularly with a view toward keeping the country competitive in the global marketplace and the need to invest in basic research and education.<br />
+<br />
+At the end of the session, Tamron asked about the possibility of a strong, well-respected female candidate for president who has extensive international experience &ndash; and then turned to me and asked me whether Melinda was considering a run. I'm sure she would be flattered, but we both love the jobs we have. I told Tamron I don't think she'll be throwing her hat in the ring.</p>
+<iframe width="560" height="340" src="http://cdn.livestream.com/embed/pgpf?layout=4&amp;clip=pla_7c664e42-ffdf-471d-851f-ee5313ae6622&amp;height=340&amp;width=560&amp;autoplay=false" style="border: 0px; outline: 0px;" frameborder="0" scrolling="no"></iframe>
+<div style="font-size: 11px; padding-top: 10px; width: 560px; text-align: center;">Watch <a href="http://www.livestream.com/?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks" title="live streaming video">live streaming video</a> from <a href="http://www.livestream.com/pgpf?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks" title="Watch pgpf at livestream.com">pgpf</a> at livestream.com</div>
+<div><br />
+</div>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Development">development</a>, </li><li><a href="/Search?search=Education">education</a>, </li><li><a href="/Search?search=Personal">personal</a>, </li><li><a href="/Search?search=economy">economy</a>, </li><li><a href="/Search?search=Development">development</a>, </li><li><a href="/Search?search=Education">education</a>, </li><li><a href="/Search?search=Personal">personal</a>, </li><li><a href="/Search?search=North+America">North America</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{894AA1B5-56CD-46D4-9FF5-1B0601DB1B7A}";
+    var disqus_url = "http://www.thegatesnotes.com/Personal/Fiscal-Summit-2013-Clinton-Gates";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.facebook.com','dcsuri','/share','WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Facebook Sidebar');openSharingSite('facebook', document.title);})()" id="content_0_ctl03_Articles_ImageTileLink_0" class="facebook">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_facebook-220x44-a.jpg" alt="Share on Facebook"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.twitter.com','dcsuri','/share', 'WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Twitter Sidebar');openSharingSite('twitter', 'A Conversation with Bill Gates and Bill Clinton http://b-gat.es/194gGrU');})()" id="content_0_ctl03_Articles_ImageTileLink_1" class="twitter">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_twitter-220x44-a.jpg" alt="Share on Twitter"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_2" title="Great Books on Science and Innovation" href="/Topics/Development/Great-Books-on-Science-and-Innovation"><p id="content_0_ctl03_Articles_P2_2" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Development/NAS/Science-Innovation-Books-2_BLUE-220x.jpg" alt="Bill Gates: My Top Reads on Science and Innovation"/>
+							
+						</p></a>
+					<a href="/Topics/Development/Great-Books-on-Science-and-Innovation">
+						<p class="date">April 28, 2013</p>
+						<h1>Great Books on Science and Innovation</h1>
+
+						<p>I believe that science and innovation are the keys to solving many of the world's biggest problems. Here are thirteen books on science and innovation that have influenced my thinking.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_3" title="What Happens When a Country Stops Needing Aid?" href="/Topics/Development/The-Future-of-South-Korea"><p id="content_0_ctl03_Articles_P2_3" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Development/South-Korea/PhotosSKorea2700x.jpg" alt="Bill Gates visits President Park of South Korea"/>
+							
+						</p></a>
+					<a href="/Topics/Development/The-Future-of-South-Korea">
+						<p class="date">May 02, 2013</p>
+						<h1>What Happens When a Country Stops Needing Aid?</h1>
+
+						<p>The story of South Korea is pretty amazing. They’ve gone from a recipient of aid to a donor. What’s next for them? Last week I visited Seoul to find out.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Fiscal-Summit-2013-Clinton-Gates', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Fiscal-Summit-2013-Clinton-Gates', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Fiscal-Summit-2013-Clinton-Gates', 'WT.ti', 'End: Fiscal-Summit-2013-Clinton-Gates', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Fiscal-Summit-2013-Clinton-Gates', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Fiscal-Summit-2013-Clinton-Gates"
+    s.channel = "Development"
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

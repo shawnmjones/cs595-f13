@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=90496f22ffd4b193ff4f3aa39d43d2af"></script>
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<meta charset="utf-8">
+
+<!--
+
+	1000 Suns Tumblr Theme
+	http://1000suns.isujay.com/
+
+	Copyright (c) 2013 Sujay Thomas.
+		Please do not re-use code without permission.
+		http://isujay.com/
+
+	Version 1.92.9
+
+-->
+
+<meta name="color:Background" content="#eeede2">
+<meta name="color:ContentBackground" content="#ffffff">
+<meta name="color:Text" content="#333333">
+<meta name="color:Link" content="#C00000">
+<meta name="color:Date" content="#004646">
+<meta name="color:FooterText" content="#333333">
+<meta name="color:FooterLink" content="#C00000">
+<meta name="image:Header" content="0">
+<meta name="image:Background" content="0">
+<meta name="if:Dont Repeat Background" content="0">
+<meta name="if:Fixed Background" content="0">
+<meta name="if:Show SearchBar" content="1">
+<meta name="if:Show Post Notes" content="1">
+<meta name="text:Disqus Shortname" content="">
+<meta name="text:Google Analytics Web Property ID" content="">
+<meta name="if:Show Install Theme Button" content="1">
+<meta name="if:Show Top Buttons" content="1">
+<meta name="if:Show RSS Button" content="1">
+<meta name="if:Show Archive Button" content="0">
+<meta name="text:Ask Button Text" content="Ask">
+<meta name="text:Submissions Button Text" content="Submit">
+<meta name="text:Twitter Username" content="">
+<meta name="text:Tab Icon" content="&#9733;">
+
+<title>Office of the Governor - I joined Mark Curtis of 12 News to discuss...</title>
+
+<meta name="description" content="I joined Mark Curtis of 12 News to discuss immigration reform and why border security should be a priority in any legislation.">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="icon" href="http://31.media.tumblr.com/avatar_e8f10ffaf5b4_128.png">
+<link rel="apple-touch-icon" href="http://31.media.tumblr.com/avatar_e8f10ffaf5b4_128.png">
+<link rel="alternate" type="application/rss+xml" title="Office of the Governor RSS" href="http://azgov.tumblr.com/rss">
+<link rel="stylesheet" href="http://static.tumblr.com/5sbjbbx/1kimati3i/reset.css">
+<style>
+html {
+	background-color: #eeede2;
+	
+	
+	
+}
+body {
+	margin: 0px;
+	font: 15px/21px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #333333;
+	padding-bottom: 25px;
+}
+h1, h2, h3, h4, h5, h6, .link .link {
+	font-weight: bold;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#container {
+	max-width: 500px;
+	padding: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	-moz-border-radius-bottomright: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-moz-border-radius-bottomleft: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#nav {
+	font-size: 20px;
+	text-align: right;
+	float: right;
+	font-weight: bold;
+}
+#pages {
+	font-size: 20px;
+	padding-top: 15px;
+	font-weight: bold;
+	margin-top: 8px;
+}
+#nav span {
+	color: #cccccc;
+}
+#container img {
+	max-width: 100%;
+	border: none;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+a {
+	color: #C00000;
+	text-decoration: underline;
+	word-wrap: break-word;
+}
+a:hover {
+	color: #333333;
+	text-decoration: none;
+	border-bottom: none;
+}
+sup {
+	line-height: 0px;
+}
+sup a:link {
+	padding: 2px;
+}
+thead {
+	font-weight: bold;
+}
+h1 {
+	color: #C00000;
+	font-size: 36px;
+	line-height: 1em;
+	margin: 0px 0px 0px;
+	padding: 0;
+	font-weight: bold;
+}
+h1 a {
+	display: block;
+	color: #C00000;
+	text-decoration: none;
+}
+#description {
+	font-size: 16px;
+	color: #333333;
+	margin-top: 25px;
+}
+.date {
+	margin: 25px 0px 0px 0px;
+	color: #004646;
+	font-size: 18px;
+	text-transform: lowercase;
+	text-align: right;
+	margin-bottom: 25px;
+	border-bottom: solid 1px #e5e5e5;
+	border-bottom: solid 1px rgba(100,100,100,.1);
+	font-weight: normal;
+	letter-spacing: -1px;
+	line-height: 18px;
+}
+div.post {
+	margin-bottom: 30px;
+	position: relative;
+}
+div.post .permalink {
+	font-family: "Hiragino Kaku Gothic Pro", "Osaka", "Zapf Dingbats", "Free Serif", "Century Schoolbook L", Arial, "Arial Unicode MS", sans-serif;
+	background: #ffffff;
+	padding: 5px;
+	vertical-align: middle;
+	margin: 0;
+	position: absolute;
+	left: -53px;
+	width: 30px;
+	font-size: 20px;
+	text-decoration: none;
+	border: none;
+	-moz-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+div.post h2 {
+	font-size: 24px;
+	line-height: 30px;
+	font-weight: normal;
+	color: #333333;
+	margin: 0px 0px 5px 0px;
+}
+/* Regular Post */
+div.post div.regular h2 {
+	color: #333333;
+	font-weight: normal;
+}
+div.post div.regular h2 a {
+	text-decoration: none;
+}
+div.post div.regular h2 a:hover {
+	text-decoration: underline;
+}
+div.post p {
+	margin: .8em;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote, .formspringmeAnswer {
+	border-left: solid 1px #e5e5e5;
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 0;
+}
+blockquote p {
+	margin: .5em;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote strong, blockquote em, blockquote a {
+	display: inline;
+}
+blockquote cite {
+	display: block;
+	font-style: normal;
+	text-align: right;
+}
+div.post div.regular a {
+	color: #333333;
+}
+div.post p {
+	margin: .8em;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote {
+	border-left: solid 1px #e5e5e5;
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+blockquote p {
+	margin: .5em;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote strong, blockquote em, blockquote a {
+	display: inline;
+}
+blockquote cite {
+	display: block;
+	font-style: normal;
+	text-align: right;
+}
+div.post div.answer a {
+	color: #333333;
+}
+/* Photo Post */
+div.post div.photo img {
+	border-width: 0px;
+}
+div.post div.photo div.caption {
+	margin-top: 15px;
+	color: #333333;
+}
+div.post div.photo div.caption a {
+	color: #333333;
+}
+/* Quote Post */
+.post .quote .quote {
+	padding: 0px 0px 0px 0px;
+	font: 25px/1.2em Georgia, Times, serif;
+	color: #004646;
+	margin-bottom: 15px;
+}
+.post .quote .quote p {
+	display: inline;
+}
+.post .quote .description {
+	position: relative;
+}
+.post .quote .description .source:before {
+	content: '—';
+	display: inline;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.post .quote .description .source {
+	padding-left: 25px;
+	display: inline-block;
+}
+.post .quote .description .source p:first-child {
+	margin-top: 0;
+}
+.post .quote .description .source p:last-child {
+	margin-bottom: 0;
+}
+/* Link Post */
+div.post div.link {
+	font-size: 24px;
+	line-height: 30px;
+}
+div.post div.link div.description {
+	line-height: 21px;
+	font-size: 15px;
+	margin-top: 15px;
+	color: #333333;
+}
+div.post div.link div.description a {
+	color: #333333;
+}
+div.post div.link div.description p {
+	margin: .5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Conversation Post */
+div.post div.conversation h2 {
+	margin-bottom: 15px;
+}
+div.post div.conversation h2 a {
+	color: #333333;
+	text-decoration: none;
+}
+div.post div.conversation h2 a:hover {
+	text-decoration: underline;
+}
+div.post div.conversation ul {
+	margin: 0;
+	padding: 0;
+}
+div.post div.conversation ul li {
+	padding: 0;
+	margin: 0;
+	color: #333333;
+	list-style-type: none;
+	line-height: 24px;
+}
+div.post div.conversation ul li span.label {
+	font-weight: bold;
+	color: #004646;
+}
+/* Audio Post */
+div.post div.audio span, div.post div.audio span a {
+	font-size: 11px;
+	color: #C00000;
+	line-height: 20px;
+}
+div.post div.audio div.caption {
+	color: #333333;
+}
+div.post div.audio div.caption a {
+	color: #333333;
+}
+div.post div.audio .player {
+	margin-bottom: 10px;
+}
+div.post div.audio .albumart {
+	margin-bottom: 10px;
+}
+div.post div.audio .track {
+	margin-bottom: 10px;
+}
+div.post div.audio .albumart img {
+	width: 180px;
+	height: 180px;
+}
+div.post div.audio span {
+	margin-top: 10px;
+}
+/* Video Post */
+div.post div.video div.caption {
+	margin-top: 15px;
+	color: #333333;
+}
+div.post div.video div.caption p {
+	margin: .5em;
+	margin-left: 0;
+	margin-right: 0;
+}
+div.post div.video div.caption a {
+	color: #333333;
+}
+/* Other Stuff */
+#pagination {
+	font-weight: bold;
+	clear: both;
+	line-height: normal;
+	text-transform:lowercase;
+	position: relative;
+	font-size: 14px;
+}
+#pagination a {
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+}
+#pagination a:hover {
+	color: #C00000;
+	text-decoration: underline;
+}
+#pagination .left {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#pagination .center, #pagination .centerindex {
+	width: 100%;
+	text-align: center;
+}
+#pagination .right {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#pagination p {
+	clear: both;
+	text-align: center;
+	font-weight: normal;
+	margin:0px;
+}
+#pagination a:hover {
+	text-decoration: underline;
+}
+.reblog {
+	margin-top: 15px;
+}
+.reblog a {
+	color: #333333;
+}
+#footer {
+	font-size: 14px;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	clear: both;
+	color: #333333;
+}
+#footer strong {
+	color: #C00000;
+}
+#footer a {
+	color: #C00000;
+	font-weight: bold;
+	text-decoration: none;
+}
+#footer a:hover {
+	text-decoration: underline;
+}
+div.sub {
+	margin-top: 10px;
+	font-size: 14px;
+	display: block;
+}
+#search {
+	background: #eeede2;
+	padding: 16px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	font-size: 14px;
+	margin-bottom: 5px;
+	margin-top: 25px;
+	text-align: center;
+	clear: both;
+}
+
+#search form {
+	margin: 0;
+	padding: 0;
+}
+#search .text, #search .submit {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#search .text {
+	background: #ffffff;
+	color: #333333;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-bottomright: 0;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	border: none;
+	padding: 5px;
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	line-height: normal;
+	width: 75%;
+	margin: 0;
+}
+#search .submit {
+	background: #C00000;
+	color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-border-top-left-radius: 0;
+	-webkit-border-bottom-left-radius: 0;
+	-moz-border-radius-topleft: 0;
+	-moz-border-radius-bottomleft: 0;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	border: none;
+	padding: 5px;
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	line-height: normal;
+	cursor: pointer;
+	width: 25%;
+	margin: 0;
+}
+#search .submit:hover {
+	background: #333333;
+	color: #ffffff;
+}
+.regular ol {
+	margin-left: 35px;
+}
+ol.notes {
+	padding: 0px;
+	margin: 25px 0px;
+	list-style-type: none;
+	border-bottom: solid 1px #eee;
+	font-size: 14px;
+}
+ol.notes a {
+	color: #333333;
+}
+ol.notes li.note {
+	border-top: solid 1px #eee;
+	padding: 8px 0;
+	margin: 0;
+	list-style: none;
+}
+ol.notes li.note img.avatar {
+	vertical-align: -4px;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+ol.notes li.note span.action {
+}
+ol.notes li.note .answer_content {
+	font-weight: normal;
+}
+ol.notes li.note blockquote, .action .answer_content {
+	border-left: solid 1px #eee;
+	padding: 4px 10px;
+	margin: 10px 0px 0px 25px;
+	display: block;
+}
+ol.notes li.note blockquote a {
+	text-decoration: none;
+}
+.tags {
+	display: block;
+}
+.buttons {
+	margin: 0;
+	padding: 0;
+}
+.buttons li {
+	display: inline-block;
+	list-style-type: none;
+	margin-bottom: 5px;
+	margin-top: 3px;
+}
+.buttons a {
+	display: inline-block;
+	background: #C00000;
+	color: #ffffff;
+	font-size: 16px;
+	text-decoration: none;
+	padding: 4px 8px 4px 8px;
+	margin: 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.buttons a:hover {
+	background: #333333;
+	color: #ffffff;
+}
+.regular, .caption, p {
+	word-wrap: break-word;
+}
+pre {
+	color: #333333;
+	padding: 5px 10px;
+	overflow: auto;
+	background-color: #EEE;
+	border: 2px solid #DDD;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+code {
+	font-family: "Lucida Console", "Monaco", monospace;
+	background-color: #EEE;
+	font-size: 0.9em;
+}
+a.install {
+	-webkit-font-smoothing: antialiased;
+	display: block;
+	font: 600 12px/18px "Helvetica Neue","HelveticaNeue",Helvetica,Arial,sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	background-color: rgba(0,0,0,.38);
+	border: solid 1px rgba(0,0,0,.18);
+	position: absolute;
+	top: 26px;
+	right: 3px;
+	z-index: 1337;
+	height: 18px;
+	padding: 0 5px;
+	cursor: pointer;
+	text-shadow: rgba(0,0,0,.08);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+a.install:hover {
+	background-color: rgba(0,0,0,.28);
+}
+a.install:active {
+	background-color: rgba(0,0,0,.22);
+}
+.regular ul {
+	margin-left: 5px;
+}
+.regular ul li {
+	list-style-position: outside;
+	list-style-type: circle;
+	margin-left: 0px;
+}
+.regular ol {
+	margin-left: 5px;
+}
+.regular ol li {
+	list-style-position: outside;
+	list-style-type: decimal;
+	margin-left: 0px;
+}
+strong, .formspringmeFooter a {
+	font-weight: bold;
+}
+.tag, .search_query {
+	font-weight: bold;
+}
+.notice {
+	text-align: center;
+	color: #222;
+	background: #ffffe0;
+	padding: 25px;
+	position: relative;
+	z-index: 9999;
+}
+.notice p {
+	margin: 0;
+}
+.notice .dismiss {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	text-decoration: none;
+}
+#browserupgrade {
+	display: none;
+}
+.lt-ie8 #browserupgrade {
+	display: block;
+}
+.tumbl {
+    display: block;
+    float: right;
+    width: 50px;
+}
+.like_button,.reblog_button {
+    display: inline-block !important;
+    position: relative;
+    top: 1px;
+    height: 20px;
+    overflow: hidden;
+}
+.like_button {
+    margin-right: 3px;
+}
+@media only screen and (max-width: 550px) {
+	#social, #tumblr_controls, a.install {
+		display: none !important;
+	}
+	#container {
+		padding: 15px;
+	}
+	ul, ol {
+		margin-left: 0 !important;
+		padding-left: 25px !important;
+	}
+}
+
+</style>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:site_name" content="Office of the Governor" />
+<meta property="og:title" content="" />
+<meta property="og:url" content="http://azgov.tumblr.com/post/41875187693/i-joined-mark-curtis-of-12-news-to-discuss" />
+<meta property="og:description" content="I joined Mark Curtis of 12 News to discuss immigration reform and why border security should be a priority in any legislation." />
+<meta property="og:determiner" content="a" />
+<meta property="og:type" content="tumblr-feed:video" />
+<meta property="og:image" content="http://assets.tumblr.com/images/og/video_200.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:description" content="I joined Mark Curtis of 12 News to discuss immigration reform and why border security should be a priority in any legislation." />
+            <meta name="twitter:url" content="http://azgov.tumblr.com/post/41875187693/i-joined-mark-curtis-of-12-news-to-discuss" />
+            <meta name="twitter:site" content="tumblr" />
+            <meta name="twitter:app:name:iphone" content="Tumblr" />
+            <meta name="twitter:app:name:ipad" content="Tumblr" />
+            <meta name="twitter:app:name:googleplay" content="Tumblr" />
+            <meta name="twitter:app:id:iphone" content="305343404" />
+            <meta name="twitter:app:id:ipad" content="305343404" />
+            <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+            <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=azgov&amp;postID=41875187693&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=azgov&amp;postID=41875187693&amp;referrer=twitter-cards" />
+            <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=azgov&amp;postID=41875187693&amp;referrer=twitter-cards" />
+    
+
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=cf7aeb03e820314a6cb2890dfa192802"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<meta name="keywords" content="Border Security,GOP,Immigration,Arizona" />
+
+</head>
+<body class="permalink"><a href="http://1000suns.isujay.com/" class="install">Install Theme</a>
+
+<div id="browserupgrade" class="notice"><p>Your web-browser is very outdated, and as such, this website may not display properly. Please consider upgrading to a modern, faster and more secure browser. <a href="http://www.google.com/chrome/" rel="nofollow">Click here</a> to do so.</p></div>
+
+<div id="container">
+	
+<div id="nav">
+	<ul class="buttons">
+	
+	
+	
+	
+	
+	<li><a href="http://azgov.tumblr.com/rss" title="Subscribe to my RSS Feed">RSS</a></li>
+	</ul>
+</div>
+
+<h1>
+	<a href="/" title="Office of the Governor">
+	
+	Office of the Governor
+	</a>
+</h1>
+
+<div id="description">Official Tumblr page of Arizona Governor Jan Brewer
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37668523-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<a href="https://twitter.com/GovBrewer" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @GovBrewer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+
+<div id="search">
+<form action="/search" method="get">
+<input type="text" name="q" class="text" value=""/><input type="submit" class="submit" value="Search"/>
+</form>
+</div>
+
+
+
+
+
+
+
+<div class="date">Jan 30 '13</div>
+<div class="post content">
+	
+<a href="http://azgov.tumblr.com/post/41875187693/i-joined-mark-curtis-of-12-news-to-discuss" class="permalink">★</a>
+
+
+<div class="video">
+	<object id="flashObj" width="500" height="281" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=2127675554001&amp;playerID=1659202266001&amp;playerKey=AQ~~,AAAABvZFMzE~,IXjx0MpOF0p74gQ0oxWK0L1cZBcoHPoi&amp;domain=embed&amp;dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" bgcolor="#FFFFFF" flashvars="videoId=2127675554001&amp;playerID=1659202266001&amp;playerKey=AQ~~,AAAABvZFMzE~,IXjx0MpOF0p74gQ0oxWK0L1cZBcoHPoi&amp;domain=embed&amp;dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="500" height="281" seamlesstabbing="false" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+	
+		<div class="caption"><p>I joined Mark Curtis of 12 News to discuss immigration reform and why border security should be a priority in any legislation.</p></div>
+	
+</div>
+
+<div class="reblog clearfix">
+	<div class="tumbl">
+		<div class="like_button" data-post-id="41875187693" id="like_button_41875187693"><iframe id="like_iframe_41875187693" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=e6a1ab8af99851c003d650d932ba2011#name=azgov&amp;post_id=41875187693&amp;color=grey&amp;rk=xLNQ8fvW" scrolling="no" width="20" height="20" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div>
+		<a href="http://www.tumblr.com/reblog/41875187693/xLNQ8fvW" class="reblog_button"style="display: block;width:20px;height:20px;"><svg width="100%" height="100%" viewBox="0 0 537 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M 98.893,177.139c0.00-7.462, 4.826-12.275, 12.288-12.275L 405.12,164.864 l0.00,83.469 l 118.72-120.947L 405.12,8.678l0.00,81.51 L 49.382,90.189 c-15.206,0.00-27.648,12.429-27.648,27.648l0.00,171.814 l 77.146-71.603L 98.88,177.139 z M 438.874,332.646c0.00,7.45-4.826,12.275-12.275,12.275L 123.75,344.922 l0.00-83.469 l-116.506,120.922l 116.506,120.947l0.00-81.498 l 356.864,0.00 c 15.206,0.00, 27.648-12.454, 27.648-27.648L 508.262,220.134 l-69.402,71.59L 438.861,332.646 z" ></path></svg></a>
+	</div>
+	
+	
+	
+	<span class="tags">Tags: <a href="http://azgov.tumblr.com/tagged/Arizona">Arizona</a> <a href="http://azgov.tumblr.com/tagged/Immigration">Immigration</a> <a href="http://azgov.tumblr.com/tagged/GOP">GOP</a> <a href="http://azgov.tumblr.com/tagged/Border-Security">Border Security</a> </span>
+</div>
+
+
+	
+</div>
+
+
+
+
+
+<div id="pagination">
+
+	
+		<span class="right"><a href="http://azgov.tumblr.com/post/42056319933">Newer &rarr;</a></span>
+	
+	<p><a href="/" class="center">Home</a></p>
+	
+		<span class="left"><a href="http://azgov.tumblr.com/post/42041747106">&larr; Older</a></span>
+	
+
+
+
+
+</div>
+	
+</div>
+
+<div id="footer">&copy; 2013 Office of the Governor.<br><a href="http://1000suns.isujay.com/">"1000 Suns" Theme</a> v1.92.9 by <a href="http://isujay.com/" title="Sujay Thomas">Sujay</a>.<br>Powered by <a href="http://www.tumblr.com/">Tumblr</a>.
+</div>
+
+
+
+<!-- BEGIN TUMBLR CODE -->
+        
+    
+        <iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=03e46de2c31f616e91612be5ae062acd#src=http%3A%2F%2Fazgov.tumblr.com%2Fpost%2F41875187693%2Fi-joined-mark-curtis-of-12-news-to-discuss&amp;pid=41875187693&amp;rk=xLNQ8fvW&amp;lang=en_US&amp;name=azgov&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_e8f10ffaf5b4_64.png&amp;title=Office+of+the+Governor&amp;url=http%3A%2F%2Fazgov.tumblr.com%2F&amp;page_slide=slide"></iframe>    <div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html#src=http%3A%2F%2Fazgov.tumblr.com%2Fpost%2F41875187693%2Fi-joined-mark-curtis-of-12-news-to-discuss&amp;pid=41875187693&amp;rk=xLNQ8fvW&amp;lang=en_US&amp;name=azgov&amp;avatar=http%3A%2F%2F25.media.tumblr.com%2Favatar_e8f10ffaf5b4_64.png&amp;title=Office+of+the+Governor&amp;url=http%3A%2F%2Fazgov.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div>
+
+<script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls('http://assets.tumblr.com/assets/html/iframe/follow.html?_v=1c38ddb221b64d02021cc5cc3fb77b98');
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script>
+    
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    
+        
+<iframe src="http://assets.tumblr.com/analytics.html?63fae489732da54993e4a941e42dcf5e" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380561086&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYXpnb3YudHVtYmxyLmNvbVwvcG9zdFwvNDE4NzUxODc2OTNcL2ktam9pbmVkLW1hcmstY3VydGlzLW9mLTEyLW5ld3MtdG8tZGlzY3VzcyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5In0=&U=DDGMHCPFNP&K=afad6e7bc0ed4a93120e6c74f092afc3d34e13dc46754f999f9665ecfb805286&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380561086&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYXpnb3YudHVtYmxyLmNvbVwvcG9zdFwvNDE4NzUxODc2OTNcL2ktam9pbmVkLW1hcmstY3VydGlzLW9mLTEyLW5ld3MtdG8tZGlzY3VzcyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=DDGMHCPFNP&K=20e359992dfa7e7284a0a471a5baf884cb2f37eca8fe29625f82b2c92a330ccb&R="></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1380561086&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2F6Z292LnR1bWJsci5jb21cL3Bvc3RcLzQxODc1MTg3NjkzXC9pLWpvaW5lZC1tYXJrLWN1cnRpcy1vZi0xMi1uZXdzLXRvLWRpc2N1c3MiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI0MTg3NTE4NzY5MyIsImJsb2dpZCI6Ijg4NTUxNTI3Iiwic291cmNlIjozM31dfQ==&U=FAINPMCPEE&K=fe812c2f1e409b0dffd90f6b9eca16e382b04a60be8194a4a92bc5c2cf34c6d4&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1380561086&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2F6Z292LnR1bWJsci5jb21cL3Bvc3RcLzQxODc1MTg3NjkzXC9pLWpvaW5lZC1tYXJrLWN1cnRpcy1vZi0xMi1uZXdzLXRvLWRpc2N1c3MiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI0MTg3NTE4NzY5MyIsImJsb2dpZCI6Ijg4NTUxNTI3Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=FAINPMCPEE&K=69392809248db3998f950eb2ee9f4a0965ece2aed372986b0e7309b893912fda&R="></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

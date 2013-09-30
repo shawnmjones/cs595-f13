@@ -1,0 +1,858 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head><link rel="stylesheet" type="text/css" href="http://i3.technet.microsoft.com/Areas/Sto/Content/Theming/Megablade.css" xmlns="http://www.w3.org/1999/xhtml" /><meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8;" /><meta name="robots" content="index,follow" />
+<meta name="keywords" content="Featured, Future" />
+<meta name="GENERATOR" content="Telligent Evolution Platform Developer Build (Build: 5.6.50428.7875)" />
+<link rel="pingback" href="http://blogs.technet.com/b/next/pingback.aspx" />
+<link rel="alternate" type="application/rss+xml" title="Site Home (RSS 2.0)" href="http://blogs.technet.com/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Steve Clayton - Editor&#39;s Comments (RSS 2.0)" href="/members/msftnextauthors_4000_hotmail.com/comments/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Steve Clayton - Editor&#39;s Activities (RSS 2.0)" href="/members/msftnextauthors_4000_hotmail.com/activities/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Activities of People Steve Clayton - Editor Follows (RSS 2.0)" href="/members/msftnextauthors_4000_hotmail.com/activities/followersrss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Steve Clayton - Editor&#39;s Groups Activities (RSS 2.0)" href="/members/msftnextauthors_4000_hotmail.com/activities/groupsrss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Next at Microsoft (RSS 2.0)" href="http://blogs.technet.com/b/next/rss.aspx"  />
+<link rel="alternate" type="application/atom+xml" title="Next at Microsoft (Atom 1.0)" href="http://blogs.technet.com/b/next/atom.aspx"  />
+
+            <link href="http://i1.blogs.technet.com/rrcontent/13f9071cc451be2a4edfea34b8df903b-5ba0d643378fd8c8fdcd66c7bfd1cbea-RequestReducedStyle.css" rel="Stylesheet" type="text/css" />        
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+          <link rel="shortcut icon" type="image/ico" href="/themes/wireframe/favicon.ico" />
+          <!--
+            Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use – http://www.asp.net/ajaxlibrary/CDN.ashx.
+          -->
+          <link href="http://i1.blogs.technet.com/rrcontent/d40c667c927f58867962a4a37b6185cb-9728b852b1bb5db880b4edfc37d5eac6-RequestReducedStyle.css" rel="Stylesheet" type="text/css" /><script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.5.2.min.js" type="text/javascript" language="javascript"></script>
+                  
+          		
+          <link type="text/css" rel="stylesheet" href="/themes/wireframe/css/DynamicStyle.aspx?PreviewKey=0" media="screen,print" />
+          <link type="text/css" rel="stylesheet" href="/themes/blogs/wireframe/css/DynamicStyle.aspx?WeblogID=8073&PreviewKey=0" media="screen,print" />
+        
+          <!--[if lte IE 6]>
+              <link type="text/css" rel="stylesheet" href="/themes/wireframe/css/ie6.css" media="screen,print" />
+          <![endif]-->
+                  <meta name="msvalidate.01" content="B717AD6FC29D3A844832AF011B5F9E4C" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.technet.com/b/next/rsd.ashx" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" title="WLWManifest" href="http://blogs.technet.com/b/next/wlwmanifest.ashx" />
+
+        <!--
+            Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use – http://www.asp.net/ajaxlibrary/CDN.ashx.
+          -->
+        <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.5.2.min.js" type="text/javascript" language="javascript"></script>
+    <title>
+	Microsoft Research: How fighting email spam is helping the search for an HIV vaccine - Next at Microsoft - Site Home - TechNet Blogs
+</title></head>
+	<body spellcheck="true">
+		<form name="aspnetForm" method="post" action="/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3a00_-microsoft-research-applies-learnings-from-spam-filtering.aspx?WT.mc_id=12_1_MSR_WorldAIDSDay_TW&amp;WT.tsrc=Twitter" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_content_ctl00_w_69360__b597ed_ctl00_ctl00_ctl00_ctl05_bpCommentForm_ctl05_invisibleCaptcha_answer" id="ctl00_content_ctl00_w_69360__b597ed_ctl00_ctl00_ctl00_ctl05_bpCommentForm_ctl05_invisibleCaptcha_answer" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM5OTAxNDYyNWRkeIF0QG3IS3neZio/tnCAE3lF9b0=" />
+</div>
+
+
+<script src="http://i1.blogs.technet.com/rrcontent/dfeeb667eb680e1acb7afe4b154f0bd1-e571c3d1f7957b275109bd81af7f594e-RequestReducedScript.js" type="text/javascript" ></script>
+			
+            
+                
+            
+            <div class="header-fragments-header"></div>
+<div class="header-fragments"><div class="header-fragment-outer top-bar wireframe-header-fragment-outer wireframe-top-bar"><div class="header-fragment-inner top-bar wireframe-header-fragment-inner wireframe-top-bar"><div class="header-fragment welcome-message" id="header-fragment-247403536">
+
+
+<!-- always render -->
+</div><div class="header-fragment login-logout" id="header-fragment-247403537">
+
+
+
+
+
+        <div class="navigation-list-header"></div>
+        <ul class="navigation-list">
+
+            <li class="navigation-item">
+                <span id="ctl00_header_fragment_247403537__b597ed_ctl00_ctl02_ctl05_WLIDLoginButton1" class="internal-link live-id-button"><a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1380561103&rver=6.0.5286.0&wp=MBI&wreply=http:%2F%2Fblogs.technet.com%2Fb%2Fnext%2Farchive%2F2011%2F12%2F01%2Ftowards-a-vaccine-for-hiv_3a00_-microsoft-research-applies-learnings-from-spam-filtering.aspx%3FWT.mc_id%3D12_1_MSR_WorldAIDSDay_TW%26WT.tsrc%3DTwitter&lc=1033&id=271612">Sign in</a></span>
+            </li>
+        </ul>
+        <div class="navigation-list-footer"></div>
+    </div><div class="header-fragment user-welcome-without-login" id="header-fragment-247403538">
+
+ &nbsp;<!-- always render -->
+
+</div></div></div><div class="header-fragment-outer wireframe-header-fragment-outer site-banner"><div class="header-fragment-inner wireframe-header-fragment-inner site-banner"><div class="header-fragment site-banner" id="header-fragment-247403539">
+
+
+<div class="site-banner-header"></div>
+<div class="site-banner">
+    
+    
+    
+            <div class="site-logo"><a href="/">
+                    <img src="/themes/TechNetMetro/images/tn-logo.png" alt="" style="border-width:0px;" />
+                </a></div>
+        
+</div>
+<div class="site-banner-footer"></div></div></div></div><div class="header-fragment-outer wireframe-header-fragment-outer search"><div class="header-fragment-inner wireframe-header-fragment-inner search"><div class="header-fragment search" id="header-fragment-247403540">
+
+<div class="field-list-header">
+</div>
+<fieldset class="field-list">
+    <ul class="field-list">
+        <li class="field-item"><span class="field-item-input">
+            <input id="SearchTextBox_Header" name="SearchTextBox_Header" type="text" class="search empty"
+                autocomplete="off" />
+            <input id="SearchButton_Header" name="SearchButton_Header" type="image" class="search-button"
+                src="/Utility/images/MSDNTechnet/trans.gif" />
+        </span></li>
+        <li id="ctl00_header_fragment_247403540__b597ed_ctl00_SearchOptionsButtonWrapper" class="field-item"><span class="field-item-input">
+            <a class="internal-link search-options" title="Change Search Scope">
+                &nbsp;</a> </span></li>
+    </ul>
+</fieldset>
+<div class="field-list-footer">
+</div>
+<script src="http://i4.services.social.microsoft.com/Search/Widgets/SearchBox.jss?boxid=SearchTextBox_Header&btnid=SearchButton_Header&brand=Technet&refinement=61&resref=&addEnglish=&rn=&rq=&watermark=&focusOnInit=false&beta=0&iroot=&overrideWatermark=false" type="text/javascript" language="javascript"></script>
+</div></div></div><div class="header-fragment-outer wireframe-header-fragment-outer group-navigation"><div class="header-fragment-inner wireframe-header-fragment-inner group-navigation"><div class="header-fragment group-navigation" id="header-fragment-247403541">
+
+<script src="http://i1.blogs.technet.com/rrcontent/45049359001999e30d9e52ec2aa3527e-14e0c332a84e56b6d37629b4d8cac65a-RequestReducedScript.js" type="text/javascript" ></script>
+    
+<div id="ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ParentGroupListContainer" class="parent-container" style="width: 100%">
+<div class="parent-sub-container">
+	
+            <div class="navigation-list-header"></div>
+            <ul class="navigation-list parent">
+            <li class="navigation-item" style="display: none;">
+                <a href="/">TechNet Blogs</a>
+            </li>
+        
+            <li class="navigation-item entry" style="display: none;">
+				
+						<a class="internal-link view-group" href="/Technet_Blog_Images/"><span></span>Technet Blog Images</a>
+					
+            </li>
+        
+			
+            <li class="navigation-item last">
+				<a id="MoreLink" style="display:none;" onmouseover="Core_GroupNavigation_MoreShowNav(ctl00_header_fragment_247403541, true, this)" onmouseout="Core_GroupNavigation_MoreMouseOutPopup(ctl00_header_fragment_247403541, true, this)" href="#">More ...</a>
+            </li>
+            </ul>
+            <div class="navigation-list-footer"></div>
+        
+</div>
+</div>
+<div id="ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup" style="position:absolute;visibility:hidden;left:-5000px;"></div>
+<div id="ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ParentMore" style="display: none;">
+    <div class="content-list-header"></div>
+    <ul id="ParentMoreListheader-fragment-247403541" class="content-list">
+    </ul>
+    <div class="content-list-footer"></div>
+</div>
+<div id="ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ChildMore" style="display: none;">
+    <div class="content-list-header"></div>
+    <ul id="ChildMoreListheader-fragment-247403541" class="content-list">
+    </ul>
+    <div class="content-list-footer"></div>
+</div>
+	
+<script type="text/javascript">
+    // <![CDATA[
+    
+    var Core_GroupNavigation_AjaxEndpoint = '/Utility/HeaderFragments/Core/GroupNavigationAjax.asmx';
+        
+    var ctl00_header_fragment_247403541={"wrapperId":"header-fragment-247403541","variableName":"ctl00_header_fragment_247403541","parameter":{"currentGroupId":0,"popupMenuId":"ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup","popupParentMoreId":"ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ParentMore","popupChildMoreId":"ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ChildMore","popupWrapperID":"popup-ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup","mouseInPopup":false,"popupPopulated":false,"errorHtml":"<div class=\"message error\">An error occured while attempting to load groups.</div>","loadingHtml":"<div class=\"message loading\">Loading...</div>","groupNavigationContentWrapperHtmlBlock":"<div id=\"popup-ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup\">{GroupNavigationContent}</div>","groupNavigationListHtmlBlock":"<div class=\"multiple-column-list-header\"></div>\n<div class=\"multiple-column-list columns-{ColumnsCount}\">{Columns}</div>\n<div class=\"multiple-column-list-footer\"></div>","columnWrapperHtmlBlock":"<div class=\"multiple-column-item column-{ColumnId}\">{T1GroupsData}</div>","t1GroupHtmlBlock":"\r\n\t\t<div class=\"content-list-header\"></div>\r\n\t\t<div class=\"content-list-name{NameClass}\">{Name}</div>\r\n\t\t<ul class=\"content-list\">\r\n\t\t\t{Groups}\r\n\t\t</ul>\r\n\t\t<div class=\"content-list-footer\"></div>\r\n\t","t2GroupHtmlBlock":"<li class=\"content-item{ItemClass}\">{Item}</li>","viewAllHtmlBlock":"<a href=\"{Url}\" class=\"internal-link view-all\">{Text}</a>","linkHtmlBlock":"<a href=\"{Url}\" class=\"{MoreClass}\">{Name}</a>","searchResultItemHtmlBlock":"<li class=\"content-item\"><a href=\"{Url}\">{Name}</a></li>","viewMoreText":"and {MoreText} more..."}};
+
+	$(document).ready(function() {
+		Core_GroupNavigation_SetMenuItems("#ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ParentGroupListContainer", true, "ParentMoreListheader-fragment-247403541");
+		Core_GroupNavigation_SetMenuItems("#ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ChildGroupListContainer", false, "ChildMoreListheader-fragment-247403541");
+	});
+
+	$(window).resize(function() {
+		Core_GroupNavigation_SetMenuItems("#ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ParentGroupListContainer", true, "ParentMoreListheader-fragment-247403541");
+		Core_GroupNavigation_SetMenuItems("#ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_ChildGroupListContainer", false, "ChildMoreListheader-fragment-247403541");
+	});
+    // ]]>
+</script></div></div></div></div>
+<div class="header-fragments-footer"></div>
+			
+    <div class="content-fragment-page post" id="ctl00_content_ctl00_page"><div class="layout">
+<div class="layout-header"></div>
+<div class="layout-content header-top-content-left-sidebar-right" id="ctl00_content_ctl00_layout">
+<div class="layout-region header" id="ctl00_content_ctl00_header">
+<div class="layout-region-inner header"><div class="content-fragment raw-html no-wrapper" id="fragment-69349">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><div class="next-header">
+<a href="http://blogs.technet.com/b/next/"/><img src="http://blogs.technet.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73-resources-new/2678.next_2D00_logo.png" border="0">
+</a></div>
+
+<div class="ms-logo">
+<a href="http://www.microsoft.com" target="_blank" ><img src="http://blogs.technet.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-87-65-next/8054.microsoft_2D00_logo.png" border="0"></a>
+</div></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment raw-html no-wrapper" id="fragment-69350">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><!-- jquery for home page slider -->
+<div class="slider-sm">
+<!-- include the Tools -->
+<!-- download these locally and host them wherever is preferred (in the CMS, or on a CDN or whatever) -->
+
+<script type="text/javascript">
+
+function parseDate(date) {
+		var date = date.split(" ");
+		var newDate = "";
+		
+		var i = 0;
+		while(i < 3) {	
+			if(i > 0)
+				newDate += " ";
+			
+			newDate += date[i];
+		
+			i++;
+		}
+		
+		return newDate;
+	}
+
+$(document).ready(function() {
+		
+	var rssUrl = "http://blogs.technet.com/b/next/rss.aspx?Tags=Featured"; // set the rss url here
+	var isHome = true;
+		
+	$.ajax({
+        type: "GET",
+		url: rssUrl, 
+		dataType: "xml",
+		success: function(xml) {
+			var i = 0;
+			var post = "<div>";
+		
+			$(xml).find('item').each(function(){
+				
+				var numItems = 3;
+				var postClass = "post";
+
+				
+				if(!isHome)
+				{
+					postClass = "subpost";
+					numItems = 3;
+				}
+				
+				if(i == numItems)
+				{
+					post += "</div>";
+					$(".scrollable-sm .items-sm").append(post);
+					
+					i = 0;
+					post = "<div>";
+				}
+				
+				post += '<div class="' + postClass + '">' + '<p class="date">' + parseDate($(this).find('pubDate').text()) + '</p>' + '<h4><a href="' + $(this).find('link').text() + '">' + $(this).find('title').text() + '</a></h4>' + $(this).find('description').text() + '</div>';
+
+				
+				i++;
+			});
+			
+			post += "</div>";
+			$(".scrollable-sm .items-sm").append(post);
+		}
+	});
+	
+	// initialize scrollable
+	// $(".scrollable-sm").scrollable-sm();
+	// this goes in the document.ready at the bottom, but before the last });
+	
+	// comment out this scrollable stuff --
+	//                         			  |
+	//                                    V
+	
+	// initialize scrollable-sm
+	//$(".scrollable-sm").scrollable-sm();
+
+	// tim's handcrafted scrollable widget of goodness
+	var leftPos = 0;
+	var currentPage = 0;
+		
+	$(".right").click(function() {
+		if(currentPage < ($(".items-sm").children().size() - 1))
+		{
+			leftPos -= 840;
+			$(".items-sm").animate({left:leftPos});
+			currentPage++;
+		}
+	});
+		
+	$(".left").click(function() {
+		if(currentPage > 0)
+		{
+			leftPos += 840;
+			$(".items-sm").animate({left:leftPos});
+			currentPage--;
+		}
+	});
+
+});
+
+</script>
+
+<!-- "previous page" action -->
+<a class="prev browse left"></a>
+
+<div class="scrollable-sm">
+	
+	<div class="items-sm">
+  
+      
+      
+   </div>
+   
+</div>
+
+<!-- "next page" action -->
+<a class="next browse right"></a>
+</div>
+<!-- end jquery slider code for home page -->
+</div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+</div>
+</div>
+<div class="layout-region right-sidebar" id="ctl00_content_ctl00_right-sidebar">
+<div class="layout-region-inner right-sidebar"><div class="content-fragment search-form no-wrapper" id="fragment-69351">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+
+<div class="field-list-header">
+</div>
+<fieldset class="field-list">
+    <ul class="field-list">
+        <li class="field-item search">
+            <div id="search-allblogs-container">
+                <span class="field-item-input">
+                    <input id="SearchTextBox_AllBlogs" name="SearchTextBox_AllBlogs" type="text" class="searchField"
+                        maxlength="64" size="45" autocomplete="off" />
+                    <input id="SearchButton_AllBlogs" name="SearchButton_AllBlogs" type="button" class="search-button" />
+                </span>
+            </div>
+            <div id="search-thisblog-container">
+                <span class="field-item-input">
+                    <input id="SearchTextBox_ThisBlog" name="SearchTextBox_ThisBlog" type="text" class="searchField"
+                        maxlength="64" size="45" autocomplete="off" />
+                    <input id="SearchButton_ThisBlog" name="SearchButton_ThisBlog" type="button" class="search-button" />
+                </span>
+            </div>
+        </li>
+    </ul>
+</fieldset>
+<div class="field-list-footer">
+    <div id="search-switch-container">
+        <span style="display: inline-block">
+            <input type="radio" name="SearchTypeRadio" value="ThisBlog" id="ThisBlog" checked="checked" /><label
+                for="ThisBlog" id="ThisBlogText">Search this blog</label></span>
+        <span style="display: inline-block">
+            <input type="radio" name="SearchTypeRadio" value="AllBlogs" id="AllBlogs" /><label
+                for="AllBlogs" id="AllBlogsText">Search all blogs</label></span>
+    </div>
+</div>
+<script type="text/javascript">
+var elmSearchAll = $('#search-allblogs-container').hide();
+var elmSearchThis = $('#search-thisblog-container');
+
+// try to get the blog id, if we fail, then we aren't on a blog and just use the regular search approach       
+(8073 === -1) && $('#search-switch-container').hide();
+
+$(document).ready(function() {
+    $('#ThisBlog').click(function () {
+        var self = $(this);
+        if (self.is(':checked')) {
+            elmSearchAll.hide();
+            elmSearchThis.show();
+        }
+    });
+    
+    $('#AllBlogs').click(function () {
+        var self = $(this);
+        if (self.is(':checked')) {
+            elmSearchThis.hide();
+            elmSearchAll.show();
+        }
+    });
+});
+</script>
+<script src="http://i4.services.social.microsoft.com/Search/Widgets/SearchBox.jss?boxid=SearchTextBox_AllBlogs&btnid=SearchButton_AllBlogs&brand=Technet&refinement=61&resref=&addEnglish=&rn=&rq=&watermark=&focusOnInit=false&beta=0&iroot=&overrideWatermark=false" type="text/javascript" language="javascript"></script>
+<script src="http://i4.services.social.microsoft.com/Search/Widgets/SearchBox.jss?boxid=SearchTextBox_ThisBlog&btnid=SearchButton_ThisBlog&brand=Technet&refinement=&resref=&addEnglish=&watermark=&focusOnInit=false&beta=0&iroot=&overrideWatermark=false&rn=Next%2bat%2bMicrosoft&rq=site:blogs.technet.com/b/next/" type="text/javascript" language="javascript"></script>
+</div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment raw-html no-wrapper-with-spacing" id="fragment-69352">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><a href="https://twitter.com/MSFTNext" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @MSFTNext</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment raw-html no-wrapper-with-spacing" id="fragment-69353">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><a class="twitter-timeline"  href="https://twitter.com/stevecla/next" data-widget-id="261161829340954624">Tweets from @stevecla/next</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment html-content no-wrapper-with-spacing" id="fragment-82207">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><p><a href="http://apps.microsoft.com/windows/en-US/app/next-at-microsoft/d284efbd-33a5-4427-af92-9bb9fcbbc57e" target="_blank"><img src="/resized-image.ashx/__size/316x0/__key/communityserver-components-userfiles/00-00-17-39-01-Attached+Files/1682.next_2D00_app_2D00_download2.png" alt=" " border="0" /></a></p></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment blog-links no-wrapper-with-spacing with-header" id="fragment-69354">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-header"><div>Options</div></div>
+<div class="content-fragment-content">
+
+		<div class="navigation-list-header"></div>
+		<ul class="navigation-list">
+	<li class="navigation-item"><a class="internal-link view-application" href="/b/next/"><span></span>Blog Home</a></li><li class="navigation-item"><a class="internal-link view-user-profile" href="/b/next/about.aspx"><span></span>About</a></li><li class="navigation-item"><a class="internal-link email-post" href="mailto:?subject=Microsoft Research: How fighting email spam is helping the search for an HIV vaccine&amp;body=http://blogs.technet.com/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx">
+		<span></span>Share this
+	</a></li><li class="navigation-item"><a class="internal-link rss" href="/b/next/rss.aspx"><span></span>RSS for posts</a></li>
+		</ul>
+		<div class="navigation-list-footer"></div>
+	</div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment tag-cloud no-wrapper-with-spacing with-header" id="fragment-69355">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-header"><div>Tags</div></div>
+<div class="content-fragment-content">
+<div class="tag-list-header"></div><ul class="tag-list">
+<li class="tag-item level-6"><a href="http://blogs.technet.com/b/next/archive/tags/Blended+Reality/" rel="tag">Blended Reality</a></li>
+<li class="tag-item level-6"><a href="http://blogs.technet.com/b/next/archive/tags/Cloud/" rel="tag">Cloud</a></li>
+<li class="tag-item level-3"><a href="http://blogs.technet.com/b/next/archive/tags/Data/" rel="tag">Data</a></li>
+<li class="tag-item level-2"><a href="http://blogs.technet.com/b/next/archive/tags/Design/" rel="tag">Design</a></li>
+<li class="tag-item level-5"><a href="http://blogs.technet.com/b/next/archive/tags/Displays/" rel="tag">Displays</a></li>
+<li class="tag-item level-3"><a href="http://blogs.technet.com/b/next/archive/tags/Downloads/" rel="tag">Downloads</a></li>
+<li class="tag-item level-1"><a href="http://blogs.technet.com/b/next/archive/tags/Events/" rel="tag">Events</a></li>
+<li class="tag-item level-1"><a href="http://blogs.technet.com/b/next/archive/tags/Featured/" rel="tag">Featured</a></li>
+<li class="tag-item level-5"><a href="http://blogs.technet.com/b/next/archive/tags/Fun/" rel="tag">Fun</a></li>
+<li class="tag-item level-4"><a href="http://blogs.technet.com/b/next/archive/tags/Future/" rel="tag">Future</a></li>
+<li class="tag-item level-2"><a href="http://blogs.technet.com/b/next/archive/tags/Gaming/" rel="tag">Gaming</a></li>
+<li class="tag-item level-2"><a href="http://blogs.technet.com/b/next/archive/tags/Hardware/" rel="tag">Hardware</a></li>
+<li class="tag-item level-5"><a href="http://blogs.technet.com/b/next/archive/tags/Innovation/" rel="tag">Innovation</a></li>
+<li class="tag-item level-1"><a href="http://blogs.technet.com/b/next/archive/tags/Mobile/" rel="tag">Mobile</a></li>
+<li class="tag-item level-1"><a href="http://blogs.technet.com/b/next/archive/tags/NUI/" rel="tag">NUI</a></li>
+<li class="tag-item level-3"><a href="http://blogs.technet.com/b/next/archive/tags/People/" rel="tag">People</a></li>
+<li class="tag-item level-6"><a href="http://blogs.technet.com/b/next/archive/tags/Photography/" rel="tag">Photography</a></li>
+<li class="tag-item level-4"><a href="http://blogs.technet.com/b/next/archive/tags/Places/" rel="tag">Places</a></li>
+<li class="tag-item level-4"><a href="http://blogs.technet.com/b/next/archive/tags/Search/" rel="tag">Search</a></li>
+<li class="tag-item level-6"><a href="http://blogs.technet.com/b/next/archive/tags/Sensors/" rel="tag">Sensors</a></li>
+<li class="tag-item level-6"><a href="http://blogs.technet.com/b/next/archive/tags/Surface/" rel="tag">Surface</a></li>
+<li class="tag-item level-5"><a href="http://blogs.technet.com/b/next/archive/tags/Things/" rel="tag">Things</a></li>
+<li class="tag-item level-4"><a href="http://blogs.technet.com/b/next/archive/tags/Thoughts/" rel="tag">Thoughts</a></li>
+<li class="tag-item level-2"><a href="http://blogs.technet.com/b/next/archive/tags/Video/" rel="tag">Video</a></li>
+<li class="tag-item level-3"><a href="http://blogs.technet.com/b/next/archive/tags/Windows/" rel="tag">Windows</a></li>
+</ul>
+<div class="tag-list-footer"></div>
+</div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+</div>
+</div>
+<div class="layout-region content" id="ctl00_content_ctl00_content">
+<div class="layout-region-inner content"><div class="content-fragment blog-title full-border" id="fragment-69356">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<h1 class="title">
+	    
+			        
+			    
+	                Microsoft Research: How fighting email spam is helping the search for an HIV vaccine
+			    
+	</h1></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment blog-bread-crumbs no-wrapper-with-spacing" id="fragment-69357">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+
+
+<div class="breadcrumb-list-header"></div>
+<div class="breadcrumb-list">
+	<span class="breadcrumb-item"><a class="internal-link view-home" href="/">TechNet Blogs</a></span>
+  
+	
+
+	
+			<span class="separator"> > </span>
+			<span class="breadcrumb-item">
+		<a href="/b/next/">Next at Microsoft</a>
+			</span>
+		
+	
+	
+			<span class="separator"> > </span>
+			<span class="breadcrumb-item">
+		<a href="/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx">Microsoft Research: How fighting email spam is helping the search for an HIV vaccine</a>
+			</span>
+		
+
+	
+</div>
+<div class="breadcrumb-list-footer"></div>
+</div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment blog-post no-wrapper-with-spacing" id="fragment-69358">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+
+<div class="full-post-header"></div>
+<div class="full-post">
+	<h3 class="post-name">Microsoft Research: How fighting email spam is helping the search for an HIV vaccine</h3>
+	
+    <div class="post-author">
+        <span class="avatar"><a href="/177275/ProfileUrlRedirect.ashx"><img src="http://i1.social.s-msft.com/profile/u/avatar.jpg?displayname=steve+clayton+-+editor&amp;size=large" alt="" style="border-width:0px;max-height:32px;max-width:32px;" /></a></span>
+        
+        <span class="profile-usercard-hover" data-profile-userid="d74ee500-797f-4201-aa99-f0672cb15f6b">
+            <span class="user-name"><a class="internal-link view-user-profile" href="/177275/ProfileUrlRedirect.ashx"><span></span>Steve Clayton - Editor</a></span>
+        
+            
+        </span>
+    </div>
+    <div class="post-date">
+        <span class="value">
+            1 Dec 2011 8:00 AM
+        </span>
+    </div>
+    <div class="post-attributes">
+        <div class="attribute-list-header"></div>
+        <ul class="attribute-list">
+             <li class="attribute-item post-reply-count">
+                <span class="attribute-name">Comments</span>
+                <span class="attribute-value"><a href="#comments" class="internal-link view-replies"><span></span>4</a></span>
+             </li>
+        </ul>
+        <div class="attribute-list-footer"></div>
+    </div>
+    <div class="post-content user-defined-markup"><p><iframe height="315" src="http://www.youtube.com/embed/fuDlwDmPUQ4?hd=1" frameborder="0" width="560" allowfullscreen=""></iframe></p>
+<p>Helping tackle some of the most urgent global challenges is firmly on the agenda for Microsoft Research (MSR) &ndash; applying our experience, our depth and breadth of expertise, our partnerships and the power of software to tackle these challenges. In the case of searching for a vaccine for HIV, all of this comes in to play as we&rsquo;re applying high-powered computation, fighting HIV with data and perhaps surprisingly, using our experience of building email spam filters to find a solution.</p>
+<p>More than 1.8 million people die of HIV-related causes each year &mdash; approximately 5,000 deaths per day. One of the great challenges in fighting HIV is that the virus is constantly mutating to avoid attack by the immune system &mdash; so much so that it can change as much within one infected person as the influenza virus has throughout recorded history. This makes it incredibly difficult to accurately analyze the virus and develop therapies that attack its elusive weak points. Each mutation means another variable to identify and understand. To complicate things even more, individual immune response varies greatly; some people&rsquo;s immune systems are able to robustly combat the virus, allowing them to live for years without treatment, while others become sick more quickly as their bodies fail to resist the invasive attack.</p>
+<p>As with many MSR projects, this work is being undertaken in partnership with several&nbsp;other experts in the field. Testing of a vaccine in Durban, South Africa is being led by Bruce Walker, at the <a href="http://www.ragoninstitute.org/index.html">Ragon Institute</a> at Massachusetts General Hospital, MIT and Harvard, and a professor of medicine at the <a href="http://www.ukzn.ac.za/Homepage.aspx">University of KwaZulu-Natal</a>. They are joined by the <a href="https://fogartyscholars.org/sites/south-africa-caprisa">Centre for the AIDS Programme of Research in South Africa</a> and the <a href="http://www.k-rith.org/">KwaZulu-Natal Research Institute for Tuberculosis and HIV</a>. This testing program generates <span style="text-decoration: underline;">vast</span> quantities of data, the analysis of which presents a huge hurdle.</p>
+<p>That&rsquo;s where <a href="http://www.microsoft.com/presspass/exec/ds/Heckerman/default.mspx">David Heckerman</a> and Jonathan Carlson of Microsoft Research along with a <a href="http://mscompbio.codeplex.com/">Microsoft Computational Biology Tool called PhyloD</a> come in. This software enables efficient data mining which then leads to specific cell analysis that helps detail virus patterns for further analysis. PhyloD contains an algorithm, code and visualization tools to perform complex pattern recognition and analysis &ndash; enabling Heckerman and his colleagues to learn how different individual immune systems respond to the many mutations of the virus.</p>
+<p>&nbsp;</p>
+<p><a href="file:///C:/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73/5483.heckerman1_5F00_lg.jpg"><img border="0" alt="" src="http://blogs.technet.com/resized-image.ashx/__size/550x280/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73/5483.heckerman1_5F00_lg.jpg" /></a></p>
+<p>&nbsp;</p>
+<p>Ordinarily the computing power required to process the number of variables and possible correlations would take years, but combining the PhyloD tool with Microsoft&rsquo;s high-performance computing center, this work can be done in hours. Working with two groups, one led by Christian Brander in Barcelona, and another led by Paul Goepfert at the University of Alabama, Heckerman and his team have discovered roughly six times as many possible attack points on the HIV virus as had been previously identified.</p>
+<blockquote>
+<p></p>
+<p><strong>&ldquo;When we first met Bruce, he had a very tricky problem to analyze,&rdquo; </strong>remembers David Heckerman.<strong> &ldquo;He had this great data set but he didn&rsquo;t know how to analyze it. We happened to have just the right algorithm for it and this large bank of computers at Microsoft that could do this massive amount of computation. He gave us the problem on Friday. On Monday, we had a completed analysis for him.&rdquo;</strong></p>
+<p></p>
+</blockquote>
+<p>What I personally find most fascinating about this work is that it builds on previous work Heckerman undertook to build an email spam filter. The same principles that are being used to fight spam in Hotmail, Outlook and Exchange are being used to tackle HIV. It turns out there are a lot of similarities between the way spammers evolve their approaches to avoid filters and the way that the HIV virus is constantly mutating.</p>
+<p>As much as I love the day to day excitement of our industry with new devices and new software announced on a weekly basis, it&rsquo;s work such as this that I find truly inspiring. As Bruce Walker notes,</p>
+<blockquote>
+<p></p>
+<p><strong>&ldquo;everything we learn here is going to be applicable not just to HIV but to breast cancer and prostate cancer&mdash;and will ultimately change the way medicine is practiced&rdquo;</strong></p>
+<p></p>
+</blockquote>
+<p>I love the pace and excitement of our industry and Microsoft&rsquo;s part in that &ndash; but it&rsquo;s also rewarding to know that I work for a company that is applying our brains and technology to global challenges like these and seeking to truly change the world with the power of software.</p>
+<p>&nbsp;You can read more about this work on the <a href="http://research.microsoft.com/en-us/collaboration/stories/hiv_research_za.aspx">Microsoft Research site</a>&nbsp;and coverage on <a href="http://techme.me/CNk7">Techmeme</a>.</p>
+<p><br /><br /><iframe style="width: 450px; height: 21px; overflow: hidden; border-style: none;" src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fblogs.technet.com%2fb%2fnext%2farchive%2f2011%2f12%2f01%2ftowards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx&amp;layout=standard&amp;show_faces=True&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=30" frameborder="0" allowtransparency="" scrolling="no"></iframe><a class="twitter-share-button" href="http://twitter.com/share" data-url="http://blogs.technet.com/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx" data-text="Towards a Vaccine for HIV: Microsoft Research applies learnings from spam filtering" data-count="vertical" data-via="MSFTNext">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</p>
+<div style="margin: 0px; padding: 0px 0px 0px 0px;" class="wlWriterHeaderFooter">
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>&nbsp;</div><div style="clear:both;"></div></div>
+    <div class="post-attachment-viewer">
+		
+    </div>
+    <div class="post-actions">
+        <div class="navigation-list-header"></div>
+        <ul class="navigation-list">
+            <!---->
+            <li class="navigation-item"><a class="internal-link view-replies" href="/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx#comments"><span></span>4 Comments</a></li>
+            
+            
+        </ul>
+        <div class="navigation-list-footer"></div>
+    </div>
+    <div class="post-tags"><div id="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Container" style="display: none;"><div class="tags-editor"><textarea id="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Tags" style="width: 97%; height: 100%;" rows="2" cols="30"></textarea><div style="white-space: nowrap; padding-top: 4px;"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="left"><input type="button" onclick="Telligent_Modal.Open('\/utility\/TagSelector.aspx?TagEditor=ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_TagEditor',400,300,null);;return false;" value="Select Tags..." /></td><td align="right"><input type="button" onclick="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01.Save(); return false;" value="Save" /><input type="button" onclick="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01.Close(); return false;" value="Cancel" /></td></tr></table></div></div></div><span id="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02"><a href="http://blogs.technet.com/b/next/archive/tags/Featured/" rel="tag">Featured</a>, <a href="http://blogs.technet.com/b/next/archive/tags/Future/" rel="tag">Future</a></span><input type="hidden" name="ctl00$content$ctl00$w_69358$_b597ed$ctl00$ctl15$ctl02" id="ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02_State" value="nochange" /></div>
+</div>
+<div class="full-post-footer"></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment raw-html no-wrapper" id="fragment-69359">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_linkedin_counter"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script src="http://i1.blogs.technet.com/rrcontent/3370a16dee145bd115daabf7d31995e7-df39e1d48ca24a3ac244e9a4d7ca50a6-RequestReducedScript.js" type="text/javascript" ></script><!-- AddThis Button END --></div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div class="content-fragment raw-html no-wrapper" id="fragment-69567">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+<div class="user-defined-markup"><!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=6433923; 
+var sc_invisible=1; 
+var sc_security="0c091797"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter.js'></"+"script>");</script>
+<noscript><div class="statcounter"><a title="hits counter"
+href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/6433923/0/0c091797/1/"
+alt="hits counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+</div></div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+<div id="fragment-69360"></div>
+<div class="content-fragment blog-feedback-list no-wrapper-with-spacing" id="fragment-69361">
+<div class="content-fragment-inner wireframe-content-fragment-inner"><div class="content-fragment-top wireframe-content-fragment-top"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div><div class="content-fragment-content">
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+	$(document).ready(function() {
+	$(document).bind('telligent_blogs_commentposted', function(e, message) { 
+	            window.setTimeout(new Function(ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList.Reload()), 100); 
+	            return true; 
+	    });
+	    ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList.Reload();
+	});
+// ]]>
+</script>
+
+	
+
+<div id="ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList"><input type="hidden" name="ctl00$content$ctl00$w_69361$_b597ed$ctl00$ctl00$DelayedFeedbackList" value="true:" />
+	    
+			    <a name="comments"></a>
+			    <div class="content-list-header"></div>
+			    <div class="content-list-name">
+				    
+						    
+					    
+			    </div>
+			    <ul class="content-list">
+		    
+			    
+					    <li class="content-item">
+						    <div class="full-post-outer wireframe-full-post-outer"><div class="full-post-header"><div class="r wireframe-r"></div></div>
+						    <div class="full-post"><div class="full-post-inner wireframe-full-post-inner">
+				    
+			    <div class="post-author">
+				    
+				    <span class="avatar"><img src="/utility/anonymous.gif" alt="" style="border-width:0px;max-height:32px;max-width:32px;" /></span>
+                    <span class="profile-usercard-hover" data-profile-userid='00000000-0000-0000-0000-000000000000'>
+				        
+				        <span class="user-name">Jonathan</span>
+                    </span>
+			    </div>
+			    <div class="post-date">
+				    <span class="value">1 Dec 2011 10:46 AM</span>
+			    </div>
+			    <div class="post-content user-defined-markup"><p>My understanding of this is that the virus alters its genetic data, just as a spammer alters the contents of the emails it sends. </p>
+<div style="clear:both;"></div></div>
+			    <div class="post-actions">
+				    
+			    </div>
+			    
+						    </div>
+						    </div><div class="full-post-footer"><div class="r wireframe-r"></div></div></div>
+					    </li>
+				    
+		    
+			    
+					    <li class="content-item">
+						    <div class="full-post-outer wireframe-full-post-outer"><div class="full-post-header"><div class="r wireframe-r"></div></div>
+						    <div class="full-post"><div class="full-post-inner wireframe-full-post-inner">
+				    
+			    <div class="post-author">
+				    
+				    <span class="avatar"><img src="/utility/anonymous.gif" alt="" style="border-width:0px;max-height:32px;max-width:32px;" /></span>
+                    <span class="profile-usercard-hover" data-profile-userid='00000000-0000-0000-0000-000000000000'>
+				        
+				        <span class="user-name">nobody</span>
+                    </span>
+			    </div>
+			    <div class="post-date">
+				    <span class="value">1 Dec 2011 12:41 PM</span>
+			    </div>
+			    <div class="post-content user-defined-markup"><p>no the spammers change how they make it past filters and spam blockers not just the contents.</p>
+<div style="clear:both;"></div></div>
+			    <div class="post-actions">
+				    
+			    </div>
+			    
+						    </div>
+						    </div><div class="full-post-footer"><div class="r wireframe-r"></div></div></div>
+					    </li>
+				    
+		    
+			    
+					    <li class="content-item">
+						    <div class="full-post-outer wireframe-full-post-outer"><div class="full-post-header"><div class="r wireframe-r"></div></div>
+						    <div class="full-post"><div class="full-post-inner wireframe-full-post-inner">
+				    
+			    <div class="post-author">
+				    
+				    <span class="avatar"><img src="/utility/anonymous.gif" alt="" style="border-width:0px;max-height:32px;max-width:32px;" /></span>
+                    <span class="profile-usercard-hover" data-profile-userid='00000000-0000-0000-0000-000000000000'>
+				        
+				        <span class="user-name">JwanJwen</span>
+                    </span>
+			    </div>
+			    <div class="post-date">
+				    <span class="value">2 Dec 2011 10:20 PM</span>
+			    </div>
+			    <div class="post-content user-defined-markup"><p>Super computer can alone solve HIV vaccine ?</p>
+<p>Is it an fact now or in experiment stage ?</p>
+<p>Viral behavior is so eccentric that it presents both lifeless and living state.</p>
+<p>Textbooks must be reviewed !</p>
+<div style="clear:both;"></div></div>
+			    <div class="post-actions">
+				    
+			    </div>
+			    
+						    </div>
+						    </div><div class="full-post-footer"><div class="r wireframe-r"></div></div></div>
+					    </li>
+				    
+		    
+			    
+					    <li class="content-item">
+						    <div class="full-post-outer wireframe-full-post-outer"><div class="full-post-header"><div class="r wireframe-r"></div></div>
+						    <div class="full-post"><div class="full-post-inner wireframe-full-post-inner">
+				    
+			    <div class="post-author">
+				    
+				    <span class="avatar"><img src="/utility/anonymous.gif" alt="" style="border-width:0px;max-height:32px;max-width:32px;" /></span>
+                    <span class="profile-usercard-hover" data-profile-userid='00000000-0000-0000-0000-000000000000'>
+				        
+				        <span class="user-name">raza</span>
+                    </span>
+			    </div>
+			    <div class="post-date">
+				    <span class="value">7 Dec 2011 8:20 AM</span>
+			    </div>
+			    <div class="post-content user-defined-markup"><p>Super computer can alone solve HIV vaccine ?</p>
+<div style="clear:both;"></div></div>
+			    <div class="post-actions">
+				    
+			    </div>
+			    
+						    </div>
+						    </div><div class="full-post-footer"><div class="r wireframe-r"></div></div></div>
+					    </li>
+				    
+		    
+			    </ul>
+			    <div class="content-list-footer"></div>
+		     
+	    <div class="pager">
+        <span class="summary">Page 1 of 1 (4 items)</span>
+    </div>
+	</div>
+</div>
+<div class="content-fragment-footer"></div>
+<div class="content-fragment-bottom wireframe-content-fragment-bottom"><div class="r1 wireframe-r1"></div><div class="r2 wireframe-r2"></div><div class="r3 wireframe-r3"></div><div class="r4 wireframe-r4"></div></div></div></div>
+</div>
+</div>
+</div>
+<div class="layout-footer"></div>
+</div></div>
+
+			<div class="footer-fragments-header"></div>
+<div class="footer-fragments"><div class="footer-fragment copyright-info" id="footer-fragment-247403536">
+
+<ul class="footer-fragment-links">
+    <li class="message copyright">© 2013 Microsoft Corporation.</li>
+	<li class="message termsOfService"><a href="http://technet.microsoft.com/cc300389">Terms of Use</a> </li>
+    <li class="message trademarks"><a href="http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx">Trademarks</a> </li>
+    <li class="message privacy"><a href="http://go.microsoft.com/fwlink/?LinkId=248681">Privacy &amp; Cookies</a> </li>
+    
+    <li class="message version">5.6.426.415</li>
+</ul></div><div class="footer-fragment omniture-footer-fragment" id="footer-fragment-247403537">
+
+
+<script src="http://i1.blogs.technet.com/rrcontent/48bcce997e6f5c6e238b82f7e182db0d-0504c0fa449b909ab2cb1f13355532e6-RequestReducedScript.js" type="text/javascript" ></script>        <noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+        src="http://msstotnblogs.112.2O7.net/b/ss/msstotnblogs/1/H.20.2--NS/0"
+        height="1" width="1" border="0" alt="" /></a></noscript>
+
+</div></div>
+<div class="footer-fragments-footer"></div>
+		
+<script type="text/javascript">
+// <![CDATA[
+ctl00_content_ctl00 = new ContentFragmentPageCustomCallback('ctl00_content_ctl00',new Function('mode','parameters','callback','errorCallback','context','ctl00_content_ctl00_ctl00._doCallback(mode+\':\'+parameters,callback,context,errorCallback);'));
+// ]]>
+</script>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+rdf:about="http://blogs.technet.com/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx"
+dc:identifier="http://blogs.technet.com/b/next/archive/2011/12/01/towards-a-vaccine-for-hiv_3A00_-microsoft-research-applies-learnings-from-spam-filtering.aspx"
+dc:title="Microsoft Research: How fighting email spam is helping the search for an HIV vaccine"
+trackback:ping="http://blogs.technet.com/b/next/trackback.ashx?WeblogPostID=3467047" />
+</rdf:RDF>
+-->
+<script type="text/javascript">
+// <![CDATA[
+window.setTimeout(function() {
+        try {
+        var s = document.createElement('script');
+        s.src = '\/analytics.ashx?a=1&g=12&ip=128.82.10.67&postid=3467047&requrl=%2fb%2fnext%2farchive%2f2011%2f12%2f01%2ftowards-a-vaccine-for-hiv_3a00_-microsoft-research-applies-learnings-from-spam-filtering.aspx%3fWT.mc_id%3d12_1_MSR_WorldAIDSDay_TW%26WT.tsrc%3dTwitter&secid=8073&session=f8c4d281-2fc8-4f7f-be25-eeac46752b3f&tid=609117&ts=635161327032388337&ua=Mozilla%2f5.0+(compatible%3b+MSIE+10.0%3b+Windows+NT+6.1%3b+WOW64%3b+Trident%2f6.0)&uid=9cd16b93-0a6a-42e6-9c5e-b509568b05a7&';
+        document.getElementsByTagName("HEAD")[0].appendChild(s);
+} catch (e) { }
+}, 99);
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+Telligent_Modal.Configure('\/utility\/loading.htm',['modal'],['modal-title','modal-title-2','modal-title-3','modal-title-4'],['modal-close'],['modal-content','modal-content-2'],['modal-footer','modal-footer-2','modal-footer-3'],['modal-resize'],['modal-mask'],10000,false,true,true);
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+window.ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup = new Telligent_PopupPanel('ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup','menu group-navigation-content','down',100,null,null,false,'ctl00_header_fragment_247403541__b597ed_ctl00_ctl00_GroupNavigationPopup',new Function('Core_GroupNavigation_MouseOverPopup(ctl00_header_fragment_247403541)'),new Function('Core_GroupNavigation_MouseOutPopup(ctl00_header_fragment_247403541)'));
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+window.ctl00_content_ctl00_ctl00 = new Telligent_CallbackManager('ctl00_content_ctl00_ctl00','ctl00$content$ctl00$ctl00','aspnetForm');
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+$('#ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Container input[value="Save"]').attr('onclick','').removeAttr('onclick').click( function(){ try { var tagText = $('#ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Tags').val(); if (!tagText) return false;var tagList = tagText.replace(';',',').split(','); var isValid = true; for (var i=0,l=tagList.length;i<l;i++) {isValid = /^[ -~]{0,100}$/ig.test(tagList[i]); if (!isValid) { alert(tagList[i] + ' : is not valide'); return false; } }ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01.Save();}catch(ex){ } return false; });
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+window.ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01 = new Telligent_InlineEditor('ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Container',new Function('id', 'p', 'ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor.SetInlineEditorPanelAndParameter(id,p);'),new Function('return ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor.GetContent();'),new Function('c', 'ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor.SetContent(c);'),null,new Function('ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor.Focus();'),new Function('w', 'h', 'ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor.Resize(w,h);'),300,90);
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+var ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_TagEditor = new TagEditor('ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_TagEditor',[['AR','AR'],['Blended Reality','Blended Reality'],['Cloud','Cloud'],['Data','Data'],['Design','Design'],['Details','Details'],['Devices','Devices'],['Displays','Displays'],['Downloads','Downloads'],['Events','Events'],['FashionTech','FashionTech'],['Featured','Featured'],['Fun','Fun'],['Future','Future'],['Gaming','Gaming'],['Hardware','Hardware'],['Innovation','Innovation'],['Mobile','Mobile'],['Next','Next'],['NUI','NUI'],['People','People'],['Photography','Photography'],['Places','Places'],['Search','Search'],['Sensors','Sensors'],['SFTW','SFTW'],['Social','Social'],['Surface','Surface'],['Tech Forum','Tech Forum'],['Things','Things'],['Thoughts','Thoughts'],['Tools','Tools'],['Video','Video'],['Wearable','Wearable'],['Web','Web'],['Windows','Windows'],['Xbox','Xbox']],'ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Tags');
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+var ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor = new InlineTagEditor('ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_InlineTagEditor','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Container','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01_Tags');
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+window.ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02 = new Telligent_InlineEditorPanel('ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl02_State','ctl00_content_ctl00_w_69358__b597ed_ctl00_ctl15_ctl01',false,null,null,null);
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+window.ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList = new DelayedContent('ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList','ctl00_content_ctl00_w_69361__b597ed_ctl00_ctl00_DelayedFeedbackList','ctl00_content_ctl00._customCallback(\'fragment-69361\',\'ctl00$content$ctl00$w_69361$_b597ed$ctl00$ctl00$DelayedFeedbackList\',argument,null,callback,null)',true,true,null);
+// ]]>
+</script></form>
+       
+    <script type="text/javascript">
+        $(window).load(function () {
+            $.getScript('http://widgets.membership.s-msft.com/v1/loader.js?brand=technet&lang=en-US', function () {
+            });
+        });
+    </script>
+    
+	</body>
+</html>

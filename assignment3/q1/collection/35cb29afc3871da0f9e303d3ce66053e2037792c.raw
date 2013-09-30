@@ -1,0 +1,3242 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns:fb="http://ogp.me/ns/fb#">
+	<head>
+	
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
+
+
+
+
+
+
+
+	<meta property="fb:app_id"      content="124304607604927" />
+	<meta property="og:title"       content="Tea party has had it with GOP" />
+	<meta property="og:type"        content="article" />
+	<meta property="og:url"         content="http://www.dispatch.com/content/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html" />
+	<meta property="og:description" content="Feeling betrayed by the Republican Party and its leaders, tea party groups in Ohio appear to be uniting and moving toward either a split from the GOP or action to punish Republican candidates who fail ideological purity tests. A series of events, culminating with the April 26 election of Matt Borges as chairman of the Ohio Republican Party, spurred a flurry of meetings and conference calls among tea party leaders last week to plot a course of action heading into the 2014 statewide election." />
+	<meta property="og:site_name"   content="The Columbus Dispatch" />
+	<meta property="og:image"       content="http://www.dispatch.com/content/graphics/2013/05/06/seth-morgan.jpg" />
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+	
+		<title>Tea party has had it with GOP | The Columbus Dispatch</title>
+	
+
+
+
+
+
+
+	<meta name="google-site-verification"
+		content="bmdK5tP1dBwY5r0F6bXdHUs5Bchcr1bbQFUgeVELkqo" />
+
+
+
+
+
+
+	<meta name="keywords" content="DNF,Metro_State,Public Affairs," />
+
+
+
+
+
+	<meta name="description" content="Feeling betrayed by the Republican Party and its leaders, tea party groups in Ohio appear to be uniting and moving toward either a split from the GOP or action to punish Republican candidates who fail ideological purity tests. A series of events, culminating with the April 26 election of Matt Borges as chairman of the Ohio Republican Party, spurred a flurry of meetings and conference calls among tea party leaders last week to plot a course of action heading into the 2014 statewide election." />
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+				<link rel="stylesheet" type="text/css"
+					href="/content/system/shared/css/print.css" />
+			
+		
+	
+		
+			
+			
+				<link rel="stylesheet" type="text/css"
+					href="/content/digital/css/dispatch.css" />
+			
+		
+	
+		
+			
+			
+				<link rel="stylesheet" type="text/css"
+					href="/content/system/shared/css/jquery.lightbox-0.5.css" />
+			
+		
+	
+		
+			
+			
+				<link rel="stylesheet" type="text/css"
+					href="/content/system/shared/css/comment-default.css" />
+			
+		
+	
+
+
+
+<script>
+	var cms_resourceId = "6970c155-b61d-11e2-b691-353ff38f384c";
+	var cms_comments_disabled = "";
+</script>
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+			
+		
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.js"></script>
+			
+		
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+			
+		
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="http://s.sharethis.com/loader.js"></script>
+			
+		
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="http://static.rpxnow.com/js/lib/rpx.js"></script>
+			
+		
+	
+		
+			
+			
+				<script type="text/javascript"
+					src="/content/digital/javascript/site.js"></script>
+			
+		
+	
+
+
+
+
+
+
+
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="dfp-id" content="8919" />
+<meta name="dfp-adunit" content='Dispatch_ROS/Dispatch_News/Dispatch_Politics' />
+<meta name="dfp-targeting" content='{"cat":["news","pol"]}' />
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		// BEFORE ADS LOAD, SET ADDITIONAL TARGETING
+		$("body").bind("beforeAdsLoad", function (e, options) {
+	
+			// CREATE AND READ OBJECTS
+			var cookieName = "dpc_advertising";
+			var dpcCookie = readCookie(cookieName);
+			var targeting = {};
+			
+			if (dpcCookie != null) {
+			
+				// REMOVE STARTING QUOTE
+				if(startsWith(dpcCookie, "\"")) {
+					dpcCookie = dpcCookie.substring(1, dpcCookie.length);
+				}
+				
+				// REMOVE ENDING QUOTE
+				if(endsWith(dpcCookie, "\"")) {
+					dpcCookie = dpcCookie.substring(0, dpcCookie.length - 1);
+				}
+				
+				// SPLIT COOKIE VALUES INTO ARRAY
+				var dpcCookieValues = dpcCookie.split("|");
+				
+				// SET COOKIE VALUES TO VARIABLES
+				var user_age = dpcCookieValues[0];
+				var user_gender = dpcCookieValues[1];
+				var user_postal_code = dpcCookieValues[2];
+	
+				// ONLY SET TARGETING IF VALUE IS PRESENT
+				if (user_age && user_age.valueOf() !== "undefined") {
+	
+					if (user_age >= 13 && user_age <= 17) {
+						targeting.age = "13-17";
+					} else if (user_age >= 18 && user_age <= 20) {
+						targeting.age = "18-20";
+					} else if (user_age >= 21 && user_age <= 24) {
+						targeting.age = "21-24";
+					} else if (user_age >= 25 && user_age <= 29) {
+						targeting.age = "25-29";
+					} else if (user_age >= 30 && user_age <= 34) {
+						targeting.age = "30-34";
+					} else if (user_age >= 35 && user_age <= 39) {
+						targeting.age = "35-39";
+					} else if (user_age >= 40 && user_age <= 44) {
+						targeting.age = "40-44";
+					} else if (user_age >= 45 && user_age <= 49) {
+						targeting.age = "45-49";
+					} else if (user_age >= 50 && user_age <= 54) {
+						targeting.age = "50-54";
+					} else if (user_age >= 55 && user_age <= 59) {
+						targeting.age = "55-59";
+					} else if (user_age >= 60 && user_age <= 64) {
+						targeting.age = "60-64";
+					} else if (user_age > 13) {
+						targeting.age = "65-older";
+					}
+				}
+	
+				// ONLY SET TARGETING IF VALUE IS PRESENT
+				if (user_gender && user_gender.valueOf() !== "undefined") {
+	
+					if (startsWith(user_gender.toLowerCase(), "f")) {
+						targeting.gender = "f";
+					} else {
+						targeting.gender = "m";
+					}
+				}
+	
+				// ONLY SET TARGETING IF VALUE IS PRESENT
+				if (user_postal_code && user_postal_code.valueOf() !== "undefined") {
+					targeting.zipcode = user_postal_code;
+				}
+			}
+	
+			options.setTargeting = options.setTargeting || {};
+			// MERGE TARGETING OPTIONS WITH ANY PRE-EXISTING OPTIONS
+			$.extend(true, options.setTargeting, targeting);
+		});
+	});
+	
+	function readCookie(name) {
+	
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+	
+		for (var i = 0; i < ca.length; i++) {
+			var c = ca[i];
+			
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1, c.length);
+			}
+	
+			if (c.indexOf(nameEQ) == 0) {
+				return c.substring(nameEQ.length, c.length);
+			}
+		}
+	
+		return null;
+	}
+	
+	function startsWith(stringToSearch, stringToFind) {
+	
+		return stringToSearch.substring(0, stringToFind.length) === stringToFind;
+	}
+	
+	function endsWith(stringToSearch, stringToFind) {
+	
+		return stringToSearch.substring(stringToSearch.length - stringToFind.length, stringToSearch.length) === stringToFind;
+	}
+</script>
+
+<script type="text/javascript" src="/content/system/modules/com.dispatch.doubleclick/javascript/jquery.dfp.min.js"></script>
+
+	<link rel="Shortcut Icon" href="/content/digital/config/favicon.ico" />
+	<!-- <base href="http://www.dispatch.com/" />-->
+	</head>
+	<!-- SINGLE RAIL LAYOUT -->
+	<body class="layout-single-rail category-politics type-story category-news story-news category-topic">
+	
+	<div id="site-container" class="container-12">
+		<div id="header" class="container-12">
+			
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/content/system/shared/javascript/teamplayer-ads.js"></script>
+
+
+
+
+
+
+
+<!-- RETARGETING -->
+
+
+
+	<!-- Start of The Columbus Dispatch, TCD-COL-PX 4 Tag: Please do not remove Activity name of these tags: 
+	Current Test - main URL of the webpage where the tag is expected to be placed: 
+	
+	Main Acquisition Section Placement ONLY
+	 
+	These tags must be placed between the <body>and</body> tags, as close as possible to the opening tag. 
+	Creation Date: 7/24/2012 -->
+	
+	
+	
+	<!-- Doubleclick Code for The Columbus Dispatch TCD-COL-PX 4 Remarketing List -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1017185377;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "ffffff";
+	var google_conversion_label = "vqvyCNeXjgMQ4YiE5QM";
+	var google_conversion_value = 0;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1017185377/?value=0&amp;label=vqvyCNeXjgMQ4YiE5QM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-12">
+  
+
+
+
+
+
+
+<div id="aux-nav" class="close">
+  <div id="aux-nav-primary">
+    <ul id="aux-nav-classifieds">
+      <li id="aux-nav-classifieds-classifieds"><a href="http://www.dispatchclassifieds.com/?cmpid=dspnv">Classifieds</a></li>
+      <li id="aux-nav-classifieds-real-estate"><a href="http://www.columbusrealestate.com/?cmpid=dspnv">Real Estate</a></li>
+      <li id="aux-nav-classifieds-cars"><a href="http://www.columbuscars.com/?cmpid=dspnv">Cars</a></li>
+      <li id="aux-nav-classifieds-jobs" class="first"><a href="http://www.columbusjobs.com/?cmpid=dspnv">Jobs</a></li>
+    </ul>
+    <ul id="aux-nav-utils">
+      <li id="aux-nav-utils-log-in"><a href="/content/system/modules/com.dispatch.registration/pages/login.jsp">Log In</a></li>
+      <li id="aux-nav-utils-register"><a href="/content/system/modules/com.dispatch.registration/pages/signup.jsp">Register</a></li>
+      <li id="aux-nav-utils-account" class="drop-click"><a href="javascript:void(0)">Account</a></li>
+      <li id="aux-nav-utils-subscriber-services" class="drop-click"><a href="javascript:void(0)">Subscriber Services<img src="/content/digital/images/nav-down-arrow.png" /></a></li>
+      <li id="aux-nav-utils-e-edition" class="first drop-click"><a href="javascript:void(0)">E-Edition<img src="/content/digital/images/nav-down-arrow.png" /></a></li>
+    </ul>
+  </div>
+  <div id="aux-nav-secondary">
+    <ul id="aux-nav-secondary-account">
+      <li id="aux-nav-secondary-account-log-out"><a href="/content/system/modules/com.dispatch.registration/pages/logout.jsp">Log Out</a></li>
+      <li id="aux-nav-secondary-account-manage-account"><a href="/content/system/modules/com.dispatch.registration/pages/edit-profile.jsp">Manage Account</a></li>
+      <li id="aux-nav-secondary-account-e-newsletters"><a href="/content/system/modules/com.dispatch.exacttarget/pages/newsletters.jsp">E-Newsletters</a></li>
+      <li id="aux-nav-secondary-account-favorites-comments" class="first"><a href="/content/system/modules/com.dispatch.favorites/pages/favorites-ratings.jsp">Favorites &amp; Comments</a></li>
+    </ul>
+    <ul id="aux-nav-secondary-subscriber-services">
+      <li id="aux-nav-secondary-subscriber-services-live-chat"><a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">Live Chat</a></li>
+      <li id="aux-nav-secondary-subscriber-services-customer-service"><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp">Customer Service</a></li>
+      <li id="aux-nav-secondary-subscriber-services-manage-subscription"><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp">Manage Subscription</a></li>
+      <li id="aux-nav-secondary-subscriber-services-reader-rewards" class="first"><a href="/content/system/shared/links/dispatch-reader-rewards">Reader Rewards</a></li>
+    </ul>
+    <ul id="aux-nav-secondary-e-edition">
+      <li id="aux-nav-secondary-e-edition-log-in"><a href="/content/system/modules/com.dispatch.olive/pages/olive-electronic-edition.jsp">Access E-Edition</a></li>
+      <li id="aux-nav-secondary-e-edition-log-in"><a href="/content/sections/services/electronic-edition.html">About</a></li>
+      <li id="aux-nav-secondary-e-edition-subscribe" class="first"><a href="/content/links/nav/subscription/e-edition">Subscribe</a></li>
+    </ul>
+  </div>
+</div>
+
+<script type="text/javascript">auxMenuHandler.init();</script>
+</div>
+
+<div  class="adunit leaderboard top"  data-dimensions="728x90,970x250,970x90" data-targeting='{"pos":"atf"}'></div>
+
+<div class="container-8">
+
+
+	<div id="logo-slug" class="column-8">
+		<p>Columbus, Ohio &bull; 
+
+
+
+
+
+
+
+
+
+	
+Sep 30, 2013 
+ &bull; <a href="/content/sections/news/weather/index.html">66&deg; Partly Cloudy</a></p>
+	</div>
+
+	<div id="logo">
+		<a href="/content/index.html" title="The Columbus Dispatch" class="logo">The Columbus Dispatch</a>
+	</div><!-- end logo -->
+	
+	
+	
+		<div class="clear"></div>
+		
+		
+		
+</div> 
+
+<div class="container-4">
+		
+	<div class="column-4">	
+	
+		<div id="search-box" class="group">
+			<form method="get" name="searchform" action="/content/search/index.html">
+				<input type="hidden" name="site" value="dispatch" />
+				<input type="hidden" name="is" value="dispatch" />
+				<input type="hidden" name="cp" value="1" />					
+				<input type="hidden" name="rpp" value="20" />
+				<div id="searchbar" class="input-field">
+					<input id="search-text" name="keyword" type="text" value="Search" onblur="searchDefaultText('blur');" onclick="searchDefaultText('focus');" onfocus="this.select()" size="39"/>
+					<input id="search-submit" name="go" class="submit" value="Search" src="/content/digital/images/search_button.gif" type="image"/>
+				</div>
+				
+				<div  class="adunit search-sponsor"  data-dimensions="160x30" data-targeting='{"pos":"atf"}'></div>
+
+				<div class="radio-buttons">
+					<input type="radio" name="search-type" value="site-search" checked="checked" onclick="javascript:document.searchform.action='/content/search/index.html';" /><label for="site-search">Dispatch.com</label><br />
+					<input type="radio" name="search-type" value="web-search" onclick="javascript:document.searchform.action='/content/search/yahoo-search.jsp';"/><label for="web-search">Web by <img src="/content/digital/images/yahoo.gif" alt="Yahoo logo"/></label>
+				</div>
+			</form>
+			
+		
+		</div><!--End Search-->
+	
+	</div> 
+	
+</div> 
+
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="nav-primary">         
+	<ul class="nav-primary">  
+		<li class="nav-head news editorial-nav">
+			<a href="/content/sections/news/index.html?cmpid=tplnnv"><span>News</span></a>
+			<div class="submenu newsdrop hide">
+				<div class="droptop">
+					<h2 class="drophead"><i class="icon-double-angle-right"></i><a href="/content/sections/news/index.html?cmpid=tplnnv">Today&rsquo;s top News stories</a></h2>
+					<a href="/content/sections/services/rss-feeds.html">
+						<span class="icon-stack rss-icon">
+							<i class="icon-sign-blank icon-stack-base rss-color"></i>
+							<i class="icon-rss icon-light"></i>
+						</span>
+					</a>
+					<div class="clear rule"></div>
+				</div>
+				<div class="drop-column one">
+					<h3>NEWS TOPICS</h3>
+					<ul>
+						<li><a href="/content/sections/news/business/index.html?cmpid=tplnnv">Business</a></li>
+						<li><a href="/content/sections/news/crime/index.html?cmpid=tplnnv">Crime &amp; Safety</a></li>
+						<li><a href="/content/sections/news/education/index.html?cmpid=tplnnv">Education</a></li>
+						<li><a href="/content/sections/news/science-environment/environment/index.html?cmpid=tplnnv">Environment</a></li>
+						<li><a href="http://dispatchpolitics.com/?cmpid=tplnnv">Government &amp; Politics<p class="offsite-link">at DispatchPolitics.com</p></a></li>
+						<li><a href="http://www.mypublicnotices.com/dispatch/PublicNotice.asp?cmpid=tplnnv">Legal Notices</a></li>
+						<li><a href="/content/sections/news/local/index.html?cmpid=tplnnv">Local</a></li>
+						<li><a href="/content/sections/news/lottery.html?cmpid=tplnnv">Lottery</a></li>
+						
+					</ul>
+				</div>       
+				<div class="drop-column two">
+					<ul>
+						<li><a href="/content/sections/news/health-medicine/index.html?cmpid=tplnnv">Medicine &amp; Health</a></li>
+						<li><a href="http://www.legacy.com/obituaries/dispatch/?cmpid=tplnnv">Obituaries</a></li>
+						<li><a href="/content/sections/news/offbeat/index.html?cmpid=tplnnv">Offbeat</a></li>
+						<li><a href="/content/sections/news/religion/index.html?cmpid=tplnnv">Religion</a></li>
+						<li><a href="/content/sections/news/science-environment/science/index.html?cmpid=tplnnv">Science</a></li>
+						<li><a href="/content/pages/special-reports.html?cmpid=tplnnv">Special Reports</a></li>
+						<li><a href="/content/sections/news/us-world/index.html?cmpid=tplnnv">US &amp; World</a></li>
+						<li><a href="/content/sections/news/weather/index.html?cmpid=tplnnv">Weather</a></li>
+						<li><a href="/content/pages/corrections.html?cmpid=tplnnv">Corrections</a></li>						
+					</ul>
+				</div>
+				<div class="drop-column three">
+				</div>
+				<div class="drop-column four">
+					<h3>NEWS BLOGS</h3>
+					<p class="nav-select-head">BROWSE BY TOPIC</p>
+					<div class="nav-select">
+						<div class="dropbutton"><p>Select</p></div>
+						<div class="menu hide">
+						<ul>
+							<li><a href="/content/blogs/the-bottom-line/?cmpid=tplnnv">Business</a></li>
+							<li><a href="/content/blogs/the-city/?cmpid=tplnnv">Columbus</a></li>
+							<li><a href="/content/blogs/the-eteam/?cmpid=tplnnv">Education</a></li>
+							<li><a href="/content/blogs/inside-story/?cmpid=tplnnv">From the editor</a></li>
+							<li><a href="/content/blogs/a-look-back/?cmpid=tplnnv">Local history</a></li>
+							<li><a href="/content/blogs/medicine-health/?cmpid=tplnnv">Medicine and health</a></li>
+							<li><a href="/content/blogs/the-criminal-record/?cmpid=tplnnv">Crime</a></li>
+							<li><a href="/content/blogs/neighbor-news/?cmpid=tplnnv">Neighborhoods</a></li>
+							<li><a href="/content/blogs/crawlumbus/?cmpid=tplnnv">Traffic</a></li>
+							<li><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/?cmpid=tplnnv">Politics</a></li>
+							<li><a href="/content/blogs/your-right-to-know/?cmpid=tplnnv">Public records</a></li>
+							<li><a href="/content/blogs/the-compass/?cmpid=tplnnv">Religion</a></li>
+							<li><a href="/content/blogs/science-environment/?cmpid=tplnnv">Science and environment</a></li>
+						</ul>
+						</div>
+					</div>
+					<ul>
+						<li><a href="/content/blogs/news/index.jsp?cmpid=tplnnv">News Blog Directory</a></li>
+					</ul>
+					<h3>COMMENTARY</h3>
+					<ul>
+						<li><a href="/content/sections/news/columns/ben-marrison.html?cmpid=tplnnv"><em>Dispatch</em> Editor Benjamin Marrison</a></li>
+						<li><a href="/content/sections/news/columns/john-switzer.html?cmpid=tplnnv">John Switzer</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li class="nav-head sports editorial-nav ">
+			<a href="/content/sections/sports/index.html?cmpid=tplnnv"><span>Sports</span></a>
+			<div class="submenu sportsdrop hide">
+				<div class="droptop">
+					<h2 class="drophead"><i class="icon-double-angle-right"></i><a href="/content/sections/sports/index.html?cmpid=tplnnv">Today&rsquo;s top Sports stories</a></h2>
+					<a href="/content/sections/services/rss-feeds.html">
+						<span class="icon-stack rss-icon">
+							<i class="icon-sign-blank icon-stack-base rss-color"></i>
+							<i class="icon-rss icon-light"></i>
+						</span>
+					</a>
+					<div class="clear rule"></div>
+				</div>
+				<div class="drop-column one">
+					<h3>COLLEGE SPORTS</h3>
+					<ul>
+						<li><a href="http://buckeyextra.dispatch.com/content/?cmpid=tplnnv">Ohio State Sports <p class="offsite-link">at BuckeyeXtra.com</p></a></li>
+						<li><a href="/content/sections/sports/colleges/index.html?cmpid=tplnnv">Other Colleges</a></li>
+					</ul>
+					<h3>HIGH SCHOOLS</h3>
+						<ul>
+							<li><a href="/content/sections/sports/high-school/index.html?cmpid=tplnnv">High School Sports</a></li>
+						</ul>	
+					<h3>OTHER SPORTS</h3>
+					<ul>
+						<li><a href="/content/sections/sports/outdoors/index.html?cmpid=tplnnv">Outdoors</a></li>
+					</ul>	
+				</div>
+				<div class="drop-column two">		
+					<h3>PRO SPORTS</h3>
+						<ul>
+							<li><a href="http://bluejacketsxtra.dispatch.com/content/?cmpid=tplnnv">NHL: Blue Jackets<p class="offsite-link">at BlueJacketsXtra.com</p></a></li>
+
+						</ul>
+				</div>
+				<div class="drop-column three">
+					<ul>
+						<li><a href="/content/sections/sports/crew/index.html?cmpid=tplnnv">MLS: Crew</a></li>
+							<li><a href="/content/sections/sports/clippers/index.html?cmpid=tplnnv">MiLB: Clippers</a></li>
+					    <li><a href="/content/sections/sports/reds-indians/index.html?cmpid=tplnnv">MLB: Reds &amp; Indians</a></li>
+						<li><a href="/content/sections/sports/cavs/index.html?cmpid=tplnnv">NBA: Cavaliers</a></li>
+						<li><a href="/content/sections/sports/browns-bengals/index.html?cmpid=tplnnv">NFL: Bengals &amp; Browns</a></li>
+						<li><a href="/content/sections/sports/golf/index.html?cmpid=tplnnv">Golf</a></li>
+						<li><a href="/content/sections/sports/auto/index.html?cmpid=tplnnv">Auto Racing</a></li>
+					</ul>
+					
+				</div>
+				<div class="drop-column four">
+					<h3>SPORTS BLOGS</h3>
+					<p class="nav-select-head">BROWSE BY SPORT</p>
+					<div class="nav-select">
+						<div class="dropbutton"><p>Select</p></div>
+						<div class="menu hide">
+						<ul>
+							<div class="column-2">
+								<li><a href="http://bluejacketsxtra.dispatch.com/content/blogs/puck-rakers/?cmpid=tplnnv">Blue Jackets</a></li>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/blogging-the-buckeyes?cmpid=tplnnv">Buckeye football</a></li>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/hoops-and-scoops?cmpid=tplnnv">Buckeye men&rsquo;s basketball</a></li>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/osu-womens-basketball?cmpid=tplnnv">Buckeye women&rsquo;s basketball</a></li>
+								<li><a href="/content/blogs/minor-details?cmpid=tplnnv">Clippers</a></li>
+								<li><a href="/content/blogs/covering-the-crew?cmpid=tplnnv">Crew</a></li>
+								<li><a href="/content/blogs/swing-thoughts?cmpid=tplnnv">Golf</a></li>
+								<li><a href="/content/blogs/high-school-sports?cmpid=tplnnv">High school sports</a></li>
+							</div>
+							<div class="column-2">	
+								<h4>Columnists</h4>
+								<li><a href="/content/blogs/arace-on-hockey?cmpid=tplnnv">Michael Arace</a></li>
+								<li><a href="/content/blogs/the-daily-hunter?cmpid=tplnnv">Bob Hunter</a></li>
+								<li><a href="/content/blogs/when-140-isnt-enough?cmpid=tplnnv">Rob Oller</a></li>
+								
+								<h4>Buckeye Fans</h4>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/notes-from-up-north/index.html?cmpid=tplnnv">Keith Godfrey</a></li>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/flying-high-with-the-buckeyes/index.html?cmpid=tplnnv">Heath Schneider</a></li>
+								<li><a href="http://buckeyextra.dispatch.com/content/blogs/sports-and-the-city/index.html?cmpid=tplnnv">Tracy Wholf</a></li>
+							</div>	
+						</ul>
+						</div>
+					</div>
+					<ul>
+						<li><a href="/content/blogs/sports/index.jsp?cmpid=tplnnv">Sports Blog Directory</a></li>
+					</ul>
+					<h3><a href="/content/sections/sports/columns/commentary.html?cmpid=tplnnv">COMMENTARY</a></h3>
+					<ul>
+						<li><a href="/content/sections/sports/columns/arace.html?cmpid=tplnnv">Michael Arace</a></li>
+						<li><a href="/content/sections/sports/columns/hunter.html?cmpid=tplnnv">Bob Hunter</a></li>
+						<li><a href="/content/sections/sports/columns/oller.html?cmpid=tplnnv">Rob Oller</a></li>
+					</ul>
+				</div>  
+			</div>
+		</li>
+		<li class="nav-head opinion editorial-nav">
+			<a href="/content/sections/opinion/index.html?cmpid=tplnnv"><span>Opinion</span></a>
+			<div class="submenu opiniondrop hide">
+				<div class="droptop">
+					<h2 class="drophead"><i class="icon-double-angle-right"></i><a href="/content/sections/opinion/index.html?cmpid=tplnnv">Today&rsquo;s top Opinion stories</a></h2>
+					<a href="/content/sections/services/rss-feeds.html">
+						<span class="icon-stack rss-icon">
+							<i class="icon-sign-blank icon-stack-base rss-color"></i>
+							<i class="icon-rss icon-light"></i>
+						</span>
+					</a>
+					<div class="clear rule"></div>
+				</div>
+				<div class="drop-column one">
+					<h3>EDITORIALS</h3>
+					<ul>
+						<li><a href="/content/sections/opinion/editorials/index.html?cmpid=tplnnv">Today&rsquo;s staff editorials</a></li>
+						<li><a href="/content/sections/opinion/archive/index.html?cmpid=tplnnv">7-day archive</a></li>
+					</ul>
+					<h3>EDITORIAL CARTOONS</h3>
+					<ul>
+						<li><a href="/content/sections/opinion/beeler-cartoons/index.html?cmpid=tplnnv">Recent Nate Beeler Cartoons</a></li>
+						<li><a href="/content/sections/opinion/beeler-cartoons/index.html?search=true#search?cmpid=tplnnv">Searchable <br /> Archive</a></li>
+						
+					</ul>
+				</div>
+				<div class="drop-column two">
+				</div>
+				<div class="drop-column three">
+					<h3>LETTERS TO THE EDITOR</h3>
+					<ul>
+						<li><a href="/content/sections/opinion/letters-to-editor/index.html?cmpid=tplnnv">Today&rsquo;s letters and web-only letters</a></li>
+						<li><a href="/content/sections/opinion/archive/30-day-archive.html?cmpid=tplnnv">30-day archive</a></li>
+						<li><a href="/content/pages/opinion/send-letter-to-editor.jsp?cmpid=tplnnv">Submit your letter</a></li>
+					</ul>
+					<h3>OP-ED COLUMNS</h3>
+					<ul>
+						<li><a href="/content/sections/opinion/op-ed-columns/index.html?cmpid=tplnnv">Today&rsquo;s columns</a></li>
+						<li><a href="/content/sections/opinion/archive/30-day-oped-archive.html?cmpid=tplnnv">30-day archive</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>       	
+		<li class="nav-head life editorial-nav">
+			<a href="/content/sections/life-and-entertainment/index.html?cmpid=tplnnv"><span>Life &amp; Entertainment</span></a>
+			<div class="submenu lifedrop hide">
+				<div class="droptop">
+					<h2 class="drophead"><i class="icon-double-angle-right"></i><a href="/content/sections/life-and-entertainment/index.html?cmpid=tplnnv">Today&rsquo;s top Life &amp; Entertainment stories</a></h2>
+					<a href="/content/sections/services/rss-feeds.html">
+						<span class="icon-stack rss-icon">
+							<i class="icon-sign-blank icon-stack-base rss-color"></i>
+							<i class="icon-rss icon-light"></i>
+						</span>
+					</a>
+					<div class="clear rule"></div>
+				</div>
+				<div class="drop-column one">
+					<h3>LIFE TOPICS</h3>
+					<ul>
+						<li><a href="/content/sections/life-and-entertainment/contests.html?cmpid=tplnnv">Contests</a></li>
+						<li><a href="/content/sections/life-and-entertainment/fashion-and-style/index.html?cmpid=tplnnv">Fashion &amp; Style</a></li>
+						<li><a href="/content/sections/life-and-entertainment/food/index.html?cmpid=tplnnv">Food</a></li>
+						<li><a href="/content/sections/life-and-entertainment/home-and-garden/index.html?cmpid=tplnnv">Home &amp; Garden</a></li>
+						<li><a href="/content/sections/life-and-entertainment/horoscopes.html?cmpid=tplnnv">Horoscopes</a></li>
+						<li><a href="http://www.dispatchclassifieds.com/pets?cmpid=tplnnv">Pets <p class="offsite-link">DispatchClassifieds.com</p></a></li>
+						<li><a href="/content/sections/life-and-entertainment/puzzles.html?cmpid=tplnnv">Puzzles</a></li>
+						<li><a href="/content/sections/life-and-entertainment/travel/index.html?cmpid=tplnnv">Travel</a></li>
+						<li><a href="/content/sections/life-and-entertainment/usa-weekend.html?cmpid=tplnnv">USA Weekend</a></li>
+					</ul>
+				</div>
+				<div class="drop-column two">
+					<h3>ENTERTAINMENT</h3>
+					<ul>
+						<li><a href="/content/sections/life-and-entertainment/books/index.html?cmpid=tplnnv">Books</a></li>
+						<li><a href="/content/sections/life-and-entertainment/celebrities/index.html?cmpid=tplnnv">Celebrities</a></li>
+						<li><a href="/content/sections/life-and-entertainment/dining/index.html?cmpid=tplnnv">Dining</a></li>
+						<li><a href="/content/sections/life-and-entertainment/events/index.html?cmpid=tplnnv">Events</a></li>
+						<li><a href="/content/sections/life-and-entertainment/movies/index.html?cmpid=tplnnv">Movies</a></li>
+						<li><a href="/content/sections/life-and-entertainment/music/index.html?cmpid=tplnnv">Music</a></li>
+						<li><a href="/content/sections/life-and-entertainment/television/index.html?cmpid=tplnnv">Television</a></li>
+						<li><a href="/content/sections/life-and-entertainment/theater/index.html?cmpid=tplnnv">Theater</a></li>
+						<li><a href="/content/sections/life-and-entertainment/video-games/index.html?cmpid=tplnnv">Video Games</a></li>
+					</ul>
+				</div>
+				<div class="drop-column three">
+					<h3>UPCOMING EVENTS</h3>
+					<p class="offsite-link">from ColumbusAlive.com</p>
+					<div class="nav-events-feed">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<?xml version="1.0" encoding="UTF-8"?><ul class="navevents"><li><dl><dd><h3><a href="http://events.columbusalive.com/localevents/event//53078-Ewert-and-the-Two-Dragons">Ewert and the Two Dragons</a></h3><p>The indie-rockers from Estonia, named a top new act in Europe, bring their first U.S. tour to Colum...
+				</p></dd></dl></li></ul>
+
+
+					</div>
+				</div>
+				<div class="drop-column four">
+					<h3>LIFE BLOGS</h3>
+					<p class="nav-select-head">BROWSE BY TOPIC</p>
+					<div class="nav-select">
+						<div class="dropbutton"><p>Select</p></div>
+						<div class="menu hide">
+						<ul>
+							<li><a href="/content/blogs/best-bike-blog?cmpid=tplnnv">Cycling</a></li>
+							<li><a href="/content/blogs/in-the-kitchen?cmpid=tplnnv">Food</a></li>
+							<li><a href="/content/blogs/now?cmpid=tplnnv">For kids</a></li>
+							<li><a href="/content/blogs/from-the-gym?cmpid=tplnnv">Fitness</a></li>
+							<li><a href="/content/blogs/regular-joe?cmpid=tplnnv">Joe Blundo</a></li>
+							<li><a href="/content/blogs/the-movie-blog/?cmpid=tplnnv">Pop culture</a></li>
+							<li><a href="/content/blogs/old-house-handyman?cmpid=tplnnv">Old houses</a></li>
+							<li><a href="/content/blogs/all-creatures?cmpid=tplnnv">Pets</a></li>
+							<li><a href="/content/blogs/on-the-house/?cmpid=tplnnv">Real estate</a></li>
+							<li><a href="/content/blogs/theatre-talk/?cmpid=tplnnv">Theater</a></li>
+						</ul>
+						</div>
+					</div>
+					<ul>
+						<li><a href="/content/blogs/entertainment/index.jsp?cmpid=tplnnv">Life &amp; Entertainment Blog Directory</a></li>
+					</ul>
+					<h3>COMMENTARY</h3>
+					<ul>
+						<li><a href="/content/sections/life-and-entertainment/columns/joe-blundo.html?cmpid=tplnnv">Joe Blundo</a></li>
+						<li><a href="/content/sections/life-and-entertainment/columns/advice.html?cmpid=tplnnv">Advice Columns</a></li>
+						<li><a href="/content/sections/life-and-entertainment/columns/first-person.html?cmpid=tplnnv">Reader Columns</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>       	
+		<li class="nav-head services">
+			<a href="/content/sections/services/index.html?cmpid=tplnnv"><span>Services</span></a>
+			<div class="submenu servicesdrop hide">
+				<div class="droptop">
+				</div>
+				<div class="drop-column one">
+					<h3>CUSTOMER SERVICE</h3>
+					<ul>
+						<li><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp?cmpid=tplnnv">Manage Subscription</a></li>
+						<li><a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">Live chat</a></li>
+						<li>Call Service: 1-877-734-7728</li>
+						<li>Call Billing: 1-866-790-7748</li>
+					</ul>
+					<h3>subscription</h3>
+					<ul>
+						<li><a href="/content/links/subscriber-services/subscribe-for-home-delivery?cmpid=tplnnv">Home delivery</a></li>
+						<li><a href="/content/sections/services/electronic-edition.html?cmpid=tplnnv">E-Edition</a></li>
+					</ul>
+				</div>
+				<div class="drop-column two">
+					<h3>SUBMISSIONS</h3>
+					<ul>
+						<li><a href="/content/sections/services/index.html#obituaries?cmpid=tplnnv">Obituaries</a></li>
+						<li><a href="/content/sections/services/index.html#in-memoriam?cmpid=tplnnv">In Memoriams</a></li>
+						<li><a href="/content/sections/services/index.html#celebrations?cmpid=tplnnv">Celebration Announcements</a><br />(ceremonies, engagements, etc.)</li>
+						<li><a href="/content/sections/services/index.html#letters-to-editor?cmpid=tplnnv">Letters to the Editor</a></li>
+						<li><a href="/content/sections/services/index.html#submit-events?cmpid=tplnnv">Entertainment Events</a> at ColumbusAlive.com</li>
+					</ul>
+				</div>
+				<div class="drop-column three">
+					<h3>READER REWARDS</h3>
+					  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                
+                
+		
+			
+			
+			
+			
+				
+					
+				
+								
+			
+			
+			
+			
+			
+			<div style="padding-bottom: 10px;">
+	 			<a class="left" href="/content/links/reader-rewards/RR_Contest_List">
+                        		<img src="/content/images/dd-reader-rewards-logo.jpg">
+                        	</a>
+			
+				<a id="nav-rewards-title" href="/content/links/reader-rewards/RR_Contest_List">View current rewards available!</a>
+			</div>
+			
+		
+                
+                
+
+					<p class="nav-select-head">BROWSE OTHER CONTESTS</p>
+					<div class="nav-select">
+						<div class="dropbutton"><p>Select</p></div>
+						<div class="menu hide">
+						<div class="bullet-disc">
+	<ul>
+
+	<li>
+				<a href="/content/links/reader-rewards/Special_Discounts-RR">Browse special discount offers exclusive to Dispatch readers</a>
+				
+			</li>
+			<li>
+				<a href="/content/links/reader-rewards/Get_Points">Find out how to earn points!</a>
+				
+			</li>
+			</ul>
+	</div>
+					</div>
+					</div>
+				</div>
+				<div class="drop-column four">
+					<h3>ADVERTISING</h3>
+					<ul>
+						<li><a href="/content/links/services/advertising/place-an-ad?cmpid=tplnnv">Place an Ad</a></li>
+						<li><a href="/content/links/nav/media-kit?cmpid=tplnnv">Media Kit</a></li>
+					</ul>
+					<h3>OTHER SERVICES</h3>
+					<ul>
+						<li>Local business listings at <a href="http://columbusbizlist.dispatch.com/">Columbus BizList</a></li>
+						<li><a href="http://www.facebook.com/ColumbusSavvyShopper">Columbus Savvy Shopper</a></li>
+						<li><a href="http://dispatchevents.com/">Dispatch Events</a></li>
+						<li><a href="http://www.dispatchnie.com/">Newspapers in Education</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li class="nav-head contact">
+			<a href="/content/sections/contacts/index.html?cmpid=tplnnv"><span>Contacts</span></a>
+			<div class="submenu contactdrop hide">
+				<div class="droptop">
+					<h2 class="drophead"><i class="icon-double-angle-right"></i>Need help? Visit our <a href="/content/sections/services/faq.html?cmpid=tplnnv" class="callout-link">FAQ page</a> or use our <a href="/content/sections/contacts/index.html" class="callout-link">Contact Form</a>.</h2>
+					<div class="clear rule"></div>
+				</div> 
+				<div class="drop-column one">
+					<h3>CUSTOMER SERVICE</h3>
+					<ul>
+					    <li>Need help? Try our <a onclick="javascript:window.open('http://cricket.bamboocricket.com/ersweb/chatClientLogin?email=dispatch_chat@inbound2.bamboocricket.com','','height=520, width=500,toolbar=no,top=100,left=100, menubar=no, scrollbars=no, resizable=no, location=no, status=no');" href="javascript:void(0)">live chat</a>
+					    or <a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp">online customer service</a>.</li>
+					    <li>For service, call 1-877-734-7728.</li>
+					    <li>For billing, call 1-866-790-7748.</li>
+					    <li>For other inquiries, use our <a href="/content/sections/contacts/index.html?cmpid=tplnnv">Contact Form</a> or <a href="/content/sections/contacts/staff-directory/index.html">Staff Directory</a>.</li>
+					</ul>
+					<h3>SUBSCRIPTIONS</h3>
+					<ul>
+						<li>Subscribe to <em>The Dispatch</em> <a href="/content/links/subscriber-services/subscribe-for-home-delivery?cmpid=tplnnv">online</a> or call 1-877-734-7728.</li>
+					</ul>
+				</div>     
+				<div class="drop-column two">
+					<h3>ADVERTISING</h3>
+					
+					<ul>
+					 <li>To place help wanted ads, call 614-888-8888 or visit <a href="http://www.columbusjobs.com">ColumbusJobs.com</a></li>
+					 <li>For private seller and classified advertising, call 614-888-8888 or visit <a href="http://www.dispatchclassifieds.com">DispatchClassifieds.com</a>.</li>
+					 <li>For retail advertising, call 614-461-5500 or <a href="mailto:solutions@dispatch.com">email us</a>.</li>
+					 <li>For national advertising, call 614-461-5199.</li>
+					 <li>For online advertising, call 614-461-5143 or <a href="mailto:solutions@dispatch.com">email us</a>.</li>
+					</ul>
+		
+					
+					
+				</div> 
+				<div class="drop-column three">
+					<h3>NEWSROOM</h3>
+					<ul>
+						<li>To send news tips, use our <a href="/content/pages/newstip.html?cmpid=tplnnv">News Tip Form</a> or call 614-461-5200.</li>
+						<li>Visit our <a href="/content/sections/contacts/staff-directory/index.html?cmpid=tplnnv">Staff Directory</a>.</li>
+						<li>Use our <a href="/content/pages/contact-newsroom.html?cmpid=tplnnv">Contact Form</a>, or call 614-461-5200.</li>						
+					</ul>
+					<h3>DISPATCH CAREERS</h3>
+					<ul>
+						<li>Apply online at <a href="http://www.dispatch.com/careers?cmpid=tplnnv">dispatch.com/careers</a> or call 614-461-5033.</li>
+						<li>Fax 614-461-5565.</li>						
+					</ul>
+				</div> 
+			</div> 
+		</li>  
+		<li class="nav-head subscription">
+			<a href="http://ezpay.dispatch.com/content/catalogs/index.html"><span>Subscribe</span></a>
+			<div class="submenu subscriptiondrop hide">
+				<div class="drop-column one">					
+					<h3>TOTAL ACCESS</h3>
+					<img src="/content/digital/images/nav-subscription-combo.jpg" alt="Combo Package" />
+					<p>Enjoy the convenience of home delivery <em>plus</em> Digital D. Sign up for our BEST VALUE today!</p>
+					<a href="/content/links/nav/subscription/combo?cmpid=tplnnv" href="" class="nav-subscription-button"></a>
+				</div> 
+				<div class="drop-column two">
+					<img src="/content/digital/images/nav-subscription-e-edition.jpg" alt="E-Edition" />
+					<h3>Digital D</h3>
+					<p>Online? On the go? Enjoy unlimited premium dispatch.com content plus the E-Edition for computer and iPad.</p>
+					<a href="/content/links/nav/subscription/e-edition?cmpid=tplnnv" href="" class="nav-subscription-button"></a>
+				</div> 
+				<div class="drop-column three">
+					<img src="/content/digital/images/nav-subscription-home.jpg" alt="Home Delivery" />
+					<h3>HOME DELIVERY</h3>
+					<p>Award-winning journalism conveniently delivered to your home. Choose the custom package best suited for you!</p>
+					<a href="/content/links/nav/subscription/home?cmpid=tplnnv" class="nav-subscription-button"></a>
+				</div> 
+			</div> 
+		</li>        	        						
+	</ul>
+	<ul id="nav-adjacent-aux">
+	  <li><a href="/content/links/external/obituaries">Obituaries</a></li>
+	  <li><a href="/content/sections/news/databases.html?cmpid=tplnnv">Data</a></li>
+	  <li><a href="/content/pages/photos.html?cmpid=tplnnv">Photos</a></li>
+	  <li><a href="/content/pages/video.html?cmpid=tplnnv">Video</a></li>
+	  <li><a href="/content/pages/podcasts.html?cmpid=tplnnv">Podcasts</a></li>
+	  <li><a href="/content/pages/todays-paper/todayspaper-1.html?cmpid=tplnnv">Today's Paper</a></li>
+	</ul>
+</div> 
+
+<script type="text/javascript">
+initializeDisaptchNav();
+
+// Updates for reader rewards links
+var readerRewardsLinks = $(".submenu.servicesdrop .drop-column.three a[href*='contests/reader-rewards'], .reader-rewards-list a[href*='contests/reader-rewards']");
+	
+for( var i = 0; i < readerRewardsLinks.length; i++ ) {
+  var currentHref = readerRewardsLinks[i].href;
+  readerRewardsLinks[i].href = currentHref + '?sendback=' + currentHref;
+};
+	
+</script>
+
+<div class="clear"></div>
+
+<div  class="adunit pencil"  data-dimensions="960x30" data-targeting='{"pos":"atf"}'></div>
+
+<div class="clear"></div>
+<div id="sub-nav" class="column-12">
+	<p><i class="icon-double-angle-right"></i>Hot Links:</p>
+	<ul>
+
+	<li class="first-child"> 
+			        <a href="/content/stories/local/2013/09/29/meteor-lights-up-night-phone-lines.html">Meteor</a>
+				
+			</li>
+			<li>
+			        <a href="/content/topic/life-and-entertainment/annual/fall-photos.html">Send us fall photos</a>
+				
+			</li>
+			<li>
+			        <a href="/content/stories/local/2013/09/30/osu-police-military-vehicle-for-safe-travel.html">Ohio State armored vehicle</a>
+				
+			</li>
+			<li>
+			        <a href="/content/topic/special-reports/2013/affordable-care-act.html">Healthcare guide</a>
+				
+			</li>
+			<li>
+			        <a href="http://buckeyextra.dispatch.com/content/slideshows/2013/0928-wisconsin-ohio-state.html">Photos: OSU-Wisconsin</a>
+				
+			</li>
+			<li>
+			        <a href="/content/stories/public/2013/09/30/weekend-news.html">Weekend news</a>
+				
+			</li>
+			</ul>
+      
+
+</div><!-- /sub-nav -->
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+	<div id="bread-crumbs-container" class="container-8 clearfix">
+		<ul id="bread-crumbs" class="column-12">
+		<li class="bread-crumb-home"><a href="/content/index.html">Home</a></li>
+		
+			
+			
+				
+						
+				
+				
+				
+				
+					
+					
+					<li><i class="icon-double-angle-right"></i>
+									
+						
+							
+								<a href="/content/sections/news/index.html">News</a>
+							
+							
+							
+						
+					</li>
+				
+				
+				
+			
+			
+				
+						
+				
+				
+				
+			
+			
+			
+		<li class="bread-crumb-this">Tea party has had it with GOP</li>
+		</ul>
+	</div> 
+	
+
+		</div><!-- header -->
+		<div id="content-container" class="container-12 clearfix">
+		
+			<div  class="adunit postit"  data-dimensions="250x250" data-targeting='{"pos":"atf"}'></div>
+		
+
+
+	
+		
+		
+		
+			
+		
+
+		
+	
+			<div id="content-primary" class="container-8">
+
+
+
+
+
+    
+        
+    
+	
+		
+
+	
+	
+	
+	
+    
+    
+    
+    
+
+        
+    
+	
+	    
+	    
+	    
+
+	    
+		
+		    
+		
+		
+		
+	    
+		
+	
+    
+	
+        <div id="content" class="story">
+        
+	    <div id="story-header" class="column-8">
+		
+		
+		    <h4 id="story-roof">Ohio politics</h4>
+		
+		
+		<h1 id="story-headline">Tea party has had it with GOP</h1>
+		
+		
+		    <h3 id="story-subheadline"></h3>
+		
+		
+	    </div>
+	    
+	    <div id="rail-beta" class="container-2">
+		
+		<div class="column-2">
+
+			
+				
+				<div class="story-aside">
+			
+				
+				    
+				    
+				    
+				    
+				    
+				    
+				    
+				
+				 
+	
+				</div>
+				
+			 
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+		
+		
+			
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+			
+			
+			
+			
+			
+				
+					<ul>
+					
+					
+						
+						
+					
+						
+					
+							<li class="single-mugshot">
+								
+								
+								
+									
+										<img src="/content/graphics/2013/05/06/seth-morgan.jpg?__scale=w:120,h:182,t:2" width="120" height="182" />
+									
+									
+									
+									
+									
+										<span class="mugshot-caption">Seth Morgan, policy director for Americans for Prosperity</span>
+									
+									
+							</li>
+							
+							
+					
+					
+					</ul>
+				
+				
+				
+			
+			
+		
+	
+	
+    
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+    
+    
+    
+
+        
+    
+	
+	    
+	    
+	    
+
+	    
+		
+		    
+		
+		
+		
+	    
+		
+	
+    
+    
+
+		    
+		    
+		    
+			<ul id="graphics-maps">
+			
+			
+			
+			    
+			    
+			    
+			    
+				
+				
+				    
+				    
+				    
+				    
+				    
+				    
+				    
+				
+				
+				
+			    
+			    
+			    
+			
+			
+			</ul> 
+			
+		     
+		    
+		    
+				
+			<div id="related-content">
+			
+			
+			
+			
+				
+			     
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			     
+			
+				
+			     
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			     
+			
+				
+			     
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			     
+			
+			
+			
+			
+			
+				
+				
+				    
+				<h4>Related Items</h4>
+				
+				<ul id="related-text" class="clearfix">
+				
+				    
+					
+					   
+						
+					   
+					   
+							
+							
+							
+								
+								
+									
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							
+							
+					
+						
+						    
+						    
+						    
+						    
+						    
+						    
+						    
+							
+							
+								
+								<li class="related-text">
+									<i class="icon-double-angle-right category-news"></i>
+								    <a href="/content/stories/local/2013/04/27/borges-wins-gop-contest-easily.html">Borges wins GOP contest easily</a>
+								</li>
+								
+								
+							
+							
+							
+						    
+							
+						
+						
+					    
+						
+					
+				 
+			    
+					
+					   
+						
+					   
+					   
+							
+							
+							
+								
+								
+									
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							
+							
+					
+						
+						    
+						    
+						    
+						    
+						    
+						    
+						    
+							
+							
+								
+								<li class="related-text">
+									<i class="icon-double-angle-right category-news"></i>
+								    <a href="/content/stories/local/2013/04/12/battle-lines-solidify-in-medicaid-debate.html">Battle lines solidify in Medicaid debate</a>
+								</li>
+								
+								
+							
+							
+							
+						    
+							
+						
+						
+					    
+						
+					
+				 
+			    
+					
+					   
+						
+					   
+					   
+							
+							
+							
+								
+								
+									
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							
+							
+					
+						
+						    
+						    
+						    
+						    
+						    
+						    
+						    
+							
+							
+								
+								<li class="related-text">
+									<i class="icon-double-angle-right category-news"></i>
+								    <a href="/content/stories/local/2013/03/22/conservatives-feel-unwanted.html">Ohio conservatives feel unwanted in GOP</a>
+								</li>
+								
+								
+							
+							
+							
+						    
+							
+						
+						
+					    
+						
+					
+				 
+			    
+				
+			</ul>
+			
+			
+			
+			</div> 
+			
+			    <div class="content-separator"></div>
+			
+		     
+		    
+		    
+			
+			<div class="story-aside">
+		
+			
+			    
+			    
+			    
+			    
+			    
+				<div class="factbox">
+				    <h4>THE HOT ISSUE</h4>
+<p>
+<a href="/content/polls/opinion/the-hot-issue/2013/05/0506-tea-party-concerns.html"
+target="_self">What should be more important for a political party: ideological consistency, or
+immediate electability?</a>
+</p>
+<p>&nbsp;</p>
+				    
+				    
+				    
+				</div>
+				
+			    
+			    
+			    
+			    
+			    
+			    
+			
+			
+			</div> 
+			
+		     		    
+
+		    
+			
+			
+			    <div class="content-separator"></div>
+			
+		    
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		   
+		   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+<div class="promo">
+
+
+	
+	
+	
+	
+		<h4>The Daily Briefing</h4>
+	 
+	
+	<ul>
+	
+	
+		
+		
+
+
+		
+			
+						
+				
+								
+				
+				
+				
+				<li class="null">
+					
+					
+					
+					
+					
+					
+						<h5><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-finan-for-village-council.html">Back to his roots: Richard Finan running for Evendale Village Council</a></h5>
+					
+					
+					
+					
+					
+						<div class="abstract-summary">
+						        
+							
+							<a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-finan-for-village-council.html">
+								<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg?__scale=w:60,h:60,t:2" width="60" height="60" />
+							</a>
+							
+							
+							
+							
+							<p class="abstract"><div class="abstract-summary">A candidate again....</div></p>
+							
+							</div>
+											
+					
+				</li>	
+					
+				
+			
+			
+			
+		
+
+
+		
+		
+							
+		
+		
+		
+	
+	
+	
+	</ul>
+
+	</div>
+
+
+		   <div class="content-separator"></div>
+		   
+		   
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="promo   ">
+		
+		
+		
+				
+			<h5>
+				Buckeye Forum Podcast
+			</h5>
+		
+	
+		
+			
+		        	
+		        		
+				        	<img src="/content/images/dont-miss-this-icons/dmt-news-podcast.gif?__scale=w:60,h:60,t:2" width="60" height="60" />
+					
+				
+		        			
+		
+		
+		
+			<div class="promo-body"><p>
+<em>The Dispatch&nbsp;</em>public affairs team talks politics and tackles state and federal
+government issues in the Buckeye Forum podcast.</p></div>
+		
+	        
+		
+	</div>
+	
+	<!-- THIS IS THE NEW ONE -->
+
+
+
+		   <div class="content-separator"></div>
+		   
+		   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+<div class="promo">
+
+
+	
+	
+	
+	
+		<h4>Your Right to Know</h4>
+	 
+	
+	<ul>
+	
+	
+		
+		
+
+
+		
+			
+						
+				
+								
+				
+				
+				
+				<li class="null">
+					
+					
+					
+					
+					
+					
+						<h5><a href="/content/blogs/your-right-to-know/2013/09/yost-audit.html">Public-records problems: Song remains the same</a></h5>
+					
+					
+					
+					
+					
+						<div class="abstract-summary">
+						        
+							
+							<a href="/content/blogs/your-right-to-know/2013/09/yost-audit.html">
+								<img src="/content/digital/images/blogs/blog-icons/icon-blog-public-records.jpg?__scale=w:60,h:60,t:2" width="60" height="60" />
+							</a>
+							
+							
+							
+							
+							<p class="abstract"><div class="abstract-summary">Sadly, the findings of a 
+public-records audit released today by the office of state Auditor Dave Yost
+are not startling....</div></p>
+							
+							</div>
+											
+					
+				</li>	
+					
+				
+			
+			
+			
+		
+
+
+		
+		
+							
+		
+		
+		
+	
+	
+	
+	</ul>
+
+	</div>
+
+
+		   
+		
+		
+		
+		
+				
+		
+		
+	
+
+	
+		    
+		    	
+		    
+		    
+
+		    
+		</div> 
+		
+	    </div> 
+	    
+	    <div id="story-column" class="column-6">
+		
+		<div id="story-content">
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+		<div id="story-author" class="clearfix">
+		    
+		    
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+        
+      
+			
+
+			
+			        
+			        
+			        
+			                
+			                
+			                        
+			                        
+						
+							
+								
+							
+							
+								
+							
+								
+							
+						
+			                
+			                
+			        
+				
+				
+				
+		    <strong>By&nbsp;
+			
+                        
+			    
+			
+			    
+			        
+			       			        
+			        
+			        
+			        
+			                
+			                        
+			                        
+			                        
+			                                
+			                                        
+								
+									
+									
+									
+								
+								
+			                                        
+			                                                
+			                                                
+			                                        
+			                                    
+			                                        
+			                                                
+			                                                
+			                                            
+			                                                
+			                                                        <a href="mailto:jhallett@dispatch.com">
+			                                                
+			                                                
+			                                                        Joe Hallett
+			                                                
+			                                                
+			                                                        </a>
+			                                                
+			                                                
+			                                                
+			                                        
+			                                        
+							
+								
+									
+									
+									
+										
+									
+									
+									
+								
+			                                    
+			                                
+			                                
+			                        
+			                        
+			                        
+			                        
+			                
+			                
+					
+					
+			        
+			        
+			        
+			
+				
+			
+			
+			
+			
+                        
+			
+                        
+		    
+		    </strong>
+		    
+		    	
+			<p class="org-timestamp">
+			
+			        
+			        	
+			               	
+			                	<span class="author-organization">The Columbus Dispatch</span>
+			                
+			                <span class="timestamp">Monday May 6, 2013 10:09 AM</span>
+			        
+			        
+			        
+			        
+			</p>
+		
+		
+			
+			    
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '124304607604927', // App ID
+      channelUrl : '//www.dispatch.com/content/digital/config/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true,  // parse XFBML
+      oauth	 : true
+    });
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+</script>
+
+
+<div class="share-block clearfix">
+	<ul>
+		<li class="view-comments"><a href="#comment">Comments: 34</a></li>
+		
+		<li class="recommend">
+			<fb:like href="" send="false" layout="button_count" width="115" show_faces="false" action="recommend" font="verdana"></fb:like>
+		</li>
+		
+		<li class="tweet"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+	</ul>
+	
+</div>
+	
+		
+	<div style="position:absolute;bottom:10px;right:-2px;" id="share-this-position-fix"><span class='st_sharethis_button' displayText='ShareThis'></span></div>
+
+	
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'3b385b71-49e1-4013-8507-ae1e8e4ed970'});</script>	
+
+			    
+		
+			    
+		    </div>
+		    
+		    
+	
+		    
+		    
+
+		    
+		    <div class="clear"></div>
+		    
+		    
+						    
+		    <p>Feeling betrayed by the Republican Party and its leaders, tea party groups in Ohio appear to be uniting and moving toward either a split from the GOP or action to punish Republican candidates who fail ideological purity tests.</p>
+<p>A series of events, culminating with the April 26 election of Matt Borges as chairman of the Ohio Republican Party, spurred a flurry of meetings and conference calls among tea party leaders last week to plot a course of action heading into the 2014 statewide election.</p>
+<p>Options being discussed, according to Seth Morgan, policy director for Americans for Prosperity, range from breaking off into &ldquo;a third party, to an insurrection (within the Republican Party) and everything in between.&rdquo;</p>
+<p>Tom Zawistowski, executive director of the Portage County Tea Party who lost his bid for the Ohio GOP chairmanship by a 48-7 vote of the party&rsquo;s state central committee, met on Saturday with Don Shrader, chairman of the Constitution Party of Ohio, to explore uniting in a party committed more to principles than winning elections.</p>
+<p>After the chairmanship vote, Zawistowski said he made it clear that if the state GOP did not focus on enacting conservative policies, &ldquo;we would either find a political party to join or we would start one of our own,&rdquo; saying his meeting with Shrader &ldquo;is the first step in that process.&rdquo;</p>
+<p>It remains uncertain, however, just how much the Ohio GOP and its candidates could be hurt by an insurrection because it is difficult to assess the true strength of tea party groups. A 2012 poll by <em>The Washington Post </em>and the Kaiser Family Foundation found that about 28 percent of Republicans identified themselves as tea party supporters.</p>
+<p>Although loosely organized in 2009 around ideals of fiscal conservatism and smaller government, the tea party largely has been fractionalized with no single acknowledged leader.</p>
+<p>&ldquo;There are potential splits within the tea party itself,&rdquo; said John Green, a University of Akron political scientist. &ldquo;It&rsquo;s hard to judge how strong they are because their popularity fluctuates. It&rsquo;s not a cohesive group, but it does have some resources and some talented people who are quite effective.&rdquo;</p>
+<p>Along with Zawistowski and Morgan, others in the tea party movement viewed as effective leaders include Chris Littleton, founder of Ohio Rising; Ted Stevenot, president of the Ohio Liberty Coalition; and Matt A. Mayer, president and CEO of Provisum Strategies, a Dublin-based consulting firm.</p>
+<p>To date, said Mike Gonidakis, president of Ohio Right to Life, the tea party&rsquo;s &ldquo;biggest Achilles&rsquo; heel is there is no defined leadership to focus a message. It&rsquo;s almost a flavor-of-the-month type of thing.</p>
+<p>&ldquo;Some of these men and women who proclaim to be the leader of this, that or the other and get quotes in the paper, I&rsquo;m not sure that they&rsquo;re really taking the pulse of the rank and file (Republicans) in the state,&rdquo; Gonidakis said. &ldquo;To say they don&rsquo;t represent anyone would not be accurate. But to say that they represent a majority viewpoint, I&rsquo;m not sure that&rsquo;s accurate because if it was, their candidates would be able to win primaries or they would have success in various political offices.&rdquo;</p>
+<p>But tea party leaders say their ranks are being swelled by social conservatives who oppose abortion and gay marriage and who are angry with the Republican Party.</p>
+<p>&ldquo;On all these conservative issues across the board, I think we&rsquo;re all joining hands because we&rsquo;re stronger together,&rdquo; said Lori Viars, vice chairwoman of the Warren County GOP and leader of Warren County Right to Life.</p>
+<p>The list of tea party grievances includes action last December by Republican legislative leaders to bury the so-called heartbeat bill, which would ban abortion once a fetal heartbeat is detected.Social conservatives also were riled by U.S. Sen. Rob Portman&rsquo;s change of position on same-sex marriage after his son revealed he is gay, and by the election of Borges, who once lobbied for Equality Ohio, a gay-rights group.</p>
+<p>Fiscal conservatives were incensed by Republican Gov. John Kasich&rsquo;s budget proposals to expand Medicaid health services to 275,000 needy Ohioans, to broaden the state sales tax and to tax shale oil and gas producers.</p>
+<p>&ldquo;I think the appointment of Borges was just the final straw that did pull those social and fiscal tea party groups together to say, &lsquo;We&rsquo;re tired of being used on Election Day,&rsquo; &rdquo; Morgan said. &ldquo;There&rsquo;s no question the movement is done with this proverbial pat on the head that the Republican Party has always given us. I have never seen this level of discontent.&rdquo;</p>
+<p>Viars said the failure of GOP leaders to be true to the conservative policies they portend to embrace has pushed tea partyers to the breaking point.</p>
+<p>&ldquo;How many times do you get smacked in the face by the Republican Party before you&rsquo;re ready to make some other arrangements?&rdquo; she said. &ldquo;I don&rsquo;t know what that is because we haven&rsquo;t set on any particular course of action.&ldquo;The suggestions range from everybody leaving the party in a mass exodus, to staying in the party but get challengers in primaries for every race of anybody who ever crossed us, to under-voting in certain races.&rdquo;</p>
+<p>Led by Littleton, tea party leaders took at least partial credit for the GOP-controlled House killing Kasich&rsquo;s Medicaid expansion by threatening to field primary-election opponents against Republican lawmakers who supported it. Littleton said Ohio Rising and other tea party groups have the grassroots expertise and resources to reach GOP primary voters.</p>
+<p>&ldquo;We&rsquo;re doing such amazing targeting right now,&rdquo; he said. &ldquo;It is so easy to get our message out when you know what needs to be said and how to reach those individuals. Certainly, we think that proved to be a credible threat.&rdquo;</p>
+<p>But with Kasich and other GOP elected officials facing a strong 2014 challenge from a Democratic ticket led by Cuyahoga County Executive Ed FitzGerald, one longtime Capitol Square Republican activist who asked not to be named questioned the tea party&rsquo;s end game.</p>
+<p>&ldquo;Is Ed FitzGerald going to sign a pro-life bill? Is Ed FitzGerald going to sign a pro-gun bill? Is Ed FitzGerald not going to expand Medicaid? What do they think is going to happen if they abandon John Kasich and play spoiler by creating a third party?&rdquo;</p>
+<p>Ronald Rapoport, a political scientist at the College of William and Mary in Williamsburg, Va., who last week released a new study titled &ldquo;Republican Factionalism and Tea Party Activism,&rdquo; said tea party &ldquo;threats for a primary should be taken seriously.&rdquo;</p>
+<p>His research showed that tea party supporters comprise &ldquo;a clear majority&rdquo; of voters &ldquo;who show up for Republican primary elections.&rdquo; Rapoport said tea partyers are ideologically &ldquo;super-mobilized&rdquo; and are interested in taking over the Republican Party &ldquo;and purifying it to what they think the party should be&rdquo; rather than compromising on principle.</p>
+<p>&ldquo;It&rsquo;s clear that establishment Republicans who have a different set of priorities care more about elections than tea party members who care more about principle and purity and they&rsquo;re less willing to compromise in order to get elected.&rdquo;</p>
+<p>Rapoport said that the peril for a Republican Party that already &ldquo;has gotten smaller&rdquo; is that the more influence the tea party gains over it, the less appeal the GOP will have to voters overall because surveys show that a majority of voters do not support the tea party.</p>
+<p><a href="mailto:jhallett@dispatch.com" target="_self">jhallett@dispatch.com</a></p>		
+		
+		</div> 
+		
+		
+
+
+
+
+
+
+
+
+
+
+<script language="javascript">
+	
+	$(document).ready(function(){
+		$('#printpage').click(function() { window.print(); return false; });
+	});
+	
+</script>
+
+
+
+
+<div class="share-block clearfix">
+	<ul>	
+		
+		<li id="toolbar-favs" class="favorites"><a href="#favorite">Favorite</a></li>
+		
+		
+		<li class="print"><a href="#print" id="printpage"><span>Print Story</span></a></li>	
+	</ul>
+		
+</div>		
+		
+	<div style="position:relative;left:230px;top:-24px;" id="email-position-fix"><span class='st_email' displayText='Email'></span></div>
+
+
+<script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'3b385b71-49e1-4013-8507-ae1e8e4ed970'});</script>
+		
+		
+		
+		<div id="comment-block">
+			<div class="content-separator"></div>
+			<div id="comment-header"><a name="comment">Comments</a></div>
+			<div id="comment-wrapper"></div>
+		</div>
+		
+	    </div> 
+	    
+	   
+	
+        </div> 
+        
+    
+<div class="container-8">
+<div class="column-2">&nbsp;</div>
+<div class="column-6"><script language="JavaScript" type="text/javascript" src="http://www.dispatch.com/content/system/modules/com.dispatch.yahoo/config/javascript/yahoo.js"></script><script type="text/javascript" src="http://cm.npc-columbus.overture.com/js_flat_1_0/?source=npc_columbus_columbusdispatch_t2_ctxt&outputCharEnc=latin1&config=1803577000&ctxtUrl=http%3A%2F%2Fwww.dispatch.com%3A80%2Fcontent%2Fsystem%2Fmodules%2Fcom.dispatch.digital%2Flayouts%2Fstory%2Fdispatch%2F300w-img-story.jsp%3Fnull&maxCount=4"></script>
+<script type="text/javascript">
+	dispatch_ShowListings();
+</script></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div><!--/content-primary -->
+		
+			
+			<!-- rail-alpha -->
+			<div id="rail-alpha" class="container-4">
+				<div class="column-4">
+					
+
+
+
+
+
+
+
+
+
+
+<!--RAIL-ALPHA-NEWS.JSP-->
+<div class="ad-group">
+				<div  class="adunit box"  data-dimensions="300x250,300x600,300x1050" data-targeting='{"pos":"atf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		
+
+<div class="content-separator"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		
+
+
+
+
+
+
+	<div class="image-map">
+	
+		
+		
+		 
+		
+		
+		
+		
+		
+		
+		
+		
+		<a href="/content/links/subscriber-services/subscription-promo"><img src="/content/images/circulation/RightRailCTA_Digital50.jpg" /></a>
+		
+	</div> <!--/image-map-->
+      
+
+
+<div class="content-separator"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="video" class="group">
+		
+	<h4>News Video <a class="read-more" href="/content/pages/video.html"><i class="icon-double-angle-right category-color"></i> More Videos</a></h4>
+
+	<div id="video-container" class="video-player">
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+		
+			
+		
+	
+	
+	
+		
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+	
+	
+	<div id="player_116492_container" class="dmg responsive"></div>
+	
+	<script>
+	
+		
+	
+	
+		var environmentCheck = window.location.host;
+		var urlPrefix = "www";
+		if ( environmentCheck.indexOf("digitalbuild") != -1 ) urlPrefix = "digitalbuild";
+		if ( environmentCheck.indexOf("redtailqa") != -1 ) urlPrefix = "redtailqa";
+	
+			
+			var dependencies_116492  = [
+					{ "name" : "_",               "path" : "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js" }
+				  , { "name" : "Backbone",        "path" : "https://cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.10/backbone-min.js" }
+				  , { "name" : "oo116492",     "path" : "http://player.ooyala.com/v3/3f721b6f85e5443494b8b3ffa650b90d?wmode=transparent&namespace=oo116492" }
+				  , { "name" : "dmgMediaLibrary", "path" : "/content/system/shared/javascript/dmgMediaLibrary.js" }
+				  
+			  ];
+		
+		
+		var settings_116492 = {
+				container         : "#player_116492_container"		// REQUIRED - DOM selector
+			  , currentSite       : "dispatch"					// REQUIRED - Current Site
+			  , currentUrl        : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html"						// REQUIRED - URL of current page, not the template
+			  , randomId          : "116492"							// REQUIRED - randomId generated by JSTL
+			  , videoPlayerFormat : "landscape"					// Optional - Playlist Format Settings, portrait or landscape
+			  , ooLib             : "oo116492"
+		 	  , videoPlayerId     : "3f721b6f85e5443494b8b3ffa650b90d"					// Pass videoPlayerId from JSTL to JS
+			  , mediaType         : "video"
+			  , playerSize        : [, ]
+			  , playerSizeString  : "responsive"
+			  , baseUrl           : urlPrefix + ".dispatch.com/content"
+			  , embedPage         : "/mediaplayer/embed.html"
+			  , videoPage         : "/pages/video.html"
+			  , displayPlaylist   : true
+			  , autoPlayPlaylist  : false
+			  , hideSharing       : true
+			  , embeddedPlayer    : false
+			  , playlistContainer : ""
+			  , setPlaylistWidth  : true
+			  , onEmbedPage       : false
+				  , media             : 
+{
+"name":"",
+"playlist":[
+	
+		{
+			"pos"             : 0, 
+			"media"           : "/content/videos/2013/09/30/academic-coach.xml",
+			"title"           : "Academic coach",
+			"image"           : "/content/videos/2013/09/30/academic-coach.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "5nZGY3ZjqoJztv8BS0c3P9Cpl2e5QSLk",
+			"adSetCode"       : "ac741379e9dc435e8f51ca478c4c9f25",
+			"category"        : "/topic/sports/levels/high_school/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 1, 
+			"media"           : "/content/videos/2013/09/29/meteor-lights-up-central-ohio-sky.xml",
+			"title"           : "NASA video: Meteor lights up central Ohio sky",
+			"image"           : "/content/videos/2013/09/29/meteor-lights-up-central-ohio-sky.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "IxN3k1Zjr_3s-MeUAGWVRkN15nkqVDnG",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 2, 
+			"media"           : "/content/videos/2013/09/06/where-we-live-krumm-park.xml",
+			"title"           : "Where we live: East Columbus",
+			"image"           : "/content/videos/2013/09/06/where-we-live-krumm-park.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "VlOWs5ZTo4nr5YYiVB0HLC_EVJxFGPJ0",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 3, 
+			"media"           : "/content/videos/2013/09/24/artist-bring-light-to-conservatory.xml",
+			"title"           : "Artist brings 'Light' to conservatory",
+			"image"           : "/content/videos/2013/09/24/artist-bring-light-to-conservatory.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "dwbTN5ZTpd85-b9-uq7A4JakXGcZ9qmm",
+			"adSetCode"       : "c95813a9578e4e16b0b003e293e49e5c",
+			"category"        : "/topic/arts_entertainment/fine_arts/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 4, 
+			"media"           : "/content/videos/2013/09/24/westerville-crew-at-home-on-hoover-reservoir.xml",
+			"title"           : "Westerville Crew at home on Hoover Reservoir",
+			"image"           : "/content/videos/2013/09/24/westerville-crew-at-home-on-hoover-reservoir.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "9tczB5ZTpOK1cVODJz16INbS5xLQuC_Q",
+			"adSetCode"       : "ac741379e9dc435e8f51ca478c4c9f25",
+			"category"        : "/topic/sports/rowingcrew/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 5, 
+			"media"           : "/content/videos/2013/09/20/soccer-as-a-second-language.xml",
+			"title"           : "Soccer as a second language",
+			"image"           : "/content/videos/2013/09/20/soccer-as-a-second-language.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "lpYmtyZTozIKy16o8kUirhe_wTUMxsvy",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/education/k-12/elementary/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 6, 
+			"media"           : "/content/videos/2013/09/21/script-ohio-in-braille.xml",
+			"title"           : "Script Ohio in Braille",
+			"image"           : "/content/videos/2013/09/21/script-ohio-in-braille.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "44bDB0ZTpNCvuoL1uz0nsqoUCjZVZRAw",
+			"adSetCode"       : "ac741379e9dc435e8f51ca478c4c9f25",
+			"category"        : "/topic/sports/levels/college/teams/ohio_state_buckeyes/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 7, 
+			"media"           : "/content/videos/2013/09/20/11-year-old-directs-musical-in-mount-vernon.xml",
+			"title"           : "11-year-old directs musical in Mount Vernon",
+			"image"           : "/content/videos/2013/09/20/11-year-old-directs-musical-in-mount-vernon.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "p5bmdyZTrBaPClDE7cCIsdqLDplD_VOj",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 8, 
+			"media"           : "/content/videos/2013/09/20/incredible-hulk-now-a-special-deputy-null.xml",
+			"title"           : "Incredible Hulk now a special deputy",
+			"image"           : "/content/videos/2013/09/20/incredible-hulk-now-a-special-deputy.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "M2bGVyZTqX5AnJ5vV0iurHpo5mERMdNt",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 9, 
+			"media"           : "/content/videos/2013/09/20/suspects-car-found-in-hit-skip-death.xml",
+			"title"           : "Suspect's car found in hit-skip death",
+			"image"           : "/content/videos/2013/09/20/suspects-car-found-in-hit-skip-death.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "J0OGVyZTqUI7ZXewa-NSiFFQ4Oxm6PLf",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 10, 
+			"media"           : "/content/videos/2013/09/19/biggest-fans-buck-i-guy.xml",
+			"title"           : "Biggest Fans: Buck-I-Guy",
+			"image"           : "/content/videos/2013/09/19/biggest-fans-buck-i-guy.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "gwaDNxZTpWQpEBl90ibtPDmnIb0SZxyH",
+			"adSetCode"       : "ac741379e9dc435e8f51ca478c4c9f25",
+			"category"        : "/topic/sports/levels/college/teams/ohio_state_buckeyes/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 11, 
+			"media"           : "/content/videos/2013/09/18/matthew-cordle-blacked-out-remembers-little.xml",
+			"title"           : "Matthew Cordle blacked out; remembers little",
+			"image"           : "/content/videos/2013/09/18/matthew-cordle-blacked-out-remembers-little.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "lvOG1vZTpZzDOOnCspHy5gZZCaxkLGFV",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 12, 
+			"media"           : "/content/videos/2013/09/17/development-growing-around-columbus-commons.xml",
+			"title"           : "Development growing around Columbus Commons",
+			"image"           : "/content/videos/2013/09/17/development-growing-around-columbus-commons.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "RjOG5uZToak71AXCRlsIflTwJzwnGSkU",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 13, 
+			"media"           : "/content/videos/2013/09/16/st--charles-expands-athletic-facilities.xml",
+			"title"           : "St. Charles expands athletic facilities",
+			"image"           : "/content/videos/2013/09/16/st--charles-expands-athletic-facilities.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "92dnJsZTquVCaYBf1A35yXEoz4MeRw-l",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/education/k-12/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 14, 
+			"media"           : "/content/videos/2013/09/11/jack-hanna-i-do-it-for-the-zoo.xml",
+			"title"           : "Jack Hanna: 'I do it for the zoo'",
+			"image"           : "/content/videos/2013/09/11/hanna.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "01N3BmZTqWz-LMFokrXeoH18jvRHKv5N",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		},
+		{
+			"pos"             : 15, 
+			"media"           : "/content/videos/2013/09/14/playing-football-a-victory-of-boy.xml",
+			"title"           : "Playing football a victory for boy",
+			"image"           : "/content/videos/2013/09/14/playing-football-a-victory-of-boy.jpg?__scale=w:140,h:100,t:2",
+			"ooyalaEmbedCode" : "g5MzVqZTpM803ojxUvFAvr8fX7_1XqbV",
+			"adSetCode"       : "92b4cbffb1954f86b943701de2fae97c",
+			"category"        : "/topic/news/",
+			"parentSite"      : "dispatch",
+			"parentUrl"       : "/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html",
+			"parentAdSet"     : "notSet",
+			"mediaPlayerUri"  : ""
+		}], 
+"size":"16"
+}
+			};
+
+		var conductor_116492 = new Conductor(dependencies_116492, function() {
+			player_116492 = dmgMediaLibrary.init(settings_116492);
+		});
+	</script>
+
+	
+	
+
+
+
+
+	</div>
+
+</div> 
+
+
+<div class="content-separator"></div>
+
+<div id="most-popular">
+	
+	<div id="most-popular-content">
+	        <h4 class="section-title">Most Popular</h4>
+		<ol>
+		    
+		    	
+		    
+			            <li><a href="/content/stories/sports/2012/09/09/nfl-standings-9-9-gcbj7jll-1.html">NFL standings, schedule</a></li>
+			            
+		   	
+		    
+			            <li><a href="/content/stories/local/2013/09/29/flying-buckeye-fans.html">Ohio State football fans attend games by private jet</a></li>
+			            
+		   	
+		    
+			            <li><a href="/content/stories/local/2013/09/29/meteor-lights-up-night-phone-lines.html">Meteor over central Ohio lights up night, phone lines</a></li>
+			            
+		   	
+		    
+			            <li><a href="/content/stories/local/2013/09/29/extended-care.html">How the Affordable Care Act will affect Ohioans</a></li>
+			            
+		   	
+		    
+			            <li><a href="/content/stories/local/2013/09/28/Meteor-lights-up-night-and-phone_lines.html">Meteor lights up central Ohio's night sky</a></li>
+			            
+		   		
+		       
+		</ol>
+        
+		<ul class="popular-links">
+			<li>
+				<i class="icon-double-angle-right"></i><a href="/content/sections/news/latest-headlines.html">Latest Headlines</a>
+			</li>
+			<li>
+				<i class="icon-double-angle-right"></i><a href="/content/pages/todays-paper/todayspaper-1.html">Today's Paper</a>
+			</li>
+			<li>
+				<i class="icon-rss"></i><a href="/content/sections/services/rss-feeds.html">Top Story Feed</a>
+			</li>
+		</ul>
+		
+	</div> <!-- END most-popular-content -->
+	
+	<div class="ad-group">
+				<div  class="adunit tower"  data-dimensions="160x600,300x600" data-targeting='{"pos":"stf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		
+	
+	<script>
+		$(document).ready(function() {
+			$("#most-popular .adunit").bind("adLoaded", function() {
+				var adWidth = $("#most-popular .adunit").width();
+				console.log("tower ad width:"+adWidth);
+				
+				if ( adWidth == "160" ) {
+					$("#most-popular-content").css({'width':'120px','margin-right':'20px','float':'left'});
+					$("#most-popular .ad-group").css({'float':'left'});
+				} if ( adWidth == '' ) {
+					$("#most-popular .ad-group").hide();
+				} if ( adWidth == '300' ) {
+					$("#most-popular .ad-group").before('<div class="content-separator" />');
+				}
+			});
+		});
+	</script>
+		
+</div> <!--/popular-emailed-->
+
+<div class="content-separator"></div>
+
+<div id="dispatch-blogs">
+	<h4>News Blogs</h4>
+	<ul>
+	
+	<li class="null">
+					
+					<div class="blog-featured-image">
+					
+						<a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-finan-for-village-council.html">
+							<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg?__scale=w:60,h:60" width="60" height="60" /></a>
+					
+					</div>
+					<h4>The Daily Briefing</h4>
+					<h5><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-finan-for-village-council.html">Back to his roots: Richard Finan running for Evendale Village Council</a></h5>
+					<p class="abstract"><div class="abstract-summary"><span class="ellipsis_text"><p>A candidate again.</p></span></div></p>
+										<div class="clear"></div>
+				</li>	
+					
+				<li class="null">
+					
+					<div class="blog-featured-image">
+					
+						<a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-attorney.html">
+							<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg?__scale=w:60,h:60" width="60" height="60" /></a>
+					
+					</div>
+					<h4>The Daily Briefing</h4>
+					<h5><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-attorney.html">Attorney links Mandel, Suarez</a></h5>
+					<p class="abstract"><div class="abstract-summary"><span class="ellipsis_text"><p>Lawyer's son works for Mandel in treasurer's office</p></span></div></p>
+										<div class="clear"></div>
+				</li>	
+					
+				<li class="null">
+					
+					<div class="blog-featured-image">
+					
+						<a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-sears-medicaid.html">
+							<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg?__scale=w:60,h:60" width="60" height="60" /></a>
+					
+					</div>
+					<h4>The Daily Briefing</h4>
+					<h5><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-30-13-sears-medicaid.html">Sears pushes on despite AFP attacks over Medicaid</a></h5>
+					<p class="abstract"><div class="abstract-summary"><span class="ellipsis_text"><p>Rep. Barbara Sears, R-Sylvania, is under fire again from Americans for Prosperity for her support of Medicaid expansion, but she insists it makes sense based on the math, the policy and the human issues.</p></span></div></p>
+										<div class="clear"></div>
+				</li>	
+					
+				<li class="null">
+					
+					<div class="blog-featured-image">
+					
+						<a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-28-13-target-or-no.html">
+							<img src="/content/digital/images/blogs/blog-icons/icon-blog-politics.jpg?__scale=w:60,h:60" width="60" height="60" /></a>
+					
+					</div>
+					<h4>The Daily Briefing</h4>
+					<h5><a href="http://dispatchpolitics.dispatch.com/content/blogs/the-daily-briefing/2013/09/9-28-13-target-or-no.html">Define "not a target"</a></h5>
+					<p class="abstract"><div class="abstract-summary"><span class="ellipsis_text"><p>Statements from Mandel campaign change</p></span></div></p>
+										<div class="clear"></div>
+				</li>	
+					
+				</ul>
+
+
+	
+	<p>
+		<a href="/content/blogs/news/index.jsp" class="more-link"><i class="icon-double-angle-right category-color"></i> More News Blogs</a>
+	</p>
+</div><!--/dispatch-blogs-->
+<div class="content-separator"></div>
+
+
+<div class="content-separator"></div>
+<div id="coupon-bag" class="group">
+    
+	<a href="/content/system/shared/links/affiliate-thebag" class="right">
+		<img src="/content/digital/images/icons/savvy-shopper-icon.png" alt="Columbus Savvy Shopper"/>
+	</a>
+	<h4 class="section-title"><strong>Columbus Savvy Shopper</strong></h4>
+	<ul>
+		<li><a href="http://www.facebook.com/ColumbusSavvyShopper" rel="external">Find and Like us on Facebook</a></li>
+	</ul>
+    
+    
+</div> 
+				</div>
+			</div>
+			<!-- end rail-alpha -->	
+			
+			<div class="clear"></div>
+				
+		</div> <!--/conent-container-->
+		
+		<div id="footer" class="container-12">
+			
+
+
+
+
+
+
+
+
+
+
+<div class="ad-group">
+				<div  class="adunit leaderboard bottom"  data-dimensions="728x90" data-targeting='{"pos":"btf"}'></div><ul class="ad-links">
+		<li>Advertisement</li>
+		<li>&bull;</li>
+		<li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	</ul></div>
+		
+
+<div class="column-12">
+	<div class="img-repl" id="footer-logo"><a href="/content/index.html">The Columbus Dispatch</a></div>
+	<ul id="aux-nav">
+		<li class="bullet-none"><a href="/content/site-map.html">Site Map</a></li>
+		<li><a href="/content/sections/services/about.html">About the Dispatch</a></li>
+		<li><a href="/content/policy-tos.html#about">About Our Ads</a></li>
+		<li><a href="/content/system/shared/links/privacy/dispatch">Privacy Policy</a></li>
+		<li><a href="/content/system/shared/links/ad-adchoices">Ad Choices</a></li>
+	    	<li><a href="/content/sections/contacts/index.html">Contacts</a></li>
+	    	<li><a href="/content/sections/store/index.html">Store</a></li>
+		<li><a href="/content/links/dispatch-careers">Work with Us</a></li>
+	</ul>
+</div>
+
+<div class="footer-column news column-2">
+	<h3 class="news-header"><a href="/content/sections/news/index.html">NEWS</a></h3>
+	<ul>
+       <li class="first-child"><a href="/content/sections/news/business/index.html">Business</a></li>
+       <li><a href="/content/sections/news/crime/index.html">Crime &amp; Safety</a></li>
+       <li><a href="/content/sections/news/education/index.html">Education</a></li>
+       <li><a href="/content/sections/news/science-environment/environment/index.html">Environment</a></li>
+       <li><a href="/content/links/news/dispatch-politics">Government &amp; Politics<p class="offsite-link">at DispatchPolitics.com</p></a></li>
+       <li><a href="/content/sections/news/local/index.html">Local</a></li>
+       <li><a href="/content/sections/news/health-medicine/index.html">Medicine &amp; Health</a></li>
+	   <li><a href="/content/links/news/obituaries">Obituaries</a></li>
+       <li><a href="/content/sections/news/religion/index.html">Religion</a></li>
+       <li><a href="/content/sections/news/science-environment/science/index.html">Science</a></li>
+       <li><a href="/content/sections/news/us-world/index.html">US &amp; World</a></li>
+       <li><a href="/content/sections/news/weather/index.html">Weather</a></li>		
+	</ul>
+</div>
+<div class="footer-column sports column-2">
+	<h3 class="sports-header"><a href="/content/sections/sports/index.html">SPORTS</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/links/sports/BuckeyeXtra.com">Ohio State Sports<p class="offsite-link">at BuckeyeXtra.com</p></a></li>
+	   <li><a href="/content/sections/sports/colleges/index.html">Other Colleges</a></li>
+	   <li><a href="/content/links/sports/BlueJacketsXtra.com">NHL: Blue Jackets<p class="offsite-link">at BlueJacketsxtra.com</p></a></li>
+	   <li><a href="/content/sections/sports/crew/index.html">MLS: Crew</a></li>
+	   <li><a href="/content/sections/sports/clippers/index.html">MiLB: Clippers</a></li>
+	   <li><a href="/content/sections/sports/reds-indians/index.html">MLB: Reds &amp; Indians</a></li>
+	   <li><a href="/content/sections/sports/cavs/index.html">NBA: Cavaliers</a></li>
+	   <li><a href="/content/sections/sports/browns-bengals/index.html">NFL: Bengals &amp; Browns</a></li>
+	   <li><a href="/content/sections/sports/golf/index.html">Golf</a></li>
+	   <li><a href="/content/sections/sports/columns/commentary.html">Sports Commentary</a></li>
+	   <li><a href="/content/sections/sports/high-school/index.html">High School Sports</a></li>
+	</ul>
+</div>
+	<div class="footer-column op-life column-2">
+	<h3 class="opinion-header"><a href="/content/sections/opinion/index.html">OPINION</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/sections/opinion/editorials/index.html">Editorials</a></li>
+	   <li><a href="/content/sections/opinion/letters-to-editor/index.html">Letters to the Editor</a></li>
+	   <li><a href="/content/sections/opinion/beeler-cartoons/index.html">Nate Beeler Cartoons</a></li>
+	   <li><a href="/content/sections/opinion/op-ed-columns/index.html">Op-Ed Columnists</a></li>
+	</ul>
+	<h3 class="life-ent-header inner-hed"><a href="/content/sections/life-and-entertainment/index.html">LIFE TOPICS</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/sections/life-and-entertainment/contests.html">Contests</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/fashion-and-style/index.html">Fashion &amp; Style</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/food/index.html">Food</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/home-and-garden/index.html">Home &amp; Garden</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/travel/index.html">Travel</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/columns/advice.html">Advice Columns</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/columns/joe-blundo.html">Joe Blundo Columns</a></li>
+	</ul>
+</div>
+<div class="footer-column ent-class column-2">
+	<h3 class="life-ent-header"><a href="/content/sections/life-and-entertainment/index.html">ENTERTAINMENT TOPICS</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/sections/life-and-entertainment/books/index.html">Books</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/dining/index.html">Dining</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/events/index.html">Events</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/movies/index.html">Movies</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/music/index.html">Music</a></li>
+	   <li><a href="/content/sections/life-and-entertainment/theater/index.html">Theater</a></li>
+	</ul>
+	<h3 class="sub-header inner-hed"><a href="/content/sections/classifieds/index.html">CLASSIFIEDS</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/system/shared/links/affiliate-columbusjobs">ColumbusJobs</a></li>
+	   <li><a href="/content/system/shared/links/affiliate-columbusrealestate">ColumbusRealEstate</a></li>
+	   <li><a href="/content/system/shared/links/affiliate-columbuscars">ColumbusCars</a></li>
+	   <li><a href="/content/system/shared/links/affiliate-dispatchclassifieds">Dispatch Classifieds</a></li>
+	</ul>
+</div>
+<div class="footer-column services column-2">
+	<h3 class="sub-header"><a href="/content/sections/services/index.html">SERVICES</a></h3>
+	<ul>
+	   <li class="first-child"><a href="/content/system/modules/com.dispatch.registration/pages/subscription-management.jsp">Customer Service</a></li>
+	   <li><a href="/content/system/shared/links/dispatch-reader-rewards">Reader Rewards</a></li>
+	   <li><a href="/content/links/services/advertising/place-an-ad">Place an ad</a></li>
+	   <li><a href="/content/sections/services/index.html#celebrations">Submissions</a></li>
+
+	</ul>
+		<h3 class="sub-header inner-hed">READER OPTIONS</h3>
+	<ul>
+	   <li class="first-child"><a href="/content/links/subscriber-services/subscribe-for-home-delivery">Home Delivery</a></li>
+	   <li><a href="/content/system/modules/com.dispatch.dsi/pages/archive.jsp" alt="Dispatch Archives">Archive</a></li>
+       <li><a href="/content/sections/services/mobile.html">Mobile</a></li>
+	   <li><a href="/content/sections/services/electronic-edition.html">E-Edition</a></li>
+	   <li><a href="/content/sections/services/newsletters.html">E-Newsletters</a></li>
+	   <li><a href="/content/sections/services/rss-feeds.html">RSS Feeds</a></li>
+	   <li><a href="/content/pages/podcasts.html">Podcasts</a></li>
+	</ul>
+</div>
+<div class="footer-column affiliate column-2">
+	<h3 class="sub-header">DISPATCH MEDIA GROUP</h3>
+    <P>BROWSE AFFILIATED SITES</p>
+	<div class="nav-select">
+		<div class="dropbutton" onClick="toggleDropDown(this, '.nav-select');return false;"><p>Select</p></div>
+		<div id="network-affiliates" class="menu clearfix">
+			<ul class="column-3 dropcol1">
+				
+				<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-bluejacketsxtra">BlueJacketsXtra</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-buckeyextra">BuckeyeXtra</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-dispatchpolitics">Dispatch Politics</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-dispatchevents">Dispatch Events</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-columbusjobs">Columbus Jobs</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-dispatchclassifieds">Dispatch Classifieds</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-columbusrealestate">Columbus Real Estate</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-columbuscars">Columbus Cars</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-10tv">WBNS-10TV</a></li>
+					</ul>
+						<ul class="column-3 dropcol2">
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-971thefan">97.1 The Fan</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-espncolumbus">ESPN Columbus</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-onnradio">ONN Radio</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-columbusalive">Columbus Alive</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-crave">Columbus Crave</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-columbusparent">Columbus Parent</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-monthly">Columbus Monthly</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-ceo">Columbus CEO</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-capitalstyle">Capital Style</a></li>
+					<li><a href="http://www.dispatch.com/content/system/shared/links/affiliate-thisweeknews">ThisWeek Community News</a></li>
+					</ul>
+		</div>
+	
+	</div>
+</div>
+
+<p class="copyright">&copy; 2013 The Dispatch Printing Company, reproduction prohibited. All Rights Reserved.</p>
+
+<div class="clear"></div>
+
+<div id="fb-root"></div>
+		</div><!-- footer -->
+	</div><!--/site-container -->
+	
+
+	
+	
+
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+	COMSCORE.beacon({
+	c1:2,
+	c2:6035088,
+	c3:"",
+	c4:"",
+	c5:"",
+	c6:"",
+	c15:""
+	});
+</script>
+
+<noscript>
+	<img src="http://b.scorecardresearch.com/b?c1=2&c2=6035088&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script language="JavaScript" type="text/javascript"> var s_account = 'dispatchdispatch';</script>
+
+<script language="JavaScript" type="text/javascript" src="http://www.dispatch.com/content/system/modules/com.dispatch.analytics/javascript/s_code.js"></script>
+
+<!-- SiteCatalyst code version: H.20.3. -->
+<script language="JavaScript" type="text/javascript">
+
+if(typeof sCodeCustom == 'object' ) {
+/************* COPYING S CODE CUSTOM PROPS TO S OBJECT ! **************/
+	jQuery.extend(true, s, sCodeCustom);
+}
+s.pageName="dispatchdispatch:news:politics:Tea_party_has_had_it_with_GOP";
+s.channel="news";
+s.prop4="story";
+s.prop11="/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html";
+if (typeof omniture == 'object' ) { for (var oItem in omniture){s[oItem] = omniture[oItem];}}s.linkInternalFilters="javascript:,columbusjobs.monster.com,dispatch.com";
+sU = window.location.href;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code) { 
+	document.write(s_code);
+}
+
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://dispatchdispatch.112.2O7.net/b/ss/dispatchdispatch/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+
+
+
+<script type='text/javascript'>var _sf_async_config={};/** CONFIGURATION START **/_sf_async_config.uid = 44599;_sf_async_config.domain = 'www.dispatch.com';_sf_async_config.sections = 'location,united_states,ohio,news,politics';_sf_async_config.authors = 'Joe Hallett';_sf_async_config.title = 'Tea party has had it with GOP';/** CONFIGURATION END **/(function(){function loadChartbeat() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +'js/chartbeat.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadChartbeat : function() { oldonload(); loadChartbeat(); };})();</script>	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<script type="text/template" id="paywall-notification-tmpl">
+			<div id="paywall-notification">
+				<span class="close-icon" onClick='dpc.paywall.toggleNotification("hide");'>X</span>
+				<img src="/content/digital/images/paywall/digital-d-icon.png" />
+				<p>Welcome to The Columbus Dispatch: Unlimited access to dispatch.com and the E-Edition is available to Digital D subscribers. Already get Digital D?
+				<a href="/content/system/modules/com.dispatch.registration/pages/login.jsp?sendback=/stories/local/2013/05/06/tea-party-has-had-it-with-gop.html&cmpid=welc_log">Please Log In</a></p>
+				<a href="http://ezpay.dispatch.com/content/catalogs/?cmpid=welc_smc" id="nag-buy" class="paywall-button">See My Choices</a>
+				<span id="nag-learn" onClick='dpc.paywall.toggleLearnMore("show");return false;' class="paywall-button clickable">Learn More</span>
+			</div>
+			<iframe id="paywall-analytics" width="1" height="1" src="/content/system/shared/modules/paywall-analytics/dispatchwelcome.jsp"></iframe>
+		</script>
+		<script type="text/template" id="paywall-modal-tmpl">			
+			<div class="modal-coverall paywall-learn-more" onClick='return dpc.paywall.toggleLearnMore("hide");'></div>
+			<div id="paywall-learn-more" class="modal-container">
+				<span class="close-icon" onClick='return dpc.paywall.toggleLearnMore("hide");'>X</span>
+				<img src="/content/images/paywall/number-1-graphic.png" id="number-one-graphic"/>
+				<img src="/content/digital/images/paywall/digital-d-icon.png" id="digital-d-icon" />
+				<a href="http://ezpay.dispatch.com/content/catalogs/" class="paywall-button secondary">Subscribe Now</a>
+				<a href="http://ezpay.dispatch.com/content/products/upgrade.jsp?ref=DispatchWelcome" class="paywall-button">Upgrade Print Subscription</a>
+				<p>Digital D is unlimited access to all dispatch.com content and the digital replica of the printed newspaper, the E-Edition. Digital D can be easily added on to your existing home delivery subscription or purchased separately. Digital D gives you unlimited access to all dispatch.com content, including our award-winning coverage of local sports, government and personalities, as well as our blogs, videos, multimedia slideshows and more!</p>
+				<div id="paywall-footer">
+					<a href="/content/sections/services/faq.html">Learn More</a>
+				</div>
+			</div>
+		</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	</body>
+	</html>

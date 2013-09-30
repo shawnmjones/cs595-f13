@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7 ie6" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Bill and Melinda Gates interview - Channel 4 News</title>
+	<meta name="google-site-verification" content="e4TWgY6lK5mcVTmwGU_QJU-k82lcCv8U-og5pStkA9w" />
+	<!-- News Head -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="title" content="Bill and Melinda Gates interview"/><meta name="synopsis" content="Jon Snow interviews Bill and Melinda Gates about their work across the world, follow the interview here. "/><meta name="description" content="Jon Snow interviews Bill and Melinda Gates about their work across the world, follow the interview here. "/>	<meta name="articleId" content="500590543" />		<meta name="imageUrl" content="/media/images/Channel4/c4-news/JAN/27/bill_melinda_w_A4.jpg"/>
+	<link rel="image_src" href="/media/images/Channel4/c4-news/JAN/27/bill_melinda_w.jpg"/><meta name="contentType" content="Feature"/><meta name="publishDate" content="2011-01-27"/><meta name="Jon Snow" content="Jon Snow"/> <meta name="Sci/Tech" content="Sci/Tech"/> 	
+		<meta name="categoryTagDisplayName" content="Sci/Tech"/>
+		<meta name="categoryTagWebSafeName" content="sci-tech"/>
+			<meta name="categoryTagPageUrl" content="/sci-tech"/>	
+		<meta name="authorTagDisplayName" content="Jon Snow"/>
+		<meta name="authorTagWebSafeName" content="jon-snow"/>
+			<meta name="authorTagPageUrl" content="/jon-snow"/><!-- bip head -->
+	<!-- bip head -->
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<link rel="apple-touch-icon" href="/static/news/news/images/global/apple-touch-icon.png" />
+	<link rel="shortcut icon" href="/static/news/news/images/global/apple-touch-icon.png" />
+	<link rel="canonical" href="/news/bill-and-melinda-gates-interview" />
+	<script src="/static/news/news/js/lib/modernizr.js"></script>
+	<script>
+	Modernizr.load([{
+	test: window.matchMedia,
+	nope: '/static/news/news/js/lib/polyfills/matchmedia.js'
+	},{
+	test: ('__proto__' in {}),
+	yep: '/static/news/news/js/lib/zepto/zepto.min.js',
+	nope: '/static/news/news/js/lib/jquery/jquery-1.7.1.min.js',
+	complete: function(){
+	if ( "Zepto" in window ) {
+	window.jQuery = Zepto;
+	window.$ = Zepto;
+	}
+	Modernizr.load({
+	load : [
+	'http://admin.brightcove.com/js/BrightcoveExperiences_all.js',
+	'/static/news/news/js/compiled.js'
+	]
+	});
+	}
+	},{
+	test: (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)),
+	yep: '/static/news/news/js/lib/polyfills/orientation-change-patch.js'
+	},{
+	test: Modernizr.input.placeholder,
+	nope: '/static/news/news/js/lib/polyfills/placeholder.js'
+	}
+	]);
+	</script>
+	<!--
+	'/static/news/news/js/tracking/controller.js'
+	//-->
+	<meta name="c4Id" content="fourid" /><!-- 4iD flag --><meta name="FourIdDomain" content="4id.channel4.com" /><!-- 4iD Domain -->
+	<!-- GLOBAL HEADER & FOOTER CSS -->
+	<link type="text/css" href="//www.channel4.com/static/globalnav/css/networknav_responsive.css" rel="stylesheet"/>
+	<script type="text/javascript" src="//www.channel4.com/static/globalnav/js/XD.js"></script>
+	<!-- AUTOCOMPLETE SEARCH, IDENTITY MANAGEMENT -->
+	<!-- IMPORTANT: DO NOT IMPORT jQUERY ABOVE THIS IMPORT -->
+	<script type="text/javascript" src="//www.channel4.com/static/globalnav/js/globalscripts.js"></script>
+	<!-- Maxymiser script start -->
+	<script type="text/javascript" src="//service.maxymiser.net/cdn/channel4/js/mmcore.js"></script>
+	<!-- Maxymiser script end -->
+	<!-- NavTracer -->
+	<script type="text/javascript">
+	if (window.C4) { C4.NavTracer && C4.NavTracer.add('head', '/responsive/head/small'); }
+	</script>
+	<link rel="stylesheet" href="http://f.fontdeck.com/s/css/7AQAmpoM/M3IEPycSkaAddZRXbw/www.channel4.com/22479.css" type="text/css" />
+	<link type="text/css" rel="stylesheet" href="/static/news/news/css/main.css" />
+	<!--link rel="stylesheet" type="text/css" media="print" href="/static/news/news/css/layout/print.css" /-->
+	<!-- DB01 -->
+	<!-- head -->
+	
+</head>
+<body>
+	
+	<div id="site-wrapper">
+
+		<div id="skipLinks">
+					<ul>
+						<li><a tabindex="0" href="#site-body">Skip to Channel 4 News main content</a></li>
+						<li><a tabindex="1" href="#freetext">Skip to Channel 4 News search</a></li>
+						<li><a tabindex="2" href="#explore-contents">Skip to Channel 4 News navigation</a></li>
+						<li><a tabindex="3" href="#network-header">Skip to Channel 4 navigation</a></li>
+					</ul>
+				</div>
+
+				<div id="network-header" class="receptacle">
+
+					<div class="inner">
+						<!-- c4 global nav -->
+						<div id="C4NetworkNav">
+
+						<div id="C4SitesNav">
+							<a class="c4listtitle" href="#">Channel 4 Sites</a>		
+							<ul class="c4linklist">
+								<li class="siteChannel4 c4footerFirst"><a target="_top" href="http://www.channel4.com">CHANNEL 4</a></li>
+								<li class="site4seven"><a title="4SEVEN" target="_top" href="http://www.channel4.com/4seven">4SEVEN</a></li>
+								<li class="siteFilm4"><a title="FILM4" target="_top" href="http://www.film4.com">FILM4</a></li>
+								<li class="siteMore4"><a title="MORE4" target="_top" href="http://www.more4.com">MORE4</a></li>
+								<li class="siteE4"><a title="E4" target="_top" href="http://www.e4.com">E4</a></li>
+								<li class="site4music"><a title="4MUSIC" target="_top" href="http://www.4music.com">4MUSIC</a></li>
+								<li class="site4od c4navLast"><a title="4oD" target="_top" href="http://www.channel4.com/programmes/4od">4oD</a></li>
+							</ul>
+						</div>
+						<ul class="c4linklist" id="C4IdManagementNav">
+						    <li id="C4LoginLink"><a href="https://www.channel4.com/4me/account">Sign in</a></li>
+						    <li id="C4RegistrationLink"><a href="https://www.channel4.com/4me/registration">Register</a></li>
+						    <li id="C4WhyRegisterLink"><a href="https://www.channel4.com/4me/http/why-register">Why Register?</a></li>
+						    <li id="C4CookiesLink" class="c4navLast"><a href="http://www.channel4.com/4viewers/cookies">Cookies</a></li>
+						</ul>
+
+						<script>
+							if(document.querySelector) {
+								document.querySelector('#C4SitesNav .c4listtitle').onclick = function(){
+									el = this.parentElement;
+									if ( el.className.indexOf('open') === -1 ) {
+										el.className += ' open';
+									} else {
+										el.className = el.className.replace(' open', '');
+									}
+									return false;
+								}
+							}
+						</script>
+
+						</div>
+
+
+
+
+						<div id="fb-root"></div>
+
+						<script type="text/javascript" src="//connect.facebook.net/en_GB/all.js"></script>
+
+						<script type="text/javascript">
+						// <![CDATA[
+						if(window.FB && FB.init) {
+						FB.init({
+						appId  : "380105902791",
+						status : true, // check login status
+						cookie : true, // enable cookies to allow the server to access the session
+						xfbml  : true, // parse XFBML
+						oauth  : true
+						});	
+						}	
+						// ]]>
+						</script>
+						<script type="text/javascript">
+						// <![CDATA[
+							
+						if(window.C4){
+						if(C4.Identity && C4.Identity.Controller){ C4.Identity.Controller.init();}
+						}	
+						// ]]>
+						</script>
+
+
+						<!-- NavTracer -->
+						<script type="text/javascript">
+						    if (window.C4) { C4.NavTracer && C4.NavTracer.add('header', '/responsive/header/small/nosearch'); }
+						</script>
+
+					</div>
+
+				</div>
+
+				<div id="site-masthead" class="receptacle header site-masthead">
+					<div class="inner">
+						<div class="section">
+							<a class="site-brand" href="/news/">Channel 4 News</a>
+
+							<div class="find">
+
+								<p class="listings"><a href="http://watchlive.channel4.com/" class="watch-live">Watch live</a> 7pm weekdays, weekend timings see <a href="/tv-listings">TV listings</a></p>
+								
+								<div id="explore" class="nav explore-nav">
+									<div class="button-wrapper"><a href="#site-footer" class="button"><span>Explore <b>News</b></span></a></div>
+									<div class="explore-panel">
+										<div class="panel-inner"></div>
+									</div>
+								</div>
+								
+								<form action="/news/search" method="get" class="search">
+									<input value="news" type="hidden" name="coreSiteName">
+									<div class="container">
+										<label for="search-freetext">Search:</label>
+										<input name="freetext" id="search-freetext" class="keywords" type="search" placeholder="Search News" size="34">
+									</div>							
+									<button type="submit"><span>Go</span></button>
+								</form>
+								
+							</div>
+							
+							<div class="quicklinks">
+						
+							<ul class="nav block-nav">
+								<li class="nav-item weather">
+									<a href="/weather/" class="item-link">
+										<i class="icon icon--weather"></i>
+										<p><span class="nav-title">Weather</span>
+											<span class="nav-desc">The weather for the next 5 days</span></p>
+									</a>
+								</li>
+								<li class="nav-item catchup">
+									<a href="/news/catch-up/" class="item-link">
+										<i class="icon icon--catchup"></i>
+										<p><span class="nav-title">Catch Up</span>
+											<span class="nav-desc">Watch from the last 7 days</span></p>
+									</a>
+								</li>
+								<li class="nav-item snowmail">
+									<a href="http://mailing.channel4.com/public/snowmail/remotebox.jsp" class="item-link">
+										<i class="icon icon--snowmail"></i>
+										<p><span class="nav-title">Snowmail</span>
+											<span class="nav-desc">Delivered daily to your inbox</span></p>
+									</a>
+								</li>
+								<li class="nav-item blogs">
+									<a href="http://blogs.channel4.com/news/" class="item-link">
+										<i class="icon icon--blogs"></i>
+										<p><span class="nav-title">Blogs</span>
+											<span class="nav-desc">Insight from the news team</span></p>
+									</a>
+								</li>
+								
+							</ul>
+						
+							</div>
+						
+						
+							
+						</div>
+					</div>
+				</div>
+		
+		<div id="site-body" class="receptacle body layout-wrapper layout-article">
+
+			<div class="inner">
+
+				<div class="section primary">
+
+					<div class="section-inner">
+					
+						<div class="main">
+							<div class="article">
+								<div class="article-header">
+									<div class="meta">
+										<span class="pubDateTime">
+											<span class="day">Thursday</span> <span class="date">27 January 2011</span>
+										</span>
+										<span class="tags">
+
+															<a class="category" href="/news/sci-tech">Sci/Tech</a>
+																
+										</span>
+									</div>
+										<h1>Bill and Melinda Gates interview</h1><div class="social-buttons">
+											<div class="social-button twitter">
+												<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+												<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>		
+											</div>
+											<div class="social-button facebook">
+												<fb:like send="false" layout="button_count" width="90" show_faces="false" action="recommend"></fb:like>
+											</div>
+										    <div class="social-button google-plus">
+										        <!-- Place this tag where you want the +1 button to render. -->
+										        <div class="g-plusone" data-size="medium"></div>
+
+										        <!-- Place this tag after the last +1 button tag. -->
+										        <script type="text/javascript">
+										            window.___gcfg = {lang: 'en-GB'};
+
+										            (function() {
+										                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+										                po.src = 'https://apis.google.com/js/plusone.js';
+										                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+										            })();
+										        </script>
+										    </div>
+										</div>
+
+										<div class="correspondent">
+											<a class="image" href="/news/jon-snow"><img alt="Jon Snow" src="/media/images/Channel4/c4-news/authors/jon-snow-l.png"></a>
+											<div class="detail">
+												<span class="name"><a href="/news/jon-snow">Jon Snow</a></span>
+												<span class="role">Presenter</span>				
+											</div>
+										</div>
+								</div>
+								
+								<div class="article-body">
+									<p class="synopsis">Jon Snow interviews Bill and Melinda Gates about their work across the world, follow the interview here. </p>
+
+										<div id="cms:500592808" class="module groupID-AV c1 moduleID-AV01">
+											<div class="componentRow">
+
+
+												<div class="component">	
+													<div class="currentVideoDisplay cf">
+
+																<div class="ads false video">	
+																	<div class="playerId-1677202496001-FLAV">
+																		<div id="assetId-764211497001" class="video-recepticle ads-false">
+																			<p>Please wait while this video loads. If it doesn't load after a few seconds you may need to have Adobe Flash installed.</p>
+																
+																		</div>
+																	</div>
+																	
+																</div>
+																
+													</div>
+												</div>
+											</div>
+										</div> <div id="cms:500590557" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													<p>The Bill and Melinda Gates Foundation and the Crown Prince of Abu Dhabi have pledged $100 million to deliver vaccines to children in Afghanistan and Pakistan.</p>
+													<p>Each are donating $50 million to help treat children with five deadly diseases, as well as pneumonia. A third of the funds will be used to get the polio vaccine to as many as 35 million children. Jon Snow interviewed Bill and Melinda Gates, who are at the World Economic Forum in Davos, live earlier today. Follow the blog reaction and watch the video above.</p>
+													<p> </p> 		
+												</div>
+											</div>
+											
+										</div> <div id="cms:500591582" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													<pre><strong>Jon Snow writes on interviewing Bill and Melinda Gates:<br /><br /></strong>Either the richest or second richest man in the world, you don't easily turn down an interview with Bill Gates.<br /><br />When you manage to secure an interview with both Bill, and Melinda gates, it's clearly quite a moment. Whatever your feelings about wealth and riches, Earth has never seen the scale of philanthropy that the Microsoft founder has amassed and secured for good causes in the developing world.<br /><br />The interview airs tonight on Channel 4 News and viewers have been tweeting questions for it all day. Bill's reputation is as technology man, and much of his money has been spent on the search for technological answers to disease.<br /><br />Some have argued he's favoured vaccines over the human factors - more nurses, doctors and community development. But his wife Melinda has compensated to some extent by channelling more recent gates funding into these areas. The Gates Foundation has also been behind a huge GM crop programme in India, which is locally controversial.<br /></pre> 		
+												</div>
+											</div>
+											
+										</div> <div id="cms:500591158" class="module c1 moduleID-AT04">
+											<div id="userContent">
+												<div class="componentRow">
+													<iframe src="http://www.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast/altcast_code=e82d36ffd2/height=650/width=620" scrolling="no" height="650px" width="620px" frameBorder ="0" allowTransparency="true"  ><a href="http://www.coveritlive.com/mobile.php/option=com_mobile/task=viewaltcast/altcast_code=e82d36ffd2" >Bill and Melinda Gates interview</a></iframe>
+
+												</div>
+											</div>
+										</div> <div id="cms:500591579" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													 		
+												</div>
+											</div>
+											
+										</div> 
+
+										<div id="cms:500590558" class="module groupID-FL minilist c moduleID-FL01-list">
+											<h3>More on this story</h3>
+
+																<div class="component">
+																	<ul>
+
+																				<li class="article">
+																					<a class="image" href="http://whoknowswho.channel4.com/stories/Bill_Gates%3A_capitalist_to_philanthropist">
+																						<img alt="" src="_SML.">
+																					</a>
+																					
+																					<div class="article">
+																						<h4><a href="http://whoknowswho.channel4.com/stories/Bill_Gates%3A_capitalist_to_philanthropist">Bill Gates: capitalist to philanthropist</a></h4>
+																		 
+																					
+																					
+																					</div>
+																					
+																				</li>
+																						
+																	</ul>
+																</div>
+															
+													
+												
+										</div> 
+
+								</div>
+							</div>
+						</div>
+						
+					</div>
+
+				</div>
+
+				<div class="section secondary">
+				
+					<div class="section-inner">
+						<div class="supporting">
+						<div class="aside">
+							<div id="advert-mpu" class="advert-mpu">
+								<span class="advert-text">Advertisement</span>
+							</div>
+						</div>
+
+							<div class="module mi1 groupID-FL c moduleID-FL01-list">
+								<h3 class="cufon">Today's latest articles</h3>
+								<div class="componentRow">
+									<div class="component">
+										<ul>
+
+													<li class="article">
+														<a href="/news/drugs-testing-ecstasy-cocaine-mdma-nightclubs-austria" class="image" >
+															<img src="/media/images/Channel4/c4-news/2013/September/30/30_nightclub_w_SML.jpg" alt="Drugs testing ecstasy cocaine MDMA nightclubs Austria">
+														</a>
+														<div class="article">
+															<h4><a href="/news/drugs-testing-ecstasy-cocaine-mdma-nightclubs-austria" >Nightclub drug tests: saving lives or quality control?</a></h4>
+															<p class="pubDateTime">30 Sep 2013</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/golden-dawn-greece-police-organised-crime-murder" class="image" >
+															<img src="/media/images/Channel4/c4-news/2013/September/30/30_pappas_g_w_SML.jpg" alt="News">
+														</a>
+														<div class="article">
+															<h4><a href="/news/golden-dawn-greece-police-organised-crime-murder" >Golden Dawn's leaders accused of ordering murders</a></h4>
+															<p class="pubDateTime">30 Sep 2013</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/lynette-white-no-further-action-for-police" class="image" >
+															<img src="/media/images/Channel4/c4-news/2013/May/20/c4gfx lynette white_police_w_SML.jpg" alt="Lynette White">
+														</a>
+														<div class="article">
+															<h4><a href="/news/lynette-white-no-further-action-for-police" >Lynette White: no further action for police</a></h4>
+															<p class="pubDateTime">30 Sep 2013</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/shutdown-obamacare-republicans-debt-ceiling" class="image" >
+															<img src="/media/images/Channel4/c4-news/2013/September/30/30_shutdown_g_w_SML.jpg" alt="Capitol Hill (getty)">
+														</a>
+														<div class="article">
+															<h4><a href="/news/shutdown-obamacare-republicans-debt-ceiling" >US government shutdown looms as Republicans go to the edge</a></h4>
+															<p class="pubDateTime">30 Sep 2013</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/italy-enrico-letta-silvio-berlusconi-pdl-confidence-vote" class="image" >
+															<img src="/media/images/Channel4/c4-news/2013/September/30/30_letta_g_w_SML.jpg" alt="Italian Prime Minister Enrico Letta (R)">
+														</a>
+														<div class="article">
+															<h4><a href="/news/italy-enrico-letta-silvio-berlusconi-pdl-confidence-vote" >Berlusconi ministers' resignations sparks chaos in Italy</a></h4>
+															<p class="pubDateTime">30 Sep 2013</p>
+														</div>
+													</li>
+															
+										</ul>
+									</div>
+								</div>
+							</div> <div class="module mi2 groupID-VL c moduleID-VL12">
+								<h3 class="cufon">Latest Sci/Tech articles</h3>
+								<ul class="standlist">
+									<li><a href="/news/drugs-testing-ecstasy-cocaine-mdma-nightclubs-austria">Nightclub drug tests: saving lives or quality control?</a></li><li><a href="/news/can-we-beat-climate-change-with-geoengineering-ipcc-report-global-warming">Can we beat climate change with geoengineering?</a></li><li><a href="/news/broadband-rural-area-map-where-is-internet-best-worst">Broadband blackspots: is your internet up to speed?</a></li><li><a href="/news/drugs-dark-web-atlantis-silk-road-police-fbi">How illegal drugs are bought and sold on the dark web</a></li><li><a href="http://blogs.channel4.com/tom-clarke-on-science/sure-dammit-ipccs-latest-verdict-global-warming/470">'Sure as dammit' - IPCC's latest verdict on global warming</a></li>		
+								</ul>
+								<span class="exploreLink"><a href="/news/sci-tech">See all Sci/Tech articles</a></span>
+							</div> <div class="module mi3 groupID-VL c moduleID-VL13">
+								<h3 class="cufon">Article Tags</h3>
+								<div class="component">
+									<a href="/news/jon-snow">Jon Snow</a>, <a href="/news/sci-tech">Sci/Tech</a>		
+								</div>
+							</div> 
+
+						</div>
+					</div>
+
+				</div>
+				
+
+			</div>
+
+		</div>
+		
+		<div id="site-footer" class="receptacle site-footer">
+					<div class="inner">
+					<a class="site-brand" href="/news/"><img src="/static/news/news/images/global/4news-logo-footer.png" width="70" height="89" alt="Channel 4 News"></a>
+								
+						<h4 class="explore-title">Explore News <a href="#network-header" class="to-top">back to top &uarr;</a></h4>
+								
+						<div id="primary-nav" class="section">
+									
+							<div id="quicklinks-content">
+													
+								<ul class="nav block-nav">
+									<li class="nav-item weather">
+											
+									</li>
+									<li class="nav-item catchup">
+										<a href="/news/catch-up/" class="item-link">
+											<i class="icon icon--catchup"></i>
+											<p><span class="nav-title">Catch Up</span>
+												<span class="nav-desc">Watch from the last 7 days</span></p>
+										</a>
+									</li>
+									<li class="nav-item snowmail">
+										<a href="http://mailing.channel4.com/public/snowmail/remotebox.jsp" class="item-link">
+											<i class="icon icon--snowmail"></i>
+											<p><span class="nav-title">Snowmail</span>
+												<span class="nav-desc">Delivered daily to your inbox</span></p>
+										</a>
+									</li>
+									<li class="nav-item blogs">
+										<a href="http://blogs.channel4.com/news/" class="item-link">
+											<i class="icon icon--blogs"></i>
+											<p><span class="nav-title">Blogs</span>
+												<span class="nav-desc">Insight from the news team</span></p>
+										</a>
+									</li>
+									
+								</ul>
+
+							</div>
+									
+							<div id="explore-content">
+															
+										<div class="nav">
+											
+											<ul class="hublinks">
+												<li><a href="http://blogs.channel4.com/news/">Blogs</a></li>
+												<li><a href="/news/news-team">News Team</a></li>
+												<li><a href="/news/special-reports">Special Reports</a></li>
+												<li><a href="/news/categories">Categories</a></li>							
+												<li><a href="/news/countries">Featured Countries</a></li>
+											</ul>
+											
+										</div>
+										
+									</div>
+									
+								</div>
+								
+								<div id="secondary-nav" class="section">
+									
+									<ul class="nav">
+										<li class="standlist">
+											<h5 class="title">About</h5>
+											<ul class="items">
+												<li><a href="/news/about-channel-4-news">About the programme</a></li>
+												<li><a href="/news/frequently-asked-questions">Frequently asked questions</a></li>
+												<li><a href="/news/contact-channel-4-news">Contact us</a></li>
+											</ul>
+										</li>
+										<li class="standlist">
+											<h5 class="title">Network</h5>
+											<ul class="items">
+												<li><a href="http://blogs.channel4.com/factcheck/">FactCheck</a></li>
+												<li><a href="/programmes/unreported-world/">Unreported World</a></li>
+												<li><a href="/programmes/dispatches/">Dispatches</a></li>
+											</ul>
+										</li>
+										<li class="sociallist">
+											<h5 class="title">Elsewhere</h5>
+											<ul class="items">
+												<li><a href="http://twitter.com/channel4news"><i class="social twitter"></i>Twitter</a></li>
+												<li><a href="http://www.facebook.com/Channel4News"><i class="social facebook"></i>Facebook</a></li>
+												<li><a href="http://www.youtube.com/user/channel4news"><i class="social youtube"></i>YouTube</a></li>
+												<li><a href="/news/rss"><i class="social rss"></i>RSS Feeds</a></li>
+											</ul>
+										</li>
+									</ul>
+								
+								</div>
+					</div>
+				</div>
+				<div id="network-footer" class="receptacle c4nwkLight">
+					<div class="inner">
+					<!-- START OF GLOBAL FOOTER -->
+					<div id="C4NetworkFooter">
+						
+						<div id="c4footer">
+							<ul>
+								<li class="c4footerChannel4 c4footerFirst"><a target="_top" href="http://www.channel4.com">CHANNEL 4</a></li> 
+								<li class="c4footer4Seven"><a target="_top" href="http://www.channel4.com/4seven">4seven</a></li>
+								<li class="c4footerFilm4"><a target="_top" href="http://www.film4.com">FILM4</a></li> 
+								<li class="c4footerMore4"><a target="_top" href="http://www.more4.com">MORE4</a></li>
+								<li class="c4footerE4"><a target="_top" href="http://www.e4.com">E4</a></li> 
+								<li class="c4footer4Music"><a target="_top" href="http://www.4music.com">4MUSIC</a></li>
+								<li class="c4footer4oD c4footerLast"><a target="_top" href="http://www.channel4.com/programmes/4od">4oD</a></li>
+
+
+								<li class="paralympics"><a title="Paralympics" target="_top" href="http://paralympics.channel4.com/">PARALYMPICS</a></li>
+							</ul>		
+						</div>
+						
+						<div id="C4FooterLinks">
+							<span class="c4listtitle">Useful Links</span>
+							<ul class="c4footerLinks">
+								<li><a href="http://www.channel4.com/info/" target="_top" title="Info">Info</a></li>
+								<li><a href="http://www.channel4.com/info/press" target="_top" title="Press">Press</a></li>
+								<li><a href="http://www.channel4.com/info/commissioning" target="_top" title="Commissioning">Commissioning</a></li>
+								<li><a href="http://www.channel4.com/annualreport" target="_top" title="Annual Report">Annual Report</a></li>
+								<li><a href="http://www.channel4.com/about4" target="_top">Corporate</a></li>
+								<li><a href="http://www.channel4.com/info/corporate/corporate-responsibility" target="_top" title="Corporate Responsibility">Corporate Responsibility</a></li>
+								<li><a href="http://www.channel4.com/info/corporate/legal/foi-home" target="_top">Freedom of Information Act</a></li>
+								<li><a href="http://www.channel4.com/4talent" target="_top">Talent</a></li>
+								<li><a href="http://www.channel4.com/4careers/4careers_new/" target="_top">Jobs</a></li>
+								<li><a href="http://www.channel4sales.com/home" target="_top">Sales</a></li>
+								<li><a href="http://www.channel4.com/4viewers/ts-and-cs" target="_top">Terms and Conditions</a></li>
+								<li><a href="http://www.channel4.com/static/global/html/parentalContent.html" target="_top">Parental Control</a></li>
+								<li><a href="http://www.channel4.com/4viewers/privacy" target="_top">Privacy Policy</a></li>
+								<li><a href="http://www.channel4.com/microsites/A/access/signed_programmes.html " target="_top">Accessibility</a></li>
+								<li><a href="http://www.channel4.com/about4/diversity.html" target="_top">Diversity</a></li>
+								<li><a href="http://www.channel4.com/blogs" target="_top" title="C4 BLOGS">BLOGS</a></li>
+								<li><a href="http://www.channel4.com/4viewers/contact-us" target="_top">Contact Us</a></li>
+								<li><a href="http://www.channel4.com/4viewers/faq" target="_top">FAQs</a></li>
+					            <li><a href="http://www.channel4store.co.uk" target="_top">C4STORE</a></li>
+							</ul>
+						</div>
+
+						<p id="c4coda">Channel 4 &#169; 2013. We have updated our <a href="http://www.channel4.com/4viewers/ts-and-cs" target="_top">terms and conditions</a> and <a href="http://www.channel4.com/4viewers/privacy" target="_top">privacy policy</a>. Please ensure you read both documents before using our Digital Products and Services.</p> 
+						
+						
+					</div>
+
+						<script>
+							if(document.querySelector) {
+								document.querySelector('#C4FooterLinks .c4listtitle').onclick = function(){
+									el = this.parentElement;
+									if ( el.className.indexOf('open') === -1 ) {
+										el.className += ' open';
+									} else {
+										el.className = el.className.replace(' open', '');
+									}
+									return false;
+								}
+							}
+						</script>
+					<!-- END OF GLOBAL FOOTER -->
+					<script type="text/javascript">
+					var _qevents = _qevents || [];
+
+					(function() {
+					var elem = document.createElement('script');
+					elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+					elem.async = true;
+					elem.type = "text/javascript";
+					var scpt = document.getElementsByTagName('script')[0];
+					scpt.parentNode.insertBefore(elem, scpt);
+					})();
+
+					_qevents.push({
+					qacct:"p-553iJdKqvkFEs"
+					});
+					</script>
+
+					<noscript>
+					<div style="display:none;">
+					<img src="//pixel.quantserve.com/pixel/p-553iJdKqvkFEs.gif" border="0" height="1" width="1" alt="Quantcast"/>
+					</div>
+					</noscript>
+
+
+
+					<!-- NavTracer -->
+					<script type="text/javascript">
+					    if (window.C4) { C4.NavTracer && C4.NavTracer.add('footer', '/responsive/footer/small'); }
+					</script>
+
+					</div>
+				</div>
+				<script type="text/javascript" src="http://www.channel4.com/media/scripts/freewheel/adverts.js"></script>
+				<!-- SiteCatalyst code version: H.17.
+					Copyright 1997-2006 Omniture, Inc. More info available at
+					http://www.omniture.com -->
+				    <script type="text/javascript" src="/static/global/js/lib/omniture/jptag.js"></script>
+				    <script type="text/javascript" src="/static/global/js/lib/omniture/s_code.js"></script>
+
+					<script type="text/javascript"><!-- 
+					/* You may give each page an identifying name, server, and channel on
+					the next lines. */
+					s.pageName=c4props("pagename");
+					s.server=c4props("server");
+					s.pageType="";
+					s.channel=c4props("vertical");
+					s.prop1=c4props("domain");
+					s.prop2=c4props("vertical");
+					s.prop3=c4props(3);
+					s.prop4=c4props(4);
+					s.prop5=c4props(5);
+					s.prop6=c4props(6);
+					s.prop7="ID:500590539|ARTICLEID:500590543|SITE:" + s.prop2;  
+					s.prop8=c4props(8);
+					s.prop9=c4props(9);
+					s.prop13=c4props(13);
+					s.prop15=c4props(15);
+					s.prop16=c4props(16);
+					s.prop18=c4props(18);
+					s.prop34=c4props(34);
+					s.prop36=c4props(36);
+					s.prop42=c4props(42);
+					s.prop48=c4props(48);
+
+					/* E-commerce Variables */
+					s.campaign="";
+					s.state="";
+					s.zip="";
+					s.events="";
+					s.products="";
+					s.purchaseID="";
+					s.eVar1=c4props("domain");
+					s.eVar2=c4props("vertical");
+					s.eVar3=c4props(3);
+					s.eVar4=c4props(4);
+					s.eVar5=c4props(5);
+					s.eVar6=c4props(6);
+					s.eVar7=s.prop7;
+					s.eVar8=c4props(8);
+					s.eVar18 = s.prop18;
+					s.eVar25 = s.prop25;
+					s.eVar26 = s.prop26;
+					s.eVar27 = s.prop27;
+					s.eVar34 = s.prop34;
+					s.eVar36 = s.prop36;
+					s.eVar42 = s.prop42;
+					s.eVar48 = s.prop48;
+					
+					c4pageInfluenceEvent();
+					c4searchResultsEvent();
+					
+					s.hier1=c4props("hier");
+					/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+					if(window.location.href.indexOf('fb_xd_fragment') === -1) {
+				        	var s_code=s.t();
+				        	if(s_code) { 
+				           	 	document.write(s_code);
+				       		}
+				    	}
+				    	//--></script>
+					<script type="text/javascript"><!--
+					if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+					//--></script><!--/DO NOT REMOVE/-->
+					<!-- End SiteCatalyst code version: H.17. -->
+
+	</div>	
+	
+</body>
+</html>

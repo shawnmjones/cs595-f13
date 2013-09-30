@@ -1,0 +1,1627 @@
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+
+	<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><meta name="title" content="Literary Coursewear Challenge - Request for Proposal" />
+
+		<!-- CSS -->
+		<link rel="stylesheet" type="text/css" media="screen,print" href="/stylesheets/gfo/style.min.min.css?r=E82E85E6B9ACE9818A71F30B2A2044B5" /><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/gfo/responsive.min.css?r=7EC1D9A41C3C29CBB267FE02DE6ACC27" /><link rel="stylesheet" type="text/css" media="screen,print" href="/stylesheets/gfo/search.min.css?r=D3D846FA5233880706E5018894B49F07" /><link rel="stylesheet" type="text/css" media="print" href="/stylesheets/gfo/print.min.css?r=B766AEC5C6F77AF4024B3FE6CED8543F" /><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/gfo/jquery.loadmask.min.css?r=4EADE2AC96C5D7F472375E93C2B6A0B1" />
+		
+		<!-- JavaScript -->
+
+		<script src="https://use.typekit.net/fdu6nid.js"></script>
+		<script>try { Typekit.load(); } catch (e) { }</script>
+
+		<script src="/javascripts/gfo/libs/modernizr2.6.1.min.js?r=46EF7709826990CBB7C630686537E7DA"></script>
+
+		<!-- Grab Google CDN's jQuery. Fall back to local if offline. -->
+		
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		
+		<script>
+			window.jQuery || document.write('<script src="/javascripts/gfo/libs/jquery-1.7.2.js"><\/script>')
+		</script>
+
+		<!--[if IE]>
+			<script src="/javascripts/gfo/libs/json2.min.js?r=82D75B929B71AE95560495B89A895356"></script>
+		<![endif]-->
+
+		
+		<script src="/javascripts/gfo/libs/combined.js?r=E0109794449359A20C7E79886943AE3D"></script><script src="/javascripts/gfo/combined.js?r=D5393D05D736B0BA09BD2C41DAFCFEDA"></script>
+			
+		<!-- Scripts for search pages. -->
+		
+			<script>
+				log = function () {};
+			</script>
+		
+		
+		<script>
+			jQuery(document).ready(function() {
+				var twoLetter = 'en';
+				var langStr = twoLetter != 'zh' ? twoLetter : 'zh-cn';
+				moment.lang(langStr); 
+			});
+			
+			SitecorePageMode = {
+				IsPageEditor: false,
+				IsNormal: true,
+				IsPreview: false,
+				IsProfiling: false,
+				IsDebugging: false
+			}
+		</script>
+	<title>
+	Literacy Courseware Challenge - Request for Proposal - Bill &amp; Melinda Gates Foundation
+</title></head>
+
+	<body class="home">
+		<form name="form1" method="post" action="/how-we-work/general-information/grant-opportunities/literary-courseware-challenge-rfp" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=AQGG5VCZxm0ozRwpYBERCpqU_KK8RK4WNCeHO71x46SCQ5adClO2MnVWERibwIy2F1FvOjT0ia6fweON37YdtI13PHo1&amp;t=634994956515777402" type="text/javascript"></script>
+
+
+<script src="/javascripts/gfo/strategy.js?v=0" type="text/javascript"></script>
+<script src="/WebResource.axd?d=UL29IfLN_4aHHZ31CU0CbcBrBBAtDtCtBGsu2nV7UsYcUaIKnlUcPM2Y4FQC6qXRHInGGc5l78lYMJg1suf0boVR5AY1&amp;t=634994956515777402" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="8c6aEWPhU1Kh09fjG8ih4VcOGF9pMNDUfWUGr4q9wXlyh+NvPL7QSxk+UI8BX8Gr5jUOqRpgUyYuxPIu7oQsmkoOM28eqPRwbaRDNjQ6cyKzw8g9R+KY7XEcVPo=" />
+</div>
+			<div class="mainContainer">
+				<noindex>
+<header class="mainHeader" role="banner">
+	<div class="wrapper">
+		<h1>Bill &amp; Melinda Gates foundation
+			<a id="headerregion_0_hlLogo" href="/"><img src="/~/media/GFO/Site/Logo Images/icon_small_bill_melinda_gates_foundation_logo.png" alt="" width="178" height="178"></a>
+		</h1>
+		
+
+<div class="languageBar" role="menubar">
+	<a class="selector" href="#" role="menuitem" tabindex="0" aria-haspopup="true">
+		<span>Languages</span>
+		<span class="short">en</span>
+	</a>
+	<div class="subMenu" role="menu" aria-hidden="true">
+		
+			<ul>
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl01_lnkLanguage" class="first omni-link-tracker" href="/" omni-title="Language: English" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=English;eVar17=English">
+					        <span>English</span>
+					        <span class="short">en</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl02_lnkLanguage" class=" omni-link-tracker" href="/de" omni-title="Language: Deutsch" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Deutsch;eVar17=Deutsch">
+					        <span>Deutsch</span>
+					        <span class="short">de</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl03_lnkLanguage" class=" omni-link-tracker" href="/fr" omni-title="Language: Français" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Français;eVar17=Français">
+					        <span>Français</span>
+					        <span class="short">fr</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl04_lnkLanguage" class=" omni-link-tracker" href="/es" omni-title="Language: Español" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=Español;eVar17=Español">
+					        <span>Español</span>
+					        <span class="short">es</span>    
+					    </a>
+					</li>
+				
+					<li role="menuitem" tabindex="-1">
+					    <a id="headerregion_0_langSel_rptLanguageSelector_ctl05_lnkLanguage" class=" omni-link-tracker" href="/zh" omni-title="Language: 中文" omni-events="event1" omni-vars="prop17,eVar17,events" omni-values="prop17=中文;eVar17=中文">
+					        <span>中文</span>
+					        <span class="short">zh</span>    
+					    </a>
+					</li>
+				</ul>
+	</div>
+</div>
+
+		
+		<div class="searchForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;headerregion_0_searchBox_btnSearch&#39;)">
+	
+
+	<div>
+		<input name="headerregion_0$searchBox$txtKeywords" type="text" id="headerregion_0_searchBox_txtKeywords" class="input-text has-placeholder" name="q" placeholder="Search" />
+		<span id="headerregion_0_searchBox_rfvKeywords" style="color:Red;visibility:hidden;"></span>
+		<input type="submit" name="headerregion_0$searchBox$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;headerregion_0$searchBox$btnSearch&quot;, &quot;&quot;, true, &quot;headerSearch&quot;, &quot;&quot;, false, false))" id="headerregion_0_searchBox_btnSearch" class="searchButton" />
+		<div class="replacement">GO</div>
+	</div>
+	<a href="#" class="mobile ir">Expand Search<span></span></a>
+
+
+</div>
+
+		<nav role="navigation">
+				
+						<ul role="menubar">
+					
+						<li id="headerregion_0_rptMainNav_ctl01_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true" class="first">
+							
+							<a href="/Who-We-Are">Who We Are</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>General Information</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Letter-from-Bill-and-Melinda-Gates">Letter from Bill and Melinda Gates</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Leadership">Leadership</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Who-We-Are/General-Information/History">History</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Foundation-Factsheet">Foundation Fact Sheet</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Financials">Financials</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Regional-Offices">Regional Offices</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Resources &amp; Media</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/Resources-and-Media/Annual-Letters-List">Annual Letters</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/Resources-and-Media/Annual-Reports">Annual Reports</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Media-Center">Press Room</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Quick Links</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Visitor-Center">Visitor Center</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Jobs">Jobs</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl01_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						<li id="headerregion_0_rptMainNav_ctl02_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true">
+							
+							<a href="/What-We-Do">What We Do</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>Global Health</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Discovery-and-Translational-Sciences">Discovery &amp; Translational Sciences</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Enteric-and-Diarrheal-Diseases">Enteric and Diarrheal Diseases</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Health/HIV">HIV</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Malaria">Malaria</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Neglected-Infectious-Diseases">Neglected Infectious Diseases</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Pneumonia">Pneumonia</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/What-We-Do/Global-Health/Tuberculosis">Tuberculosis</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Global Development</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Agricultural-Development">Agricultural Development</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Emergency-Response">Emergency Response</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Family-Planning">Family Planning</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Financial-Services-for-the-Poor">Financial Services for the Poor</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Global-Libraries">Global Libraries</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Maternal-Neonatal-and-Child-Health">Maternal, Neonatal &amp; Child Health</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Nutrition">Nutrition</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Polio">Polio</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Vaccine-Delivery">Vaccine Delivery</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl09_hlSubNavMenuItem" href="/What-We-Do/Global-Development/Water-Sanitation-and-Hygiene">Water, Sanitation &amp; Hygiene</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>U.S. Program</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/US-Program/College-Ready-Education">College-Ready Education</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/US-Program/Postsecondary-Success">Postsecondary Success</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/US-Program/Washington-State">Washington State</a></li>
+														
+													
+											</ul>
+									
+											<h2>Global Policy &amp; Advocacy</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Tobacco-Control">Tobacco Control</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/G20-Report">G20 Report</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Vaccine-Summit">Vaccine Summit</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl02_rptSubNavColumns_ctl02_rptSubNav_ctl01_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/What-We-Do/Global-Policy/Regional-Offices">Regional Offices</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						<li id="headerregion_0_rptMainNav_ctl03_liMainMenuItem" role="menuitem" tabindex="0" aria-haspopup="true">
+							
+							<a class="active" href="/How-We-Work">How We Work</a>
+							
+							<div class="subMenu" role="menu" aria-hidden="true">
+								<div class="wrapper">
+									
+									
+										
+									
+
+									
+									<div class="col">
+									
+											<h2>General Information</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Develop-Strategy">How We Develop Strategy</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Make-Grants">How We Make Grants</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl03_hlSubNavMenuItem" href="/How-We-Work/General-Information/Information-Sharing-Approach">Information Sharing Approach</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/How-We-Work/General-Information/How-We-Measure-Success">How We Measure Success</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl05_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grantseeker-FAQ">Grantseeker FAQ</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl06_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grant-Opportunities">Grant Opportunities</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl07_hlSubNavMenuItem" href="/How-We-Work/General-Information/Grant-Seeking-Resources">Grant Seeking Resources</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl00_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl08_hlSubNavMenuItem" href="/How-We-Work/General-Information/What-We-Do-Not-Fund">What We Do Not Fund</a></li>
+														
+													
+														
+													
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Resources for Grantees</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/Resources/Our-Commitment-to-Grantees">Our Commitment to Grantees</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/How-We-Work/Resources/Grantee-Profiles">Grantee Profiles</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl02_hlSubNavMenuItem" href="/How-We-Work/Resources/Grantee-Perception-Report-Summary-2013">Grantee Perception Report</a></li>
+														
+													
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl01_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl04_hlSubNavMenuItem" href="/How-We-Work/Resources/Inside-the-Gates">Inside the Gates</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+									<div class="col">
+									
+											<h2>Quick Links</h2>
+											<ul>
+												
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl00_hlSubNavMenuItem" href="/How-We-Work/Quick-Links/Grants-Database">Awarded Grants</a></li>
+														
+													
+														
+														<li role="menuitem" tabindex="-1"><a id="headerregion_0_rptMainNav_ctl03_rptSubNavColumns_ctl02_rptSubNav_ctl00_rptSubNavSectionContentLinks_ctl01_hlSubNavMenuItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+														
+													
+											</ul>
+									
+									</div>
+								
+							
+								</div>
+							</div>
+							
+						</li>
+					
+						</ul>
+					
+
+		</nav>
+
+		
+
+
+<ul class="globalSites">
+	<li class="gatesFoundation-item">
+		<a id="headerregion_0_globalHeader_lnkGFO" class="gatesFoundation" href="http://www.gatesfoundation.org/">GatesFoundation.org</a>
+	</li>
+	<li class="io-item">
+		<a id="headerregion_0_globalHeader_lnkIO" class="io" href="http://www.impatientoptimists.org/" target="_blank">Impatient Optimists</a>
+	</li>
+</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="header-print">
+		<img src="/images/gfo/icon_bill_melinda_gates_foundation-print.png" />
+  </div>
+</header>
+</noindex>
+
+				
+
+<div class="main" role="main">
+
+
+
+<noindex>
+<div id="bodyregion_0_leftnavigation_0_divSidebar" class="sidebar">
+	
+	<a href="javascript:void(0);" id="bodyregion_0_leftnavigation_0_hlMobile" class="section-selector">
+		Grant Opportunities
+		<span class="arrow"></span>
+		<span class="close">Close</span>
+	</a>
+	
+	<div class="side-nav">
+		
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_divNavWrapper" class="nav-wrapper first">
+						<h2>
+							General Information
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl00_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/How-We-Work/General-Information/How-We-Develop-Strategy">How We Develop Strategy</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/How-We-Work/General-Information/How-We-Make-Grants">How We Make Grants</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl02_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl02_hlNavItem" href="/How-We-Work/General-Information/Glossary-of-Terms">Glossary of Terms</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl03_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl03_hlNavItem" href="/How-We-Work/General-Information/Information-Sharing-Approach">Information Sharing Approach</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl04_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl04_hlNavItem" href="/How-We-Work/General-Information/How-We-Measure-Success">How We Measure Success</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl05_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl05_hlNavItem" href="/How-We-Work/General-Information/Grantseeker-FAQ">Grantseeker FAQ</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl06_liNavItem" class="active">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl06_hlNavItem" href="/How-We-Work/General-Information/Grant-Opportunities">Grant Opportunities</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl07_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl07_hlNavItem" href="/How-We-Work/General-Information/Grant-Seeking-Resources">Grant Seeking Resources</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl08_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl08_hlNavItem" href="/How-We-Work/General-Information/What-We-Do-Not-Fund">What We Do Not Fund</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl09_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl09_hlNavItem" href="/How-We-Work/General-Information/Reporting-Email-Scams">Reporting Email Scams</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl10_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl00_rptLeftNavigationSubItems_ctl10_hlNavItem" href="/How-We-Work/General-Information/Tax-Status-Definitions">Tax Status Definitions</a></li>
+								
+						</ul>
+					</div>
+				
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_divNavWrapper" class="nav-wrapper">
+						<h2>
+							Resources for Grantees
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl00_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/How-We-Work/Resources/Our-Commitment-to-Grantees">Our Commitment to Grantees</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/How-We-Work/Resources/Grantee-Profiles">Grantee Profiles</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl02_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl02_hlNavItem" href="/How-We-Work/Resources/Grantee-Perception-Report-Summary-2013">Grantee Perception Report</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl03_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl03_hlNavItem" href="/How-We-Work/Resources/Improving-Our-Work-with-You-A-Progress-Report">Grantee Progress Report</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl04_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl01_rptLeftNavigationSubItems_ctl04_hlNavItem" href="/How-We-Work/Resources/Inside-the-Gates">Inside the Gates</a></li>
+								
+						</ul>
+					</div>
+				
+					<div id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_divNavWrapper" class="nav-wrapper">
+						<h2>
+							Quick Links
+						</h2>
+						<ul class="nav">
+							
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl00_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl00_hlNavItem" href="/How-We-Work/Quick-Links/Grants-Database">Awarded Grants</a></li>
+								
+									<li id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl01_liNavItem">
+											<a id="bodyregion_0_leftnavigation_0_rptLeftNavigation_ctl02_rptLeftNavigationSubItems_ctl01_hlNavItem" href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a></li>
+								
+						</ul>
+					</div>
+				
+					<div class="nav-wrapper">
+						<ul class="nav">
+				
+					
+				
+					</ul> </div>
+				
+		
+		
+	</div>
+</div>
+</noindex>
+
+
+<div class="main-content">
+	
+<div class="head push-bottom-small">
+	
+	<h2>
+		<span class="line"></span>
+			How We Work
+		<span class="line"></span>
+	</h2>
+	
+	<h3>
+		Literacy Courseware Challenge - Request for Proposal
+	</h3>
+	
+	
+	<a name="pageTitle"></a>
+	<div class="divider">
+	</div>
+</div>
+
+
+	
+<p class="p-small sans-serif push-bottom-small pull-left">
+	<a href="javascript:void(0);" onclick="history.back(-1);" class="link upper muted icon-click-area">
+		<i class="icon icon-left push-right-tiny"></i>Back
+	</a>
+</p>
+
+	
+
+
+
+<a class="print" href="#" onclick="window.print(); return false;">Print</a>
+	
+
+	<article class="articleWrapper">
+		<div id="bodyregion_0_interiorarticle_0_strategytopcomponents_0_figImage" class="figure big">
+	<img src="/~/media/GFO/Top Banners/CR_6thGradeScienceClassPittsburgh_709x279.jpg?mw=702" alt="" width="702" height="276">
+	
+	
+</div>
+
+		
+		<div class="strategySection">
+			<a id="RFPSummary"><h2>RFP Summary</h2></a>
+			<div id="bodyregion_0_interiorarticle_0_plcRightRail" class="placeholder right">
+				
+
+<div class="anchorList right">
+    <span>In This Page</span>
+    <ul>
+    	<li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_linkFirstSection">RFP Summary</a></li>
+    	
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl00_linkSection">The Impact We Intend to Support</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl01_linkSection">Goal of the Literacy Courseware Challenge</a></li>
+			
+		        <li><a id="bodyregion_0_interiorarticle_0_ctrlInThisPage_rptSections_ctl02_linkSection">More Information</a></li>
+			
+    </ul>
+</div>
+				
+				
+			</div>
+		
+			<p><strong></strong></p>
+<p>Congratulations to all of the challenge winners!</p>
+<p><strong>Minimum Viable Product (MVP) Awards</strong>: Solutions, currently in the concept stage, that address a subset of literacy skills and/or academic content for grades 4-8<strong></strong></p>
+<table border="0" cellspacing="0" cellpadding="0" width="613" style="width: 459.75pt; margin-left: 4.65pt;">
+    <tbody>
+        <tr style="height: 30.75pt;">
+            <td style="width: 135.75pt; border-style: solid none none solid; border-top-color: #4f81bd; border-top-width: 1pt; border-left-color: #4f81bd; border-left-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p><strong>Organization</strong></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none none; border-top-color: #4f81bd; border-top-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p><strong>Product / Project</strong></p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid none none; border-top-color: #4f81bd; border-top-width: 1pt; border-right-color: #4f81bd; border-right-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p><strong>Amount</strong></p>
+            </td>
+        </tr>
+        <tr style="height: 11.15pt;">
+            <td style="width: 135.75pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 11.15pt;">
+            <p><a href="http://www.benchmarkeducation.com/">Benchmark Education Company </a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 11.15pt;">
+            <p>Monthly Research Project Organizers </p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 11.15pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.clemson.edu" target="_blank">Clemson University</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>UpWrite: Courseware for the Process Writing Approach</p>
+            </td>
+            <td style="width: 67.5pt; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$24,839 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://egrammar.org">Empirical</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Empirical Grammar</p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 8.9pt;">
+            <td style="width: 135.75pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 8.9pt;">
+            <p><a href="http://www.filamentgames.com/">Filament Games</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; padding: 0in 5.4pt; height: 8.9pt;">
+            <p>The FourWord Argumentation Suite</p>
+            </td>
+            <td style="width: 67.5pt; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 8.9pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 4.4pt;">
+            <td style="width: 135.75pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 4.4pt;">
+            <p><a href="http://www.gamedesk.org/">GameDesk</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 4.4pt;">
+            <p>CollaboWrite</p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 4.4pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://lightsidelabs.com">LightSIDE Labs</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>LightSIDE Revision Assistant</p>
+            </td>
+            <td style="width: 67.5pt; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.liquidinteractive.com.au/" target="_blank">Liquid Interactive</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Writelike</p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.quackenworth.com/">Quackenworth</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Writetify</p>
+            </td>
+            <td style="width: 67.5pt; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td style="width: 135.75pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.ovpr.uga.edu/ugarf">University of Georgia Research Foundation</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Persuade Me</p>
+            </td>
+            <td style="width: 67.5pt; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 7.1pt;">
+            <td style="width: 135.75pt; border-style: none none solid solid; border-left-color: #4f81bd; border-left-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 7.1pt;">
+            <p><a href="http://www.wested.org/">WestEd</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td style="width: 256.5pt; border-style: none none solid; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 7.1pt;">
+            <p>The Missing Agents</p>
+            </td>
+            <td style="width: 67.5pt; border-style: none solid solid none; border-bottom-color: #4f81bd; border-bottom-width: 1pt; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 7.1pt; white-space: nowrap;">
+            <p style="text-align: right;">$25,000 </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Supplemental &amp; Comprehensive Solution Awards</strong>: Solutions that address a subset of skills or content for grades 4-8 (Supplemental) or most/all skills within a grade or grade band, covering multiple standards (Comprehensive)</p>
+<table border="1" cellspacing="0" cellpadding="0" width="619" style="width: 6.45in; border-style: none;">
+    <tbody>
+        <tr style="height: 30.75pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none none solid; border-top-color: #4f81bd; border-top-width: 1pt; border-left-color: #4f81bd; border-left-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p style="margin: 0in 0in 0.0001pt;"><strong style="font-style: inherit; font-variant: inherit;"><br>
+            </strong></p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong style="font-style: inherit; font-variant: inherit;">Organization</strong></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none none; border-top-color: #4f81bd; border-top-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p style="margin: 0in 0in 0.0001pt;"><strong><br>
+            </strong></p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong>Product / Project</strong></p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid none none; border-top-color: #4f81bd; border-top-width: 1pt; border-right-color: #4f81bd; border-right-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 30.75pt;">
+            <p style="margin: 0in 0in 0.0001pt;"><strong><br>
+            </strong></p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong>Amount</strong></p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong><br>
+            </strong></p>
+            </td>
+        </tr>
+        <tr style="height: 7.1pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 7.1pt;">
+            <p><a href="http://www.activelylearn.com/">Actively Learn</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 7.1pt;">
+            <p>Actively Learn for reading and writing in Grades 4-8</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 7.1pt; white-space: nowrap;">
+            <p style="text-align: right;">$270,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 16.1pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 16.1pt;">
+            <p><a href="http://classroominc.org/">Classroom, Inc.</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 16.1pt;">
+            <p>Reading in the Real World (RRW)</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 16.1pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.designinnovationfactory.com/">Design Innovation Factory</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Catalyst Learning </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 7.1pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 7.1pt;">
+            <p><a href="http://www.goorulearning.org/">Ednovo</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 7.1pt;">
+            <p>Gooru Composition Lab for 5-12th Grade Literacy</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 7.1pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.icivics.org/">iCivics </a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>Drafting Board 2.0</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$500,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.laphamsquarterly.org/">Lapham's Quarterly</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 3pt;">
+            <p>Lapham's Curated Collections</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.learnzillion.com/">LearnZillion </a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>LearnZillion </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$250,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 4.4pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 4.4pt;">
+            <p><a href="http://www.lexialearning.com/">Lexia Learning Systems </a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 4.4pt;">
+            <p>Lexia Reading Core5/Writing Solution</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 4.4pt; white-space: nowrap;">
+            <p style="text-align: right;">$500,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 15.75pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 15.75pt;">
+            <p><a href="http://lightsailed.com/">LightSail </a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 15.75pt;">
+            <p>LightSail</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 15.75pt; white-space: nowrap;">
+            <p style="text-align: right;">$500,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.mit.edu/">Massachusetts Institute of Technology</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 3pt;">
+            <p>XENOS Literacy for Grades 6-8</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.ondecksystems.com/">On Deck Systems</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>PEARLS &ndash; Personalized Engaging Adaptive Real-life Learning System for persuasive writing</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$99,500 </p>
+            </td>
+        </tr>
+        <tr style="height: 3.5pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3.5pt;">
+            <p><a href="http://www.thinkcerca.com/">ThinkCERCA</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 3.5pt;">
+            <p>ThinkCERCA</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3.5pt; white-space: nowrap;">
+            <p style="text-align: right;">$250,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p><a href="http://www.triumphlearning.com/">Triumph Learning</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>HelloLift&nbsp; </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+        <tr style="height: 6.65pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none solid solid; border-left-color: #4f81bd; border-left-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 6.65pt;">
+            <p><a href="http://www.newsela.com/">Whipsmart</a><span style="text-decoration: underline;"></span></p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none none solid; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 6.65pt;">
+            <p>Newsela</p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid solid none; border-bottom-color: #4f81bd; border-bottom-width: 1pt; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 6.65pt; white-space: nowrap;">
+            <p style="text-align: right;">$100,000 </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<br>
+<p><strong>Systems, Aggregator or Platform Awards: </strong>Solutions that track a student's progress across most/all reading and writing skills and recommend discrete solutions from multiple providers to help build skills based on student performance</p>
+<p>
+</p>
+<table border="1" cellspacing="0" cellpadding="0" width="619" style="border-style: none;">
+    <tbody>
+        <tr style="height: 28.75pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none none solid; border-top-color: #4f81bd; border-top-width: 1pt; border-left-color: #4f81bd; border-left-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 28.75pt;">
+            <p>
+            </p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong style="font-style: inherit; font-variant: inherit;">Organization</strong></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none none; border-top-color: #4f81bd; border-top-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 28.75pt;">
+            <p>
+            </p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong>Product / Project</strong></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid none none; border-top-color: #4f81bd; border-top-width: 1pt; border-right-color: #4f81bd; border-right-width: 1pt; background-color: #4f81bd; padding: 0in 5.4pt; height: 28.75pt;">
+            <p>
+            </p>
+            <p style="margin: 0in 0in 0.0001pt;"><strong>Amount</strong></p>
+            <p> </p>
+            </td>
+        </tr>
+        <tr style="height: 6.65pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 6.65pt;">
+            <p>
+            </p>
+            <p><a href="http://commongroundpublishing.com/">Common Ground </a></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 6.65pt;">
+            <p>
+            </p>
+            <p>Scholar Literacy Courseware</p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 6.65pt; white-space: nowrap;">
+            <p>
+            </p>
+            <p style="text-align: right;">$500,000</p>
+            <p> </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>
+            </p>
+            <p><a href="http://www.connectedu.com/">ConnectEDU</a> </p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 3pt;">
+            <p>
+            </p>
+            <p>Scalable Platform for Literacy Courseware</p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p>
+            </p>
+            <p style="text-align: right;">$500,000</p>
+            <p> </p>
+            </td>
+        </tr>
+        <tr style="height: 29.6pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 29.6pt;">
+            <p>
+            </p>
+            <p><a href="http://www.newvisions.org/">New Visions for Public Schools</a></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 29.6pt;">
+            <p>
+            </p>
+            <p>The Literacy Platform: Transforming Formative Assessment &amp; Intervention for Writing</p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 29.6pt; white-space: nowrap;">
+            <p>
+            </p>
+            <p style="text-align: right;">$200,000</p>
+            <p> </p>
+            </td>
+        </tr>
+        <tr style="height: 3.5pt;">
+            <td valign="top" style="width: 149.4pt; border-style: none none none solid; border-left-color: #4f81bd; border-left-width: 1pt; padding: 0in 5.4pt; height: 3.5pt;">
+            <p>
+            </p>
+            <p><a href="http://www.qlovi.com/">Qlovi</a></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: none; padding: 0in 5.4pt; height: 3.5pt;">
+            <p>
+            </p>
+            <p>Qlovi</p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: none solid none none; border-right-color: #4f81bd; border-right-width: 1pt; padding: 0in 5.4pt; height: 3.5pt; white-space: nowrap;">
+            <p>
+            </p>
+            <p style="text-align: right;">$200,000</p>
+            <p> </p>
+            </td>
+        </tr>
+        <tr style="height: 3pt;">
+            <td valign="top" style="width: 149.4pt; border-style: solid none solid solid; border-top-color: #4f81bd; border-bottom-color: #4f81bd; border-left-color: #4f81bd; border-top-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>
+            </p>
+            <p><a href="http://www.sixredmarbles.com/">Six Red Marbles</a></p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 261pt; border-style: solid none; border-top-color: #4f81bd; border-top-width: 1pt; border-bottom-color: #4f81bd; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt;">
+            <p>
+            </p>
+            <p>Natural Learning Platform</p>
+            <p> </p>
+            </td>
+            <td valign="top" style="width: 0.75in; border-style: solid solid solid none; border-top-color: #4f81bd; border-right-color: #4f81bd; border-bottom-color: #4f81bd; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0in 5.4pt; height: 3pt; white-space: nowrap;">
+            <p>
+            </p>
+            <p style="text-align: right;">$500,000</p>
+            <p> </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p><span style="font-size: 14px; line-height: 22px; font-family: georgia, serif;"></span></p>
+		</div>
+
+		
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_0_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="TheImpactWeIntendtoSupport"><h2>The Impact We Intend to Support</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_0_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities/Literary-Courseware-Challenge-RFP#TheImpactWeIntendtoSupport" addthis:title="The Impact We Intend to Support" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: The Impact We Intend to Support" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=The Impact We Intend to Support" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: The Impact We Intend to Support" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=The Impact We Intend to Support" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_0_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: The Impact We Intend to Support" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=The Impact We Intend to Support" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+
+<div class="learnMoreLinks">
+    <span class="title">Related</span>
+    <ul>
+    	
+
+<li>
+	
+</li>
+    	
+
+<li>
+	<a href="/How-We-Work/General-Information/Grant-Opportunities/Literary-Coursewear-Challenge-Related-Resources">Additional Related Resources</a>
+</li>
+    	
+
+<li>
+	<a href="/How-We-Work/General-Information/Grant-Opportunities/Literacy-Courseware-Challenge-FAQ">Frequently Asked Questions</a>
+</li>
+    	
+
+<li>
+	<a href="/What-We-Do/US-Program/College-Ready-Education">Our Work in College-Ready Education</a>
+</li>
+    	
+    	
+    	
+    </ul>
+</div>
+		</div>
+		
+		<p>Our vision for education is that all students have access to what they need, when they need it. For some this will mean accelerating beyond the fixed pace of today’s classroom. For others it will mean being given opportunities for extended practice of skills or content they have yet to master. For all students, it will mean learning experiences that are tailored specifically to their progress against a clear set of academic standards; receiving constant, actionable information on their progress; and experiencing the deep, one-on-one engagement with their teacher and other students that is often missing from today’s classrooms. We and many others call this vision <strong><em>personalized learning</em></strong>. </p>
+<p>We believe that adaptive digital learning tools, or “courseware,” can extend the reach of teachers to make personalized learning possible, particularly for students who are underserved by the current education system. Leading mathematics courseware products have already produced strong evidence that this is possible. </p>
+<p>We also believe that mastery of literacy skills is critical to students’ long-term success. However, despite growing acknowledgement of the importance of literacy and decades of reform efforts, U.S. students’ literacy skills have barely improved over the past forty years and are failing to keep up with the growth of other nations. Currently, a third of U.S. 8th graders are proficient in reading and writing. This has to change for our students to be prepared for 21st century college and careers. </p>
+<p>The goal of this Challenge is to stimulate development of courseware supporting literacy instruction.</p>
+	</div>
+</div>
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_1_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="GoaloftheLiteracyCoursewareChallenge"><h2>Goal of the Literacy Courseware Challenge</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_1_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities/Literary-Courseware-Challenge-RFP#GoaloftheLiteracyCoursewareChallenge" addthis:title="Goal of the Literacy Courseware Challenge" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: Goal of the Literacy Courseware Challenge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=Goal of the Literacy Courseware Challenge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: Goal of the Literacy Courseware Challenge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=Goal of the Literacy Courseware Challenge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_1_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: Goal of the Literacy Courseware Challenge" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=Goal of the Literacy Courseware Challenge" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<p style="margin: 16.5pt 0in 13.5pt; line-height: 16.5pt;">The Bill &amp; Melinda Gates Foundation is investing $6 million in web-based courseware to support students in mastering the Common Core State Standards for literacy at the 4th&ndash;8th grade levels. Our approach aims to entice publishers, developers, and entrepreneurs to propose the most innovative digital solutions for engaging, personalized software that helps students with reading and writing. Through an RFP process, we awarded 29 grants in amounts of $25,000-$500,000.</p>
+<p> </p>
+<p>Recipients of awards in the amount of $100,000-$500,000 will have the opportunity to pilot their products in order to participate in an independent evaluation of their product&rsquo;s impact on student learning and receive feedback they can use to refine their solutions.<br>
+&nbsp;<br>
+We invite you to explore the Challenge through the background information detailed in the&nbsp;<a href="http://docs.gatesfoundation.org/grantseeker/Documents/Literacy-Courseware-Challege-RFP.pdf" target="_blank">Literacy Courseware Challenge Request for Proposal (RFP)</a>.</p>
+	</div>
+</div>
+
+<div class="strategySection">
+	<div id="bodyregion_0_interiorarticle_0_strategysections_2_divDivider" class="divider"></div>
+
+	
+	<div>
+		<a id="MoreInformation"><h2>More Information</h2></a>
+		<div id="bodyregion_0_interiorarticle_0_strategysections_2_plcRightRail" class="placeholder right">
+			
+			
+
+<div class="section-toolbar">
+    
+
+<div class="shareComponent addthis_toolbox" addthis:url="http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities/Literary-Courseware-Challenge-RFP#MoreInformation" addthis:title="More Information" >
+    <a class="share" href="#">Share</a>
+    <div class="shareWindow">
+        <a class="share" href="#">
+        	Share
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniFacebookLink" class="fb addthis_button_facebook omni-link-tracker" omni-title="Social Share: More Information" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=facebook;prop41=More Information" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniTwitterLink" class="twitter addthis_button_twitter omni-link-tracker" omni-title="Social Share: More Information" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=twitter;prop41=More Information" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>
+        <a id="bodyregion_0_interiorarticle_0_strategysections_2_ctrlScrollShare_addThis_omniEmailLink" class=" omni-link-tracker" CssClasslass="email addthis_button_email" omni-title="Social Share: More Information" omni-events="event1,event7" omni-vars="prop40,prop41,events" omni-values="prop40=email;prop41=More Information" style="text-decoration: none;">
+        	<img src="/images/spacer1x1.gif" />
+        </a>    
+    </div>
+</div>  
+    <div class="verticalLine"></div>
+    <div class="sectionAnchor">
+        <a href="#" class="up">up</a>
+        <span class="label">Section</span>
+        <a href="#" class="down">down</a>
+    </div>
+</div> 
+			
+		</div>
+		
+		<ul>
+    <li>Detailed information about the objectives, scope, eligibility criteria, and application process is provided in the <a href="http://docs.gatesfoundation.org/grantseeker/Documents/Literacy-Courseware-Challege-RFP.pdf" target="_blank">Literacy Courseware Challenge RFP (PDF)</a> </li>
+    <li><a href="/How-We-Work/General-Information/Grant-Opportunities/Literacy-Courseware-Challenge-FAQ">Frequently Asked Questions</a>&nbsp;</li>
+    <li><a href="/How-We-Work/General-Information/Grant-Opportunities/Literary-Coursewear-Challenge-Related-Resources">Additional resources</a>&nbsp; (academic research, tools for developers, and literacy specific resources)</li>
+</ul>
+	</div>
+</div>
+	
+	</article>
+	
+	<div class="placeholder placeholder1">
+                
+			
+  				
+	</div>
+
+
+
+	
+
+</div>
+<div class="clear">
+</div>
+	<a href="http://www.impatientoptimists.org/" id="bodyregion_0_ctl02_lnkIO" class="visitBlog" target="_blank"><span></span>Visit Our Blog</a>
+</div>
+
+				<noindex>
+
+<footer>
+		<div class="wrapper">
+			<div class="subMenus">
+				<ul class="subMenu">
+						<li>
+							
+							<a class="first" href="/Who-We-Are/General-Information/Foundation-Factsheet">Fact Sheet</a>
+						</li>
+					
+						<li>
+							
+							<a href="/How-We-Work/General-Information/Grantseeker-FAQ">Grantseeker FAQ</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Who-We-Are/General-Information/Letter-from-Bill-and-Melinda-Gates">Letter from Bill &amp; Melinda Gates</a>
+						</li>
+					</ul>
+					
+						
+				<ul class="subMenu second">
+						<li>
+							
+							<a class="first" href="/Jobs">Jobs</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Media-Center">Press Room</a>
+						</li>
+					
+						<li>
+							
+							<a href="/Who-We-Are/General-Information/Contact-Us">Contact Us</a>
+						</li>
+					</ul>
+
+			<figure class="teaser">
+				<img src="/~/media/GFO/Site/Footer Images/bg_bill_melinda_gates_foundation_visitor_center.jpg?mh=69&amp;mw=150" alt="Visitor Center" width="150" height="69">
+				<figcaption>
+					<h3>VISITOR CENTER</h3>
+					<p>At the Bill &amp; Melinda Gates Foundation Visitor Center, you&rsquo;ll find stories of work that is improving lives, from Seattle to South Africa. <a href="/Who-We-Are/General-Information/Visitor-Center">Plan a visit</a></p>
+				</figcaption>
+			</figure>
+			<div class="contactInfo">
+				<p><span>440 5th Ave N.,</span>
+<span>Seattle, WA 98109</span>
+<span>(206) 709-3100  ext.7100</span>
+<span>Hours: Tues - Sat</span>
+<span>10 a.m. &ndash; 5 p.m.</span>
+<span>Admission: Free</span></p>
+			</div>
+			<div class="clear"></div>
+	</div>
+		</div>
+		<div class="bottomFooter">
+			<div class="wrapper">
+				<div class="copyright">
+				<p>
+					© 1999-2013 Bill &amp; Melinda Gates Foundation. All Rights Reserved.
+				</p>
+
+				<p>
+						<a class="privacyPolicy" href="/Privacy-Policy">Privacy Policy</a>
+					
+						<a href="/Terms-of-Use">Terms of Service</a>
+					</p>
+
+				</div>
+				<section class="connect">
+					<h3>Connect</h3>
+					
+							<ul class="socialIcons">
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl01_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: flickr" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.flickr.com/photos/gatesfoundation" target="_blank">flickr
+		<span>
+			<img id="footerregion_0_rptSprites_ctl01_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconflickrdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl01_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconflickrblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl02_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: Facebook" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.facebook.com/billmelindagatesfoundation" target="_blank">Facebook
+		<span>
+			<img id="footerregion_0_rptSprites_ctl02_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconfacebookdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl02_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconfacebookblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl03_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: Impatient Optimists" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.impatientoptimists.org" target="_blank">Impatient Optimists
+		<span>
+			<img id="footerregion_0_rptSprites_ctl03_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconiodarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl03_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconioblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl04_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: twitter" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://twitter.com/gatesfoundation" target="_blank">twitter
+		<span>
+			<img id="footerregion_0_rptSprites_ctl04_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/icontwitterdarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl04_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/icontwitterblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							
+<li>
+	<a id="footerregion_0_rptSprites_ctl05_sprite_hlSprite" class="ir socialIcon omni-link-tracker" omni-title="Social Connection: youtube" omni-events="event1,event4" omni-vars="events" omni-values="" href="http://www.youtube.com/user/GatesFoundation" target="_blank">youtube
+		<span>
+			<img id="footerregion_0_rptSprites_ctl05_sprite_imgDefault" class="defaultState" src="/~/media/GFO/Social%20Icons/iconyoutubedarkgray.png" style="border-width:0px;" /><img id="footerregion_0_rptSprites_ctl05_sprite_imgHover" class="hoverState" src="/~/media/GFO/Social%20Icons/iconyoutubeblack.png" style="border-width:0px;" />
+		</span>
+	</a>
+</li>
+						
+							</ul>
+							
+				</section>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="print-footer">
+        <span>About the Foundation</span>
+        <p>
+            Guided by the belief that every life has equal value, the Bill and Melinda Gates Foundation aspires 
+            to help all people lead healthy, productive lives. We are dedicated to discovering and disseminating 
+            innovative approaches to addressing extreme poverty and poor health in developing countries and improving 
+            the U.S. education system.  Because our financial resources, while siginificant, represent a small fraction 
+            of what’s needed to address these challenges, we work in partnership with governments, the private sector, 
+            and other donors and organizations to achieve the greatest possible impact.
+            <a href="http://www.gatesfoundation.org">www.gatesfoundation.org</a>
+        </p>
+    </div>
+</footer></noindex>
+			</div>
+
+			
+
+
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=gatesfoundation&domready=1"></script>
+<script type="text/javascript" language="javascript">
+	var addthis_config =	{
+		data_track_clickback: false,
+		pub_id: 'gatesfoundation',
+		ui_language: 'en'
+	};
+
+	var addthis_share = {
+		templates: {
+			twitter: "{{title}} {{url}} via @gatesfoundation"
+		},
+		url_transforms: {
+			shorten: {
+				twitter: 'bitly'
+			}
+		},
+		shorteners: {
+			bitly: {
+				login: 'gatesfoundation',
+				apiKey: 'R_1e5528c8252c17dcff3d30ee63b02233'
+			}
+		}
+	};
+
+      // Resets the AddThis button stacks, for use after loading AJAX content.
+	var script = 'https://s7.addthis.com/js/250/addthis_widget.js#username=gatesfoundation&domready=1';
+	function ResetAddThis() {
+
+		if (window.addthis) {
+			window.addthis = null;
+		}
+		jQuery.getScript(script, function () { addthis.init(); });
+		console.log("In ResetAddThis");
+	}
+	
+</script>
+		
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("headerregion_0_searchBox_rfvKeywords"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var headerregion_0_searchBox_rfvKeywords = document.all ? document.all["headerregion_0_searchBox_rfvKeywords"] : document.getElementById("headerregion_0_searchBox_rfvKeywords");
+headerregion_0_searchBox_rfvKeywords.controltovalidate = "headerregion_0_searchBox_txtKeywords";
+headerregion_0_searchBox_rfvKeywords.validationGroup = "headerSearch";
+headerregion_0_searchBox_rfvKeywords.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+headerregion_0_searchBox_rfvKeywords.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function () { jQuery.getScript(script, function () { addthis.init(); }); });
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>		
+	    
+    <script type="text/javascript">
+        var s_account = 'gatesfoundationcomgfoprd';
+    </script>
+    <script language="javascript" type="text/javascript" src="/javascripts/gfo/s_code.js"></script>
+    <script language="javascript" type="text/javascript"><!--
+	s.events = "event5";
+s.server = "FE01";
+s.channel = "How We Work";
+s.pageType = "";
+s.pageName = "Literacy Courseware Challenge - Request for Proposal";
+s.prop3 = "http://www.gatesfoundation.org/how-we-work/general-information/grant-opportunities/literary-courseware-challenge-rfp";
+s.prop4 = "{69524093-B2FE-4335-AFC1-281F76F1B753}";
+s.prop23 = "RFP";
+s.prop26 = "";
+s.prop27 = "";
+s.prop28 = "";
+s.prop32 = "";
+s.prop34 = "";
+s.prop35 = "";
+s.eVar23 = "RFP";
+s.eVar27 = "";
+
+	
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code;
+ //--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+//--></script>
+    <noscript>
+        <img src="http://omniture.gatesfoundation.org/b/ss/gatesfoundationcomgfoprd/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+    <script language="javascript" type="text/javascript" src="/javascripts/gfo/omnitracker.js"></script>
+    
+    <script language="javascript" type="text/javascript"><!--
+        if (typeof noTrack == 'undefined' || noTrack == false) { omniTracker.TrackPage(); }
+//--></script>
+    
+
+	</body>
+</html>

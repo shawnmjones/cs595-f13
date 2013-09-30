@@ -1,0 +1,788 @@
+<!DOCTYPE HTML>
+<html itemscope itemtype="http://schema.org/NewsArticle" lang="en-US">
+<head>
+<title>NSA misrepresented scope of data collection to secret court - CNN.com</title>
+<meta charset="UTF-8"/>
+<meta content="2013-08-22T12:05:07Z" http-equiv="last-modified"/>
+<meta content="index,follow" name="robots"/>
+<meta content="noarchive" name="googlebot"/>
+<meta content="width=1024" name="viewport"/>
+<meta content="news" itemprop="genre" name="medium"/>
+<meta content="en-US" itemprop="inLanguage"/>
+<meta content="NSA misrepresented scope of data collection to secret court - CNN.com" name="title"/>
+<meta content="The Obama administration on Wednesday declassified opinions from a secret court that oversees government surveillance showing the National Security Agency was broadly collecting domestic Internet communications of Americans and misrepresenting the scope of that effort to the court." itemprop="description" name="description" property="og:description"/>
+<meta content="" itemprop="keywords" name="keywords"/>
+<meta content="" name="news_keywords"/>
+<meta content=" Evan Perez, CNN Justice Reporter" itemprop="author" name="author"/>
+<meta content="politics" itemprop="articleSection" name="section"/>
+<meta content="CNN" itemprop="sourceOrganization" name="source"/>
+<meta content="" name="subsection"/>
+<meta content="2013-08-21T19:45:08Z" itemprop="datePublished" name="pubdate"/>
+<meta content="2013-08-22T12:05:07Z" itemprop="dateModified" name="lastmod"/>
+<meta content="2013-08-21T19:45:08Z" itemprop="dateCreated"/>
+<meta content="Washington" itemprop="contentLocation"/>
+<meta content="NSA misrepresented scope of data collection to secret court" itemprop="headline" property="og:title" />
+<meta content="article" property="og:type"/>
+<meta content="http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html" itemprop="url" property="og:url"/>
+<meta content="CNN" property="og:site_name"/>
+<meta content="http://i2.cdn.turner.com/cnn/dam/assets/130606213419-nsa-building-story-top.jpg" itemprop="thumbnailUrl" property="og:image"/>
+<meta content="129343697106537" property="fb:page_id"/>
+<meta content="CNN" property="og:site_name"/>
+<meta content="80401312489" property="fb:app_id"/>
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@CNN"/>
+<meta property="twitter:site:id" content="759251"/>
+<meta property="twitter:creator" content="@cnnpolitics"/>
+<meta property="twitter:creator:id" content="13850422"/>
+<meta property="twitter:image" content="http://i2.cdn.turner.com/cnn/dam/assets/130606213419-nsa-building-left-tease.jpg"/>
+<link href="http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html" rel="canonical"/>
+<link href="/" rel="Start"/>
+<link href="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png" rel="apple-touch-icon" type="image/png"/>
+<link href="/tools/search/cnncom.xml" rel="search" title="CNN.com" type="application/opensearchdescription+xml"/>
+<link href="/tools/search/cnncomvideo.xml" rel="search" title="CNN.com Video" type="application/opensearchdescription+xml"/>
+<link href="http://rss.cnn.com/rss/cnn_politics.rss" rel="alternate" title="CNN - Politics [RSS]" type="application/rss+xml"/>
+<link href="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_article/1818/css/artlib-min.css" rel="stylesheet" type="text/css"/>
+<link href="http://mediacdn.disqus.com/1296789715/styles/dtpl/defaults.css" rel="stylesheet" type="text/css"/>
+<link href="http://disqus.com/forums/cnn/styles.css" rel="stylesheet" type="text/css"/>
+<link href="http://widgets.outbrain.com/mu/css/outbrainWidget.css?v=33961" id="cssLinkID" rel="stylesheet" type="text/css"/>
+<link href="https://plus.google.com/u/0/b/117515799321987910349/117515799321987910349/posts" rel="publisher"/>
+<script>
+var cnnCurrTime=new Date(1380562731000),
+cnnCurrHour=13,
+cnnCurrMin=38,
+cnnCurrDay="Mon",
+cnnIsIntl=false,
+clickID=211911,
+cnn_cvpAdpre="",
+cnnCVPAdSectionT1="cnn.com_politics_t1",
+cnnCVPAdSectionInPage="cnn.com_politics_inpage",
+cnnShareUrl="%2F2013%2F08%2F21%2Fpolitics%2Fnsa-fisa-court%2Findex.html",
+cnnShareTitle="NSA%20misrepresented%20scope%20of%20data%20collection%20to%20secret%20court",
+cnnShareDesc="",
+cnnFirstPub=new Date('Wednesday Aug 21 03:45:08 EDT 2013'),
+cnnSectionName="politics",
+sectionName="politics",
+cnnSubSectionName="pol : news",
+cnnPageType="Story",
+cnnBrandingValue="default";
+cnnPartnerValue="";
+cnnOmniBranding="",
+cnnAuthor=" Evan Perez, CNN Justice Reporter",
+disqus_category_id=207582,
+disqus_identifier="/2013/08/21/politics/nsa-fisa-court/index.html",
+disqus_title="NSA misrepresented scope of data collection to secret court",
+cnn_edtnswtchver="www",
+cnnIsStoryPage=true,
+cnn_metadata = {},
+cnn_shareconfig = [];
+cnn_metadata = {
+section: [
+"politics",
+"pol : news"
+],
+friendly_name: "NSA misrepresented scope of data collection to secret court",
+template_type: "content",
+template_type_content: "",
+business: {
+cnn: {
+page: {
+author: " Evan Perez, CNN Justice Reporter",
+broadcast_franchise: "",
+video_embed_count: "5",
+publish_date: "2013/08/21",
+photo_gallery: ""
+},
+video: {
+video_player: ""
+}
+}
+},
+user: {
+authenticated: "",
+segment: {
+age: "",
+zip: "",
+gender: ""
+}
+}
+};
+if (typeof(cnnOmniPartner) !== "undefined") {
+if (cnn_metadata.template_type_content === "") {
+cnn_metadata.template_type_content = "partner";
+}
+}
+var photo_gallery = "";
+</script>
+<script src="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_article/1818/js/artlib-min.js"></script>
+<script>
+if(typeof CNN==='undefined'){var CNN=Class.create();}
+CNN.expandableMap=[''];
+function _loginOptions(){};
+var disqus_url=(typeof disqus_identifier!=='undefined') ? 'http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html' : 'http://www.cnn.com'+location.pathname;
+cnnad_newTileIDGroup(['607x95_adlinks','336x280_adlinks']);
+</script>
+<!--
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+-->
+<!--adType:mmst-->
+</head>
+<body>
+<a name="top_of_page"></a><a href="#ContentArea"><img src="http://i.cdn.turner.com/cnn/images/1.gif" align="right" alt="Skip to main content" border="0" height="1" hspace="0" style="display:none;" vspace="0" width="10"/></a>
+<div id="cnn_hdr"> <div id="cnn_hdr-prompt" style="display:none"><div class="hdr-wrap" id="cnn_hdr-promptcntnt"></div></div> <div id="cnn_hdr-main"> <div class="hdr-wrap"> <div id="hdr-banner"> <a href="/POLITICS/" id="hdr-banner-title"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/us/hdr-politics.gif" alt="CNN Politics" border="0" height="82" style="border: none;" width="230"/></a> </div> <div id="hdr-editions"> <ul> <li class="no-pad-left"><span><a href="javascript:cnn_initeditionhtml(3);" class="cnn_hdr-editionlnk">SET EDITION</a>: &nbsp;U.S.</span></li> <li><a id="cnn_switchEdition_intl" href="http://edition.cnn.com/?hpt=ed_Intl" title="CNN INTERNATIONAL">INTERNATIONAL</a></li> <li><a href="http://mexico.cnn.com/?hpt=ed_Mexico" hreflang="es" title="CNN M&#201;XICO">M&#201;XICO</a></li> <li class="no-border"><a href="http://arabic.cnn.com/?hpt=ed_Arabic" hreflang="ar" title="CNN ARABIC">ARABIC</a></li> </ul> <div class="cnn_clear"></div><div style="padding-top:2px"> <ul> <li class="no-pad-left no-border no-pad-right"><span><a href="/CNN/Programs" class="cnn_hdr-editionlnk">TV</a>: &nbsp;</span></li> <li class="no-pad-left"><a href="/cnn/programs/" title="CNN TV programming schedule">CNN</a></li> <li><a href="/cnni/" title="CNN International TV programming schedule">CNNi</a></li> <li><a href="http://cnnespanol.cnn.com/" hreflang="es" title="CNN in Spanish">CNN en Espa&#241;ol</a></li> <li class="no-border"><a href="http://www.hlntv.com">HLN</a></li> </ul> </div> </div> <div id="hdr-auth"> <ul> <li><a href="javascript:void(0);" onclick="showOverlay('profile_signup_overlay');return false;" title="Sign up">Sign up</a></li> <li class="no-border no-pad-right"><a href="javascript:void(0);" onclick="showOverlay('profile_signin_overlay');return false;" title="Log in">Log in</a></li> </ul> </div> <div id="hdr-search"> <form method="get" action="http://www.cnn.com/search/" onsubmit="return cnnSearch(this);"> <div class="ftr-search-datacntr"> <div class="ftr-search-tfield"><input id="hdr-search-box" maxlength="100" name="query" size="12" type="text" value=""/></div> <div class="ftr-search-sicon"><input alt="Search" height="21" src="http://i.cdn.turner.com/cnn/.e/img/3.0/search/btn_search_hp_text.gif" type="image" width="55"/></div> </div> <input name="primaryType" type="hidden" value="mixed"/><input name="sortBy" type="hidden" value="relevance"/><input name="intl" type="hidden" value="false"/> </form> </div> </div> </div> <div id="cnn_hdr-nav"> <ul id="us-menu"> <li class="no-border"><a href="/?hpt=sitenav" class="nav-media no-border" id="nav-home" title=""><span>Home</span></a></li> <li class="no-border"><a href="/video/?hpt=sitenav" class="nav-media no-border" id="nav-video" title="Video Breaking News Videos from CNN.com"><span>TV &amp; Video</span></a></li> <li class="no-border"><a href="/trends/?hpt=sitenav" class="nav-media" id="nav-trends" title="CNN Trends powered by Zite"><span>CNN Trends</span></a></li> <li class=""><a href="/US/?hpt=sitenav" class="" id="nav-us" title="U.S. News, Headlines, Stories, and Video from CNN.com"><span>U.S.</span></a></li> <li class=""><a href="/WORLD/?hpt=sitenav" class="" id="nav-world" title="World News International Headlines Stories and Video from CNN.com"><span>World</span></a></li> <li class=""><a href="/POLITICS/" class="nav-on" id="nav-politics" title="Election and Politics News from CNN.com">Politics</a></li> <li class=""><a href="/JUSTICE/?hpt=sitenav" class="" id="nav-justice" title="Justice News Courts Celebrity Docket and Law News from CNN.com"><span>Justice</span></a></li> <li class=""><a href="/SHOWBIZ/?hpt=sitenav" class="" id="nav-entertainment" title="Entertainment News Celebrities Movies and TV from CNN.com"><span>Entertainment</span></a></li> <li class=""><a href="/TECH/?hpt=sitenav" class="" id="nav-tech" title="Technology Computers Internet and Personal Tech News from CNN.com"><span>Tech</span></a></li> <li class=""><a href="/HEALTH/?hpt=sitenav" class="" id="nav-health" title="Health News Medicine Diet Fitness and Parenting from CNN.com"><span>Health</span></a></li> <li class=""><a href="/LIVING/?hpt=sitenav" class="" id="nav-living" title="Living News Personal Work and Home from CNN.com"><span>Living</span></a></li> <li class=""><a href="/TRAVEL/?hpt=sitenav" class="" id="nav-travel" title="Travel News Vacations Destinations and Video from CNN.com"><span>Travel</span></a></li> <li class=""><a href="/OPINION/?hpt=sitenav" class="" id="nav-opinion" title="Opinion Editorial Analysis and Insight from CNN.com"><span>Opinion</span></a></li> <li class=""><a href="http://ireport.cnn.com/?hpt=sitenav" class="" id="nav-ireport" title="CNN iReport &#8211; Share your story, discuss the issues with CNN.com"><span>iReport</span></a></li> <li class=""><a href="http://money.cnn.com/?hpt=sitenav" class="" id="nav-money" title="Business financial personal finance news from CNNMoney"><span>Money</span><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/nav-arrow.gif" width="3" height="5" alt="" /></a></li> <li class=""><a href="http://bleacherreport.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=cnn-nav" class="" id="nav-sports" title="The latest sports news and insights on all of your teams and today's hot topics from Bleacher Report (BleacherReport.com)."><span>Sports</span><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/nav-arrow.gif" width="3" height="5" alt="" /></a></li> <!--include virtual="/.element/ssi/www/misc/3.0/header/menu.bleacher.html"--> </ul> </div> </div><div align="center" id="cnnContainer"><div class="cnn_maincntnr"><div class="cnn_containerwht cnn_contentarea">
+<!-- this is where the breaking news CSI code will go -->
+<div id="cnnBannerContainer" class="cnn_www_banner"></div>
+<script type="text/javascript">
+CSIManager.getInstance().call('/.element/ssi/www/breaking_news/3.0/banner.html','','cnnBannerContainer',cnnRenderDomesticBanner);
+</script>
+<div id="cnnSetEditionContainer"></div>
+<div id="cnnMakeHPContainer"></div>
+
+
+<div class="cnn_storyarea" id="cnnContentContainer">
+<div class="cnn_stryarblkbr"></div>
+<div class="cnn_strybtntools">
+<div id="cnn_sharebar1">
+<div class="c_sharebar_cntr c_sharebar_loading">
+<div class="c_sharelftcol">
+<div class="c_sharetitle">SHARE THIS</div>
+<div class="c_sharebtns">
+<ul>
+<li class="c_sharebtn c_sharebtnfb"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'facebook');"></a></li>
+<li class="c_sharebtn c_sharebtntwtr"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'twitter');"></a></li>
+<li class="c_sharebtn c_sharebtngplus"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'googleplus');"></a></li>
+<li class="c_sharebtn c_sharebtnlnkn"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'linkedin');"></a></li>
+</ul>
+<div class="cnn_clear"></div>
+</div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="recommend" href="http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html"></div>
+</div><!-- /c_sharelftcol -->
+<div class="c_sharedivcol"></div>
+<div class="c_shareweb c_sharergtcol">
+<ul>
+<li class="cnn_sswdgtweb1"><a href="#" onclick="if(typeof CleanPrintPrintHtml!='undefined' && CleanPrintPrintHtml) CleanPrintPrintHtml(); else window.print(); return false;">Print</a></li>
+<li class="cnn_sswdgtweb2"><a href="#" onclick="return(ET());">Email</a></li>
+<li class="cnn_sswdgtweb3"><a href="javascript:void(0);" onclick="$j('#cnn_sharebarmore1').toggle();">More sharing</a>
+<div id="cnn_sharebarmore1" class="sharebar_othersites sharebar_othersitesl" style="display:none;">
+<div class="shareProp">
+<div class="sharebutton_reddit" title="Reddit"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'reddit');">Reddit</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_stumbleupon" title="StumbleUpon"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'stumbleupon');">StumbleUpon</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_delicious" title="Delicious"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'delicious');">Delicious</a></div>
+</div>
+</div>
+</li>
+</ul>
+</div><!-- /c_sharergtcol -->
+<div class="cnn_clear"></div>
+</div>
+</div>
+</div>
+<script>
+/* push in config for this share instance */
+cnn_shareconfig.push({
+"id" : "cnn_sharebar1",
+"url" : "http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html",
+"title" : "NSA misrepresented scope of data collection to secret court"
+});
+</script>
+<!--google_ad_section_start--><!--startclickprintinclude-->
+<h1>NSA misrepresented scope of data collection to secret court</h1>
+<!--endclickprintinclude--><!--startclickprintexclude-->
+<!--no partner-->
+<div class="cnn_stryathrtmp">
+<div class="cnnByline">By Evan Perez, CNN Justice Reporter</div>
+<div class="cnn_strytmstmp">updated 8:05 AM EDT, Thu August 22, 2013</div>
+</div>
+<!--google_ad_section_end-->
+<div class="cnn_strycntntlft">
+<!--startclickprintexclude-->
+<script>
+</script>
+<div class="cnnStryVidCont" style="background-color:transparent">
+<div id="cnnCVP1">
+</div>
+</div>
+<script>
+window.jQuery(document).ready(function() {
+window.CNNVIDEOS = window.CNNVIDEOS || {};
+CNNVIDEOS[ 'T1' ] = CNNVIDEO( 'cnnCVP1', {
+video: 'us/2013/08/21/tsr-perez-nsa-illegally-collecting-communications.cnn',
+thumb: 'http://i2.cdn.turner.com/cnn/dam/assets/130606213419-nsa-building-story-top.jpg',
+preset: 'storypage',
+diagnostics: {
+section: 'articlepage',
+placement: 'page-top'
+},
+network: 'cnn',
+adsection: cnnCVPAdSectionT1 || '',
+headline: 'Court: NSA misrepresented scope of collection',
+videoSource: 'CNN',
+videoSourceUrl: 'http://situationroom.blogs.cnn.com/',
+url: ''
+});
+// pause other videos playing on page
+window.jQuery( '#cnnCVP1' ).on( 'onContentBegin', function( e, obj ) {
+for ( var instance in window.CNNVIDEOS ) {
+if ( instance !== 'T1' && window.CNNVIDEOS.hasOwnProperty( instance ) ) {
+try { window.CNNVIDEOS[ instance ].pause(); } catch(e){}
+}
+}
+});
+});
+</script>
+<a name="em0"></a>
+<div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
+<div><strong>STORY HIGHLIGHTS</strong></div>
+<ul class="cnn_bulletbin cnnStryHghLght">
+<!--google_ad_section_start-->
+<li>Obama administration declassified secret court opinions showing broad collection of Internet data</li>
+<li>Opinions showed that the NSA was misrepresenting its effort to the special anti-terror court</li>
+<li>NSA surveillance programs brought to public light by Edward Snowden leaks</li>
+<li><b>NEW:</b> Intelligence official says problem was technological; was not a case of "overeager" spying </li>
+<!--google_ad_section_end-->
+</ul>
+</div></div>
+<div class="cnn_strylftcntnt adtag15090">
+<!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_position=150x90_spon1&cnn_rollup=us&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: us/spon1.150x90 -->
+<div id="ad-179cc9ea480c1691" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("179cc9ea480c1691","http://ads.cnn.com/html.ng/site=cnn&cnn_position=150x90_spon1&cnn_rollup=us&page.allowcompete=no&params.styles=fs","90","150");
+cnnad_registerSpace("179cc9ea480c1691","150","90");
+</script>
+<!-- ADSPACE-END -->
+</div>
+<!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
+<p><strong>Washington (CNN)</strong> -- The Obama administration on Wednesday declassified opinions from a secret court that oversees government surveillance showing the National Security Agency was broadly collecting domestic Internet communications of Americans and misrepresenting the scope of that effort to the court.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph2">The three opinions include one from October 2011 by U.S. District Judge John Bates, who scolded government lawyers that the NSA had, for the third time in less than three years, belatedly acknowledged it was collecting more data than it was legally allowed to.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph3">"NSA acquires valuable information through its upstream collection, but not without substantial intrusions on Fourth Amendment protected interests," Bates wrote.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph4">The focus of the opinion was the government's admission that for three years, under its authority to monitor foreign communications, it had been collecting information beyond what it gets from Internet service providers, and included data that was entirely domestic.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph5">The Foreign Intelligence Surveillance Court estimated the mistaken collection of domestic data, including e-mails and other Internet activity of Americans, totaled 58,000 communications a year.</p>
+<script>
+var currExpandable="expand16";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='bestoftv/2013/08/22/early-lawrence-nsa-new-info.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/130822075139-early-lawrence-nsa-new-info-00002408-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand16Store=mObj;
+</script>
+<a name="em1"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand16">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/130822075139-early-lawrence-nsa-new-info-00002408-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>NSA accused of illegal surveillance</span></cite>
+</div>
+<script>
+var currExpandable="expand26";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='us/2013/08/21/nr-nsa-illegally-collected-communications-of-americans.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://newsroom.blogs.cnn.com/category/anchors/brooke-baldwin/';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/130606191546-nsa-logo-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand26Store=mObj;
+</script>
+<a name="em2"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand26">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/130606191546-nsa-logo-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Court: NSA illegally collected data</span></cite>
+</div>
+<script>
+var currExpandable="expand36";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='us/2013/08/20/ac-intv-glenn-greenwald-and-partner-britain-detaining.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://ac360.blogs.cnn.com/';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/130820211925-ac-intv-glenn-greenwald-and-partner-britain-detaining-00001024-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand36Store=mObj;
+</script>
+<a name="em3"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand36">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/130820211925-ac-intv-glenn-greenwald-and-partner-britain-detaining-00001024-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Greenwald: Journalism is not terrorism</span></cite>
+</div>
+<script>
+var currExpandable="expand46";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='world/2013/08/20/chance-greenwald-to-continue.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/130820160059-chance-greenwald-to-continue-00000917-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand46Store=mObj;
+</script>
+<a name="em4"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand46">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/130820160059-chance-greenwald-to-continue-00000917-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Greenwald: I will be more aggressive now</span></cite>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph6"><a href='http://www.cnn.com/2013/08/21/tech/web/nsa-spying-75-percent/index.html' target='_blank'>Report: NSA can see 75% of U.S. web messages</a></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph7">The NSA said the collection was a mistake that went beyond its authority under Section 702 of the Patriot Act.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph8">"This was a situation where there was technological problem that could not be avoided, rather than any overreach" by the NSA, according to a senior intelligence official who spoke with reporters about the matter.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph9">The other FISA Court opinions from November 2011 and September 2012 covered NSA steps to fix errors it made in over-collecting data and to purge data it shouldn't have collected. Those rulings indicated that the matter had been resolved.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph10">The overall issue, the intelligence official said, was immediately raised with the court.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph11">"The FISA court probed deeply and thoroughly into the issue. The government took strong appropriate steps to remedy the problem, and the court determined it had remedied and that the collection could continue," according to the official who did not speak for attribution.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph12">"This is not an egregious overreaching by a greedy agency seeking to spy on Americans," the official added.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph13"><a href='http://www.cnn.com/2013/08/16/politics/nsa-privacy-rules/index.html' target='_blank'>NSA admits 'mistakes' amid criticism after audit show is broke privacy rules</a></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph14">The administration also released documents provided to Congress to persuade lawmakers to reauthorize its surveillance authorities.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph15">The agency has come under pressure from lawmakers of both parties over the sweeping nature of its secret data collection, most recently surveillance that captures telephone metadata related to communications to and from the United States.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph16">That program and the one addressed in the document release on Wednesday were brought to public light through leaks to media outlets by former NSA contractor Edward Snowden, who fled the United States and is now in Russia under temporary asylum. He faces espionage charges.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph17">Their exposure also has generated concern from privacy groups and libertarians.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph18">Senate Judiciary Committee Chairman Patrick Leahy, who has proposed legislation aimed at reforming certain provisions of the Patriot Act related to the FISA Court, welcomed the newest development.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph19">"Today's release of documents by the Director of National Intelligence begins to appropriately draw back the curtain on the secret law of government surveillance, and they also underscore the need for increased oversight and stronger protections for Americans' privacy," he said in a statement.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph20">Leahy is planning a hearing in coming weeks on the document release.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph21">In 2008, the NSA began collecting what it called "upstream" communications, essentially information that travels across the Internet, separate from the what it receives from Internet service providers that filter data to respond to agency requests.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph22">The NSA is supposed to be targeting foreign communications, such as e-mail addresses it believes relate to foreign intelligence, that have to do with potential terrorism investigations.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph23">The NSA said it made mistakes because of the way data was collected. It couldn't separate information that was entirely domestic.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph24">Government lawyers won approval from the court after making changes and later deleted years of data because some of it couldn't be separated from domestic communications.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph25"><a href='http://www.cnn.com/2013/08/21/us/bradley-manning-sentencing/index.html' target='_blank'>WikiLeaks source Manning gets 35 years</a></p>
+<script type="text/javascript">if(typeof CNN.expElements==='object'){CNN.expElements.init();}</script>
+<p class="cnn_strycbftrtxt"></p>
+<!--endclickprintinclude--><!--google_ad_section_end-->
+<!--no partner-->
+<div class="cnn_stryshrwdgtbtm">
+<div id="cnn_sharebar2">
+<div class="c_sharebar_cntr c_sharebar_loading">
+<div class="cnn_stryswdgtbtm1">
+<div class="cnn_stryswdgtbtm1a"><a href="http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html#disqus_thread">0</a></div>
+<div class="cnn_stryswdgtbtm1b"><a href="#cnn-disqus-area">Comments &raquo;</a></div>
+</div><!-- /cnn_stryswdgtbtm1 -->
+<div class="cnn_stryswdgtbtm2">
+<div class="c_sharebtmcol1">
+<div class="c_sharetitle">SHARE THIS</div>
+<div class="c_sharebtns">
+<ul>
+<li class="c_sharebtn c_sharebtnfb"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'facebook');"></a></li>
+<li class="c_sharebtn c_sharebtntwtr"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'twitter');"></a></li>
+<li class="c_sharebtn c_sharebtngplus"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'googleplus');"></a></li>
+<li class="c_sharebtn c_sharebtnlnkn"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'linkedin');"></a></li>
+</ul>
+<div class="cnn_clear"></div>
+</div>
+</div><!-- /c_sharebtmcol1 -->
+<div class="c_sharebtmdiv"></div>
+<div class="c_sharebtmcol2">
+<div class="fb-like" data-send="false" data-layout="box_count" data-width="90" data-show-faces="false" data-action="recommend" href="http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html"></div>
+</div><!-- /c_sharebtmcol2 -->
+<div class="c_sharebtmdiv"></div>
+<div class="c_shareweb c_sharebtmcol3">
+<ul>
+<li class="cnn_sswdgtweb1"><a href="#" onclick="if(typeof CleanPrintPrintHtml!='undefined' && CleanPrintPrintHtml) CleanPrintPrintHtml(); else window.print(); return false;">Print</a></li>
+<li class="cnn_sswdgtweb2"><a href="#" onclick="return(ET());">Email</a></li>
+<li class="cnn_sswdgtweb3"><a href="javascript:void(0);" onclick="$j('#cnn_sharebarmore2').toggle();">More sharing</a>
+<div id="cnn_sharebarmore2" class="sharebar_othersites sharebar_othersitesl" style="display:none;">
+<div class="shareProp">
+<div class="sharebutton_reddit" title="Reddit"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'reddit');">Reddit</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_stumbleupon" title="StumbleUpon"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'stumbleupon');">StumbleUpon</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_delicious" title="Delicious"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar2', 'delicious');">Delicious</a></div>
+</div>
+</div>
+</li>
+</ul>
+</div><!-- /c_sharebtmcol3 -->
+<div class="cnn_clear"></div>
+</div>
+<div class="cnn_clear"></div>
+</div>
+</div>
+</div>
+<script>
+/* push in config for this share instance */
+cnn_shareconfig.push({
+"id" : "cnn_sharebar2",
+"url" : "http://www.cnn.com/2013/08/21/politics/nsa-fisa-court/index.html",
+"title" : "NSA misrepresented scope of data collection to secret court"
+});
+</script>
+<div class="cnn_strybtmcntnt">
+<div class="cnn_divline"></div>
+<div class="cnn_divline"></div>
+<div class="cnn_strybtmmorebx" id="outbrain_ext_element">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2013/08/21/politics/nsa-fisa-court/index.html" data-widget-id="AR_2" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+</div>
+<script>cnnad_newTileIDGroup(['607x95_adlinks','336x280_adlinks']);</script>
+<!-- ADSPACE: politics/mmst/adlinks.607x95 -->
+<!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=607x95_adlinks&cnn_rollup=politics&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<div id="ad-f15eb345cc179f41" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("f15eb345cc179f41","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=607x95_adlinks&cnn_rollup=politics&page.allowcompete=no&params.styles=fs","95","607");
+cnnad_registerSpace("f15eb345cc179f41","607","95");
+</script>
+<!-- ADSPACE-END -->
+<div class="cnn_divline cnn_divln3pxblck" style="margin-top:20px;" id="cnn-disqus-area"></div>
+<div id="disqus_thread"></div>
+<script src="http://cnn.disqus.com/embed.js"></script>
+</div>
+</div>
+<div class="cnn_strycntntrgt">
+<div>
+<span id="medium_rectangle" class="_fwph">
+<form id="_fw_form_medium_rectangle" style="display:none">
+<input type="hidden" name="_fw_input_medium_rectangle" id="_fw_input_medium_rectangle" value="w=336&h=280&envp=g_js&sflg=-nrpl&cd=336,280|300,250;">
+</form>
+<span id="_fw_container_medium_rectangle" class="_fwac">
+<div><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=336x850_rgt&cnn_rollup=politics&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: politics/mmst/rgt.336x850 -->
+<div id="ad-1ec1ca901d75112f" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("1ec1ca901d75112f","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=336x850_rgt&cnn_rollup=politics&page.allowcompete=no&params.styles=fs","850","336");
+cnnad_registerSpace("1ec1ca901d75112f","336","850");
+</script>
+<!-- ADSPACE-END --></div>
+<div class="cnn_adtitle"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/advertisement.gif" alt="ADVERTISEMENT" border="0" height="5" width="58"/></div>
+<div class="cnn_divline cnn_divlscrct"></div>
+</span>
+</span>
+</div>
+<div class="cnn_strycrcntr">
+<div class="cnn_stryspcvh6">
+<div class="cnn_stryspcvh2">Part of complete coverage on </div>
+<div class="cnn_stryspcvh3">Data mining & privacy</div>
+</div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/06/10/politics/edward-snowden-profile/index.html?iid=article_sidebar">Who is Edward Snowden?</a></div>
+<div class="cnn_stryscbx2">
+updated 10:25 AM EDT, Sun June 23, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/06/10/politics/edward-snowden-profile/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130609164540-edward-snowden-guardian-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">He's a high-school dropout who worked his way into the most secretive computers in U.S. intelligence as a defense contractor. </div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/08/01/us/nsa-snowden/index.html?iid=article_sidebar">Snowden gets Russia asylum</a></div>
+<div class="cnn_stryscbx2">
+updated 11:55 PM EDT, Thu August 1, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/08/01/us/nsa-snowden/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130724162700-snowden-lawyer-anatoly-kucherena-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">The White House is "very disappointed" that National Security Agency leaker Edward Snowden has been granted temporary asylum in Russia. </div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/08/01/us/snowden-manning/index.html?iid=article_sidebar">Is the Snowden case Manning, Part II?</a></div>
+<div class="cnn_stryscbx2">
+updated 7:39 AM EDT, Fri August 2, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/08/01/us/snowden-manning/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130726011849-snowden-manning-split-video-tease.png" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Bradley Manning and Edward Snowden both held jobs that gave them access to some of their country's most secret and sensitive intelligence. They chose to share that material with the world and are now paying for it.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/31/tech/web/nsa-alexander-black-hat/index.html?iid=article_sidebar">NSA chief: Snooping is crucial to fighting terrorism</a></div>
+<div class="cnn_stryscbx2">
+updated 10:35 AM EDT, Thu August 1, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/31/tech/web/nsa-alexander-black-hat/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130731134833-general-alexander-nsa-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">The NSA's controversial intelligence-gathering programs have prevented 54 terrorist attacks around the world, including 13 in the United States.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/31/tech/web/snowden-leak-xkeyscore/index.html?iid=article_sidebar">New leak: NSA program taps all you do online</a></div>
+<div class="cnn_stryscbx2">
+updated 2:54 PM EDT, Thu August 1, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/31/tech/web/snowden-leak-xkeyscore/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130731173311-lead-dnt-nsa-xkeyscore-glenn-greenwald-00010515-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">You've never heard of XKeyscore, but it definitely knows you. The National Security Agency's top-secret program essentially makes available everything you've ever done on the Internet.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/08/18/opinion/richards-lavabit-surveillance/index.html?iid=article_sidebar">Don't let U.S. government read your e-mail</a></div>
+<div class="cnn_stryscbx2">
+updated 9:04 AM EDT, Sun August 18, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/08/18/opinion/richards-lavabit-surveillance/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130816193804-obama-lies-poster-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">You may have never heard of Lavabit and Silent Circle. That's because they offered encrypted (secure) e-mail services, something most Americans have probably never thought about needing.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/29/us/snowden-father-interview/index.html?iid=article_sidebar">Snowden's father: He loves his country</a></div>
+<div class="cnn_stryscbx2">
+updated 10:52 AM EDT, Tue July 30, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/29/us/snowden-father-interview/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130705170136-zelizer-snowden-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Edward Snowden's father defended his son's actions and slammed those who would focus on the "sinner" rather than the "sins" revealed.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="http://security.blogs.cnn.com/2013/07/29/first-on-cnn-more-on-nsa-surveillance-programs-to-be-declassified/?iid=article_sidebar">More on NSA to be declassified</a></div>
+<div class="cnn_stryscbx2">
+</div>
+<div class="cnn_stryscbx3">
+<a href="http://security.blogs.cnn.com/2013/07/29/first-on-cnn-more-on-nsa-surveillance-programs-to-be-declassified/?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130703185303-clapper-hill-testimony-file-gi-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">The U.S. intelligence community plans to declassify additional information about surveillance programs of the National Security Agency.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/24/opinion/hayden-snowden-reality/index.html?iid=article_sidebar">Snowden -- facts, fictions and fears</a></div>
+<div class="cnn_stryscbx2">
+updated 2:54 PM EDT, Wed July 24, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/24/opinion/hayden-snowden-reality/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130629121822-c1-weekend-snowden-girl-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">"Any analyst at any time can target anyone. Any selector, anywhere ... I, sitting at my desk, certainly had the authorities to wiretap anyone." </div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/09/world/snowden-global-map/index.html?iid=article_sidebar">Interactive: Keeping track of Snowden</a></div>
+<div class="cnn_stryscbx2">
+updated 9:38 AM EDT, Tue July 16, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/09/world/snowden-global-map/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130706132253-snowden-asylum-options-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Follow Snowden's movements and aslyum requests across the globe via our interactive.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/01/world/europe/eu-nsa/index.html?iid=article_sidebar">Obama: All nations collect intelligence</a></div>
+<div class="cnn_stryscbx2">
+updated 9:56 AM EDT, Tue July 2, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/01/world/europe/eu-nsa/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130701124046-01-obama-africa-0630-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">President Barack Obama responds to outrage by European leaders over revelations of alleged U.S. spying.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/06/11/us/gallery/u-s-intelligence-leaks/index.html?iid=article_sidebar">Sharing secrets: U.S. intelligence leaks</a></div>
+<div class="cnn_stryscbx2">
+updated 2:06 PM EDT, Tue August 27, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/06/11/us/gallery/u-s-intelligence-leaks/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130611120933-richard-nixon-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Browse through a history of high-profile intelligence leaking cases.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/07/01/politics/bush-interview/index.html?iid=article_sidebar">CNN Exclusive: Bush on Snowden</a></div>
+<div class="cnn_stryscbx2">
+updated 10:37 AM EDT, Tue July 2, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/07/01/politics/bush-interview/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130701124100-obama-and-george-w-bush-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Former President George W. Bush talks Snowden, AIDS, Mandela and his legacy.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/06/25/politics/nsa-leak-snowden-job/index.html?iid=article_sidebar">Snowden took job to gather evidence</a></div>
+<div class="cnn_stryscbx2">
+updated 9:04 AM EDT, Wed June 26, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/06/25/politics/nsa-leak-snowden-job/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130626105105-shanor-snowden-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Edward Snowden took a job with an NSA contractor in order to gather evidence about U.S. surveillance programs.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="http://www.cnn.com/interactive/2013/06/opinion/snowden-reax/index.html?iid=article_sidebar">Snowden Index</a></div>
+<div class="cnn_stryscbx2">
+</div>
+<div class="cnn_stryscbx3">
+<a href="http://www.cnn.com/interactive/2013/06/opinion/snowden-reax/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130615022550-snowden-index-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Is Edward Snowden a hero, a traitor or something in between? Here's a glance at your opinions about the NSA leaker.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/06/18/tech/web/how-to-encrypt-email/index.html?iid=article_sidebar">Hiding your data from Internet snoops</a></div>
+<div class="cnn_stryscbx2">
+updated 6:47 AM EDT, Wed June 19, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/06/18/tech/web/how-to-encrypt-email/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/120130093002-email-gmail-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">With reports of NSA snooping, many people have started wondering about their personl internet security.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2013/06/10/us/gallery/leakers-and-whistleblowers/index.html?iid=article_sidebar">Notable leakers and whistle-blowers</a></div>
+<div class="cnn_stryscbx2">
+updated 9:52 AM EDT, Wed August 14, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2013/06/10/us/gallery/leakers-and-whistleblowers/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130603093544-01-wikileaks-trial-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Click through our gallery to learn about other major leaks and what happened in the aftermath.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/video/data/2.0/video/us/2013/06/07/lawrence-nsa-no-such-agency.cnn.html?iid=article_sidebar">Who & what is the real NSA?</a></div>
+<div class="cnn_stryscbx2">
+updated 4:02 PM EDT, Sun June 9, 2013
+</div>
+<div class="cnn_stryscbx3">
+<a href="/video/data/2.0/video/us/2013/06/07/lawrence-nsa-no-such-agency.cnn.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/130607195049-lawrence-nsa-no-such-agency-00010905-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">What really goes on inside America's most secretive agency? CNN's Chris Lawrence reports.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div class="cnn_sectbincntnt cnn_zitemodule"></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div style="padding-bottom:17px;padding-top:17px;" class="cnn_strycrcntrpad">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2013/08/21/politics/nsa-fisa-court/index.html" data-widget-id="AR_6" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2013/08/21/politics/nsa-fisa-court/index.html" data-widget-id="AR_4" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2013/08/21/politics/nsa-fisa-court/index.html" data-widget-id="AR_5" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<style>
+.OB_SB_1, .OB_SB_2 { padding:0px; }
+#outbrain_container_1_stripBox .strip-like, #outbrain_container_2_stripBox .strip-like { font-size:18px; }
+#ob_strip_container_rel_1_stripBox { }
+#ob_strip_container_rel_1_stripBox .item-container, #ob_strip_container_rel_2_stripBox .item-container { padding-top:8px;border-top:1px solid #E5E5E5; }
+</style>
+<div class="cnn_divline"></div>
+<div class="cnn_strycrcntrad">
+<div><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=300x150_rgt&cnn_rollup=politics&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: politics/mmst/rgt.300x150 -->
+<div id="ad-ea1502098ec55266" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("ea1502098ec55266","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=300x150_rgt&cnn_rollup=politics&page.allowcompete=no&params.styles=fs","150","300");
+cnnad_registerSpace("ea1502098ec55266","300","150");
+</script>
+<!-- ADSPACE-END --></div>
+<div class="cnn_adtitle"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/advertisement.gif" alt="ADVERTISEMENT" border="0" height="5" width="58"/></div>
+</div>
+<div class="cnn_divline"></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div style="padding:0 0 0 6px;">
+<!-- ADSPACE: politics/mmst/adlinks.336x280 -->
+<!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=336x280_adlinks&cnn_rollup=politics&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<div id="ad-718e92a456a9d02d" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("718e92a456a9d02d","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=336x280_adlinks&cnn_rollup=politics&page.allowcompete=no&params.styles=fs","280","336");
+cnnad_registerSpace("718e92a456a9d02d","336","280");
+</script>
+<!-- ADSPACE-END -->
+</div>
+</div>
+</div><div class="cnn_clear"></div>
+</div>
+</div></div></div>
+<div id="fb-root"></div>
+<div align="center"> <div class="cnn_pad6top"></div> <div class='cnn_containerwht' style='width:990px'> <div id="cnn_ftrcntnt"><div class="clearfix" id="cnn_ftrcntntinner"> <div class="cnn_ftrdivl1"></div> <div id="pmWeatherFooter" style="visibility:visible"><p><strong></strong></p></div> <div id="ftr-search"> <form action="http://www.cnn.com/search/" method="get" onsubmit="return cnnSearch(this);"> <div class="ftr-search-datacntr"> <div class="ftr-search-tfield"><input id="ftr-search-box" maxlength="100" name="query" size="12" type="text" value=""/></div> <div class="ftr-search-sicon"><input alt="Search" src="http://i.cdn.turner.com/cnn/.e/img/3.0/search/search_btn_footer.gif" type="image"/></div> </div> <input id="cnnFtrSrchType" name="primaryType" type="hidden" value="mixed"/> <input name="sortBy" type="hidden" value="relevance"/> <input name="intl" type="hidden" value="false"/> <div class="cnn_ftrggle"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/footer/pngs/footer_google.png" alt="Powered by Google" border="0" class="cnn_ie6png" height="13" width="88"/></div> </form> </div> <div class="cnn_clear"></div> <div class="cnn_divline" style="background-color:#ebebeb;margin-top:3px"></div> <div class="cnn_ftrnvlnks"> <div><a href="/">Home</a> | <a href="/video/">Video</a> | <a href="/trends/">CNN Trends</a> | <a href="/US/">U.S.</a> | <a href="/WORLD/">World</a> | <a href="/POLITICS/">Politics</a> | <a href="/JUSTICE/">Justice</a> | <a href="/SHOWBIZ/">Entertainment</a> | <a href="/TECH/">Tech</a> | <a href="/HEALTH/">Health</a> | <a href="/LIVING/">Living</a> | <a href="/TRAVEL/">Travel</a> | <a href="/OPINION/">Opinion</a> | <a href="http://ireport.cnn.com/?cnn=yes">iReport</a> | <a href="http://money.cnn.com/?cnn=yes">Money</a> | <a href="http://bleacherreport.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=cnn-footer">Sports</a></div> <div><a href="/tools/index.html">Tools &amp; widgets</a> | <a href="/services/rss/">RSS</a> | <a href="/services/podcasting/">Podcasts</a> | <a href="/exchange/blogs/index.html">Blogs</a> | <a href="/mobile/">CNN mobile</a> | <a href="/profile/">My profile</a> | <a href="/profile/">E-mail alerts</a> | <a href="http://www.turnerstoreonline.com/">CNN shop</a> | <a href="/sitemap/">Site map</a> | <a href="/feedback/">Contact us</a> </div> </div> <div class="cnn_ftrdivl2"></div> <div class="cnn_ftrlnggcntr"> <div><a href="/espanol/" hreflang="es" title="CNN in Spanish">CNN en ESPA&Ntilde;OL</a> | <a href="http://mexico.cnn.com" hreflang="es">CNN M&eacute;xico</a> | <a href="http://www.cnnchile.com" hreflang="es">CNN Chile</a> | <a href="http://www.cnnexpansion.com" hreflang="es">CNN Expansi&oacute;n</a></div> <div><a href="http://arabic.cnn.com/" hreflang="ar" title="CNN Arabic">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a> | <a href="http://www.cnn.co.jp/" hreflang="ja" title="CNN Japan">&#26085;&#26412;&#35486;</a> | <a href="http://www.cnnturk.com/" hreflang="tr" title="CNN Turkey">T&uuml;rk&ccedil;e</a></div> <div><a href="/CNN/Programs/" title="CNN TV programming schedule">CNN TV</a> | <a href="/HLN/">HLN</a> | <a href="http://transcripts.cnn.com/TRANSCRIPTS/">Transcripts</a> | </div> </div> <div class="cnn_ftrlgcpy"> <div><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/footer/pngs/footer_cnn_logo.png" alt="CNN" border="0" class="cnn_ie6png" height="11" width="23"/>&copy; 2013 Cable News Network. <a href="http://www.turner.com/" class="cnn_ftrtbslink">Turner Broadcasting System, Inc.</a> All Rights Reserved.</div> <div class="cnn_ftrlgcpy1"><a href="/interactive_legal.html" rel="nofollow">Terms of service</a> | <a href="/privacy.html" rel="nofollow">Privacy guidelines</a> | <a href="/services/ad.choices/" rel="nofollow">Ad choices</a><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/logo_ad_choices_footer.png" alt="" border="0" class="cnn_ie6png" height="12" style="margin:0pt 0pt 0pt 4px;" width="12"/> | <a href="/services/advertise/main.html" rel="nofollow">Advertise with us</a> | <a href="/about/" rel="nofollow">About us</a> | <a href="http://www.turner.com/careers/">Work for us</a> | <a href="/help/" rel="help">Help</a></div> <div class="cnn_ftrlgcpy1"><a href="http://www.cnnnewsource.com" rel="nofollow">CNN Newsource</a> | <a href="http://www.cnnimagesource.com" rel="nofollow">License Footage</a></div><div class="cnn_clear"></div> </div><div class="cnn_clear"></div> </div></div> </div> </div> <script src="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_global/903/js/globallib-min.js"></script> <script src="http://content.dl-rms.com/rms/mother/5721/nodetag.js"></script> <script src="http://icompass.insightexpressai.com/97.js"></script> <script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script> <script>cnnad_sendADMData();cnnad_ugsync();if(ms_isLoggedIn()){CNN_setCookie('CNN_member',true,854400,'/',document.domain);}</script> <div id="csimanagerdiv"><div id="csiIframeObjscsi2"><iframe style="visibility:hidden;position:absolute;top:0px;left:-100px;" name="csiDataIframecsi2" id="csiDataIframecsi2" src="http://svcs.cnn.com/weather/getForecast?time=24&amp;mode=json_html&amp;zipCode=30303&amp;locCode=&amp;celcius=false&amp;csiID=csi2" width="10" height="10"></iframe></div></div> <div id="csimanagerdivdelayed"></div>
+<!--jsmd-->
+<script src="http://z.cdn.turner.com/cnn/.e/js/libs/jsmd-7.min.js"></script>
+
+<script>
+var jsmd=_jsmd.init(),pageURL=location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/")==-1&&pageURL.indexOf("/doubleclick/dartiframe.html")==-1&&pageURL.indexOf("/search/")==-1){
+if (_jsmd.plugin.gQuery("refresh")){
+jsmd.trackMetrics("dynamic-autoRefresh","autorefresh","cnn-autorefresh");
+} else if (_jsmd.plugin.gQuery("is_LR")){
+} else if (cnn_metadata.template_type_content!="gallery"){
+jsmd.send();
+}
+}
+</script>
+<!--/jsmd-->
+<script>
+/*globals FOOTERTOOLS*/
+$j(window).load(function () {
+'use strict';
+FOOTERTOOLS.init();
+});
+</script>
+<script>
+/*globals CNN_CB, cnnsocial, cnnzite_mod, sectionName */
+/* configure apis to load and specify their callbacks */
+cnnsocial.setapiconfig([
+{
+'site' : 'facebook',
+'success' : function() {
+/* trigger connect-cnnsocial.js calls */
+window.cnn_fbAsyncInit();
+}
+},
+{ 'site' : 'twitter' }
+]);
+/* add the multiple config instance for sharebars */
+cnnsocial.share.setconfig(cnn_shareconfig);
+$j(document).ready(function () {
+'use strict';
+loadChartbeat("politics", " Evan Perez, CNN Justice Reporter");
+cnnzite_mod.init();
+CNN.initFlipperTicker();
+/* initialize cnnsocial */
+cnnsocial.init();
+});
+</script>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'cnn'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+<script src="http://cache-02.cleanprint.net/cpf/cleanprint?key=cnn" name="cleanprintloader"></script>
+</body>
+</html>

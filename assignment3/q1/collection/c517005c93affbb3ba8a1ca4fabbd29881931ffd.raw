@@ -1,0 +1,739 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	Daniel Yergin Replies to Bill's Review of His Book, "The Quest"
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="Daniel Yergin, The Quest, energy, technology" /><meta id="MetaDescription" name="description" content="Daniel Yergin, one of Bill Gates&#39; favorite writers, comments on Bill&#39;s review of his book &quot;The Quest.&quot; " /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Topics/Energy/Daniel-Yergin-Replies-to-Bill-Gates-Review-of-The-Quest?WT.mc_id=7_2_2012_yergin_tw&amp;WT.tsrc=Twitter" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BSxEYW5pZWwgWWVyZ2luLCBUaGUgUXVlc3QsIGVuZXJneSwgdGVjaG5vbG9neWQCAw8WAh8ABWdEYW5pZWwgWWVyZ2luLCBvbmUgb2YgQmlsbCBHYXRlcycgZmF2b3JpdGUgd3JpdGVycywgY29tbWVudHMgb24gQmlsbCdzIHJldmlldyBvZiBoaXMgYm9vayAiVGhlIFF1ZXN0LiIgZAIBEGRkFggCAQ9kFgJmD2QWBAICDxYCHgtfIUl0ZW1Db3VudAIHFg4CAQ9kFgICAQ9kFgJmDxUBGjxhIGhyZWY9Ii9Cb29rcyI+Qm9va3M8L2E+ZAICD2QWAgIBD2QWAmYPFQEpPGEgaHJlZj0iL1RvcGljcy9FZHVjYXRpb24iPkVkdWNhdGlvbjwvYT5kAgMPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmUWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9FbmVyZ3kiPkVuZXJneTwvYT5kAgQPZBYCAgEPZBYCZg8VAS08YSBocmVmPSIvVG9waWNzL0RldmVsb3BtZW50Ij5EZXZlbG9wbWVudDwvYT5kAgUPZBYCAgEPZBYCZg8VASM8YSBocmVmPSIvVG9waWNzL0hlYWx0aCI+SGVhbHRoPC9hPmQCBg9kFgICAQ9kFgJmDxUBIDxhIGhyZWY9Ii9QZXJzb25hbCI+UGVyc29uYWw8L2E+ZAIHD2QWAgIBD2QWAmYPFQEWPGEgaHJlZj0iL0FsbCI+QWxsPC9hPmQCBA8WAh8BAv////8PZAIDD2QWAmYPZBYCAgEPD2QWAh4Jb25rZXlkb3duBa4BaWYoZXZlbnQud2hpY2ggfHwgZXZlbnQua2V5Q29kZSl7aWYgKChldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgPT0gMTMpKSB7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDIwX1NlYXJjaEJ1dHRvbicpLmNsaWNrKCk7cmV0dXJuIGZhbHNlO319IGVsc2Uge3JldHVybiB0cnVlfTsgZAIFD2QWAmYPZBYCZg9kFg5mDw8WAh4HVmlzaWJsZWhkFgJmD2QWBGYPFgIfAQL/////D2QCAQ9kFgJmDxUBCT9zaG93YWxsPWQCAQ8WAh8EZ2QCAw9kFgJmDxYCHwEC/////w9kAgQPZBYCAgEPFgIfAQL/////D2QCDA8WAh8BAgMWBmYPZBYCZg8VAxUvU2VhcmNoP3NlYXJjaD1FbmVyZ3kGZW5lcmd5AiwgZAIBD2QWAmYPFQMhL1NlYXJjaD9zZWFyY2g9YWx0ZXJuYXRpdmUrZW5lcmd5EmFsdGVybmF0aXZlIGVuZXJneQIsIGQCAg9kFgJmDxUDHC9TZWFyY2g/c2VhcmNoPWVuZXJneStwb2xpY3kNZW5lcmd5IHBvbGljeQBkAg4PZBYCZg9kFgRmDxYCHwECCBYQZg9kFg4CAQ9kFgZmDxUBKS9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLUZhY2Vib29rZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQAKS9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLUZhY2Vib29rAABkAgUPZBYGAgEPZBYCZg9kFgICAg8VAQBkAgIPFQQpL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tRmFjZWJvb2sAAABkAgMPZBYCZg8VAxVHMjAtU2hhcmUtb24tRmFjZWJvb2sAAGQCBw8WAh8EZxYCAgEPFgQeBGhyZWYF5QFqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy5mYWNlYm9vay5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBGYWNlYm9vayBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCdmYWNlYm9vaycsIGRvY3VtZW50LnRpdGxlKTt9KSgpHwIFCGZhY2Vib29rFgJmDxUBcDxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9QcmV2aWV3IFRpbGVzL0NvbnRlbnRUaWxlc19mYWNlYm9vay0yMjB4NDQtYS5qcGciIGFsdD0iU2hhcmUgb24gRmFjZWJvb2siLz5kAgkPZBYCZg9kFgJmD2QWAmYPFQG1AjxhIGNsYXNzPSJmYWNlYm9vayIgb25jbGljaz0iamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cuZmFjZWJvb2suY29tJywnZGNzdXJpJywnL3NoYXJlJywnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gRmFjZWJvb2sgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgnZmFjZWJvb2snLCBkb2N1bWVudC50aXRsZSk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZSBUaGlzIE9uIEZhY2Vib29rPC9hPmQCCw9kFgJmDxUBtQI8YSBjbGFzcz0iZmFjZWJvb2siIG9uY2xpY2s9ImphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LmZhY2Vib29rLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIEZhY2Vib29rIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ2ZhY2Vib29rJywgZG9jdW1lbnQudGl0bGUpO30pKCk7cmV0dXJuIGZhbHNlOyIgaHJlZj0iIyI+U2hhcmUgVGhpcyBPbiBGYWNlYm9vazwvYT5kAg0PZBYCZg8VAQBkAgEPZBYOAgEPZBYGZg8VASgvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1Ud2l0dGVyZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQAKC9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLVR3aXR0ZXIAAGQCBQ9kFgYCAQ9kFgJmD2QWAgICDxUBAGQCAg8VBCgvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1Ud2l0dGVyAAAAZAIDD2QWAmYPFQMURzIwLVNoYXJlLW9uLVR3aXR0ZXIAAGQCBw8WAh8EZxYCAgEPFgQfBQXXAmphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LnR3aXR0ZXIuY29tJywnZGNzdXJpJywnL3NoYXJlJywgJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIFR3aXR0ZXIgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgndHdpdHRlcicsICdEYW5pZWwgWWVyZ2luLCBvbmUgb2YgQmlsbCBHYXRlc1wnIGZhdm9yaXRlIHdyaXRlcnMsIGNvbW1lbnRzIG9uIEJpbGxcJ3MgcmV2aWV3IG9mIGhpcyBib29rICJUaGUgUXVlc3QuIiAgaHR0cDovL2ItZ2F0LmVzL01WZjc1RCcpO30pKCkfAgUHdHdpdHRlchYCZg8VAW48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUHJldmlldyBUaWxlcy9Db250ZW50VGlsZXNfdHdpdHRlci0yMjB4NDQtYS5qcGciIGFsdD0iU2hhcmUgb24gVHdpdHRlciIvPmQCCQ9kFgJmD2QWAmYPZBYCZg8VAZUCPGEgY2xhc3M9InR3aXR0ZXIiIG9uY2xpY2s9ImphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LnR3aXR0ZXIuY29tJywnZGNzdXJpJywnL3NoYXJlJywgJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIFR3aXR0ZXIgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgndHdpdHRlcicsICcnKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlPC9hPmQCCw9kFgJmDxUBlQI8YSBjbGFzcz0idHdpdHRlciIgb25jbGljaz0iamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cudHdpdHRlci5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCAnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gVHdpdHRlciBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCd0d2l0dGVyJywgJycpO30pKCk7cmV0dXJuIGZhbHNlOyIgaHJlZj0iIyI+U2hhcmU8L2E+ZAIND2QWAmYPFQEAZAICD2QWDgIBD2QWBmYPFQEcL0NvbnRlbnRJdGVtcy9UaWxlcy9hc2tiaWxsZ2QCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEABwvQ29udGVudEl0ZW1zL1RpbGVzL2Fza2JpbGxnAABkAgUPZBYGAgEPZBYCZg9kFgICAg8VAQBkAgIPFQQcL0NvbnRlbnRJdGVtcy9UaWxlcy9hc2tiaWxsZwAAAGQCAw9kFgJmDxUDCGFza2JpbGxnAABkAgcPFgIfBGcWAgIBDxYEHwUFLGh0dHBzOi8vdHdpdHRlci5jb20vIyEvc2VhcmNoP3E9JTIzYXNrYmlsbGcgHgZ0YXJnZXQFBl9ibGFuaxYCZg8VAWU8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUHJldmlldyBUaWxlcy9Db250ZW50VGlsZXNRQUFza0JpbGxnb3B0MWUuanBnIiBhbHQ9IiNhc2tiaWxsZyIvPmQCCQ9kFgJmD2QWAmYPZBYCZg8VAVQ8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS8jIS9zZWFyY2g/cT0lMjNhc2tiaWxsZyAiPiNhc2tiaWxsZzwvYT5kAgsPZBYCZg8VAVQ8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS8jIS9zZWFyY2g/cT0lMjNhc2tiaWxsZyAiPiNhc2tiaWxsZzwvYT5kAg0PZBYCZg8VAQBkAgMPZBYOAgEPFgIfBGcWBmYPFQEXL0Jvb2tzL0VuZXJneS9UaGUtUXVlc3RkAgEPZBYCZg8VAWg8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvQm9va3MvRW5lcmd5L1RoZS1RdWVzdC1vcHQyLmpwZyIgYWx0PSJUaGUgUXVlc3QgYnkgRGFuaWVsIFllcmdpbiIvPmQCAw9kFgJmDxUFElNlcHRlbWJlciAyMCwgMjAxMQ1QZW5ndWluIFByZXNzCTgxNiBwYWdlcwNZZXOOATxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vdXMucGVuZ3Vpbmdyb3VwLmNvbS9uZi9Cb29rL0Jvb2tEaXNwbGF5LzAsLDk3ODE1OTQyMDI4MzQsMDAuaHRtbD9UaGVfUXVlc3RfRGFuaWVsX1llcmdpbiI+U2VhcmNoIE1vcmUgSW5mbzwvYT5kAgMPZBYCZg8VBE9UaGUgUXVlc3Q6IEVuZXJneSwgU2VjdXJpdHksIGFuZCB0aGUgUmVtYWtpbmcgb2YgdGhlIE1vZGVybiBXb3JsZCAoQm9vayBSZXZpZXcpFy9Cb29rcy9FbmVyZ3kvVGhlLVF1ZXN0DE1heSAxNiwgMjAxMk9UaGUgUXVlc3Q6IEVuZXJneSwgU2VjdXJpdHksIGFuZCB0aGUgUmVtYWtpbmcgb2YgdGhlIE1vZGVybiBXb3JsZCAoQm9vayBSZXZpZXcpZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQFoPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0Jvb2tzL0VuZXJneS9UaGUtUXVlc3Qtb3B0Mi5qcGciIGFsdD0iVGhlIFF1ZXN0IGJ5IERhbmllbCBZZXJnaW4iLz5kAgIPFQQXL0Jvb2tzL0VuZXJneS9UaGUtUXVlc3QMTWF5IDE2LCAyMDEyT1RoZSBRdWVzdDogRW5lcmd5LCBTZWN1cml0eSwgYW5kIHRoZSBSZW1ha2luZyBvZiB0aGUgTW9kZXJuIFdvcmxkIChCb29rIFJldmlldymNAUhvdyB3aWxsIHRoZSB3b3JsZCBmaW5kIHRoZSBlbmVyZ3kgaXQgbmVlZHMsIGFuZCBhdCB3aGF0IGNvc3Q/IFJlYWQgbXkgcmV2aWV3IG9mIERhbmllbCBZZXJnaW7igJlzIGltcG9ydGFudCBuZXcgYm9vayBvbiBvdXIgZW5lcmd5IGZ1dHVyZS4gIGQCAw9kFgJmDxUDCVRoZS1RdWVzdAAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCBA9kFg4CAQ9kFgZmDxUBNC9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy1mcm9tLURhbmllbC1ZZXJnaW5kAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBERBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBNYXJrZXQgRHluYW1pY3MgJiBOYXR1cmFsIEdhczQvVG9waWNzL0VuZXJneS9Bbi1FbmVyZ3ktQnJpZWZpbmctZnJvbS1EYW5pZWwtWWVyZ2luDkFwcmlsIDEzLCAyMDEyREFuIEVuZXJneSBCcmllZmluZyB3aXRoIERhbmllbCBZZXJnaW46IE1hcmtldCBEeW5hbWljcyAmIE5hdHVyYWwgR2FzZAIFDxYCHwRnFgYCAQ8PFgQeB1Rvb2xUaXAFREFuIEVuZXJneSBCcmllZmluZyB3aXRoIERhbmllbCBZZXJnaW46IE1hcmtldCBEeW5hbWljcyAmIE5hdHVyYWwgR2FzHgtOYXZpZ2F0ZVVybAU0L1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbmQWAmYPZBYCAgIPFQGqATxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9QcmV2aWV3IFRpbGVzL0FuIEVuZXJneSBCcmllZmluZyBmcm9tIERhbmllbCBZZXJnaW4gVGlsZXMvR2F0ZXMtWWVyZ2luLTIyMHguanBnIiBhbHQ9IkEgQ29udmVyc2F0aW9uOiBCaWxsIEdhdGVzIGFuZCBEYW5pZWwgWWVyZ2luIi8+ZAICDxUENC9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy1mcm9tLURhbmllbC1ZZXJnaW4OQXByaWwgMTMsIDIwMTJEQW4gRW5lcmd5IEJyaWVmaW5nIHdpdGggRGFuaWVsIFllcmdpbjogTWFya2V0IER5bmFtaWNzICYgTmF0dXJhbCBHYXN6RGFuaWVsIFllcmdpbiB0YWxrcyB3aXRoIG1lIGFib3V0IHNoYWxlIG9pbCBhbmQgb3RoZXIgZW1lcmdpbmcgcmVzb3VyY2VzIHRoYXQgYXJlIHNoYWtpbmcgdXAgdGhlIHdvcmxk4oCZcyBlbmVyZ3kgbWFya2V0cy5kAgMPFgIfBGgWAmYPFQMlQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbgAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCBQ9kFg4CAQ9kFgZmDxUBVS9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy1mcm9tLURhbmllbC1ZZXJnaW4tR292ZXJubWVudC1TcGVuZGluZy1vbi1FbmVyZ3ktUkRkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBEhBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBHb3Zlcm5tZW50IFNwZW5kaW5nIG9uIEVuZXJneSBSJkRVL1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbi1Hb3Zlcm5tZW50LVNwZW5kaW5nLW9uLUVuZXJneS1SRA5BcHJpbCAxNiwgMjAxMkhBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBHb3Zlcm5tZW50IFNwZW5kaW5nIG9uIEVuZXJneSBSJkRkAgUPFgIfBGcWBgIBDw8WBB8HBUhBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBHb3Zlcm5tZW50IFNwZW5kaW5nIG9uIEVuZXJneSBSJkQfCAVVL1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbi1Hb3Zlcm5tZW50LVNwZW5kaW5nLW9uLUVuZXJneS1SRGQWAmYPZBYCAgIPFQEAZAICDxUEVS9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy1mcm9tLURhbmllbC1ZZXJnaW4tR292ZXJubWVudC1TcGVuZGluZy1vbi1FbmVyZ3ktUkQOQXByaWwgMTYsIDIwMTJIQW4gRW5lcmd5IEJyaWVmaW5nIHdpdGggRGFuaWVsIFllcmdpbjogR292ZXJubWVudCBTcGVuZGluZyBvbiBFbmVyZ3kgUiZEhgFXaGF0J3MgZ292ZXJubWVudCdzIHJvbGUgaW4gZW5lcmd5IGlubm92YXRpb24/IEkgc3Bva2Ugd2l0aCBleHBlcnQgRGFuaWVsIFllcmdpbiBhYm91dCB0aGUgZGlmZmVyZW50IGFwcHJvYWNoZXMgb2YgdGhlIFUuUy4gYW5kIENoaW5hLmQCAw8WAh8EaBYCZg8VA0ZBbi1FbmVyZ3ktQnJpZWZpbmctZnJvbS1EYW5pZWwtWWVyZ2luLUdvdmVybm1lbnQtU3BlbmRpbmctb24tRW5lcmd5LVJEAABkAgcPZBYCAgEPZBYCZg8VAQBkAgkPZBYCZg9kFgJmD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIND2QWAmYPFQEAZAIGD2QWDgIBD2QWBmYPFQFDL1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbi1OdWNsZWFyLUVuZXJneWQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUENUFuIEVuZXJneSBCcmllZmluZyB3aXRoIERhbmllbCBZZXJnaW46IE51Y2xlYXIgRW5lcmd5Qy9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy1mcm9tLURhbmllbC1ZZXJnaW4tTnVjbGVhci1FbmVyZ3kOQXByaWwgMTcsIDIwMTI1QW4gRW5lcmd5IEJyaWVmaW5nIHdpdGggRGFuaWVsIFllcmdpbjogTnVjbGVhciBFbmVyZ3lkAgUPFgIfBGcWBgIBDw8WBB8HBTVBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBOdWNsZWFyIEVuZXJneR8IBUMvVG9waWNzL0VuZXJneS9Bbi1FbmVyZ3ktQnJpZWZpbmctZnJvbS1EYW5pZWwtWWVyZ2luLU51Y2xlYXItRW5lcmd5ZBYCZg9kFgICAg8VAQBkAgIPFQRDL1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbi1OdWNsZWFyLUVuZXJneQ5BcHJpbCAxNywgMjAxMjVBbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBOdWNsZWFyIEVuZXJneZsBV2hhdCByb2xlIHdpbGwgbnVjbGVhciBwb3dlciBoYXZlIGluIG1lZXRpbmcgdGhlIHdvcmxk4oCZcyBncm93aW5nIGVuZXJneSBuZWVkcyB3aGlsZSByZWR1Y2luZyBjYXJib24gZW1pc3Npb25zPyBJIHRhbGtlZCB3aXRoIGVuZXJneSBleHBlcnQgRGFuaWVsIFllcmdpbi5kAgMPFgIfBGgWAmYPFQM0QW4tRW5lcmd5LUJyaWVmaW5nLWZyb20tRGFuaWVsLVllcmdpbi1OdWNsZWFyLUVuZXJneQAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCBw9kFg4CAQ9kFgZmDxUBWy9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy13aXRoLURhbmllbC1ZZXJnaW4tT3Bwb3J0dW5pdGllcy1mb3ItRGV2ZWxvcGluZy1Db3VudHJpZXNkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBE1BbiBFbmVyZ3kgQnJpZWZpbmcgd2l0aCBEYW5pZWwgWWVyZ2luOiBPcHBvcnR1bml0aWVzIGZvciBEZXZlbG9waW5nIENvdW50cmllc1svVG9waWNzL0VuZXJneS9Bbi1FbmVyZ3ktQnJpZWZpbmctd2l0aC1EYW5pZWwtWWVyZ2luLU9wcG9ydHVuaXRpZXMtZm9yLURldmVsb3BpbmctQ291bnRyaWVzDkFwcmlsIDE5LCAyMDEyTUFuIEVuZXJneSBCcmllZmluZyB3aXRoIERhbmllbCBZZXJnaW46IE9wcG9ydHVuaXRpZXMgZm9yIERldmVsb3BpbmcgQ291bnRyaWVzZAIFDxYCHwRnFgYCAQ8PFgQfBwVNQW4gRW5lcmd5IEJyaWVmaW5nIHdpdGggRGFuaWVsIFllcmdpbjogT3Bwb3J0dW5pdGllcyBmb3IgRGV2ZWxvcGluZyBDb3VudHJpZXMfCAVbL1RvcGljcy9FbmVyZ3kvQW4tRW5lcmd5LUJyaWVmaW5nLXdpdGgtRGFuaWVsLVllcmdpbi1PcHBvcnR1bml0aWVzLWZvci1EZXZlbG9waW5nLUNvdW50cmllc2QWAmYPZBYCAgIPFQEAZAICDxUEWy9Ub3BpY3MvRW5lcmd5L0FuLUVuZXJneS1CcmllZmluZy13aXRoLURhbmllbC1ZZXJnaW4tT3Bwb3J0dW5pdGllcy1mb3ItRGV2ZWxvcGluZy1Db3VudHJpZXMOQXByaWwgMTksIDIwMTJNQW4gRW5lcmd5IEJyaWVmaW5nIHdpdGggRGFuaWVsIFllcmdpbjogT3Bwb3J0dW5pdGllcyBmb3IgRGV2ZWxvcGluZyBDb3VudHJpZXN7SG93IHRvIG1lZXQgdGhlIGdyb3dpbmcgZW5lcmd5IG5lZWRzIG9mIHRoZSB3b3JsZOKAmXMgdHdvIGJpbGxpb24gcG9vcmVzdCBwZW9wbGU/IEkgc3Bva2Ugd2l0aCBlbmVyZ3kgZXhwZXJ0IERhbmllbCBZZXJnaW4uZAIDDxYCHwRoFgJmDxUDTEFuLUVuZXJneS1CcmllZmluZy13aXRoLURhbmllbC1ZZXJnaW4tT3Bwb3J0dW5pdGllcy1mb3ItRGV2ZWxvcGluZy1Db3VudHJpZXMAAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgEPZBYCZg8VAQk/c2hvd2FsbD1kAg8PFgIfAQL/////D2QCCQ9kFgJmD2QWCAIBDxYCHwECAxYGZg9kFgICAQ8PFgQeBFRleHQFCkFsbCBUb3BpY3MfCAUHL1RvcGljc2RkAgEPZBYCAgEPDxYEHwkFBUJvb2tzHwgFBi9Cb29rc2RkAgIPZBYCAgEPDxYEHwkFCUVkdWNhdGlvbh8IBREvVG9waWNzL0VkdWNhdGlvbmRkAgMPFgIfAQIDFgZmD2QWAgIBDw8WBB8JBQZFbmVyZ3kfCAUOL1RvcGljcy9FbmVyZ3lkZAIBD2QWAgIBDw8WBB8JBQtEZXZlbG9wbWVudB8IBRMvVG9waWNzL0RldmVsb3BtZW50ZGQCAg9kFgICAQ8PFgQfCQUGSGVhbHRoHwgFDi9Ub3BpY3MvSGVhbHRoZGQCBQ8WAh8BAgEWAmYPZBYCAgEPDxYEHwkFCFBlcnNvbmFsHwgFCS9QZXJzb25hbGRkAgcPFgIfCQUEMjAxM2RkYUEyA6uUAv6IJWYhBWku3vj6kUA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL16LygAgLf6cCfDQKNhbaICQL5oamLB/YbtVaNbNApSlXzbUugsq+RTXyy" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="active"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="navLink"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="navLink"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+					<p class="image"><img src="/~/media/Images/GatesNotes/Guest Blogs/GuestBlog_Yergin-New-700x.jpg" alt="Daniel Yergin, Author, The Quest: Energy, Security, and the Remaking of the Modern World"/></p>
+					
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+				<p class="date">June 29, 2012 | By Daniel Yergin</p>
+				<h1>Daniel Yergin Replies to Bill’s Review of His Book, "The Quest"</h1>
+				<h2></h2>
+
+				<blockquote>Daniel Yergin is one of my favorite writers and his book, “The Quest”, is a significant contribution to the conversation about the various forces shaping our energy future. I appreciate that he took the time to comment on my review of his book.</blockquote>
+				<p style="line-height: 150%;">I much appreciate Bill&rsquo;s thoughtful review of <i>The Quest. </i>He points to a central question&mdash;what will fuel transportation in the future? In the aftermath of the 1970s energy crises, a sharp division emerged between oil and other energy sources. In much of the world, oil was squeezed out of electric generation and primarily became a transportation fuel. Thus, when one talks about wind and solar today, that has very little to do with transportation. Transportation and electric generation, as Bill observes, are two separate worlds, with very little trade between them.</p>
+<p style="line-height: 150%;">Autos have become much more efficient over the last few decades and will become more efficient in the years ahead. Nevertheless, the challenge of fueling the world&rsquo;s growing population of cars will be huge. I try to phrase the problem simply in <i>The Quest: </i>how will the world cope, in terms of energy, in going from an auto population of 1 billion cars to 2 billion? The most obvious answer is by becoming more efficient. And that will certainly be the case, where, in the United States for instance, the new car will go from about 30 miles per gallon today to 54 miles per gallon by early in the next decade. But that still implies oil as a fuel.</p>
+<p style="line-height: 150%;">Over the past decade, we have seen a sequence of initiatives to reduce oil dependence in transportation&mdash;hydrogen, biofuels, electric car, natural gas vehicles. Biofuels have made an impact. In the United States, on a volumetric basis, they constitute almost 10 percent of motor fuel. But there is a clear limit with ethanol and the other first generation biofuels. The second generation of biofuels is proving harder to attain than anticipated by some a few years ago.</p>
+<p style="line-height: 150%;">Around 2008, the electric car gained new prominence and commitment, although it is not a new concept. (See the wonderful picture in <i>The Quest </i>of Thomas Edison and Henry Ford discussing the automobile in 1896, prior to Edison&rsquo;s efforts to promote the electric car!).</p>
+<p style="line-height: 150%;">From today&rsquo;s vantage point, electricity seems destined to play a larger role in transportation in the years ahead. &nbsp;Wide dispersion of electric vehicles would break down the wall between transportation and electric generation and reduce the market share of oil. But informed expectations vary widely as to whether the electric car will be a niche vehicle or a mass market product, and it will probably be five to 10 years before that is clear. Battery innovation and cost are key.</p>
+<p style="line-height: 150%;">But now there is a new competitor. Or rather, another old competitor with new vigor&mdash;natural gas. In some parts of the world, natural gas has long been an alternative fuel.&nbsp; What is new is the North American shale gas revolution. Its prospect of abundant volumes of low-cost natural gas has made natural gas a new contender in the transportation market. Given current costs, it does appear that natural gas will expand its role in fueling fleets of buses and delivery and service trucks and could well gain share for large long-distance trucks. But the need and cost for refueling infrastructure constitute a major barrier to wide use in motor cars. </p>
+<p style="line-height: 150%;">All this leads to a very interesting question: Will natural gas gain share in transportation going directly into fuel tanks or by generating electricity that goes into electric vehicles?</p>
+<p style="line-height: 150%;">Both natural gas and coal are converted into liquids in a few situations around the world today. But the costs&mdash;and energy costs&mdash;raise major barriers to any notable expansion. For instance, China has stepped back from what were, a few years ago, ambitious targets for coal to liquids. The reason was cost.</p>
+<p style="line-height: 150%;">So all of this turns attention back to the importance of continuing to improve the energy efficiency of automobiles and gives very strong impetus to the now-familiar hybrid technology as a key enabler.</p>
+<p style="line-height: 150%;">But there is still that basic challenge of 2 billion cars. Economic growth and rising incomes are what will propel the world from 1 billion to 2 billion cars. That is a massive growth. Moving down that road will require a good deal of innovation along the various avenues that Bill described in his review.</p>
+<p style="line-height: 150%;">&nbsp;</p>
+<p><em>Daniel Yergin is chairman of IHS Cambridge Energy Research Associates and a highly-regarded expert on energy issues. He was awarded the Pulitzer Prize in 1992 for his best-selling book, "The Prize: The Epic Quest for Oil, Money, and Power." His most recent book is: "The Quest: Energy, Security, and the Remaking of the Modern World."</em></p>
+<p style="line-height: 150%;">&nbsp;</p>
+<p style="line-height: 150%;">&nbsp;</p>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Energy">energy</a>, </li><li><a href="/Search?search=alternative+energy">alternative energy</a>, </li><li><a href="/Search?search=energy+policy">energy policy</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{A1362D1B-D8CF-4647-99A1-31F968C9F5C6}";
+    var disqus_url = "http://www.thegatesnotes.com/Topics/Energy/Daniel-Yergin-Replies-to-Bill-Gates-Review-of-The-Quest";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.facebook.com','dcsuri','/share','WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Facebook Sidebar');openSharingSite('facebook', document.title);})()" id="content_0_ctl03_Articles_ImageTileLink_0" class="facebook">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_facebook-220x44-a.jpg" alt="Share on Facebook"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.twitter.com','dcsuri','/share', 'WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Twitter Sidebar');openSharingSite('twitter', 'Daniel Yergin, one of Bill Gates\' favorite writers, comments on Bill\'s review of his book "The Quest."  http://b-gat.es/MVf75D');})()" id="content_0_ctl03_Articles_ImageTileLink_1" class="twitter">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_twitter-220x44-a.jpg" alt="Share on Twitter"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="https://twitter.com/#!/search?q=%23askbillg " id="content_0_ctl03_Articles_ImageTileLink_2" target="_blank">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTilesQAAskBillgopt1e.jpg" alt="#askbillg"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+					<article class="book photoIncluded relatedContentLink">
+
+
+						<a href="/Books/Energy/The-Quest">
+							<p id="content_0_ctl03_Articles_P1_3" class="image"><img src="/~/media/Images/GatesNotes/Books/Energy/The-Quest-opt2.jpg" alt="The Quest by Daniel Yergin"/></p>
+						</a>
+						
+					</article>
+					
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_4" title="An Energy Briefing with Daniel Yergin: Market Dynamics &amp; Natural Gas" href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin"><p id="content_0_ctl03_Articles_P2_4" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Preview Tiles/An Energy Briefing from Daniel Yergin Tiles/Gates-Yergin-220x.jpg" alt="A Conversation: Bill Gates and Daniel Yergin"/>
+							
+						</p></a>
+					<a href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin">
+						<p class="date">April 13, 2012</p>
+						<h1>An Energy Briefing with Daniel Yergin: Market Dynamics & Natural Gas</h1>
+
+						<p>Daniel Yergin talks with me about shale oil and other emerging resources that are shaking up the world’s energy markets.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_5" title="An Energy Briefing with Daniel Yergin: Government Spending on Energy R&amp;D" href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin-Government-Spending-on-Energy-RD"><p id="content_0_ctl03_Articles_P2_5" class="image">
+							
+                            
+							
+						</p></a>
+					<a href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin-Government-Spending-on-Energy-RD">
+						<p class="date">April 16, 2012</p>
+						<h1>An Energy Briefing with Daniel Yergin: Government Spending on Energy R&D</h1>
+
+						<p>What's government's role in energy innovation? I spoke with expert Daniel Yergin about the different approaches of the U.S. and China.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_6" title="An Energy Briefing with Daniel Yergin: Nuclear Energy" href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin-Nuclear-Energy"><p id="content_0_ctl03_Articles_P2_6" class="image">
+							
+                            
+							
+						</p></a>
+					<a href="/Topics/Energy/An-Energy-Briefing-from-Daniel-Yergin-Nuclear-Energy">
+						<p class="date">April 17, 2012</p>
+						<h1>An Energy Briefing with Daniel Yergin: Nuclear Energy</h1>
+
+						<p>What role will nuclear power have in meeting the world’s growing energy needs while reducing carbon emissions? I talked with energy expert Daniel Yergin.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_7" title="An Energy Briefing with Daniel Yergin: Opportunities for Developing Countries" href="/Topics/Energy/An-Energy-Briefing-with-Daniel-Yergin-Opportunities-for-Developing-Countries"><p id="content_0_ctl03_Articles_P2_7" class="image">
+							
+                            
+							
+						</p></a>
+					<a href="/Topics/Energy/An-Energy-Briefing-with-Daniel-Yergin-Opportunities-for-Developing-Countries">
+						<p class="date">April 19, 2012</p>
+						<h1>An Energy Briefing with Daniel Yergin: Opportunities for Developing Countries</h1>
+
+						<p>How to meet the growing energy needs of the world’s two billion poorest people? I spoke with energy expert Daniel Yergin.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Daniel Yergin Replies to Bills Review of His Book, The Quest', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Daniel Yergin Replies to Bills Review of His Book, The Quest', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Daniel Yergin Replies to Bills Review of His Book, The Quest', 'WT.ti', 'End: Daniel Yergin Replies to Bills Review of His Book, The Quest', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Daniel Yergin Replies to Bills Review of His Book, The Quest', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Daniel-Yergin-Replies-to-Bill-Gates-Review-of-The-Quest"
+    s.channel = "Energy"
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

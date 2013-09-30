@@ -1,0 +1,657 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	The Important Role of the Pharmaceutical Industry
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="Access to Medicine Index, diseases, GAVI Alliance, tuberculosis, 
+" /><meta id="MetaDescription" name="description" content="Bill Gates says public-private cooperation is saving lives by improving access to pneumonia vaccines and combination TB treatments." /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Topics/Health/Eliminating-Killer-Diseases-with-New-Medicines" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BUNBY2Nlc3MgdG8gTWVkaWNpbmUgSW5kZXgsIGRpc2Vhc2VzLCBHQVZJIEFsbGlhbmNlLCB0dWJlcmN1bG9zaXMsIA0KZAIDDxYCHwAFgwFCaWxsIEdhdGVzIHNheXMgcHVibGljLXByaXZhdGUgY29vcGVyYXRpb24gaXMgc2F2aW5nIGxpdmVzIGJ5IGltcHJvdmluZyBhY2Nlc3MgdG8gcG5ldW1vbmlhIHZhY2NpbmVzIGFuZCBjb21iaW5hdGlvbiBUQiB0cmVhdG1lbnRzLmQCARBkZBYIAgEPZBYCZg9kFgQCAg8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYCAgEPZBYCZg8VARo8YSBocmVmPSIvQm9va3MiPkJvb2tzPC9hPmQCAg9kFgICAQ9kFgJmDxUBKTxhIGhyZWY9Ii9Ub3BpY3MvRWR1Y2F0aW9uIj5FZHVjYXRpb248L2E+ZAIDD2QWAgIBD2QWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9FbmVyZ3kiPkVuZXJneTwvYT5kAgQPZBYCAgEPZBYCZg8VAS08YSBocmVmPSIvVG9waWNzL0RldmVsb3BtZW50Ij5EZXZlbG9wbWVudDwvYT5kAgUPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmUWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9IZWFsdGgiPkhlYWx0aDwvYT5kAgYPZBYCAgEPZBYCZg8VASA8YSBocmVmPSIvUGVyc29uYWwiPlBlcnNvbmFsPC9hPmQCBw9kFgICAQ9kFgJmDxUBFjxhIGhyZWY9Ii9BbGwiPkFsbDwvYT5kAgQPFgIfAQL/////D2QCAw9kFgJmD2QWAgIBDw9kFgIeCW9ua2V5ZG93bgWuAWlmKGV2ZW50LndoaWNoIHx8IGV2ZW50LmtleUNvZGUpe2lmICgoZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlID09IDEzKSkge2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwyMF9TZWFyY2hCdXR0b24nKS5jbGljaygpO3JldHVybiBmYWxzZTt9fSBlbHNlIHtyZXR1cm4gdHJ1ZX07IGQCBQ9kFgJmD2QWAmYPZBYMZg8PFgIeB1Zpc2libGVoZBYCZg9kFgRmDxYCHwEC/////w9kAgEPZBYCZg8VAQk/c2hvd2FsbD1kAgMPZBYCZg8WAh8BAv////8PZAIED2QWAgIBDxYCHwEC/////w9kAgwPFgIfAQIGFgxmD2QWAmYPFQMVL1NlYXJjaD9zZWFyY2g9SGVhbHRoBmhlYWx0aAIsIGQCAQ9kFgJmDxUDFy9TZWFyY2g/c2VhcmNoPW1lZGljaW5lCG1lZGljaW5lAiwgZAICD2QWAmYPFQMXL1NlYXJjaD9zZWFyY2g9dmFjY2luZXMIdmFjY2luZXMCLCBkAgMPZBYCZg8VAxsvU2VhcmNoP3NlYXJjaD10dWJlcmN1bG9zaXMMdHViZXJjdWxvc2lzAiwgZAIED2QWAmYPFQMsL1NlYXJjaD9zZWFyY2g9QmlsbCtNZWxpbmRhK0dhdGVzK0ZvdW5kYXRpb24fQmlsbCAmIE1lbGluZGEgR2F0ZXMgRm91bmRhdGlvbgIsIGQCBQ9kFgJmDxUDFS9TZWFyY2g/c2VhcmNoPUV1cm9wZQZFdXJvcGUAZAIOD2QWAmYPZBYEZg8WAh8BAgQWCGYPZBYOAgEPZBYGZg8VATUvVG9waWNzL0hlYWx0aC9CaWxscy1Bbm51YWwtTGV0dGVyLUEtSGVhbHRoLUVtZXJnZW5jeWQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEK0JpbGzigJlzIEFubnVhbCBMZXR0ZXI6IEEgSGVhbHRoIEVtZXJnZW5jeSA1L1RvcGljcy9IZWFsdGgvQmlsbHMtQW5udWFsLUxldHRlci1BLUhlYWx0aC1FbWVyZ2VuY3kRRmVicnVhcnkgMTcsIDIwMTEiQW5udWFsIExldHRlcjogQSBIZWFsdGggRW1lcmdlbmN5IGQCBQ8WAh8EZxYGAgEPDxYEHgdUb29sVGlwBStCaWxs4oCZcyBBbm51YWwgTGV0dGVyOiBBIEhlYWx0aCBFbWVyZ2VuY3kgHgtOYXZpZ2F0ZVVybAU1L1RvcGljcy9IZWFsdGgvQmlsbHMtQW5udWFsLUxldHRlci1BLUhlYWx0aC1FbWVyZ2VuY3lkFgJmD2QWAgICDxUBzAE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvVGhpbmtpbmcvQmlsbHMgQW5udWFsIExldHRlciBBIEhlYWx0aCBFbWVyZ2VuY3kvVGhpbmtpbmctQmlsbHMtQW5udWFsLUxldHRlci1BLUhlYWx0aC1FbWVyZ2VuY3lfMjIweDEyNC5qcGciIGFsdD0iQmlsbCBHYXRlcyAyMDExIEFubnVhbCBMZXR0ZXIgLSBBIEhlYWx0aCBFbWVyZ2VuY3kiLz5kAgIPFQQ1L1RvcGljcy9IZWFsdGgvQmlsbHMtQW5udWFsLUxldHRlci1BLUhlYWx0aC1FbWVyZ2VuY3kRRmVicnVhcnkgMTcsIDIwMTEiQW5udWFsIExldHRlcjogQSBIZWFsdGggRW1lcmdlbmN5IJACVGhlIHdvcmxk4oCZcyBtYWtpbmcgcHJvZ3Jlc3MgYWdhaW5zdCBtYWxhcmlhLCBuZW9uYXRhbCBkZWF0aHMgYW5kIEhJVi9BSURTLCBidXQgbm90IGVub3VnaC4gSW4gaGlzIDIwMTEgbGV0dGVyIGFzIGNvLWNoYWlyIG9mIHRoZSBCaWxsICYgTWVsaW5kYSBHYXRlcyBGb3VuZGF0aW9uLCBCaWxsIGV4cGxhaW5zIHdoeSBoZeKAmXMgd2lsbGluZyB0byBiZSB2aWV3ZWQgYXMgYSB0cm91YmxlbWFrZXIgYnkgcGVvcGxlIHdobyBhcmUgaGFwcHkgd2l0aCB0aGUgc3RhdHVzIHF1by5kAgMPFgIfBGgWAmYPFQMmQmlsbHMtQW5udWFsLUxldHRlci1BLUhlYWx0aC1FbWVyZ2VuY3kAAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgEPZBYOAgEPZBYGZg8VAS0vVG9waWNzL0hlYWx0aC9UYWNrbGluZy1UQi1UaHJvdWdoLUlubm92YXRpb25kAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBB5UYWNrbGluZyBUQiBUaHJvdWdoIElubm92YXRpb24tL1RvcGljcy9IZWFsdGgvVGFja2xpbmctVEItVGhyb3VnaC1Jbm5vdmF0aW9uDk1hcmNoIDI0LCAyMDExHlRhY2tsaW5nIFRCIFRocm91Z2ggSW5ub3ZhdGlvbmQCBQ8WAh8EZxYGAgEPDxYEHwUFHlRhY2tsaW5nIFRCIFRocm91Z2ggSW5ub3ZhdGlvbh8GBS0vVG9waWNzL0hlYWx0aC9UYWNrbGluZy1UQi1UaHJvdWdoLUlubm92YXRpb25kFgJmD2QWAgICDxUBlwI8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvVGhpbmtpbmcvVGFja2xpbmcgVEIgVGhyb3VnaCBJbm5vdmF0aW9uLzIwMTEwMzI0X1RoaW5raW5nLVRhY2tsaW5nLVRCLVRocm91Z2gtSW5ub3ZhdGlvbl8yMjB4MTI0LmpwZyIgYWx0PSJCaWxsIEdhdGVzIHNwZWFrcyB3aXRoIGRvY3RvcnMgaW4gZnJvbnQgb2YgdGhlIEdlbmVYcGVydCBkaWFnbm9zdGljIHN5c3RlbSBhdCBMUlMgSW5zdGl0dXRlIG9mIFR1YmVyY3Vsb3NpcyBhbmQgUmVzcGlyYXRvcnkgRGlzZWFzZXMiLz5kAgIPFQQtL1RvcGljcy9IZWFsdGgvVGFja2xpbmctVEItVGhyb3VnaC1Jbm5vdmF0aW9uDk1hcmNoIDI0LCAyMDExHlRhY2tsaW5nIFRCIFRocm91Z2ggSW5ub3ZhdGlvbmNCaWxsIGV4cGxvcmVzIGlubm92YXRpb24gaW4gdGVzdGluZyBhbmQgdHJlYXRpbmcgdHViZXJjdWxvc2lzLCBhcyBoZSBzcGVuZHMgV29ybGQgVEIgRGF5IGluIEluZGlhLiBkAgMPFgIfBGgWAmYPFQMeVGFja2xpbmctVEItVGhyb3VnaC1Jbm5vdmF0aW9uAABkAgcPZBYCAgEPZBYCZg8VAQBkAgkPZBYCZg9kFgJmD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIND2QWAmYPFQEAZAICD2QWDgIBD2QWBmYPFQE2L1RvcGljcy9IZWFsdGgvV2h5LUhlYWx0aC1DYXJlLU1hdHRlcnMtZm9yLXRoZS1Qb29yZXN0ZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQnV2h5IEhlYWx0aCBDYXJlIE1hdHRlcnMgZm9yIHRoZSBQb29yZXN0Ni9Ub3BpY3MvSGVhbHRoL1doeS1IZWFsdGgtQ2FyZS1NYXR0ZXJzLWZvci10aGUtUG9vcmVzdBBKYW51YXJ5IDE0LCAyMDEwJ1doeSBIZWFsdGggQ2FyZSBNYXR0ZXJzIGZvciB0aGUgUG9vcmVzdGQCBQ8WAh8EZxYGAgEPDxYEHwUFJ1doeSBIZWFsdGggQ2FyZSBNYXR0ZXJzIGZvciB0aGUgUG9vcmVzdB8GBTYvVG9waWNzL0hlYWx0aC9XaHktSGVhbHRoLUNhcmUtTWF0dGVycy1mb3ItdGhlLVBvb3Jlc3RkFgJmD2QWAgICDxUBuQE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvSGVhbHRoL1doeSBIZWFsdGggQ2FyZSBNYXR0ZXJzIGZvciB0aGUgUG9vcmVzdC8yMDEwMDExNF9Db252ZXJzYXRpb25zLVdoeS1IZWFsdGgtQ2FyZS1NYXR0ZXJzLWZvci10aGUtUG9vcmVzdF8yMjB4MTI0LmpwZyIgYWx0PSJCaWxsIEdhdGVzIG9uIENOTiIvPmQCAg8VBDYvVG9waWNzL0hlYWx0aC9XaHktSGVhbHRoLUNhcmUtTWF0dGVycy1mb3ItdGhlLVBvb3Jlc3QQSmFudWFyeSAxNCwgMjAxMCdXaHkgSGVhbHRoIENhcmUgTWF0dGVycyBmb3IgdGhlIFBvb3Jlc3SOAUluIGEgZGlzY3Vzc2lvbiB3aXRoIENOTidzIEZhcmVlZCBaYWthcmlhLCBCaWxsIHRhbGtzIGFib3V0IHdoeSBpbXByb3ZpbmcgaGVhbHRoIGNhbiBjYXRhbHl6ZSBvdGhlciBhZHZhbmNlcyBpbiB0aGUgd29ybGQncyBwb29yZXN0IGNvdW50cmllcy5kAgMPFgIfBGgWAmYPFQMnV2h5LUhlYWx0aC1DYXJlLU1hdHRlcnMtZm9yLXRoZS1Qb29yZXN0AABkAgcPZBYCAgEPZBYCZg8VAQBkAgkPZBYCZg9kFgJmD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIND2QWAmYPFQEAZAIDD2QWDgIBD2QWBmYPFQEiL1RvcGljcy9IZWFsdGgvVmFjY2luZXMtU2F2ZS1MaXZlc2QCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEE1ZhY2NpbmVzIFNhdmUgTGl2ZXMiL1RvcGljcy9IZWFsdGgvVmFjY2luZXMtU2F2ZS1MaXZlcxBKYW51YXJ5IDI5LCAyMDExE1ZhY2NpbmVzIFNhdmUgTGl2ZXNkAgUPFgIfBGcWBgIBDw8WBB8FBRNWYWNjaW5lcyBTYXZlIExpdmVzHwYFIi9Ub3BpY3MvSGVhbHRoL1ZhY2NpbmVzLVNhdmUtTGl2ZXNkFgJmD2QWAgICDxUBhwE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvVGhpbmtpbmcvVmFjY2luZXMgU2F2ZSBMaXZlcy9UaGlua2luZy1WYWNjaW5lcy1TYXZlLUxpdmVzXzIyMHgxMjQuanBnIiBhbHQ9IlZhY2NpbmVzIFNhdmUgTGl2ZXMiLz5kAgIPFQQiL1RvcGljcy9IZWFsdGgvVmFjY2luZXMtU2F2ZS1MaXZlcxBKYW51YXJ5IDI5LCAyMDExE1ZhY2NpbmVzIFNhdmUgTGl2ZXNHQmlsbOKAmXMgdGhvdWdodHMgYWJvdXQgdmFjY2luZXMgYW5kIHBvbGlvLCBkcmF3biBvbiBza2V0Y2ggcGFwZXIuPGJyLz5kAgMPFgIfBGgWAmYPFQMTVmFjY2luZXMtU2F2ZS1MaXZlcwAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCAQ9kFgJmDxUBCT9zaG93YWxsPWQCDw8WAh8BAv////8PZAIJD2QWAmYPZBYIAgEPFgIfAQIDFgZmD2QWAgIBDw8WBB4EVGV4dAUKQWxsIFRvcGljcx8GBQcvVG9waWNzZGQCAQ9kFgICAQ8PFgQfBwUFQm9va3MfBgUGL0Jvb2tzZGQCAg9kFgICAQ8PFgQfBwUJRWR1Y2F0aW9uHwYFES9Ub3BpY3MvRWR1Y2F0aW9uZGQCAw8WAh8BAgMWBmYPZBYCAgEPDxYEHwcFBkVuZXJneR8GBQ4vVG9waWNzL0VuZXJneWRkAgEPZBYCAgEPDxYEHwcFC0RldmVsb3BtZW50HwYFEy9Ub3BpY3MvRGV2ZWxvcG1lbnRkZAICD2QWAgIBDw8WBB8HBQZIZWFsdGgfBgUOL1RvcGljcy9IZWFsdGhkZAIFDxYCHwECARYCZg9kFgICAQ8PFgQfBwUIUGVyc29uYWwfBgUJL1BlcnNvbmFsZGQCBw8WAh8HBQQyMDEzZGTgW0+wG/in980WBVd+sGpd6uJrzA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALs0f2UCgLf6cCfDQKNhbaICQL5oamLB/oZQP+ErYTebVp3FQZPNP76txb3" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="active"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="navLink"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+				<p class="date">June 25, 2010 | By Bill Gates</p>
+				<h1>Eliminating Killer Diseases with New Medicines</h1>
+				<h2></h2>
+
+				<blockquote>For people suffering from serious but treatable diseases like pneumonia and tuberculosis, access to drugs can mean the difference between life and death. A new report and two recent announcements are signs of progress in efforts to expand access.</blockquote>
+				<p>In the developed world, we sometimes take life-saving medicines for granted. But as I&rsquo;ve traveled in the developing world, I&rsquo;ve seen first-hand the huge difference they can make. A new report and two recent announcements are reminders of the important role of the pharmaceutical industry, especially in helping save the lives of people in poor countries. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+The new report is the&nbsp;<a href="http://www.accesstomedicineindex.org/content/index-2010-0" target="_blank" shape="rect">Access to Medicine Index 2010</a> from the Access to Medicine Foundation, based in the Netherlands. The index ranks 20 of the world's largest pharmaceutical companies on their efforts to make sure that medicines are made for and reach people in developing countries. The latest index found that companies are being more transparent about their efforts to expand access. They&rsquo;ve also taken steps to make drug pricing more equitable and to increase R&amp;D on diseases affecting poor countries. But in the words of the Index&rsquo;s founder Wim Leereveld, &ldquo;the industry as a whole still has a long way to go.&rdquo; <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+One example of progress on access is the announcement by&nbsp;<a href="http://www.gsk.com/" target="_blank" shape="rect">GlaxoSmithKline</a> and&nbsp;<a href="http://www.pfizer.com/home/" target="_blank" shape="rect">Pfizer Inc.</a> that they will accelerate production and distribution of new vaccines against pneumococcal disease, which kills 1.6 million people a year&mdash;mostly in developing countries, and half of them children under the age of five. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+Glaxo and Pfizer will supply 30 million doses a year, for 10 years, at a price that is more affordable for developing countries. Estimates are that the vaccines could save 900,000 lives by 2015, and up to 7 million lives by 2030. Key to this effort was an innovative financing mechanism, known as an <a href="http://www.gavialliance.org/library/news/press-releases/2007/five-nations-and-the-bill-and-melinda-gates-foundation-launch-advance-market-commitment-for-vaccines/" target="_blank" shape="rect">Advance Market Commitment</a>, piloted by the <a href="http://www.gavialliance.org" target="_blank" shape="rect">GAVI Alliance</a>. I am pleased that our foundation was able to support this effort in partnership with GAVI, the World Bank, the World Health Organization, UNICEF and the national governments of Italy, Canada, Norway, Russia, and the United Kingdom. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+In another important effort supported by the foundation, the non-profit&nbsp;<a href="http://www.c-path.org/" target="_blank" shape="rect">Critical Path Institute</a> (C-Path) and the Global Alliance for TB Drug Development (TB Alliance) will coordinate testing of promising combinations of tuberculosis drug candidates from at least 11 different pharmaceutical companies early in the development pipeline. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+If you used the historical approach to testing and getting regulatory approval for new TB drugs&mdash;individually and then in combination with other drugs&mdash;it could take 24 years. This new approach, which the foundation created in partnership with C-Path and the TB Alliance, hopes to develop effective new combination TB treatments in just six years. Importantly, the U.S. Food and Drug Administration and regulatory authorities in Europe have indicated strong support for accelerating approvals of safe, effective new treatments. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+Although many people think of TB as a disease that was conquered long ago, it still kills 1.8 million people a year, mainly in the poorest countries on earth. The current four-drug course of treatment for TB is now 50 years old and requires patients to take numerous pills for six months or longer, which many find difficult, especially given the often-unpleasant side effects. When patients don't complete their course of treatment, the disease can become resistant to the initial drugs. In 2007, there were more than 500,000 cases of drug-resistant TB. New and easier ways to treat TB would be a great step forward. <br _extendedByPrototype="function() { }" />
+<br _extendedByPrototype="function() { }" />
+I believe that these kinds of innovative collaborations between pharmaceutical companies, governments and the non-profit sector are critical to accelerating the delivery of medicines, which is critical to saving lives. </p>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Health">health</a>, </li><li><a href="/Search?search=medicine">medicine</a>, </li><li><a href="/Search?search=vaccines">vaccines</a>, </li><li><a href="/Search?search=tuberculosis">tuberculosis</a>, </li><li><a href="/Search?search=Bill+Melinda+Gates+Foundation">Bill & Melinda Gates Foundation</a>, </li><li><a href="/Search?search=Europe">Europe</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{25A45330-491D-4C4C-9160-E59D5133F6CA}";
+    var disqus_url = "http://www.thegatesnotes.com/Topics/Health/Eliminating-Killer-Diseases-with-New-Medicines";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_0" title="Bill’s Annual Letter: A Health Emergency " href="/Topics/Health/Bills-Annual-Letter-A-Health-Emergency"><p id="content_0_ctl03_Articles_P2_0" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Thinking/Bills Annual Letter A Health Emergency/Thinking-Bills-Annual-Letter-A-Health-Emergency_220x124.jpg" alt="Bill Gates 2011 Annual Letter - A Health Emergency"/>
+							
+						</p></a>
+					<a href="/Topics/Health/Bills-Annual-Letter-A-Health-Emergency">
+						<p class="date">February 17, 2011</p>
+						<h1>Annual Letter: A Health Emergency </h1>
+
+						<p>The world’s making progress against malaria, neonatal deaths and HIV/AIDS, but not enough. In his 2011 letter as co-chair of the Bill & Melinda Gates Foundation, Bill explains why he’s willing to be viewed as a troublemaker by people who are happy with the status quo.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_1" title="Tackling TB Through Innovation" href="/Topics/Health/Tackling-TB-Through-Innovation"><p id="content_0_ctl03_Articles_P2_1" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Thinking/Tackling TB Through Innovation/20110324_Thinking-Tackling-TB-Through-Innovation_220x124.jpg" alt="Bill Gates speaks with doctors in front of the GeneXpert diagnostic system at LRS Institute of Tuberculosis and Respiratory Diseases"/>
+							
+						</p></a>
+					<a href="/Topics/Health/Tackling-TB-Through-Innovation">
+						<p class="date">March 24, 2011</p>
+						<h1>Tackling TB Through Innovation</h1>
+
+						<p>Bill explores innovation in testing and treating tuberculosis, as he spends World TB Day in India. </p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_2" title="Why Health Care Matters for the Poorest" href="/Topics/Health/Why-Health-Care-Matters-for-the-Poorest"><p id="content_0_ctl03_Articles_P2_2" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Health/Why Health Care Matters for the Poorest/20100114_Conversations-Why-Health-Care-Matters-for-the-Poorest_220x124.jpg" alt="Bill Gates on CNN"/>
+							
+						</p></a>
+					<a href="/Topics/Health/Why-Health-Care-Matters-for-the-Poorest">
+						<p class="date">January 14, 2010</p>
+						<h1>Why Health Care Matters for the Poorest</h1>
+
+						<p>In a discussion with CNN's Fareed Zakaria, Bill talks about why improving health can catalyze other advances in the world's poorest countries.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_3" title="Vaccines Save Lives" href="/Topics/Health/Vaccines-Save-Lives"><p id="content_0_ctl03_Articles_P2_3" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Thinking/Vaccines Save Lives/Thinking-Vaccines-Save-Lives_220x124.jpg" alt="Vaccines Save Lives"/>
+							
+						</p></a>
+					<a href="/Topics/Health/Vaccines-Save-Lives">
+						<p class="date">January 29, 2011</p>
+						<h1>Vaccines Save Lives</h1>
+
+						<p>Bill’s thoughts about vaccines and polio, drawn on sketch paper.<br/></p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Eliminating Killer Diseases with New Medicines', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Eliminating Killer Diseases with New Medicines', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Eliminating Killer Diseases with New Medicines', 'WT.ti', 'End: Eliminating Killer Diseases with New Medicines', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Eliminating Killer Diseases with New Medicines', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Eliminating-Killer-Diseases-with-New-Medicines"
+    s.channel = "Health"
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

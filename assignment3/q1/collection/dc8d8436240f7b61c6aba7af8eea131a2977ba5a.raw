@@ -1,0 +1,1605 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" dir="ltr">
+    <!--<![endif]-->
+    <head id="Head1"><meta charset="utf-8" /><meta name="bitly-verification" content="991580fa930f" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /><title>
+	Bill Gates 2013 Annual Letter
+</title>
+        <!--Styles-->
+        <link href="css/bootstrap.min.css" rel="stylesheet" /><link href="Bootstrap/LESS/responsive.min.css" rel="stylesheet" /><link href="css/main.css" rel="stylesheet" />
+        <!--Scripts-->
+        <script src="js/vendor/modernizr.js"></script>
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if IE 8]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+        <!--[if gte IE 9]>
+  <style type="text/css">
+    #topNav a{
+       filter: none;
+    }
+  </style>
+<![endif]-->
+        </head>
+
+    <!--data-spy="scroll" data-offset="300" data-target=".nav-collapse"-->
+    <body>
+        <form method="post" action="2013.aspx?cid=twt_BG_30Jan_twitpic_press1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MzMwODc4MTcPZBYCAgEPZBYCAgMPZBYCAjUPFgIeBFRleHQFB0VuZ2xpc2hkZFxri1lu7YyRU6zgbO2x3Zy/GDMq4xtS1hGEf0g0qxDe" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKr/bW6BQLf3NriCtuBL73NTjiJZouFhHHbjPFEa5U7b5fqVHMvLnXLY9v2" />
+</div>
+        <div id="intro" style="position: absolute; top: 0px;" data-carousel="none">
+        </div>
+        <!-- NAVBAR
+    ================================================== -->
+        <div class="navbar-wrapper">
+            <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+            <div class="navbar navbar-fixed-top">
+                <div class="navbar-inner main">
+                    <div class="container">
+                        <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+                        <a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"><span
+                            class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                        </a>
+                        <div class="visible-phone mobile-header">
+                            <a href="#intro">
+                                <img src="img/header-mobilev2.png" />
+                            </a>
+                        </div>
+                        <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+                        <div id="mobileNav" class="nav-collapse collapse">
+                            <ul class="nav main" id="topNav">
+                                <li class="visible-desktop visible-tablet">
+                                    <a href="#intro">
+                                        <div>
+                                            <div>
+                                                <img id="MainNav_HeaderImage" class="visible-desktop visible-tablet" src="img/header-img/letterheader.png" />
+                                            </div>
+                                        </div>
+                                    </a></li>
+                                <li><a href="#section1">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_1_Img" title="Measuring Progress" class="visible-desktop visible-tablet" Text="Measuring Progress" src="img/topnav-imgs/measurenav.png" />
+                                            <span id="MainNav_Option_1_Text" title="Measuring Progress" class="visible-phone" ImageUrl="img/topnav-imgs/measurenav.png">Measuring Progress</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                                <li><a href="#section2">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_2_Img" title="The World&#39;s Report Card" class="visible-desktop visible-tablet" Text="The World&#39;s Report Card" src="img/topnav-imgs/reportcardnav.png" />
+                                            <span id="MainNav_Option_2_Text" title="The World&#39;s Report Card" class="visible-phone" ImageUrl="img/topnav-imgs/reportcardnav.png">The World's Report Card</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                                <li><a href="#section3">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_3_Img" title="Global Goals, Local Change" class="visible-desktop visible-tablet" Text="Global Goals, Local Change" src="img/topnav-imgs/goalsnav.png" />
+                                            <span id="MainNav_Option_3_Text" title="Global Goals, Local Change" class="visible-phone" ImageUrl="img/topnav-imgs/goalsnav.png">Global Goals, Local Change</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                                <li><a href="#section4">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_4_Img" title="Mapping the End of Polio" class="visible-desktop visible-tablet" Text="Mapping the End of Polio" src="img/topnav-imgs/mappingnav.png" />
+                                            <span id="MainNav_Option_4_Text" title="Mapping the End of Polio" class="visible-phone" ImageUrl="img/topnav-imgs/mappingnav.png">Mapping the End of Polio</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                                <li><a href="#section5">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_5_Img" title="Feedback for Teacher Growth" class="visible-desktop visible-tablet" Text="Feedback for Teacher Growth" src="img/topnav-imgs/growthnav.png" />
+                                            <span id="MainNav_Option_5_Text" title="Feedback for Teacher Growth" class="visible-phone" ImageUrl="img/topnav-imgs/growthnav.png">Feedback for Teacher Growth</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                                <li><a href="#section6">
+                                    <div>
+                                        <div>
+                                            <img id="MainNav_Option_6_Img" title="The Way Forward" class="visible-desktop visible-tablet" Text="The Way Forward" src="img/topnav-imgs/forwardnav.png" />
+                                            <span id="MainNav_Option_6_Text" title="The Way Forward" class="visible-phone" ImageUrl="img/topnav-imgs/forwardnav.png">The Way Forward</span>
+                                        </div>
+                                    </div>
+                                </a></li>
+                            </ul>
+                        </div>
+                        <!--/.nav-collapse -->
+                    </div>
+                    <!-- /.container -->
+                </div>
+                <!-- /.navbar-inner -->
+                <div class="navbar-inner sub visible-desktop visible-tablet">
+                    <div class="container">
+                        <ul class="nav sub pull-right">
+                            <li><span id="MainNav_Facebook" class="sharebutton" data-share-type="facebook" data-share-name="Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com" data-share-description="&quot;From time to time we should step back and celebrate the way that the right goals combined with political will in developing countries, aid, and innovation have achieved so much.&quot; - Bill Gates">
+                                <img src="img/facebook.png" /></span></li>
+                            <li><span id="MainNav_Twitter" class="sharebutton" data-share-link="http://gates.ly/XBHatZ" data-share-type="twitter" data-share-text="What is the most powerful idea for improving lives around the world? Find out what @BillGates thinks: " data-share-hashtags="BillsLetter">
+                                <img src="img/twitter.png" /></span></li>
+                            <li><span id="MainNav_Pinterest" class="sharebutton" data-share-description="&quot;From time to time we should step back and celebrate the way that the right goals combined with political will in developing countries, aid, and innovation have achieved so much.&quot; - Bill Gates, 2013 Annual Letter " data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx" data-share-type="pinterest">
+                                <img src="img/pinterest.png" /></span></li>
+                            <li>
+                                <span class="sharebutton" data-share-type="EmailAFriend">
+                                    <a id="EmailLightBoxToggle" data-toggle="lightbox" href="#EmailAFriend">
+                                        <img src="img/email.png" />
+                                    </a>
+                                </span>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- /.navbar -->
+        </div>
+        <div class="mobile-social visible-phone">
+            <div class="navbar-inner sub">
+                <div class="container">
+                    <ul class="nav sub pull-right">
+                        <li><span id="Span1" class="sharebutton" data-share-type="facebook" data-share-name="Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com" data-share-description="&quot;From time to time we should step back and celebrate the way that the right goals combined with political will in developing countries, aid, and innovation have achieved so much.&quot; - Bill Gates">
+                            <img src="img/facebook.png" /></span></li>
+                        <li><span id="Span2" class="sharebutton" data-share-link="http://gates.ly/XBHatZ" data-share-type="twitter" data-share-text="What is the most powerful idea for improving lives around the world? Find out what @BillGates thinks: " data-share-hashtags="BillsLetter">
+                            <img src="img/twitter.png" /></span></li>
+                        <li><span id="Span3" class="sharebutton" data-share-description="&quot;From time to time we should step back and celebrate the way that the right goals combined with political will in developing countries, aid, and innovation have achieved so much.&quot; - Bill Gates, 2013 Annual Letter " data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx" data-share-type="pinterest">
+                            <img src="img/pinterest.png" /></span></li>
+                        <li class="sharebutton" onclick="openChromelessWindow('secure/EmailAFriend.aspx');">
+                            <img src="img/email.png" /></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="page">
+            <!-- /.navbar-wrapper -->
+            <div class="hero">
+                <div class="container">
+                    <div class="row">
+                        <div id="hero-pull-quote" class="span6 hidden-phone">
+                            <div class="pull-quote">
+                                <div class="container">
+                                    <div class="pull-quote-body span5">
+                                        "My annual letter this year makes the case for using a tool of business to improve the health and welfare of more of the world’s people."
+                                        <div class="pull-right">
+                                            &mdash;Bill Gates
+                                        </div>
+                                    </div>
+                                    <div class="pull-quote-signature">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row landing-logo">
+                            <div class="span4 visible-desktop">
+                                <img id="bglandinglogo" src="img/gateslogo.png" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="intro-video-imageOverlay">
+                    <img id="hero-bill" src="img/bill.png" />
+                    <img class="background" src="img/HeroOverlayBackground.gif" />
+                    <div id="video-play" class="visible-desktop visible-tablet">
+                        <a>
+                            <img src="img/playoff.png" onmouseover="this.src='img/playover.png'" onmouseout="this.src='img/playoff.png'" /></a>
+                    </div>
+                    <div id="video-play-mobile" class="visible-phone">
+                        <img src="img/playoff.png" width="55" height="50" />
+                    </div>
+                </div>
+                <div id="readLetterButton">
+                    <img id="HeroRead_Button" src="img/readbuttonLRG.png" />
+                </div>
+                <div id="heroIntroVideo" class="intro-video-container">
+                    <iframe id="introVideo" data-widthMultiplier=".65" data-aspectRatio=".625" src="https://www.youtube.com/embed/380sy5_ZQzo?vq=hd720&rel=0&autohide=2&modestbranding=1&showinfo=1&wmode=opaque&version=3&enablejsapi=1" frameborder="0" allowfullscreen="true" ></iframe>
+                </div>
+
+                <div class="hero-overlay">
+                    <div class="hero-buttons">
+                        <div class="btn-group lang-op">
+                            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                                English<i
+                                    class="icon-chevron-down icon-white pull-right"></i></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a id="LinkEnglish" href="?loc=en">English</a></li>
+                                <li>
+                                    <a id="LinkArabic" href="?loc=ar">العربية</a></li>
+                                <li>
+                                    <a id="LinkFrench" href="?loc=fr">Français</a></li>
+                                <li>
+                                    <a id="LinkGerman" href="?loc=de">Deutsch</a></li>
+                                <li>
+                                    <a id="LinkJapanese" href="?loc=ja">日本語</a></li>
+                                <li>
+                                    <a id="LinkKorean" href="?loc=ko">한국어</a></li>
+                                <li>
+                                    <a id="LinkSpanish" href="?loc=es">Español</a></li>
+                                <li>
+                                    <a id="LinkHindi" href="?loc=hi">हिंदी</a></li>
+                                <li>
+                                    <a id="LinkPortuguese" href="?loc=pt">Português</a></li>
+                                <li>
+                                    <a id="LinkChineseSimplified" href="?loc=zh-hans">中文</a></li>
+                            </ul>
+                        </div>
+                        <div class="btn-group download">
+                            <a id="Hero_PDF_Button" class="btn" href="./pdf/2013_AL_English.pdf" target="_blank">Download PDF
+                                <i class='icon-file icon-white pull-right'></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SECTION 1 -->
+            <section id="section1" class="navigation" data-stellar-offset-parent="true" data-carousel="carousel1">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section1_Main_Facebook" class="sharebutton" data-share-description="Measurement is one of the most powerful forces for good throughout the world and continues to show which health and development approaches work and which do not." data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section1" data-share-name="Measuring Progress: Bill Gates 2013 Annual Letter" data-share-type="facebook" data-share-caption="www.billsletter.com">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section1_Main_Twitter" class="sharebutton" data-share-text="Why is measurement a force for good throughout the world? @BillGates explains: " data-share-type="twitter" data-share-link="http://gates.ly/YKV0NT" data-share-hashtags="BillsLetter">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            Measuring Progress
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #23333a !important;">
+                    <div id="carousel1" class="carousel slide">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch1/ch1cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote span5 pull-right">
+                                        <p>
+                                            Setting clear goals and finding measures that will mark progress toward them can improve the human condition.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch1/1-2.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch1/1-3.jpg" />
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch1/1-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch1/1-5.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="left carousel-control hidden-phone hidden-tablet" href="#carousel1" data-slide="prev"></a>
+                        <a class="right carousel-control hidden-phone hidden-tablet" href="#carousel1" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span10">
+                                        <p>
+                                            <strong><em>
+                                                We can learn a lot about improving the world in the 21st century from an icon of the industrial era: the steam engine.</em></strong>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span12">
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Over the holidays I read The Most Powerful Idea in the World, a brilliant chronicle by William Rosen of the many innovations it took to harness steam power. Among the most important were a new way to measure the energy output of engines and a micrometer dubbed the "Lord Chancellor," able to gauge tiny distances.</p>
+                                            <p>
+                                                Such measuring tools, Rosen writes, allowed inventors to see if their incremental design changes led to the improvements-higher-quality parts, better performance, and less coal consumption-needed to build better engines. Innovations in steam power demonstrate a larger lesson: Without feedback from precise measurement, Rosen writes, invention is "doomed to be rare and erratic." With it, invention becomes "commonplace."</p>
+                                        </div>
+                                        <div class="span3 floatImageLeft">
+                                            <br />
+                                            <img src="img/content-imgs/01-5.jpg" />
+                                            <p class="image-quote">
+                                                Starting around 1805, the “Lord Chancellor” micrometer, according to author William Rosen, was “an Excalibur of measurement, slaying the dragon of imprecision,” for inventors in the Industrial Revolution. (&copy; Science Museum, London)</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Of course, the work of our foundation is a world away from the making of steam engines. But in the past year I have been struck again and again by how important measurement is to improving the human condition. You can achieve amazing progress if you set a clear goal and find a measure that will drive progress toward that goal-in a feedback loop similar to the one Rosen describes. This may seem pretty basic, but it is amazing to me how often it is not done and how hard it is to get right.</p>
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight pq-cell">
+                                            <img src="img/pullquotetop.gif" style="float: left;" />
+                                            <div class="pquote">
+                                                I have been struck again and again by how important measurement is to improving the human condition.
+                                            </div>
+                                            <img src="img/pullquotebottom.gif" style="float: right;" />
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight">
+                                            <div class="image-social-wrap">
+                                                <div id="Section1_PullQuote_Facebook" class="sharebutton" data-share-type="facebook" data-share-name="Measuring Progress: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section1" data-share-caption="www.billsletter.com" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-description="&quot;I have been struck again and again by how important measurement is to improving the human condition.&quot; - Bill Gates ">
+                                                    <img src="img/fb-icon.png" width="15" height="15" />
+                                                </div>
+                                                <div id="Section1_PullQuote_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-link="http://gates.ly/YKV0NT" data-share-type="twitter" data-share-text="&quot;I&#39;ve been struck again by how important measurement is to improving the human condition.&quot; @BillGates ">
+                                                    <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                </div>
+                                                <div id="Section1_PullQuote_Pinterest" class="sharebutton" data-share-description="&quot;I have been struck again and again by how important measurement is to improving the human condition.&quot; - Bill Gates, Annual Letter 2013" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section1" data-share-type="pinterest" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif">
+                                                    <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="span4 floatImageLeft">
+                                            <br />
+                                            <img src="img/billchart.jpg" />
+                                            <p class="image-quote">
+                                                Getting a closer look at charts documenting rural health progress at the Germana Gale Health Post in Ethiopia. Over the past year I’ve been impressed with progress in using data and measurement to improve the human condition (Dalocha, Ethiopia, 2012).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                In previous annual letters, I've focused a lot on the power of innovation to reduce hunger, poverty, and disease. But any innovation-whether it's a new vaccine or an improved seed-can't have an impact unless it reaches the people who will benefit from it. That's why in this year's letter I discuss how innovations in measurement are critical to finding new, effective ways to deliver these tools and services to the clinics, family farms, and classrooms that need them.</p>
+                                        </div>
+                                        <!--
+                                    <div class="span4 floatImageLeft">
+                                        <img src="img/content-imgs/03-4.jpg" />
+                                        <p class="image-quote">
+                                            Getting a closer look at charts documenting rural health progress at the Germana Gale Health Post in Ethiopia. Over the past year I’ve been impressed with progress in using data and measurement to improve the human condition (Dalocha, Ethiopia, 2012).</p>
+                                    </div>
+                                    -->
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Our foundation is supporting these efforts, but we and others need to do more. Given how tight budgets are around the world, governments are rightfully demanding effectiveness in the programs they pay for. To address these demands, we need better measurement tools to determine which approaches work and which do not.</p>
+                                            <p>
+                                                In this letter I'll highlight strong examples I've seen in the past year of how measurement is making a difference. In Colorado, Melinda and I learned how a school district is pioneering a new system to measure and promote teacher effectiveness. In Ethiopia, I witnessed how a poor country, pursuing goals set by the United Nations, delivered better health services to its people. In Nigeria, I've seen how the digital revolution allows us to improve the use of measurement in the campaign to eradicate polio. Thanks to cell phones, satellites, and cheap sensors, we can gather and organize data with increasing speed and accuracy. These modern-day Lord Chancellors will also help speed progress in education and agriculture, as well as other health efforts.</p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </section>
+            <!-- /.container -->
+            <!-- /SECTION 1 -->
+            <!-- SECTION 2 -->
+            <section id="section2" class="navigation" data-carousel="carousel2">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section2_Main_Facebook" class="sharebutton" data-share-caption="www.billsletter.com" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-description="Why the &quot;Millenium Development Goals&quot; created a world metric that mattered." data-share-name="The World&#39;s Report Card: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2" data-share-type="facebook">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section2_Main_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="How is the world doing in helping those most in need? Find out why @BillGates is optimistic: " data-share-type="twitter" data-share-link="http://gates.ly/YKUYWl">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            The World’s Report Card
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #23333a !important;">
+                    <div id="carousel2" class="carousel slide">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch2/ch2cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote span5 pull-right">
+                                        <p>
+                                            Eight goals aimed at improving the lives of the world’s poorest people have brought new focus to the highest priorities in health and development.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch2/2-3.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <a id="A1" data-toggle="modal" href="#Info2">
+                                            <img src="img/infographics/info2-thumb.png" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch2/2-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch2/2-5.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="left carousel-control  hidden-phone hidden-tablet" href="#carousel2" data-slide="prev"></a><a class="right carousel-control  hidden-phone hidden-tablet"
+                            href="#carousel2" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span12">
+                                            <div class="span4 floatImageLeft">
+                                                <img src="img/content-imgs/06-6.jpg" />
+                                                <p class="image-quote">
+                                                    As head of UNICEF in the 1980s, Jim Grant sparked a global effort to increase the number of children vaccinated against deadly diseases. Here, he is holding a boy separated from his parents during the 1994 genocide. (Nyamata, Rwanda, 1994). ©UNICEF</p>
+                                            </div>
+                                            <div class="span10 flowBodyText">
+                                                <p>
+                                                    A business has increasing profit as its primary goal. Management decides the actions -such as improving customer satisfaction or adding new product capabilities-that will drive profit and then develops a system to measure those on a regular basis. If the managers pick the wrong measures or don't do better than their competition, profit goes down. Business magazines and business schools analyze which measures companies use and which companies have done particularly well or poorly. Other companies benefit from these analyses, learning from the performance of their competitors which tactics and strategies work and which don't. The understanding of how to use measurement to drive excellence in business has improved dramatically in the last 50 years.</p>
+                                            </div>
+                                            <div class="span4 floatImageRight pq-cell">
+                                                <img src="img/pullquotetop.gif" style="float: left;" />
+                                                <div class="pquote">
+                                                    The MDGs have become a report card for how the world is performing against major problems affecting the poor.
+                                                </div>
+                                                <img src="img/pullquotebottom.gif" style="float: right;" />
+                                            </div>
+                                            <div class="span4 offset8 floatImageRight">
+                                                <div class="image-social-wrap">
+                                                    <div id="Section2_PullQuote_Facebook" class="sharebutton" data-share-caption="www.billsletter.com" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-description="&quot;The MDGs have become a report card for how the world is performing against major problems affecting the poor.&quot; - Bill Gates" data-share-type="facebook" data-share-name="The World&#39;s Report Card: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2">
+                                                        <img src="img/fb-icon.png" width="15" height="15" />
+                                                    </div>
+                                                    <div id="Section2_PullQuote_Twitter" class="sharebutton" data-share-link="http://gates.ly/YKUYWl" data-share-type="twitter" data-share-text="&quot;The MDGs are a report card for how the world is performing on issues affecting the poor.&quot; @BillGates " data-share-hashtags="BillsLetter">
+                                                        <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                    </div>
+                                                    <div id="Section2_PullQuote_Pinterest" class="sharebutton" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2" data-share-type="pinterest" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-description="The MDGs have become a report card for how the world is performing against major problems affecting the poor. - Bill Gates, Annual Letter 2013">
+                                                        <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="span10 flowBodyText">
+                                                <p>
+                                                    Unlike business, where profit is the "bottom line," foundations and government programs pick their own goals. In the United States our foundation focuses mostly on improving education, so our goals include reducing the number of kids who drop out of high school. In poor countries we focus on health, agriculture, and family planning. Given a goal, you decide on what key variable you need to change to achieve it-the same way a business picks objectives for inside the company like customer satisfaction-and develop a plan for change and a way of measuring the change. You use the measurement as feedback to make adjustments. I think a lot of efforts fail because they don't focus on the right measure or they don't invest enough in doing it accurately.</p>
+                                            </div>
+                                            <div class="span7">
+                                                <object>
+                                                    <iframe id="Section2_Video" class="video" src="http://www.youtube.com/embed/OwII-dwh-bk?vq=hd720&amp;rel=0&amp;autohide=1&amp;modestbranding=1&amp;showinfo=1&amp;wmode=opaque&amp;version=3" frameborder="0" allowfullscreen="true" data-aspectratio="0.5" style="width: 480px; height: 270px;"></iframe>
+                                                </object>
+                                                
+                                            </div>
+                                            <div class="span10 flowBodyText">
+                                                <p>
+                                                    I think the best example of picking an important goal and using measurement to achieve it is the vaccination work UNICEF did under Jim Grant's leadership in the 1980s. Few people may have heard of Grant, but his impact on the world was as significant as any profit-driven leader like a Henry Ford or Thomas Watson.</p>
+                                                <p>
+                                                    Grant set an ambitious goal of getting lifesaving vaccines out to 80 percent of children worldwide. This wasn't easy in poor countries at a time when the fax machine was the most advanced communication tool. But once Grant put a robust data-gathering system in place, he was able to drive change. He could see which countries were successful in increasing their vaccination coverage rates and used that data to help other countries to do the same. The countries that were falling behind were embarrassed, and they focused more resources and attention on the problem than they would have without the data. Thanks to Grant's efforts and thousands of vaccinators, the percentage of infants worldwide receiving necessary vaccines rose from 17 percent in 1980 to 75 percent in 1990, saving millions of lives every year.</p>
+                                            </div>
+                                            <div class="span4 floatImageRight cta-link">
+                                                <a id="Section6_RedCTA" title="(RED)" href="http://www.joinred.com/" target="_blank"><img src="img/cta/CTA_Pngs_CTA_Red.png"/></a>
+                                            </div>
+                                            <div class="span10 flowBodyText">
+                                                <p>
+                                                    Sadly, some of the gains didn't last. Once the vaccination goal was reached, donor attention shifted elsewhere and coverage rates drifted down in many countries.</p>
+                                                <p>
+                                                    But the spirit of Grant was behind an agreement in 2000 by the United Nations to focus on eight goals aimed at improving the lives of the world's poorest people. These Millennium Development Goals (MDGs) were supported by 189 nations, and the UN set 2015 as the deadline for achieving them. This was the first time goals that called for specific percentage improvement were picked across a set of crucial areas-such as health, education, and basic income. Many people assumed the pact would be filed away and forgotten like so many UN and government pronouncements. However, since the goals were clear and concrete, they brought focus to the highest priorities. The UN agencies, donor countries, and developing countries looked at which programs would achieve the goals at the lowest cost. They saw that many programs were not delivering interventions in an effective way. They started demanding more rigorous evaluation to measure effectiveness. In some cases, the goals were used to persuade countries to pursue pro-poor policies.</p>
+                                            </div>
+                                            <div class="offset2 span9 floatImageleft">
+                                                <img id="LineChart_MDG" src="img/line-charts/dev_goals_info.png" />
+                                            </div>
+                                            <div class="span4 floatImageRight cta-link">
+                                                <a id="Section2_UnicefCTA" title="UNICEF" href="https://www.facebook.com/unicef" target="_blank"><img src="img/cta/CTA_Pngs_CTA_Unicef.png"/></a>
+                                            </div>
+                                            <div class="span10 flowBodyText">
+                                                <p class="ar-paragraph">
+                                                    As 2015 approaches, the world is taking a hard look at how it is doing on the goals. Although we won't achieve them all, we've made amazing progress, and the goals have become a report card for how the world is performing against major problems affecting the poor. The MDG target of reducing extreme poverty by half has been reached ahead of the deadline, as has the goal of halving the proportion of people who lack access to safe drinking water. Living conditions for more than 200 million slum dwellers have also improved-double the target. Some goals, however, were set at such an ambitious level that they will be missed. For instance, while we have reduced the number of mothers who die during childbirth by almost 50 percent-which is incredible-we will, however, fall short of the goal of a 75 percent reduction.</p>
+                                                <p>
+                                                    We're also not on track to meet one of the most critical goals-reducing the number of children who die under the age of five by two-thirds. We've made substantial progress. The number of children who die has declined from nearly 12 million in 1990 to 6.9 million in 2011. While that means 14,000 fewer children around the world are dying every day than in 1990, we won't reach the two-thirds target by 2015.</p>
+                                                <p>
+                                                    Still, many individual countries are on track to achieve this target. One of them is Ethiopia, which used the MDGs to drive an overhaul of its primary health care system that has led to a dramatic decline in childhood deaths.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.span6 -->
+                            </div>
+                            <!-- Melinda's Section 1 -->
+                            <div id="wrapper1" class="mel-wrapper span10">
+                                <div id="box-header2">
+                                    <div class="row-fluid">
+                                        <div class="span11">
+                                            <div class="span11 boxtitle-span">
+                                                Improving Lives by Delivering Vaccines to Children in Mozambique
+                                            </div>
+                                            <div class="span11 mel-sig">
+                                                2013 Gates Vaccine Innovation Award Recipient
+                                            </div>
+                                            <div class="span11">
+                                                <img src="img/melbox1.jpg" />
+                                                <p class="image-quote">
+                                                    Margarida Matsinhe with medical staff and patients at a health center in Mozambique (Maputo, Mozambique, 2013).</p>
+                                            </div>
+                                            <div class="span1 offset8">
+                                                <button type="button" class="btn-readmore collapsed" data-toggle="collapse" data-target="#demo2">
+                                                </button>
+                                                <br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="demo2" class="featurette-open collapse reveal-box">
+                                    <div class="row-fluid">
+                                        <div class="span11">
+                                            <p>
+                                                Vaccines inspire me. They make it possible to do something amazing: protect a young child from a host of diseases for life with a relatively cheap and simple solution. The trick is making sure that all children get fully immunized. That is why I created the Gates Vaccine Innovation Award, to recognize those who are pioneering new strategies to increase vaccine coverage.</p>
+                                            <p>
+                                                This year's recipient is Margarida Matsinhe, a field officer for VillageReach, a nonprofit working to improve health care in Mozambique. In the region where Margarida works, half the people live at least two hours from the nearest health post. She has been instrumental in overhauling the vaccine logistics system by removing numerous obstacles that prevent children from getting immunized.</p>
+                                            <p>
+                                                As a result of VillageReach's work:</p>
+                                            <p>
+                                                </p>
+                                            <p>
+                                                <ol>
+                                                    <li>
+                                                        The monthly incidence of stockouts in rural health centers: down from 80 percent to 1 percent.</li>
+                                                    <li>
+                                                        The amount of time the cold chain is working: up from 40 percent to 96 percent.</li>
+                                                    <li>
+                                                        The percentage of children receiving basic vaccines: up from 69 percent to 95 percent.</li>
+                                                </ol>
+                                                <p>
+                                                    The lessons from Margarida's work are being applied to improve the health system in Mozambique, throughout Africa, and even in parts of India. I hope others continue to draw on the work of Margarida Matsinhe to provide access to vaccines for all children.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /Melinda's Section -->
+                        </div>
+                    </div>
+                    <!-- /.container -->
+            </section>
+            <!-- /SECTION 2 -->
+            <!-- SECTION 3 -->
+            <section id="section3" class="navigation" data-stellar-offset-parent="true" data-carousel="carousel3">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section3_Main_Facebook" class="sharebutton" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section3" data-share-name="Global Goals, Local Change: Bill Gates 2013 Annual Letter " data-share-type="facebook" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-description="What&#39;s in a name? In the case of Ethiopia a whole lot more than you might expect. Why naming newborn children is a revolutionary idea. " data-share-caption="www.billsletter.com">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section3_Main_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="When did naming a newborn child become a revolutionary idea? @BillGates explains: " data-share-type="twitter" data-share-link="http://gates.ly/YKV0NU">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            Global Goals, Local Change
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #23333a !important;">
+                    <div id="carousel3" class="carousel slide" data-stellar-ratio="0.5">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch3/ch3cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote span5 pull-right">
+                                        <p>
+                                            A commitment to reach ambitious global health targets and a new community health system helped Ethiopia dramatically reduce childhood deaths.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch3/3-2.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <a id="A2" data-toggle="lightbox" href="#Info3">
+                                            <img src="img/infographics/info3-thumb.jpg" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch3/3-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch3/3-5.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="left carousel-control  hidden-phone hidden-tablet" href="#carousel3" data-slide="prev"></a><a class="right carousel-control hidden-phone hidden-tablet"
+                            href="#carousel3" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span12">
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                I remember the disturbing images from Ethiopia of the 1980s when more than one million people died in a famine that swept through the Horn of Africa. It was a tragedy brought to the world's attention by the 1985 Live Aid concert and part of a long period of war, political unrest, and instability for Ethiopians. Their country ranked near the bottom on nearly every key health indicator, including child mortality.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight">
+                                            <img src="img/content-imgs/07-5.jpg" />
+                                            <p class="image-quote">
+                                                Famine, war and political unrest in Ethiopia displaced hundreds of thousands of people in the 1980s, sparking an outpouring of money and aid from around the world (Ethiopia, 1984-1985). ©Corbis, Chris Rainier</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                About a decade ago that picture started to change-thanks in large part to a government goal to bring primary health care to all Ethiopian citizens. When Ethiopia signed on to the MDGs in 2000, the country put hard numbers on its health ambitions. The concrete MDG goal of reducing child mortality by two-thirds created a clear target for success or failure. Ethiopia's commitment to the MDGs attracted unprecedented amounts of donor money to help improve its primary health care services.</p>
+                                            <p>
+                                                Ethiopia found a successful model for achieving this goal in the Indian state of Kerala, which had lowered its child mortality rate and improved a host of other health indicators, in part through a vast network of community health care posts. This is one of the benefits of measurement-the ability it gives government leaders to make comparisons across countries, find who's doing well, and then learn from the best. With help from Kerala representatives, Ethiopia launched its own community health program in 2004.</p>
+                                            <p>
+                                                Today, Ethiopia has more than 15,000 health posts delivering primary health care to the farthest reaches of this rural country of 85 million. They are staffed by 34,000 health workers, most of them young women from the communities they serve with one year of basic health training.</p>
+                                        </div>
+                                        <div class="span7 floatImageLeft">
+                                            <object>
+                                                <iframe id="Section3_Video" class="video" src="http://www.youtube.com/embed/8GnfR0cDOCg?vq=hd720&amp;rel=0&amp;autohide=1&amp;modestbranding=1&amp;showinfo=1&amp;wmode=opaque&amp;version=3" frameborder="0" allowfullscreen="true" data-aspectratio="0.5" style="width: 480px; height: 270px;"></iframe>
+                                            </object>
+                                            
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                In 2009, Melinda traveled to Ethiopia and saw how these health reforms were transforming the country. Where health services were once nonexistent, rural areas had health clinics stocked with vaccines and medicine. Where once there was little local health expertise, Melinda learned how health workers delivered babies, administered vaccines, and supported family planning.</p>
+                                            <p>
+                                                I got the chance to see that progress on my first trip to Ethiopia last March. Driving through the countryside, I felt the challenge Ethiopia faces in connecting its people to health care. Rural Ethiopia is composed of vast tracts of farm land-85 percent of the population survives on farm plots of less than two acres-connected by sometimes very rough roads. On the way to the Germana Gale Health Post, I saw piles of teff, a grain used to make Ethiopia's spongy flatbread, and I saw people walking everywhere. There were few other vehicles, even few bicycles.</p>
+                                            <p>
+                                                The post, a faded-green cement building, was bigger than I thought it would be, and you could tell workers took great care of the place. Inside, two health workers showed me a well-stocked cabinet of the tools of their job, including folic acid, Vitamin A supplements, and malaria drugs.</p>
+                                        </div>
+                                        <div class="span6 floatImageRight">
+                                            <img src="img/papers.jpg" />
+                                            <p class="image-quote">
+                                                At health posts in Ethiopia, meticulous record-keeping, including folders tracking the health of newborns, have helped the country reduce child mortality and increase vaccination coverage (Dalocha, Ethiopia, 2012).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                The workers provide most services at the post, though they also visit the homes of pregnant women and sick people. They ensure that each home has access to a bed net to protect the family from malaria, a pit toilet, first aid training, and other basic health and safety practices. One health worker told me she had done 41 deliveries so far that year, most of which were performed at people's homes.</p>
+                                            <p>
+                                                All these interventions are quite basic, yet they've dramatically improved the lives of people in this country. Childhood death has decreased. So has the number of women dying in childbirth. More women have access to contraceptives to plan if and when they want to have children. Melinda has been leading the foundation to strengthen our commitment to family planning (see her feature below).</p>
+                                            <p>
+                                                Just consider the story of one young mother from Dalocha. Sebsebila Nassir was born in 1990 on the dirt floor of her family's hut. With little access to lifesaving vaccines or basic health care, about 20 percent of all children in Ethiopia at that time did not survive to their fifth birthdays. Two of Sebsebila's six siblings died as infants.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight pq-cell">
+                                            <img src="img/pullquotetop.gif" style="float: left;" />
+                                            <div class="pquote">
+                                                Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990.
+                                            </div>
+                                            <img src="img/pullquotebottom.gif" style="float: right;" />
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight">
+                                            <div class="image-social-wrap">
+                                                <div id="Section3_PullQuote_Facebook" class="sharebutton" data-share-type="facebook" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section3" data-share-name="Global Goals, Local Change: Bill Gates 2013 Annual Letter " data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com" data-share-description="&quot;Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990.&quot; - Bill Gates">
+                                                    <img src="img/fb-icon.png" width="15" height="15" />
+                                                </div>
+                                                <div id="Section3_PullQuote_Twitter" class="sharebutton" data-share-link="http://gates.ly/YKV0NU" data-share-type="twitter" data-share-text="&quot;Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990.&quot; @BillGates " data-share-hashtags="BillsLetter">
+                                                    <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                </div>
+                                                <div id="Section3_PullQuote_Pinterest" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-description="&quot;Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990.&quot; - Bill Gates, Annual Letter 2013" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section3" data-share-type="pinterest">
+                                                    <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                But a few years ago, when a health post opened its doors in Dalocha, life started to change. For the first time, she had access to contraceptives, so she could have children when she and her husband were ready. When the time came last year and Sebsebila became pregnant, she received regular check-ups from her health worker. The worker also encouraged her to have the baby at a local health center, instead of at home where she gave birth to her first child.</p>
+                                            <p>
+                                                On November 28, the day Sebsebila went into labor, she traveled by donkey cart to the health center. There, a midwife was at her bedside during her seven-hour labor. Shortly after her daughter was born, the baby received vaccines against polio and tuberculosis. The health worker also handed Sebsebila an immunization card with a schedule for her daughter to receive vaccinations to protect her from diphtheria, tetanus, whooping cough, hepatitis B, meningitis, pneumonia, and measles.</p>
+                                        </div>
+                                        <div class="span6 floatImageLeft">
+                                            <img src="img/content-imgs/11-9.jpg" />
+                                            <p class="image-quote">
+                                                Nuria Ali, a community health worker, teaching Sebsebila Nassir about caring for her newborn daughter, Amira (Dalocha, Ethiopia, 2012).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                At the top of the immunization card was a blank for the name of her baby daughter. According to a long-held Ethiopian custom, parents wait to name their children because disease is rampant, health care is sparse, and children often die in the first weeks of life. Sebsebila didn't receive her own name until several weeks after her birth. And when her first daughter was born three years ago, she followed tradition and waited a month to bestow a name, afraid her child would not survive.</p>
+                                            <p>
+                                                But a lot has changed in Ethiopia since the birth of Sebsebila's first child. This time, with more confidence in her new baby's chances of survival, Sebsebila didn't hesitate to name her. In the blank at the top of the vaccination card, she put "Amira"-"princess" in Arabic. Sebsebila's newfound optimism is not an isolated case. Ethiopia's effort on health has lowered child mortality over 60 percent since 1990, putting the country on track to achieve this important MDG target by 2015 and giving many parents the confidence to name children the day they are born.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight cta-link">
+                                            <a id="Section5_PhoneCTA" title="intrahealth" href="http://www.intrahealth.org/page/hope-phones1" target="_blank"><img src="img/cta/CTA_Pngs_CTA_IntraHealth.png"/></a>
+                                            <br />
+                                            <br />
+                                        </div>
+
+
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Stories of progress like this underscore the importance of setting goals and measuring progress toward them. A decade ago, there was no official record of a child's birth or death in rural Ethiopia. At the Germana Gale Health Post, I saw charts of immunizations, malaria cases, and other health data plastered to walls. Each indicator had an annual target and a quarterly target. All this information goes into a government information system to generate regular reports. Government officials meet every two months to go over the reports to see where things are working and to take action in places where they aren't.</p>
+                                            <p>
+                                                Yet while measurement is critical to making progress in global health, it's very hard to do well. You have to measure accurately, as well as create an environment where problems can be discussed openly so you can effectively evaluate what's working and what's not. Setting targets for immunization and other interventions can motivate government health workers, but it can also encourage over-reporting to avoid problems with supervisors.</p>
+                                            <p>
+                                                Ethiopia's recent effort to monitor the progress of its immunization program is a good example of learning from data and-the hardest part-using data to improve delivery of the right solutions. A recent national survey of Ethiopia's vaccination coverage reported vastly different results from the government's own estimates. Ethiopia could have ignored this conflict and reported the most favorable data. Instead, it brought in independent experts to understand why the measurements were so different. They commissioned a detailed independent survey that pinpointed geographic pockets of very high coverage-and very low coverage. The government is now working to develop better plans for the poorer performing regions.</p>
+                                            <p>
+                                                The progress Ethiopia is making on the MDGs is now capturing the attention of its neighbors. Much like Ethiopia, which learned from the Indian state of Kerala, other countries including Malawi, Rwanda, and Nigeria are now rolling out health extension programs after visiting Ethiopia to learn from its experience.</p>
+                                        </div>
+
+                                    </div>
+                                    <!-- /.span6 -->
+                                </div>
+                                <!-- /.row -->
+                            </div>
+                            <!-- Melinda's Section 2 -->
+                            <div id="wrapper2" class="mel-wrapper span10">
+                                <div id="box-header1">
+                                    <div class="row-fluid">
+                                        <div class="span11">
+                                            <div class="span11 boxtitle-span">
+                                                Measurement, Contraceptives, and Investing in Families' Futures
+                                            </div>
+                                            <div class="span11 mel-sig">
+                                                By Melinda Gates
+                                            </div>
+                                            <div class="span11">
+                                                <p>
+                                                    In country after country over centuries, parents' ability to plan their families-to decide whether and when to have children-has been correlated to massive improvements in health, prosperity, and quality of life. But in much of sub-Saharan Africa and South Asia, hundreds of millions of women still don't have access to contraceptives.
+                                                </p>
+                                            </div>
+                                            <div class="span11">
+                                                <img src="img/content-imgs/08-10.jpg" />
+                                                <p class="image-quote">
+                                                    Sadi Seyni, a mother of five, learned about contraceptives after her second child was born, and then began spacing the births of her children (Talle, Niger, 2012).</p>
+                                            </div>
+                                            <div class="span1 offset8">
+                                                <button type="button" class="btn-readmore collapsed" data-toggle="collapse" data-target="#demo1">
+                                                </button>
+                                                <br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="demo1" class="featurette-open collapse reveal-box">
+                                    <div class="row-fluid">
+                                        <div class="span11">
+                                            <p>
+                                                Last year, I spent most of my time learning and telling others why access (to contraceptives, information about family planning, and health services) matters, why it's a challenge in many countries, and what we can do together to fix it. For me, the most important way I learn is traveling to developing countries and listening to the women who are struggling against great odds to give their children the chance at a better life. A few months ago, I was in Niger where I met a young mother named Sadi Seyni. She has five children now and didn't learn about contraceptives until after her second child. She still wants more children, but she walks 10 miles every three months to get a contraceptive injection because she knows it's healthier for her and her children to space her pregnancies.</p>
+                                        </div>
+                                        <div class="span5 floatImageLeft">
+                                            <img src="img/content-imgs/09-4.jpg" />
+                                            <p class="image-quote">
+                                                The leadership of British Prime Minister David Cameron, at London Summit on Family Planning last year, was crucial in raising awareness of the need to provide access to contraceptives and family planning (London, England, 2012).</p>
+                                        </div>
+                                        <div class="span11 flowBodyText">
+                                            <p>
+                                                Every time I come back from a trip, I am overflowing with stories about why women like Sadi are so inspiring to me. By meeting people on the ground, I also get to see first-hand how the theme of Bill's annual letter, the role of measurement in improving delivery, can help poor countries serve people's needs.</p>
+                                            <p>
+                                                My big project in 2012 was the London Summit on Family Planning, which I led with Prime Minister David Cameron and the U.K.'s Department for International Development. The goal of the Summit was to help generate a global conversation about how to close the gap between the number of women who want to use contraceptives and the number of women who are currently using them.</p>
+                                            <p>
+                                                Dozens of partners from many different sectors-leaders of donor and developing countries, people working for nonprofits on the ground in poor countries, and pharmaceutical companies and other businesses-signed on to a concrete, measurable goal that is ambitious yet achievable: making contraceptives available to an additional 120 million women and girls in the world's poorest countries by 2020.</p>
+                                            <p>
+                                                When we started the project, though, I have to admit I was frustrated by how loose the numbers were. Population-based surveys happen infrequently, and since contraceptives have to do with sensitive topics like sex and gender roles, solid service statistics can be hard to come by. I didn't feel I had an accurate picture of how many women currently have or lack access to contraceptives, or what could realistically be done to drive improvement.</p>
+                                        </div>
+                                        <div class="span5 floatImageRight">
+                                            <img src="img/content-imgs/10-4.jpg" />
+                                            <p class="image-quote">
+                                                At the Dominique Health Center in Dakar, Senegal, family planning pilot programs have vastly improved access to contraceptives in the past year (Dakar, Senegal, 2012).</p>
+                                        </div>
+                                        <div class="span11 flowBodyText">
+                                            <p>
+                                                It was hard enough to develop a baseline of how many women were using contraceptives in 2012. Figuring out how many women wanted to use them but didn't have access was even more difficult. I learned, for example, that some health clinics reported having contraceptives "in stock" as long as condoms were on the shelves. However, many women prefer contraceptive injections and implants, in part because they have trouble negotiating the use of condoms with their sex partners. As a result, nobody was counting the many women who had access only to contraceptives they didn't want and couldn't use.</p>
+                                            <p>
+                                                For months, the Summit's sponsors studied numbers from many sources to model a rigorous baseline. They also combed through historical data from countries that have invested in family planning services, to estimate what could be achieved in the future with adequate investment. That's how we landed on the goal of 120 million women.</p>
+                                            <p>
+                                                Now individual countries are in the process of creating plans based on an analysis of the unique challenges they face. As a result, they zero in on the dominant constraints in their particular situation-whether that's funding, supply chain, procurement policies, demand, health education, or any other factor. These plans include clear milestones to help countries stay on track. This is the exciting part, where we can see how measurement leads to sweeping changes in the way health systems serve people.</p>
+                                            <p>
+                                                Senegal is one impressive example. An important part of their plan is to improve their contraceptive supply chain, and they're basing changes on a model that was pilot tested last year. The results were astounding: Not only were stockouts eliminated in the pilot clinics, but the amount of contraceptives provided to women shot up (IUDs by 52 percent, contraceptive injections by 61 percent, oral contraceptive pills by 73 percent, and implants by 940 percent).</p>
+                                            <p>
+                                                The energy at the London Summit-and now in countries where the work is happening-is palpable. I am certain that we have the tools and the broad-based, long-term commitment to turn that energy into results for millions of women.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /Melinda's Section 2 -->
+                        </div>
+                        <!-- /.container -->
+            </section>
+            <!-- /SECTION 3 -->
+            <!-- SECTION 4 -->
+            <section id="section4" class="navigation" data-stellar-offset-parent="true" data-carousel="carousel4">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section4_Main_Facebook" class="sharebutton" data-share-caption="www.billsletter.com" data-share-name="Mapping the End of Polio: Bill Gates 2013 Annual Letter " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section4" data-share-type="facebook" data-share-description="Good measurement is the secret ingredient in efforts to eradicate polio once and for all. " data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif ">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section4_Main_Twitter" class="sharebutton" data-share-text="What is the secret ingredient to ending #polio forever? @BillGates shares his thoughts: " data-share-type="twitter" data-share-link="http://gates.ly/YKUYWn" data-share-hashtags="BillsLetter">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            Mapping the End of Polio
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #23333a !important;">
+                    <div id="carousel4" class="carousel slide">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch4/ch4cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote span5 pull-right">
+                                        <p>
+                                            The fight to end polio is my top priority, and innovative measurement approaches are getting the global eradication initiative closer than ever to that goal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch4/4-2.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <a id="A2" data-toggle="lightbox" href="#Info4">
+                                            <img src="img/infographics/info4-thumb.png" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch4/4-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch4/4-5.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="left carousel-control  hidden-phone hidden-tablet" href="#carousel4" data-slide="prev"></a><a class="right carousel-control  hidden-phone hidden-tablet"
+                            href="#carousel4" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span12">
+                                        <div class="span5 floatImageLeft">
+                                            <img src="img/content-imgs/12-9.jpg" />
+                                            <p class="image-quote">
+                                                Vaccine team preparing to vaccinate children against polio at Patna Railway Station (Bihar, India, 2011).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Polio eradication is a top priority for the foundation, a primary focus for me, and a powerful example of the importance of accurate measurement. Starting in 1988, organizations including the U.S. Centers for Disease Control and Prevention, Rotary International, UNICEF, and the World Health Organization, along with many countries of the world, agreed to the goal of eradicating polio. Targeting an explicit goal focused political will and opened purse strings to pay for large-scale immunization campaigns that led to very rapid progress. By 2000, the virus had been wiped out of the Americas, Europe, and most of Asia.</p>
+                                            <p>
+                                                The number of global polio cases has been under 1,000 cases for the last two years, but getting rid of the very last few cases is the hardest part. For some diseases like smallpox-which was visible on the skin-you can track where the cases show up and focus on vaccinating children in those areas. However, polio takes weeks to confirm, and over 95 percent of people infected with the polio virus never develop symptoms-so they can spread the virus without anyone realizing it. That's why it's called "silent transmission." In order to stop the spread of infections, health workers have to vaccinate nearly all children under the age of five multiple times a year to achieve the necessary immunity thresholds in polio-affected countries. It's estimated that this threshold is 80 to 95 percent in the parts of Africa and Asia that still have polio. Achieving consistent coverage levels to reach these thresholds requires timely, accurate, local measurement so you can see where you are falling below the threshold, figure out what is wrong, and fix it.</p>
+                                        </div>
+                                        <div class="offset1 span8 floatImageRight">
+                                            <object>
+                                                <iframe id="Section4_Video" class="video" src="https://www.youtube.com/embed/0Ah1H4lH2Jw?vq=hd720&amp;rel=0&amp;autohide=1&amp;modestbranding=1&amp;showinfo=1&amp;wmode=opaque&amp;version=3" frameborder="0" allowfullscreen="true" data-aspectratio="0.5" style="width: 480px; height: 270px;"></iframe>
+                                            </object>
+                                            
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Last January, after years of battling the disease, India celebrated a full year without a single case of polio. Most people expected India to be the most difficult place to eliminate polio because of its densely crowded urban areas, huge rural areas in the North, poor sanitation, large mobile populations, and over 27 million children born every year-more than in all of sub-Saharan Africa -that need to be vaccinated. Stopping the circulation of the virus everywhere in the country was the eradication initiative's biggest accomplishment in the past decade.</p>
+                                            <p>
+                                                There are now just three countries that have never eliminated polio: Nigeria, Pakistan, and Afghanistan. I visited Northern Nigeria four years ago to try to understand why eradication is so difficult there. I saw that routine public health services were failing: Fewer than half the kids were getting vaccines regularly, and there were no reliable figures for how many children lived in each area. Also, the normal process of quality monitoring done as part of each polio campaign was not working. Statistics about the quality of coverage varied greatly. We decided we needed to invest heavily in another layer of quality monitoring to understand what was going wrong. This involved picking random locations on the map and randomly checking children in those places to see if they had been vaccinated. The work required specially trained staff working independently of the people implementing the vaccination campaigns. That impartiality was crucial.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight pq-cell">
+                                            <img src="img/pullquotetop.gif" style="float: left;" />
+                                            <div class="pquote">
+                                                The global polio community is now finalizing a plan which should allow us to finish the job of polio eradication within the next six years.
+                                            </div>
+                                            <img src="img/pullquotebottom.gif" style="float: right;" />
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight">
+                                            <div class="image-social-wrap">
+                                                <div id="Section4_PullQuote_Facebook" class="sharebutton" data-share-description="&quot;The global polio community is now finalizing a plan which should allow us to finish the job of polio eradication within the next six years.&quot; - Bill Gates" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com" data-share-type="facebook" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section4" data-share-name="Mapping the End of Polio: Bill Gates 2013 Annual Letter ">
+                                                    <img src="img/fb-icon.png" width="15" height="15" />
+                                                </div>
+                                                <div id="Section4_PullQuote_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-link="http://gates.ly/YKUYWn" data-share-type="twitter" data-share-text="&quot;We are finalizing a plan which should allow us to finish the job of #polio eradication.&quot; @BillGates ">
+                                                    <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                </div>
+                                                <div id="Section4_PullQuote_Pinterest" class="sharebutton" data-share-description="The global polio community is now finalizing a plan which should allow us to finish the job of polio eradication within the next six years. - Bill Gates, Annual Letter 2013" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section4" data-share-type="pinterest" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif">
+                                                    <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                One huge problem the polio program found was that many small settlements in the region were missing from vaccinators' hand-drawn maps and lists documenting the location of villages and numbers of children. As a result, children weren't getting vaccinated. Often villages on the border between two maps weren't assigned to any team. To make matters worse, the estimated distance between villages was sometimes off by miles, making it impossible for some vaccinators to do the job they were assigned.</p>
+                                            <p>
+                                                To fix this, the polio workers walked through all high-risk areas in the northern part of the country. Step by step, they explored these areas and spoke with people, adding 3,000 communities to the immunization campaigns. The program is also using high-resolution satellite images to create even more detailed maps. And since the new maps show the true distances between settlements, managers can now allocate vaccinators efficiently by giving them a full day's work but no more.</p>
+                                            <p>
+                                                Another problem was that some teams were simply not going to the places they were assigned to go. To help address this, the program is piloting the use of phones equipped with a Global Positioning System (GPS) application for the vaccinators to carry. Tracks are downloaded from the phone to a laptop at the end of the day so managers can see the route the vaccinators followed and compare it to the route they were assigned. This helps ensure that areas that were missed can be revisited so children are not left unprotected from polio.</p>
+                                        </div>
+                                        <div class="span3 floatImageLeft">
+                                            <br />
+                                            <img src="img/maps.jpg" />
+                                            <p class="image-quote">
+                                                Smart use of technology can help set the building blocks of healthy societies. In Nigeria satellite images are replacing hand-drawn maps, allowing health workers to reach previously overlooked villages with vaccines.</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                The Nigerian government and its partners will need to keep working closely to adjust tools and approaches like these to measure coverage in Northern Nigeria more accurately. But progress is definitely being made, and more children are being reached.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight cta-link">
+                                            <a id="Section4_PolioCTA" title="End Polio Now" href="http://www.endpolio.org/" target="_blank">
+                                                <br />
+                                                <br />
+                                                <img src="img/cta/CTA_Pngs_CTA_Polio.png"/></a>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                The insecurity in Pakistan and Afghanistan represents another challenge for the campaign. In December nine polio vaccinators in Pakistan were murdered. It is unimaginable to me why health workers, whose only goal was to improve children's health and end polio, were targeted. In my eyes the victims are heroes, and the best way to respect their memory is to finish the job they gave their lives for. The polio program will continue, with additional efforts to improve the safety of workers and to increase the support of community leaders. The global polio community is now finalizing a detailed plan that I believe should allow us to finish the job of polio eradication within the next six years.</p>
+                                            <p>
+                                                The measurement systems put in place by the eradication initiative will be invaluable for other health care activities, including routine vaccination of infants, which means the legacy of polio eradication will live beyond stopping a disease that once paralyzed over 400,000 children every year.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.span6 -->
+                            </div>
+                            <!-- /.row-fluid -->
+                        </div>
+                    </div>
+                    <!-- /.container -->
+            </section>
+            <!-- /SECTION 4 -->
+            <!-- SECTION 5 -->
+            <section id="section5" class="navigation" data-stellar-offset-parent="true" data-carousel="carousel5">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section5_Main_Facebook" class="sharebutton" data-share-caption="www.billsletter.com" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section5" data-share-name="Measuring Teacher Growth: Bill Gates 2013 Annual Letter " data-share-type="facebook" data-share-description="Countries with the best education systems in the world provide more teacher feedback than we do today, but it is possible for the US to do better than any country has done so far.">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section5_Main_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="&quot;Supporting #teachers can help a generation of students reach their full potential.&quot; @BillGates: " data-share-type="twitter" data-share-link="http://gates.ly/Z0wJqX">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            Feedback for Teacher Growth
+                                        </div>
+                                        <div class="visible-desktop">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #23333a !important;">
+                    <div id="carousel5" class="carousel slide" data-stellar-ratio="0.5">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch5/ch5cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote-left span5 pull-right">
+                                        <p>
+                                            Teachers get little feedback on their work, but new advances in measuring teacher effectiveness provide opportunities to improve education.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch5/5-3.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch5/5-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="sliderTable">
+                                    <div class="container table-cell">
+                                        <img src="img/slider-imgs/ch5/5-5.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="left carousel-control hidden-phone hidden-tablet" href="#carousel5" data-slide="prev"></a><a class="right carousel-control hidden-phone hidden-tablet"
+                            href="#carousel5" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span12">
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                In October, Melinda and I found ourselves near Vail, Colorado, sitting among two dozen twelfth graders learning how to write narrative nonfiction pieces. Looking around, I saw about a third of the class was Hispanic; approximately half of Eagle County School District's 6,300 students are Hispanic, and the district has among the highest rates of English language learners in Colorado.</p>
+                                            <p>
+                                                We were there to watch the person at the front of the room, Mary Ann Stavney, a veteran of Colorado's education system who taught high school, served on the county school board, and instructed at a local college before taking on her current role as a language arts and speech teacher at Eagle Valley High School.</p>
+                                        </div>
+                                        <div class="span5 floatImageRight">
+                                            <img src="img/content-imgs/23-8.jpg" />
+                                            <p class="image-quote span9">
+                                                As a Master Teacher in Eagle Valley High School, Mary Ann Stavney splits her time between teaching students and evaluating teachers (Gypsum, CO, 2012).</p>
+                                        </div>
+                                        <div class="span4 floatImageRight pq-cell">
+                                            <img src="img/pullquotetop.gif" style="float: left;" />
+                                            <div class="pquote">
+                                                I think the most critical change we can make in U.S. K-12 education is to create teacher feedback systems that are properly funded, high-quality, and trusted by teachers.
+                                            </div>
+                                            <img src="img/pullquotebottom.gif" style="float: right;" />
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight">
+                                            <div class="image-social-wrap">
+                                                <div id="Section5_PullQuote_Facebook" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-description="&quot;I think the most critical change we can make in U.S. K-12 education is to create teacher feedback systems that are properly funded, high-quality, and trusted by teachers.&quot; - Bill Gates" data-share-caption="www.billsletter.com" data-share-type="facebook" data-share-name="Measuring Teacher Growth: Bill Gates 2013 Annual Letter " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section5">
+                                                    <img src="img/fb-icon.png" width="15" height="15" />
+                                                </div>
+                                                <div id="Section5_PullQuote_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-link="http://gates.ly/Z0wJqX" data-share-type="twitter" data-share-text="&quot;The most critical change in US education is to create a feedback system teachers trust.&quot; @BillGates ">
+                                                    <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                </div>
+                                                <div id="Section5_PullQuote_Pinterest" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section5" data-share-type="pinterest" data-share-description="&quot;I think the most critical change we can make in U.S. K-12 education is to create teacher feedback systems that are properly funded, high-quality, and trusted by teachers.&quot; - Bill Gates, Annual Letter 2013">
+                                                    <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                In class that day, Mary Ann taught a 40-minute lesson on how students could use evidence to bolster claims in their essays, including a lively mini-lesson on how to use starters like "because," "as a result," and "although." She engaged her students, walking among them, asking good questions, and eliciting great participation.</p>
+                                            <p>
+                                                Both Melinda and I could see why Mary Ann is a Master Teacher, a distinction given to the school's best teachers and an important component of a teacher-evaluation system in Eagle County. In that role, she is trained to evaluate and provide feedback to other teachers. Her work is part of a broader approach to measuring teacher performance that includes test data showing student learning, evaluations from Master Teachers and the school principal, and students' surveys about their teachers. The district is an early innovator in using a mix of measures to help teachers improve.</p>
+                                            <p>
+                                                I was amazed to learn a few years ago that over 90 percent of teachers get zero feedback on how to improve. A lot of the debate in education today really amounts to a circular discussion of how to implement tools to measure teacher effectiveness and whether such measurement is even possible. We know that if all teachers were anywhere near as good as the best, our education system would be fantastic.</p>
+                                            <p>
+                                                Starting in 2009, the foundation funded a project called Measures of Effective Teaching, or MET, that worked with 3,000 classroom teachers to better understand how to build an evaluation and feedback system to help teachers improve. In January 2013, we announced the final results of the MET project. The report concluded that there were observable, repeatable, and verifiable ways of measuring teacher effectiveness. MET highlighted several measures that schools should use to assess teacher performance, including student surveys and reports from trained evaluators who observe teachers at work.</p>
+                                        </div>
+                                        <div class="span4 floatImageLeft">
+                                            <img src="img/content-imgs/24-4.jpg" />
+                                            <p class="image-quote span9">
+                                                Discussing class work with students at South High School (Denver, CO, 2012).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Colorado is a pioneer in introducing these principles, and Eagle County is helping lead the way. About 10 years ago the district threw out its traditional seniority-based evaluation system and moved to a performance-based one. It didn't go over well. Teachers spoke out against what they thought was a flawed plan with too much emphasis on student tests and too little support from the district-among other concerns. By 2008 the majority of the district's central office had changed, and the school board had hired a new superintendent, Dr. Sandra Smyser, whom we met on our trip.</p>
+                                            <p>
+                                                Now teachers feel the system helps them improve. Over the course of a school year, each of Eagle County's 470 teachers is evaluated three times and is observed in class at least nine times. The process starts with Mentor Teachers, who spend 30 percent of their time observing their colleagues in their classrooms and coaching them in areas that need improvement. Then a Master Teacher and the principal observe classes, some with advance notice, others unannounced. Master Teachers, who dedicate 70 percent of their time to this work, hold conferences with the teacher before each planned evaluation and give feedback afterwards.</p>
+                                            <p>
+                                                The Eagle County system is impressive because it focuses on helping each teacher grow. The evaluations are used to give a teacher not only a score but also specific feedback on areas to improve and ways to build on their strengths. In addition to one-on-one coaching, Mentors and Masters lead weekly group meetings in which teachers discuss student work and collaborate to spread their skills. Teachers are eligible for annual salary increases and bonuses based on the classroom observations and student achievement. Sandra, the superintendent, said the system has helped retain teachers.</p>
+                                        </div>
+                                        <div class="span5 floatImageLeft">
+                                            <img src="img/content-imgs/25-8.jpg" />
+                                            <p class="image-quote span9">
+                                                Fourth-grade teacher Courtney Artis, whose class is part of the MET project, talking with a student at Cornelius Elementary School (Cornelius, NC, 2012).</p>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Colorado state law mandates that by the 2013-2014 school year, ratings for all teachers should be based half on the change in students' test results and half on other measures. Sandra and her colleagues said they've struggled with how to incorporate student test scores into the evaluation process. One reason: It's harder to test student improvement in some areas-music and art-than in others-such as math and science.</p>
+                                            <p>
+                                                The program also faces challenges from tightening budgets. Mentor and Master Teachers are paid extra, and since a chunk of their time is dedicated to coaching and evaluating, the district needed to bring on other teachers to fill in for them. I found it amazing, though, that even with budget cuts in each of the last two years, Eagle County was able to keep its evaluation and support system intact. The system is likely one reason why student test scores have improved in Eagle County over the past five years.</p>
+                                            <p>
+                                                I think the most critical change we can make in U.S. K-12 education is to create teacher feedback systems like the one in Eagle County that are properly funded, high quality, and trusted by teachers. These measurement systems need to provide teachers with the tools to help support their professional development. The lessons from these efforts will help us improve teacher education programs. The countries that have better education systems than the United States provide more teacher feedback than we do today, but I think it is possible to do even better than any country has done so far.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.span6 -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                    </div>
+                    <!-- /.container -->
+            </section>
+            <!-- /SECTION 5 -->
+            <!-- SECTION 6 -->
+            <section id="section6" class="navigation" data-stellar-offset-parent="true" data-carousel="carousel6">
+                <div class="block-wrap bottom-shadow">
+                    <div class="container header">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <div class="row-fluid sharebox">
+                                    <div class="span1 shareoptions">
+                                        <div class="visible-desktop">
+                                            Share this<br/>section
+                                            <hr />
+                                        </div>
+                                        <div id="Section6_Main_Facebook" class="sharebutton" data-share-name="The Way Forward: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section6" data-share-type="facebook" data-share-caption="www.billsletter.com" data-share-description="Picking the right goals for the next 15 years will make a big difference for the world&#39;s poorest. " data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif ">
+                                            <img src="img/fb-icon.png" width="15" height="15" />
+                                        </div>
+                                        <div id="Section6_Main_Twitter" class="sharebutton" data-share-text="We can make the world better by 2030. @BillGates shares his hope for making the next 15 years count: " data-share-type="twitter" data-share-link="http://gates.ly/12zQK8A" data-share-hashtags="BillsLetter">
+                                            <img src="img/twitter-icon.png"  width="15" height="15" />
+                                        </div>
+                                    </div>
+                                    <div class="span10 title-span">
+                                        <div>
+                                            The Way Forward
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Full Screen Width Carousel ================================================== -->
+                <div class="carouselWrapper" style="background: #ddd8cc !important;">
+                    <div id="carousel6" class="carousel slide" data-stellar-ratio="0.5">
+                        <div class="carousel-inner">
+                            <div class="item active" style="background: #000000 !important;">
+                                <img class="landing-img" src="img/slider-imgs/ch6/ch6cover.jpg" />
+                                <div class="container">
+                                    <div class="slide-pull-quote-left span5 pull-right">
+                                        <p>
+                                            The world faces many challenges, but we have an opportunity to accelerate progress against poverty, hunger, and disease in the years ahead.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item " style="background:#23333a !important;">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/6-2.jpg" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile1.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile2.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile3.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile4.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile5.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile6.gif" />
+        </div>
+    </div>
+</div>
+<div class="item ">
+    <div class="sliderTable">
+        <div class="container table-cell">
+            <img src="img/slider-imgs/ch6/hopeTile7.gif" />
+        </div>
+    </div>
+</div>
+</div>
+<a class="left carousel-control hidden-phone hidden-tablet" href="#carousel6" data-slide="prev"></a><a class="right carousel-control hidden-phone hidden-tablet"
+href="#carousel6" data-slide="next"></a>
+                        </div>
+                    </div>
+                    <!-- /.carousel -->
+                    <div class="block-wrap top-shadow">
+                        <div class="container body">
+                            <div class="row-fluid">
+                                <!-- /.span4 -->
+                                <div class="span12">
+                                    &nbsp;
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="span12">
+                                        <div class="span4 floatImageRight pq-cell">
+                                            <img src="img/pullquotetop.gif" style="float: left;" />
+                                            <div class="pquote">
+                                                The lives of the poorest have improved more rapidly in the last 15 years than ever before, yet I am optimistic we will do even better in the next 15 years.
+                                            </div>
+                                            <img src="img/pullquotebottom.gif" style="float: right;" />
+                                        </div>
+                                        <div class="span4 offset8 floatImageRight">
+                                            <div class="image-social-wrap">
+                                                <div id="Section6_PullQuote_Facebook" class="sharebutton" data-share-caption="www.billsletter.com" data-share-type="facebook" data-share-name="The Way Forward: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section6" data-share-description="&quot;The lives of the poorest have improved more rapidly in the last 15 years than ever before, yet I am optimistic we will do even better in the next 15 years.&quot; - Bill Gates" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif ">
+                                                    <img src="img/fb-icon.png" width="15" height="15" />
+                                                </div>
+                                                <div id="Section6_PullQuote_Twitter" class="sharebutton" data-share-link="http://gates.ly/12zQK8A" data-share-type="twitter" data-share-text="&quot;Since 2000 we&#39;ve seen tremendous progress. I&#39;m optimistic the next 15 years will be better.&quot; @BillGates " data-share-hashtags="BillsLetter">
+                                                    <img src="img/twitter-icon.png"  width="15" height="15" />
+                                                </div>
+                                                <div id="Section6_PullQuote_Pinterest" class="sharebutton" data-share-description="&quot;The lives of the poorest have improved more rapidly in the last 15 years than ever before, yet I am optimistic we will do even better in the next 15 years.&quot; - Bill Gates, Annual Letter 2013" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section6" data-share-type="pinterest" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif">
+                                                    <img src="img/pinterest-icon.gif" width="15" height="15" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                The lives of the poorest have improved more rapidly in the last 15 years than ever before, yet I am optimistic that we will do even better in the next 15 years. After all, human knowledge is increasing. We can see this concretely in the invention of new medicines like HIV drugs and the way their prices have come down, and in the creation of new seeds that allow poor farmers to be more productive. Once these tools are invented, they are never un-invented-they just improve.</p>
+                                            <p>
+                                                Skeptics point out that we have a hard time delivering new tools to the people who need them. This is where the innovation of using measurement is making a big difference. The process I have described-setting clear goals, picking the right approach, and then measuring results to get feedback and refine the approach continually-helps us to deliver tools and services to everybody who will benefit. This innovation to reduce the delivery bottleneck is critical. Following the path of the steam engine long ago, progress isn't "doomed to be rare and erratic." We can, in fact, make it commonplace.</p>
+                                            <p>
+                                                Though I am an optimist, I am not blind to the problems we face. There are challenges we must overcome to speed up progress in the next 15 years. Two that worry me the most are the possibility that we won't be able to raise the funds needed to pay for health and development projects, and that we won't align around clear goals to help the poorest.</p>
+                                            <p>
+                                                The good news on resources is that many developing countries have growing economies that allow them to devote more resources to helping their poorest people. India, for example, is less dependent on aid and will eventually not need it.</p>
+                                        </div>
+                                        <div class="span6 floatImageLeft">
+                                            <object>
+                                                <iframe id="Section6_Video" class="video" src="https://www.youtube.com/embed/00_-HZYqfo4?vq=hd720&amp;rel=0&amp;autohide=1&amp;modestbranding=1&amp;showinfo=1&amp;wmode=opaque&amp;version=3" frameborder="0" allowfullscreen="true" data-aspectratio="0.5" style="width: 480px; height: 270px;"></iframe>
+                                            </object>
+                                            
+                                            <br />
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                Some countries, like the U.K., Norway, Sweden, Korea, and Australia, are increasing their aid while others, even traditionally generous givers like Japan and the Netherlands, have reduced it. The direction in many countries, including the United States, France, Germany, and Canada, is unclear.</p>
+                                            <p>
+                                                Still, aid is critical. It helps meet the basic needs of people in the poorest countries. It funds innovation-in the creation of new tools and services and in their delivery. Unfortunately, aid generosity is threatened by big deficits in almost all of the rich countries. Unless voters hear about the positive impact their generosity is having, they'll inevitably focus on issues closer to home. A single story, true or not, about a small amount of aid being misused can often cloud the entire field. Imagine how you would feel about investing if every article you read was only about stocks that did poorly and not about the big successes.</p>
+                                            <p>
+                                                Historically, aid was discussed largely in terms of the total amount of money invested. But now that we're more precisely measuring indicators like child mortality, people are able to see the impact aid has in stark terms-that it's the difference between putting people on HIV treatment or letting them die. When framed this way, aid has a better chance of becoming a priority for people.</p>
+                                        </div>
+                                        <div class="span4 floatImageRight">
+                                            <img src="img/content-imgs/27-6.jpg" />
+                                            <p class="image-quote">
+                                                Meeting with with Florence Daka, a woman living with HIV, and her son, Stephen, during a visit to the Coptic Mission Hospital (Lusaka, Zambia, 2012).</p>
+                                        </div>
+                                        <div class="span4 floatImageRight cta-link">
+                                            <a id="Section3_OneOrgCTA" title="One.org" href="http://one.org" target="_blank"><img src="img/cta/CTA_Pngs_CTA_ONE.png"/></a>
+                                        </div>
+                                        <div class="span10 flowBodyText">
+                                            <p>
+                                                My second concern about the next 15 years is whether the world will align around a clear set of goals. The United Nations is starting to map out new goals for the years following the 2015 expiration of the current MDGs. As with the first round, the next set of goals could help align groups doing the work, remind voters what their generosity supports, and allow us to see where we are making progress in delivering solutions to the poor.</p>
+                                            <p>
+                                                The success of the MDGs means that there is a lot of interest in expanding them to include a broader set of issues. But many of the potential new goals don't have unanimous support, and adding many new goals, or goals that are not easily measurable, may sap momentum.</p>
+                                            <p>
+                                                The MDGs were coherent because they focused on helping the poorest people in the world. The groups that needed to work together on the MDGs were easy to identify, and they could be held accountable for cooperation and progress. When the UN reaches agreement on other important goals like mitigating climate change, it should consider whether a different set of actors and a separate process might be best for those efforts.</p>
+                                            <p>
+                                                I hope everyone who reads this is excited to see how much progress the world has made in helping the poorest in the last 15 years. It is the kind of good-news story that happens one life at a time and so it often doesn't get the same visibility as a big setback like the outbreak of a new epidemic. From time to time we should step back and celebrate the achievements that come with having the right goals-combined with political will, generous aid, and innovation in tools and their delivery. It has certainly deepened my commitment to this work.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Bill Signature -->
+                            <div class="span12 sig-wrapper">
+                                <img src="img/billsig.gif" />
+                                <p id="Section6_Signature">
+                                    Bill Gates<br />Co-Chair, Bill & Melinda Gates Foundation<br />January 2013</p>
+                                <br />
+                                <div>
+                                    <p style="font-family: Arial; color: #bdbdbd;">
+                                        Continue the conversation:&nbsp;</p>
+                                </div>
+                                <div>
+                                    <a href="http://www.facebook.com/BillGates" target="_blank" style="color: #bdbdbd; text-decoration: none;"><img src="img/fb-icon.png" width="15" height="15" />&nbsp;BillGates&nbsp;|&nbsp;</a>
+                                    <a id="HyperLink1" href="https://twitter.com/BillGates" target="_blank" style="color: #bdbdbd; text-decoration: none;"><img src="img/twitter-icon.png" width="15" height="15" />&nbsp;@BillGates</a>
+                                </div>
+                            </div>
+                            <!-- /Bill Signature -->
+
+                            <!-- Footer -->
+                            <div class="span12 footer-wrapper">
+                                <hr />
+                                <div style="text-align: right;">
+                                    <p style="font-family: Arial; color: #bdbdbd;" id="Follow_Footer">
+                                        Follow the foundation:</p>
+                                    <a id="HyperLink2" href="http://www.facebook.com/billmelindagatesfoundation" target="_blank" style="color: #bdbdbd; text-decoration: none;"><img src="img/fb-icon.png" width="15" height="15" />&nbsp;GatesFoundation&nbsp;|&nbsp;</a>
+                                    <a id="HyperLink3" href="https://twitter.com/gatesfoundation" target="_blank" style="color: #bdbdbd; text-decoration: none;"><img src="img/twitter-icon.png" width="15" height="15" />&nbsp;@GatesFoundation</a>
+                                    <a id="HyperLink4" target="_blank" style="color: #bdbdbd; text-decoration: none;"></a>
+                                </div>
+                                <br />
+                                <div class="copyright">
+                                    <p style="font-family: Arial; color: #bdbdbd; display: inline;" id="Page_Footer">
+                                        &copy;1999-2013 Bill & Melinda Gates Foundation. All Rights Reserved.&nbsp;</p>
+                                </div>
+                                <div class="policy">
+                                    <a id="Footer_Updates" title="Email updates" data-toggle="lightbox" href="#SignupPopup">Email updates</a>&nbsp;|&nbsp;<a id="Footer_Policy" title="Privacy Policy" href="http://www.gatesfoundation.org/Privacy-Policy" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;<a id="Footer_Terms" title="Terms of Use" href="http://www.gatesfoundation.org/Terms-of-Use" target="_blank">Terms of Use</a>
+                                </div>
+                            </div>
+                            <!-- /Footer -->
+
+                        </div>
+
+                    </div>
+                    <!-- /.container -->
+            </section>
+            <!-- /SECTION 6 -->
+        </div>
+        <!--
+        <div id="01-5" class="lightbox hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
+            </div>
+            <div class='lightbox-content'>
+                <img src="img/01-5.jpg" />
+                <div class="shareoptions pull-right">
+                    <div id="Div4" class="sharebutton" data-share-caption="www.billsletter.com" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-description="Why the &quot;Millenium Development Goals&quot; created a world metric that mattered." data-share-name="The World&#39;s Report Card: Bill Gates 2013 Annual Letter" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2" data-share-type="facebook">
+                        <img src="img/fb-icon.png" width="15" height="15" alt="(V)i.">
+                    </div>
+                    <div id="Div5" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="How is the world doing in helping those most in need? Find out why @BillGates is optimistic: " data-share-type="twitter" data-share-link="http://gates.ly/YKUYWl">
+                        <img src="img/twitter-icon.png" title="Twitter" width="15" height="15" alt="i(V)">
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+        <!-- SECTION 2 INFOGRAPHIC -->
+        <div id="Info2" class="modal hide fade infographic" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class='modal-body'>
+                <img src="img/infographics/GatesF_AL_MDG4_FINAL.gif" />
+                <div class="shareoptions pull-right">
+                    <div id="Section2_Infographic_Facebook" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2" data-share-name="The World&#39;s Report Card: Bill Gates 2013 Annual Letter" data-share-type="facebook" data-share-caption="www.billsletter.com" data-share-description="Thousands more children survive every single day thanks to the Millennium Development Goals.">
+                        <img src="img/fb-icon.png" width="15" height="15" />
+                    </div>
+                    <div id="Section2_Infographic_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="#Infographic: Thousands more children survive thanks to the Millennium Development Goals. Learn more: " data-share-type="twitter" data-share-link="http://gates.ly/YKUYWl">
+                        <img src="img/twitter-icon.png"  width="15" height="15" />
+                    </div>
+                    <div id="Section2_Infographic_Pinterest" class="sharebutton" data-share-description="&quot;Thousands more children survive every single day thanks to the Millennium Development Goals.&quot; - Bill Gates, Annual Letter 2013 &lt;link>" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-type="pinterest" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section2">
+                        <img src="img/pinterest-icon.gif" width="15" height="15" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /SECTION 2 INFOGRAPHIC -->
+
+        <!-- SECTION 3 INFOGRAPHIC -->
+        <div id="Info3" class="modal hide fade infographic" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
+            </div>
+            <div class='modal-body'>
+                <img src="img/infographics/EthiopiaSuccessFINAL.jpg" />
+                <div class="shareoptions pull-right">
+                    <div id="Section3_Infographic_Facebook" class="sharebutton" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section3" data-share-name="Global Goals, Local Change: Bill Gates 2013 Annual Letter " data-share-type="facebook" data-share-description="Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990." data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com">
+                        <img src="img/fb-icon.png" width="15" height="15" />
+                    </div>
+                    <div id="Section3_Infographic_Twitter" class="sharebutton" data-share-text="#Infographic: Thousands more children survive everyday thanks to the Millennium Development Goals. Learn more: " data-share-type="twitter" data-share-link="http://gates.ly/YKV0NU" data-share-hashtags="BillsLetter">
+                        <img src="img/twitter-icon.png"  width="15" height="15" />
+                    </div>
+                    <div id="Section3_Infographic_Pinterest" class="sharebutton" data-share-type="pinterest" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section3" data-share-description="&quot;Ethiopia’s effort on health has lowered child mortality over 60 percent since 1990.&quot; - Bill Gates, Annual Letter 2013" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif">
+                        <img src="img/pinterest-icon.gif" width="15" height="15" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /SECTION 3 INFOGRAPHIC -->
+
+        <!-- SECTION 4 INFOGRAPHIC -->
+        <div id="Info4" class="modal hide fade infographic" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
+            </div>
+            <div class='modal-body'>
+                <img src="img/infographics/PolioFullview_slide4-3.jpg" />
+                <div class="shareoptions pull-right" style="float: right;">
+                    <div id="Section4_Infographic_Facebook" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif " data-share-caption="www.billsletter.com" data-share-name="Mapping the End of Polio: Bill Gates 2013 Annual Letter " data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section4" data-share-type="facebook" data-share-description="In 2012 over 400 million children received polio vaccinations lowering reported cases of polio to under 250 worldwide. ">
+                        <img src="img/fb-icon.png" width="15" height="15" />
+                    </div>
+                    <div id="Section4_Infographic_Twitter" class="sharebutton" data-share-hashtags="BillsLetter" data-share-text="2012: Over 400M children receive polio vaccines lowering total cases reported worldwide to less than 250. " data-share-type="twitter" data-share-link="http://gates.ly/YKUYWn">
+                        <img src="img/twitter-icon.png"  width="15" height="15" />
+                    </div>
+                    <div id="Section4_Infographic_Pinterest" class="sharebutton" data-share-image="http://annualletter.gatesfoundation.org/img/fb-sharing.gif" data-share-type="pinterest" data-share-link="http://annualletter.gatesfoundation.org/2013.aspx#nav=section4" data-share-description="&quot;Making Progress Against Polio&quot; 
+In 2012 over 400 million children received polio vaccinations lowering reported cases of polio to under 250 worldwide. ">
+                        <img src="img/pinterest-icon.gif" width="15" height="15" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- SECTION 4 INFOGRAPHIC -->
+
+        <!-- Light box content -->
+        <div id="EmailAFriend" class="lightbox hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="lightbox" onclick="$('#EAFFrame').attr('src','secure/EmailAFriend.aspx');" aria-hidden="true">&times;</button>
+            </div>
+            <div class='lightbox-content'>
+                <iframe id="EAFFrame" src="secure/EmailAFriend.aspx" frameborder="0" height="700" width="700"></iframe>
+            </div>
+        </div>
+
+        <div id="SignupPopup" class="lightbox hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class='lightbox-header'>
+                <button type="button" class="close" data-dismiss="lightbox" aria-hidden="true" onclick="$('#SignupFrame').attr('src','secure/SignupPopup.aspx');">&times;</button>
+            </div>
+            <div class='lightbox-content'>
+                <iframe id="SignupFrame" src="secure/SignupPopup.aspx" frameborder="0" height="440" width="700"></iframe>
+            </div>
+        </div>
+
+        <!--Survey Modal-->
+        <div id="postSurvey"><a href="#surveyPost" id="postSurveyLink">Survey</a></div>
+
+        <input type="hidden" name="hf_showSurvey" id="hf_showSurvey" value="true" />
+        <div id="surveyPre" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="windowTitleLabel" aria-hidden="true">
+            <div class="modal-header">
+                <a href="#" class="close" onclick="closeSurveyPreDialog(false);" data-dismiss="modal">&times;</a>
+                <h3>Bill's Letter Survey</h3>
+            </div>
+            <div class="modal-body">
+                <iframe src="Survey.aspx" frameborder="0" style="width: 620px; height: 350px; border: none;"></iframe>
+            </div>
+        </div>
+
+
+        <div id="surveyPost" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="windowTitleLabel" aria-hidden="true">
+            <div class="modal-header">
+                <a href="#" class="close" data-dismiss="modal">&times;</a>
+                <h3>Bill's Letter Survey</h3>
+            </div>
+            <div class="modal-body">
+                <iframe src="SurveyPost.aspx" frameborder="0" style="width: 620px; height: 350px; border: none;"></iframe>
+            </div>
+        </div>
+
+        <div id="end"></div>
+        </form>
+        <!-- Le javascript
+    ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="js/vendor/jquery-1.8.3.min.js"></script>
+        <script src="js/vendor/bootstrap.js"></script>
+        <script src="js/vendor/jquery.ba-bbq.min.js"></script>
+        <script src="js/vendor/jquery.scrollTo.js"></script>
+        <script src="js/vendor/smartResize.js"></script>
+        <script src="js/main.js"></script>
+        
+
+
+        <!-- SiteCatalyst -->
+        <script language="JavaScript" type="text/javascript" src="js/vendor/s_code.js"></script>
+        <script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    //variables here
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+        <script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+    //--></script>
+        <noscript>
+            <img src="//omniture.gatesfoundation.org/b/ss/gatesfoundationcomalprd/1/H.25.3--NS/0" height="1" width="1" border="0" alt="" />
+        </noscript>
+        <!--/DO NOT REMOVE/-->
+        <!-- End SiteCatalyst code version: H.25.3. -->
+    </body>
+</html>

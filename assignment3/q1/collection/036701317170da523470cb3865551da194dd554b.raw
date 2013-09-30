@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="ie ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7 lt-ie10 lt-ie9 lt-ie8 no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 lt-ie10 lt-ie9 no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9]>    <html class="ie ie9 lt-ie10 no-js"lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+  <script id="config" type="application/json">
+    {
+      "environment" : "production",
+
+      "mixpanelId" : "55abcc6604396345a08a68c4c3a6081d",
+      "googleAnalyticsId" : "UA-30098361-1",
+
+      "facebookId" : "153163221468956",
+      "facebookDomain" : "upworthy.com",
+
+      "siloUri" : "http://analytics.upworthy.com"
+    }
+  </script>
+  <script id="pageMetadata" type="application/json">
+    {
+      "environment" : "production",
+      "asset_path"  : "/assets/"
+    }
+  </script>
+    <script id="pageType" type="application/json">"nugget"</script>
+<script id="nuggetMetadata" type="application/json">
+  {
+    "id"      : "512bb13f27eb31000200bd87",
+    "baseUrl" : "http://www.upworthy.com/how-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev",
+    "slug"    : "how-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev",
+    "status"  : "published",
+    "author"  : "Adam Mordecai",
+    "gplusId" : "102887059112811652298",
+    "pubDate" : "2013-02-25T19:56:42+00:00",
+    "format"  : "screen-shots",
+    "topic1"  : "entertainment-culture",
+    "topic2"  : "parenting"
+  }
+</script>
+
+
+  <!-- Disable no-js styles if javascript is turned on. http://paulirish.com/2009/avoiding-the-fouc-v3/ -->
+  <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>How To Apologize After You Call A 9-Year-Old Girl A Horrible Name In Front Of Everyone</title>
+
+    <meta name="description" content="This is a step in the right direction. ">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+  <link href="//d29sy0p5c9gskd.cloudfront.net/favicon.ico" rel="shortcut icon" type="image/ico" />
+  <link href="//d29sy0p5c9gskd.cloudfront.net/favicon.ico" rel="icon" type="image/ico" />
+  <link rel="apple-touch-icon" href="//d29sy0p5c9gskd.cloudfront.net/assets/apple-touch-icon-9d1807c05c7b50c47e3daaf0a91b59df.png"/>
+  <link rel="alternate" type="application/rss+xml" title="Upworthy (RSS2.0)" href="http://feeds.feedburner.com/upworthy"/>
+  <link rel="publisher" href="https://plus.google.com/103863989923615589024" />
+
+  
+
+      <link rel="canonical" href="http://www.upworthy.com/how-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev" />
+  <link rel="author" href="https://plus.google.com/102887059112811652298" />
+  <meta name="author" content="Adam Mordecai" />
+  <meta property="og:title" content="How To Apologize After You Call A 9-Year-Old Girl A Horrible Name In Front Of Everyone" />
+  <meta property="og:description" content="This is a step in the right direction. " />
+  <meta property="og:url" content="http://www.upworthy.com/how-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev" />
+  <meta property="og:image" content="https://upworthy-production.s3.amazonaws.com/nugget/512bb13f27eb31000200bd87/beasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg" />
+  <meta property="og:site_name" content="Upworthy" />
+  <meta property="og:type" content="article" />
+  <meta property="article:publisher" content="https://www.facebook.com/Upworthy" />
+  <meta property="article:author" content="https://www.facebook.com/advodude" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@Upworthy">
+  <meta name="twitter:creator" content="@advodude" />
+  <meta name="twitter:url" content="http://www.upworthy.com/how-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev" />
+  <meta name="twitter:title" content="How To Apologize After You Call A 9-Year-Old Girl A Horrible Name In Front Of Everyone" />
+  <meta name="twitter:description" content="This is a step in the right direction. " />
+  <meta name="twitter:image" content="https://upworthy-production.s3.amazonaws.com/nugget/512bb13f27eb31000200bd87/beasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg" />
+
+    <meta property='fb:admins' content='12800023' />
+    <meta property='fb:admins' content='10513734' />
+    <meta property='fb:admins' content='1082850223' />
+    <meta property='fb:admins' content='737181223' />
+    <meta property='fb:admins' content='3904222' />
+    <meta property='fb:admins' content='3616674' />
+    <meta property='fb:admins' content='1342020065' />
+    <meta property='fb:admins' content='666471049' />
+    <meta property='fb:admins' content='717159202' />
+  <meta property="fb:app_id" content="153163221468956" />
+
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="eC1SB6cXhG/cC5Lw81y/IDL6CDwERh81h9KT02XWN9E=" name="csrf-token" />
+
+  <!-- HTML5 Shiv (style HTML5 elements in IE8) -->
+  <!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Google/Bootstrap Web Fonts -->
+  <link href='//fonts.googleapis.com/css?family=Droid+Serif:700,700italic' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    @font-face {
+      font-family: 'FontAwesome';
+      src:  url('/assets/fontawesome-webfont.eot?v=3.3');
+      src:  local('Font Awesome Regular'),
+            url('/assets/fontawesome-webfont.eot?#iefix&v=3.3') format('embedded-opentype'), 
+            url('/assets/fontawesome-webfont.woff?v=3.3') format('woff'), 
+            url('/assets/fontawesome-webfont.ttf?v=3.3') format('truetype'), 
+            url('/assets/fontawesome-webfont.svg#fontawesomeregular?v=3.3') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+  </style>
+
+  <link href="//d29sy0p5c9gskd.cloudfront.net/assets/application-352a3d936739a58a6700c5f082b04388.css" media="screen" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body class="narrow">
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+  <div id="main-header"></div>
+
+      <div class="modal fade" id="holler">
+      <!-- populated by javascript -->
+    </div><!-- /holler -->
+
+
+  <div class="wrapper">
+    <div class="container">
+      <div class="row">
+        <div id="header-logo-container" class="span10 offset1">
+          <a href="http://www.upworthy.com/" rel="analytic_event" data-ga-category="General" data-ga-action="Header Logo" data-ga-label="pageTitle" id="logo"></a>
+        </div>
+      </div>
+      
+
+
+
+
+
+<div id="nuggetPage">
+  <div class="row" id="firstRow">
+    <div class="span10 offset1" id="pagetitle">
+        <div class="facets visible-desktop visible-tablet">
+          <ul>
+                <li><a href="/entertainment-culture">Entertainment &amp; Culture</a></li>
+                <li><a href="/inspirational">Inspirational</a></li>
+                <li><a href="/parenting">Parenting</a></li>
+          </ul>
+        </div>
+      <header><h1>How To Apologize After You Call A 9-Year-Old Girl A Horrible Name In Front Of Everyone</h1></header>
+    </div><!-- /pagetitle -->
+  </div><!-- /firstRow -->
+
+  <div class="row hidden-phone" id="byline">
+    <section class="span10 offset1">
+      <div class="row">
+        <div class="span6" id="description">
+          <p><i>The Onion</i>, America's Finest News Source (satirical), tweeted something truly awful. <a href="http://upwr.me/WmRE1m" target="_blank">It's so awful, I'm linking to it rather than saying it</a>. Thankfully, after an outcry, their CEO also decided to hold them accountable. While it's not comprehensive, it's a start. Take note, politicians: you could learn something from this.<br></p>
+
+        </div>
+        <div class="span4" id="author">
+          <div class="span1" id="avatar">
+            <a href="/adam-mordecai"><img alt="Adam Mordecai" src="https://upworthy-production.s3.amazonaws.com/account/4f46522268796d0003000001/web_66_pic.jpg" /></a>
+          </div>
+          <div id="author-meta">
+            <span id="name">Adam Mordecai</span>
+            <span id="more"><a href="/adam-mordecai" data-ga-action="More From Curator" data-ga-category="Nugget" data-ga-label="pageTitle" rel="analytic_event">More from Adam &raquo;</a></span>
+              <div id="twitter_follow" data-placement='nuggetTop'>
+                <a href='https://twitter.com/advodude' class='twitter-follow-button' data-show-count='false' data-size='small' data-show-screen-name='false'>Follow @advodude</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+              </div><!--/twitter_follow-->
+
+              <div id="facebook_subscribe">
+                <fb:like id='fb-curator_nugget' class='fb-like desktop' href='http://www.facebook.com/advodude?pos=nugget' send='false' width='200' show_faces='false' colorscheme='light' layout='button_count'></fb:like>
+              </div><!--/facebook_subscribe-->
+
+              <div id="googleplus">
+                <div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/102887059112811652298" data-rel="author"></div> <!--/googleplus-->
+                <script type="text/javascript">
+                  (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                  })();
+                </script>
+              </div>
+          </div><!--/ #author_meta -->
+        </div><!--/ #author -->
+      </div><!--/ .row -->
+    </section>
+
+  </div><!-- /byline -->
+
+
+  <div class="row visible-phone hidden-tablet">
+
+    <div class="span10" id="mobile-byline">
+      <img alt="Adam Mordecai" src="https://upworthy-production.s3.amazonaws.com/account/4f46522268796d0003000001/web_66_pic.jpg" width="30" />
+      <span><a href="/adam-mordecai">Adam Mordecai</a></span>
+    </div>
+
+  </div><!-- /byline -->
+
+  <div class="row visible-phone">
+
+    <div class="span10" id="lede">
+      <p><p><i>The Onion</i>, America's Finest News Source (satirical), tweeted something truly awful. <a href="http://upwr.me/WmRE1m" target="_blank">It's so awful, I'm linking to it rather than saying it</a>. Thankfully, after an outcry, their CEO also decided to hold them accountable. While it's not comprehensive, it's a start. Take note, politicians: you could learn something from this.<br></p>
+</p>
+    </div>
+
+  </div>
+
+  <div class="row" id="contentRow" style="position: relative">
+      <ul id="shareTop" class="share span10 offset1">
+        <li class="facebook">
+          <a data-url="http://www.facebook.com/dialog/feed?app_id=153163221468956&amp;caption=http%3A%2F%2Fwww.upworthy.com%2Fhow-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev&amp;display=popup&amp;link=URL_TO_SHARE&amp;picture=https%3A%2F%2Fupworthy-production.s3.amazonaws.com%2Fnugget%2F512bb13f27eb31000200bd87%2Fbeasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg&amp;redirect_uri=http%3A%2F%2Fwww.upworthy.com%2Fclosewindow" data-popup-width="600" data-popup-height="320" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="Top Share Facebook" data-ga-label="pageTitle" data-mp-event="share" data-mp-properties='{"page location": "top", "social network": "facebook", "curator": "Adam Mordecai"}' data-share-to='facebook' data-placement='top' data-windowstyle="facebook" class="btn btn-primary btn-large btn-share facebook_button">
+            <span class="textNode icon"><span class="hidden-phone">Share On</span> Facebook</span>
+          </a>
+        </li>
+
+        <li class="twitter">
+          <a data-url="http://twitter.com/intent/tweet?related=upworthy%2Cadvodude&amp;text=Apparently+%40TheOnion+has+many+layers+and+apologized.+It%27s+a+start.+%28via+%40Upworthy%29&amp;url=URL_TO_SHARE" data-popup-width="600" data-popup-height="270" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="Top Share Twitter" data-ga-label="pageTitle" data-mp-event="share" data-mp-properties='{"page location": "top", "social network": "twitter", "curator": "Adam Mordecai"}' data-share-to='twitter' data-placement='top' data-windowstyle="twitter" class="btn btn-primary btn-large btn-share twitter_button">
+            <span class="textNode icon">Twitter</span>
+          </a>
+        </li>
+      </ul>
+    <div class="span10 offset1" id="content">
+      <p></p><p><img src="https://upworthy-production.s3.amazonaws.com/nugget/512bb1b61e14f2000200beb6/attachments/onionapology.jpeg"></p><p>If you could do me a favor, and help something positive come out of this horrible episode, you might help encourage a more positive representation of girls and women in the media. The best way I know how to do that is to <a href="http://upwr.me/XabmzQ" target="_blank">like Miss Representation on Facebook</a>, and <a href="http://upwr.me/WeE45w" target="_blank">take their pledge</a>. </p>
+    </div>
+  </div><!-- /contentRow -->
+
+    <div class="row hidden-phone" id="shareRowBottom">
+      <div id="sharebuttons" class="span10 offset1">
+        <a data-url="http://www.facebook.com/dialog/feed?app_id=153163221468956&amp;caption=http%3A%2F%2Fwww.upworthy.com%2Fhow-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev&amp;display=popup&amp;link=URL_TO_SHARE&amp;picture=https%3A%2F%2Fupworthy-production.s3.amazonaws.com%2Fnugget%2F512bb13f27eb31000200bd87%2Fbeasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg&amp;redirect_uri=http%3A%2F%2Fwww.upworthy.com%2Fclosewindow" data-popup-width="600" data-popup-height="320" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="Bottom Share Facebook" data-ga-label="pageTitle" data-mp-event="share" data-mp-properties='{"page location": "footer", "social network": "facebook", "curator": "Adam Mordecai"}' data-share-to='facebook' data-placement='bottom' data-windowstyle="facebook" class="btn btn-share facebook_button">
+          Share on Facebook
+        </a>
+
+        <a data-url="http://twitter.com/intent/tweet?related=upworthy%2Cadvodude&amp;text=Apparently+%40TheOnion+has+many+layers+and+apologized.+It%27s+a+start.+%28via+%40Upworthy%29&amp;url=URL_TO_SHARE" data-popup-width="600" data-popup-height="270" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="Bottom Share Twitter" data-ga-label="pageTitle" data-mp-event="share" data-mp-properties='{"page location": "footer", "social network": "twitter", "curator": "Adam Mordecai"}' data-share-to='twitter' data-placement='bottom' data-windowstyle="twitter" class="btn btn-share twitter_button">
+          Share on Twitter
+        </a>
+      </div><!-- /sharebuttons -->
+    </div><!-- /shareRowBottom -->
+
+  <ul class="row visible-phone" id="mobileShareBottom">
+    <li><a data-url="http://www.facebook.com/dialog/feed?app_id=153163221468956&amp;caption=http%3A%2F%2Fwww.upworthy.com%2Fhow-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev&amp;display=popup&amp;link=URL_TO_SHARE&amp;picture=https%3A%2F%2Fupworthy-production.s3.amazonaws.com%2Fnugget%2F512bb13f27eb31000200bd87%2Fbeasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg&amp;redirect_uri=http%3A%2F%2Fwww.upworthy.com%2Fclosewindow" rel="share_popup analytic_event" data-ga-category="Nugget - Mobile" data-ga-action="Bottom Share Facebook" data-ga-label="pageTitle" data-windowstyle="facebook" data-mp-event="share" data-mp-properties='{"page location": "footer", "social network": "facebook", "curator": "Adam Mordecai"}' data-share-to='facebook' data-placement='bottom'  class="btn btn-primary btn-share facebook_button">
+      <span class="textNode icon">Share On Facebook</span>
+    </a></li>
+    <li><a data-url="http://twitter.com/intent/tweet?related=upworthy%2Cadvodude&amp;text=Apparently+%40TheOnion+has+many+layers+and+apologized.+It%27s+a+start.+%28via+%40Upworthy%29&amp;url=URL_TO_SHARE" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="Bottom Share Twitter" data-ga-label="pageTitle" data-windowstyle="twitter" data-mp-event="share" data-mp-properties='{"page location": "footer", "social network": "twitter", "curator": "Adam Mordecai"}' data-share-to='twitter' data-placement='bottom' class="btn btn-primary btn-share twitter_button">
+      <span class="textNode icon">Share On Twitter</span>
+    </a></li>
+    <li class="upworthy"><fb:like id='fb-mobile' class='fb-like mobile' href='http://www.facebook.com/upworthy' send='false' width='50' show_faces='false' colorscheme='light' layout='button_count'></fb:like></fb:like> <span class="textNode">Like us on Facebook!</span></li>
+  </ul>
+
+  <div class="row" id="attributionRow">
+    <div class="span12" id="meta-data">
+      <div class="row">
+        <!-- attribution text -->
+        <div class="attribution span6 offset1">
+            <a href="https://www.facebook.com/TheOnion/posts/10151500974969497" target="_blank">ORIGINAL</a>: By <a href="http://www.theonion.com/" target="_blank">The Onion</a>.
+
+        </div>
+
+        <!-- facet list -->
+          <div class="facets span4">
+            <dl>
+              <dt>More:</dt>
+              <dd>
+                <ul>
+                  <li><a href="/entertainment-culture">Entertainment &amp; Culture</a></li>
+
+                  <li><a href="/inspirational">Inspirational</a></li>
+
+                  <li><a href="/parenting">Parenting</a></li>
+                </ul>
+              </dd>
+            </dl>
+          </div>
+      </div>
+
+
+    </div>
+  </div><!-- /attributionRow -->
+
+  <div id="slider"></div>
+
+</div><!-- /nuggetPage -->
+
+<!-- Hidden Modal Templates: cache modal content within page content
+     These aren't displayed on the page.
+     HTML to be referenced by JavaScript: NuggetPage.postShareEvent() -->
+<div id="nuggetPostShare-fb" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postShareAsk-fb">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <h3>Thanks for sharing!</h3>
+      <div class="message">
+        Now tell your friends on Facebook that you like Upworthy!
+      </div>
+      <div class="spacer">
+        <fb:like id='fb-post_share' class='fb-like desktop' href='http://www.facebook.com/upworthy?pos=post_share' send='false' width='50' show_faces='false' colorscheme='light' layout='button_count'></fb:like>
+      </div>
+    </div>
+  </div><!-- /content -->  
+</div>
+<div class="opt-out" data-type="fb-like">
+  <hr>
+  <h5>Already 'like' us?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Facebook again</a>
+</div>
+
+</div><!-- /postshare -->
+
+<div id="nuggetPostShare-email" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postShareAsk-email">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <div class="prompt">
+        <h3>Thanks for sharing!</h3>
+        <div class="message">
+          Want more stuff like that? Sign up for our daily email and never miss our best content.
+        </div>
+        <form action="/holler/back" id="postshare-email" method="post" data-ga-category="Nugget" data-ga-action="Post-Share Email Signup">
+          <input type='hidden' name='holler_utility' value='utility_nugget_postshare' />
+          <input type='email' class="text_field_tag required email mailcheck" name='email' placeholder='Email' title='Email' />
+          <input type='submit' class="btn" id='submit' value='Subscribe' />
+          <div id="error_container"><ul></ul></div>
+        </form><!-- email subscribe -->
+      </div>
+      <div class="success">
+        <h3>Thank you for signing up!</h3>
+        <div class="message">This is one daily email that won't disappoint.</div>
+      </div>
+    </div>
+  </div><!-- /content -->
+  <div class='privacy'>
+    By submitting above you agree to the Upworthy <a href="/privacy">privacy policy</a>.
+  </div><!-- /privacy -->
+</div>
+
+<div class="opt-out" data-type="email-list">
+  <hr>
+  <h5>Already signed up for The Upworthiest?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about email again</a>
+</div>
+
+</div><!-- /postshare -->
+
+<div id="nuggetPostShare-tw" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postShareAsk-tw">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <h3>Thanks For Sharing!</h3>
+      <div class="message">
+        <strong>Follow us</strong> to get more stuff like that!
+      </div>
+      <div data-placement='timeout-ask' class="spacer large">
+        <a href='https://twitter.com/upworthy' class='twitter-follow-button' data-show-count='true' data-size='large' data-show-screen-name='true'>Follow @upworthy</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+      </div>
+    </div>
+  </div><!-- /content -->
+</div>
+
+<div class="opt-out" data-type="tw-follow">
+  <hr>
+  <h5>Already follow @upworthy?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Twitter again</a>
+</div>
+
+
+</div><!-- /postshare -->
+
+<!-- Post Video modals -->
+<div id="nuggetPostVideo-fb" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postVideoAsk-fb">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+  	<div class="postShareSocial">
+	    <h3>Love that video?</h3>
+	    <div class="message">
+	      Like us on Facebook to get more stuff like that!
+	    </div><!-- /message -->
+	    <div class="spacer">
+	    	<fb:like id='fb-post_video' class='fb-like desktop' href='http://www.facebook.com/upworthy?pos=post_video' send='false' width='50' show_faces='false' colorscheme='light' layout='button_count'></fb:like>
+		  </div>
+	  </div>
+  </div><!-- /content -->
+</div>
+
+<div class="opt-out" data-type="fb-like">
+  <hr>
+  <h5>Already 'like' us?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Facebook again</a>
+</div>
+
+</div><!-- /postvideo -->
+
+<div id="nuggetPostVideo-email" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postVideoAsk-email">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <div class="prompt">
+        <h3>Love that video?</h3>
+        <div class="message">
+          Get more great stuff like that delivered straight to your Inbox!
+        </div><!-- /message -->
+        <form action="/holler/back" id="postvideo-email" method="post" class="analytic_event" data-ga-category="nugget" data-ga-action="Post-Video Email Signup" data-mp-event="email newsletter signup" data-mp-properties='{"page location": "post video modal"}' >
+          <input type='hidden' name='holler_utility' value='utility_nugget_postvideo' />
+          <input type='email' class="text_field_tag required email mailcheck" name='email' placeholder='Email' title='Email' />
+          <input type='submit' class="btn" id='submit' value='Subscribe' />
+          <div id="error_container"><ul></ul></div>
+        </form><!-- email subscribe -->
+      </div>
+      <div class="success">
+        <h3>Thank you for signing up!</h3>
+        <div class="message">This is one daily email that won't disappoint.</div>
+      </div>
+    </div>
+  </div><!-- /content -->
+  <div class='privacy'>
+    By submitting above you agree to the Upworthy <a href="/privacy">privacy policy</a>.
+  </div><!-- /privacy -->
+</div>
+
+<div class="opt-out" data-type="email-list">
+  <hr>
+  <h5>Already signed up for The Upworthiest?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about email again</a>
+</div>
+
+
+</div><!-- /postvideo -->
+
+<div id="nuggetPostVideo-share" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postVideoAsk-share">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <h3>Love that video?</h3>
+      <div class="message">
+        Share it with your friends!
+      </div><!-- /message -->
+
+      <ul id="shareModal" class="share">
+        <li class="facebook">
+          <a data-url="http://www.facebook.com/dialog/feed?app_id=153163221468956&amp;caption=http%3A%2F%2Fwww.upworthy.com%2Fhow-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev&amp;display=popup&amp;link=URL_TO_SHARE&amp;picture=https%3A%2F%2Fupworthy-production.s3.amazonaws.com%2Fnugget%2F512bb13f27eb31000200bd87%2Fbeasts-of-the-southern-wild-review-image-Quvenzhane-Wallis-noscale.jpg__620_350_.jpg&amp;redirect_uri=http%3A%2F%2Fwww.upworthy.com%2Fclosewindow" data-popup-width="1000" data-popup-height="500" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="PostVideo Share Facebook" data-ga-label="pageTitle" data-windowstyle="facebook" data-mp-event="share" data-mp-properties='{"page location": "post video modal", "social network": "facebook"}' class="btn btn-primary btn-large btn-share facebook_button">
+            <span class="icon">#</span>
+            <span class="textNode"><span class="hidden-phone">Share On</span> Facebook</span>
+          </a>
+        </li>
+
+        <li class="twitter">
+          <a data-url="http://twitter.com/intent/tweet?related=upworthy%2Cadvodude&amp;text=Apparently+%40TheOnion+has+many+layers+and+apologized.+It%27s+a+start.+%28via+%40Upworthy%29&amp;url=URL_TO_SHARE" data-popup-width="600" data-popup-height="270" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="PostVideo Share Twitter" data-ga-label="pageTitle" data-windowstyle="twitter" data-mp-event="share" data-mp-properties='{"page location": "post video modal", "social network": "twitter"}' class="btn btn-primary btn-large btn-share twitter_button">
+            Twitter
+          </a>
+        </li>
+
+        <li class="tumblr">
+            <a title="Share on Tumblr" data-url="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.upworthy.com%2Fhow-to-apologize-after-you-call-a-9-year-old-girl-a-horrible-name-in-front-of-ev&name=How To Apologize After You Call A 9-Year-Old Girl A Horrible Name In Front Of Everyone&description=This is a step in the right direction. " data-popup-width="450" data-popup-height="430" rel="share_popup analytic_event" data-ga-category="Nugget" data-ga-action="PostVideo Share Tumblr" data-ga-label="pageTitle" data-mp-event="share" data-mp-properties='{"page location": "post video modal", "social network": "tumblr"}' data-windowstyle="tumblr" class="btn btn-primary btn-large btn-share tumblr_button">
+            Tumblr
+          </a>
+        </li>
+      </ul>
+
+    </div>
+  </div><!-- /content -->
+  <div class="opt-out" data-type="share">
+    Share plenty already? <div class="close-button"></div> <a href="#">Don't show this again</a>
+  </div>
+</div>
+
+</div><!-- /postvideo -->
+
+<div id="nuggetPostVideo-tw" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postVideoAsk-tw">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+  	<div class="postShareSocial">
+	    <h3>Thanks for watching.</h3>
+	    <div class="message">
+	      Follow us on Twitter to get even more great stuff like that!
+	    </div><!-- /message -->
+	    <div data-placement='postVideo-ask' class="spacer large">
+	    	<a href='https://twitter.com/upworthy' class='twitter-follow-button' data-show-count='true' data-size='large' data-show-screen-name='true'>Follow @upworthy</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+		  </div>
+	  </div>
+  </div><!-- /content -->
+</div>
+
+<div class="opt-out" data-type="tw-follow">
+  <hr>
+  <h5>Already follow @upworthy?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Twitter again</a>
+</div>
+</div><!-- /postvideo -->
+
+<!-- Timeout Ask modals -->
+<div id="nuggetTimeoutAsk-fb" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postTimeoutAsk-fb">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+  	<div class="postShareSocial">
+	    <h3>Like what you're seeing?</h3>
+	    <div class="message">
+	      Like us on Facebook to get more stuff like that!
+	    </div><!-- /message -->
+	    <div class="spacer">
+	    	<fb:like id='fb-timeout_ask' class='fb-like ' href='http://www.facebook.com/upworthy?pos=timeout_ask' send='false' width='50' show_faces='false' colorscheme='light' layout='button_count'></fb:like>
+		  </div>
+	  </div>
+  </div><!-- /content -->
+</div>
+
+<div class="opt-out" data-type="fb-like">
+  <hr>
+  <h5>Already 'like' us?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Facebook again</a>
+</div>
+
+</div><!-- /timeout -->
+
+<div id="nuggetTimeoutAsk-email" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postTimeoutAsk-email">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+    <div class="postShareSocial">
+      <div class="prompt">
+        <h3>Like what you're seeing?</h3>
+        <div class="message">
+          Get more great stuff like that delivered straight to your Inbox!
+        </div><!-- /message -->
+        <form action="/holler/back" id="posttimeoutask-email" method="post" class="analytic_event" data-ga-category="nugget" data-ga-action="Timeout Ask Email Signup" data-mp-event="email newsletter signup" data-mp-properties='{"page location": "timeout modal"}' >
+          <input type='hidden' name='holler_utility' value='utility_nugget_timeout' />
+          <input type='email' class="text_field_tag required email mailcheck" name='email' placeholder='Email' title='Email' />
+          <input type='submit' class="btn" id='submit' value='Subscribe' />
+          <div id="error_container"><ul></ul></div>
+        </form><!-- email subscribe -->
+      </div>
+      <div class="success">
+        <h3>Thank you for signing up!</h3>
+        <div class="message">This is one daily email that won't disappoint.</div>
+      </div>
+    </div>
+  </div><!-- /content -->
+  <div class='privacy'>
+    By submitting above you agree to the Upworthy <a href="/privacy">privacy policy</a>.
+  </div><!-- /privacy -->
+</div>
+
+<div class="opt-out" data-type="email-list">
+  <hr>
+  <h5>Already signed up for The Upworthiest?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about email again</a>
+</div>
+
+
+</div><!-- /timeout -->
+
+<div id="nuggetTimeoutAsk-tw" class="modalContentEmbed">
+  <div class="modal-body holler event-modal" id="postTimeoutAsk-tw">
+  <div class="ctrl-bar">
+    <a class="close icon" data-dismiss="modal">Close</a>
+  </div>
+  <div class="content">
+  	<div class="postShareSocial">
+	    <h3>Enjoying this?</h3>
+	    <div class="message">
+	      Follow us on Twitter, for even more meaningful stories!
+	    </div><!-- /message -->
+	    <div data-placement='timeout-ask' class="spacer large">
+	    	<a href='https://twitter.com/upworthy' class='twitter-follow-button' data-show-count='true' data-size='large' data-show-screen-name='true'>Follow @upworthy</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+		  </div>
+	  </div>
+  </div><!-- /content -->
+</div>
+
+<div class="opt-out" data-type="tw-follow">
+  <hr>
+  <h5>Already follow @upworthy?</h5>
+  <a href="#" class="btn btn-primary"><span class="icon">Don't ask about Twitter again</a>
+</div>
+
+</div><!-- /timeout -->
+
+
+<!-- Hidden Snippet: flash video error message -->
+
+<div id="flash-embed-message">
+  <div class="content">
+    <h3>Flash Video Embed</h3>
+    <p>This video is not supported by your device. <b><a href="http://www.upworthy.com">Continue browsing</a></b> to find other stuff you'll love!</p>
+  </div>
+</div>
+
+    </div><!-- /container -->
+  </div><!-- /wrapper -->
+
+
+  <div id="footerEmailSignup">
+    <div class="container">
+      <div class="row">
+        <div class="prompt span12">
+          <h3>I want more stuff like this!</h3>
+          <p>Sign up for the Upworthiest daily email, and never miss out on our most popular stories.</p>
+          <div class="row">
+              <form action="/holler/back" data-remote="true" method="post" class="span10 offset1 analytic_event" data-mp-event="email newsletter signup" data-mp-properties='{"page location": "footer"}' data-ga-category="General" data-ga-action="Footer Email Sign Up">
+              <input value="utility_footer" name="holler_utility" type="hidden" />
+              <input id="email" class="text_field_tag required email mailcheck" placeholder="Email Address" title="Email Address" name="email" type="email" required=""><input id="submit" class="btn" value="Sign Up!" type="submit">
+            </form>
+          </div>
+          <p class="fine-print">
+            By submitting above you agree to the Upworthy <a href="/privacy">privacy policy</a>.
+          </p>
+        </div>
+        <div class="success">
+          <h3>Thanks for signing up!</h3>
+          <div class="message">Now tell your friends on Facebook that you like Upworthy!</div>
+          <div class="spacer">
+            <fb:like id='fb-post_email_signup' class='fb-like ' href='http://www.facebook.com/upworthy?pos=post_email_signup' send='false' width='50' show_faces='false' colorscheme='light' layout='button_count'></fb:like>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.container -->
+  </div>
+
+
+
+  <div id="footer" class='visible-desktop visible-tablet'>
+    <div class="container">
+      <hr>
+      <div class='navMenu' id='navMenuFooter'>
+        <a href="http://blog.upworthy.com" class="first" data-ga-action="Blog" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">Blog</a>
+        <a href="http://www.upworthy.com/contact" data-ga-action="Contact" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">Contact</a>
+        <a href="http://www.upworthy.com/about" data-ga-action="About" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">About &amp; FAQ</a>
+        <a href="http://www.upworthy.com/jobs" data-ga-action="Jobs" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">Jobs</a>
+        <a href="http://www.upworthy.com/privacy" data-ga-action="Privacy" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">Privacy</a>
+        <a href="http://www.upworthy.com/tos" data-ga-action="TOS" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">Terms</a>
+        <a href="http://feeds.feedburner.com/upworthy" data-ga-action="Feed" data-ga-category="General" data-ga-label="pageTitle" rel="analytic_event">RSS Feed</a>
+      </div><!--/navMenuFooter-->
+      <div id='footerSlogan'>
+        <!-- we have no footer slogan! -->
+      </div>
+    </div>
+  </div>
+
+
+
+  <div id='footerMobile' class="visible-phone">
+    <ul class='navMenu row' id='navMenuFooterMobile'>
+      <li class="blog"><a href="http://blog.upworthy.com">Blog</a></li>
+      <li class="contact"><a href="/contact">Contact</a></li>
+      <li class="rss"><a href="http://feeds.feedburner.com/upworthy"><span class="icon"></span> RSS Feed</a></li>
+      <li><a href="/about">About &amp; FAQ</a></li>
+      <li><a href="/jobs">Jobs</a></li>
+      <li><a href="/privacy">Privacy</a></li>
+      <li><a href="/tos">Terms</a></li>
+    </ul><!--/navMenuFooter-->
+  </div>
+
+  <!-- NUGGETS: lightbox zooming for large images -->
+  <div id="lightbox">
+    <div class="controls"><span class="hidden-desktop instructions">Pinch or double-tap to zoom</span> <a class="close">Close <span class="icon"></span></a></div>
+    <div id="lightbox-content">
+      <div id="scroller">
+        <img id="placeholder">
+      </div>
+    </div>
+  </div>
+
+  <!-- IE8 Users: Display Chrome download text -->
+  <div id="olderbrowsers">
+    <a class="close icon">Close</a>
+    <div class="container">
+      Hi there, you're using an old web browser to view Upworthy. We recommend <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_blank">downloading Google Chrome</a> for the best experience. We only want the best for you. Have a great day!
+    </div>
+  </div>
+
+  <!-- JavaScript Includes -->
+  <script src="//d29sy0p5c9gskd.cloudfront.net/assets/application-98eb1df61ad9076042bda2c30f7c305c.js" type="text/javascript"></script>
+
+  <!-- external analytics & services -->
+
+
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/38179760.js"></script>
+
+    <!-- Begin Quantcast -->
+    <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+    qacct:"p-46reRfD7EnxVE"
+    });
+    </script>
+    <noscript>
+    <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-46reRfD7EnxVE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+    </noscript>
+    <!-- End Quantcast -->
+
+    <!-- ShareProgress Snippit -->
+    <script src="//c.shpg.org/26/sp.js"></script>
+
+  <!-- Google custom search -->
+  <script>
+    (function() {
+      var cx = '013565259187176721019:0gj-6p_qm34';
+      var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//www.google.com/cse/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+
+  <div class="remarketing_wrapper">
+    <!-- GOOGLE REMARKETING SNIPPET -->
+    <!-- Google Code for Upworthy 7 Day -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 995246723;
+    var google_conversion_label = "7Z2CCL2ssQQQg4XJ2gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995246723/?value=0&amp;label=7Z2CCL2ssQQQg4XJ2gM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
+    <!-- GOOGLE REMARKETING SNIPPET -->
+    <!-- Google Code for Upworthy Max Time Period -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 995246723;
+    var google_conversion_label = "pMQ7CLWtsQQQg4XJ2gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline; visibility: hidden;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995246723/?value=0&amp;label=pMQ7CLWtsQQQg4XJ2gM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+  </div>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-6.newrelic.com","a86945f407","1316272","JldfEkFaXlxVQRhfFAJfVBJAGkFYX0Q=",16,6,new Date().getTime(),"","","","",""]);</script></body>
+</html>

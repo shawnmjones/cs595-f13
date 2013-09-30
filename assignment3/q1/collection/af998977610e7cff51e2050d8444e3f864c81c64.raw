@@ -1,0 +1,608 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	Can USA Inc. Avoid Bankruptcy?
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="TED 2011, economy, 
+" /><meta id="MetaDescription" name="description" content="USA Inc. report by Mary Meeker, financial analyst at Kleiner Perkins Caulfield &amp; Byers" /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Personal/Can-USA-Inc-Avoid-Bankruptcy?WT.mc_id=8_1_USAinc_TW&amp;WT.tsrc=Twitter" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BRVURUQgMjAxMSwgZWNvbm9teSwgDQpkAgMPFgIfAAVWVVNBIEluYy4gcmVwb3J0IGJ5IE1hcnkgTWVla2VyLCBmaW5hbmNpYWwgYW5hbHlzdCBhdCBLbGVpbmVyIFBlcmtpbnMgQ2F1bGZpZWxkICYgQnllcnNkAgEQZGQWCAIBD2QWAmYPZBYEAgIPFgIeC18hSXRlbUNvdW50AgcWDgIBD2QWAgIBD2QWAmYPFQEaPGEgaHJlZj0iL0Jvb2tzIj5Cb29rczwvYT5kAgIPZBYCAgEPZBYCZg8VASk8YSBocmVmPSIvVG9waWNzL0VkdWNhdGlvbiI+RWR1Y2F0aW9uPC9hPmQCAw9kFgICAQ9kFgJmDxUBIzxhIGhyZWY9Ii9Ub3BpY3MvRW5lcmd5Ij5FbmVyZ3k8L2E+ZAIED2QWAgIBD2QWAmYPFQEtPGEgaHJlZj0iL1RvcGljcy9EZXZlbG9wbWVudCI+RGV2ZWxvcG1lbnQ8L2E+ZAIFD2QWAgIBD2QWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9IZWFsdGgiPkhlYWx0aDwvYT5kAgYPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmUWAmYPFQEgPGEgaHJlZj0iL1BlcnNvbmFsIj5QZXJzb25hbDwvYT5kAgcPZBYCAgEPZBYCZg8VARY8YSBocmVmPSIvQWxsIj5BbGw8L2E+ZAIEDxYCHwEC/////w9kAgMPZBYCZg9kFgICAQ8PZBYCHglvbmtleWRvd24FrgFpZihldmVudC53aGljaCB8fCBldmVudC5rZXlDb2RlKXtpZiAoKGV2ZW50LndoaWNoID09IDEzKSB8fCAoZXZlbnQua2V5Q29kZSA9PSAxMykpIHtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMjBfU2VhcmNoQnV0dG9uJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fX0gZWxzZSB7cmV0dXJuIHRydWV9OyBkAgUPZBYCZg9kFgJmD2QWDmYPDxYCHgdWaXNpYmxlaGQWAmYPZBYEZg8WAh8BAv////8PZAIBD2QWAmYPFQEJP3Nob3dhbGw9ZAIBDxYCHwRnZAIDD2QWAmYPFgIfAQL/////D2QCBA9kFgICAQ8WAh8BAv////8PZAIMDxYCHwECAhYEZg9kFgJmDxUDFy9TZWFyY2g/c2VhcmNoPVBlcnNvbmFsCHBlcnNvbmFsAiwgZAIBD2QWAmYPFQMcL1NlYXJjaD9zZWFyY2g9Tm9ydGgrQW1lcmljYQ1Ob3J0aCBBbWVyaWNhAGQCDg9kFgJmD2QWBGYPFgIfAQIDFgZmD2QWDgIBD2QWBmYPFQEqL1RvcGljcy9FZHVjYXRpb24vQmlsbC1HYXRlcy1URUQyMDExLXZpZGVvZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQPTXkgVEVEMjAxMSBUYWxrKi9Ub3BpY3MvRWR1Y2F0aW9uL0JpbGwtR2F0ZXMtVEVEMjAxMS12aWRlbw5NYXJjaCAwNCwgMjAxMQ9NeSBURUQyMDExIFRhbGtkAgUPFgIfBGcWBgIBDw8WBB4HVG9vbFRpcAUPTXkgVEVEMjAxMSBUYWxrHgtOYXZpZ2F0ZVVybAUqL1RvcGljcy9FZHVjYXRpb24vQmlsbC1HYXRlcy1URUQyMDExLXZpZGVvZBYCZg9kFgICAg8VAawBPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9URUQvQmlsbCBHYXRlcyBURUQyMDExIFN0YXRlIEJ1ZGdldHMvVEVELVNwZWFrZXJzLVRvcGljcy1CaWxsLUdhdGVzLUJpbGwtR2F0ZXMtVEVEMjAxMS12aWRlb18yMjB4MTI0LmpwZyIgYWx0PSJCaWxsIEdhdGVzIFRFRDIwMTEgU3RhdGUgQnVkZ2V0cyIvPmQCAg8VBCovVG9waWNzL0VkdWNhdGlvbi9CaWxsLUdhdGVzLVRFRDIwMTEtdmlkZW8OTWFyY2ggMDQsIDIwMTEPTXkgVEVEMjAxMSBUYWxrf1NvbWUgc3RhdGVzIGFyZSBiYWxhbmNpbmcgYnVkZ2V0cyB1c2luZyB0cmlja3MgYW5kIGZpY3Rpb25zIHRoYXQgdWx0aW1hdGVseSBwb3NlIGEgbWFqb3IgcmlzayB0byB2aXRhbCBwcm9ncmFtcyBsaWtlIGVkdWNhdGlvbi5kAgMPFgIfBGgWAmYPFQMYQmlsbC1HYXRlcy1URUQyMDExLXZpZGVvAABkAgcPZBYCAgEPZBYCZg8VAQBkAgkPZBYCZg9kFgJmD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIND2QWAmYPFQEAZAIBD2QWDgIBD2QWBmYPFQE0L1RvcGljcy9FZHVjYXRpb24vQmlsbC1HYXRlcy1TdGF0ZS1CdWRnZXRzLUVkdWNhdGlvbmQCAQ8WAh8EaBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBCFTdGF0ZSBCdWRnZXRzICYgRWR1Y2F0aW9uIEZ1bmRpbmc0L1RvcGljcy9FZHVjYXRpb24vQmlsbC1HYXRlcy1TdGF0ZS1CdWRnZXRzLUVkdWNhdGlvbg5NYXJjaCAwMSwgMjAxMSFTdGF0ZSBCdWRnZXRzICYgRWR1Y2F0aW9uIEZ1bmRpbmdkAgUPFgIfBGcWBgIBDw8WBB8FBSFTdGF0ZSBCdWRnZXRzICYgRWR1Y2F0aW9uIEZ1bmRpbmcfBgU0L1RvcGljcy9FZHVjYXRpb24vQmlsbC1HYXRlcy1TdGF0ZS1CdWRnZXRzLUVkdWNhdGlvbmQWAmYPFgIfBGgWAgICDxUBAGQCAg8VBDQvVG9waWNzL0VkdWNhdGlvbi9CaWxsLUdhdGVzLVN0YXRlLUJ1ZGdldHMtRWR1Y2F0aW9uDk1hcmNoIDAxLCAyMDExIVN0YXRlIEJ1ZGdldHMgJiBFZHVjYXRpb24gRnVuZGluZ4QBSW1wcm92aW5nIFUuUy4gZWR1Y2F0aW9uIGRlcGVuZHMgb24gbW9yZSBwZW9wbGUgdW5kZXJzdGFuZGluZyBzdGF0ZSBidWRnZXRzLiBJIGV4cGxhaW4gd2h5IHRoaXMgbWF5IGJlIGEgYmlnIGNoYWxsZW5nZSBmb3Igb3VyIHRpbWUuZAIDDxYCHwRoFgJmDxUDIkJpbGwtR2F0ZXMtU3RhdGUtQnVkZ2V0cy1FZHVjYXRpb24AAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgIPZBYOAgEPFgIfBGcWBmYPFQEgL0Jvb2tzL1BlcnNvbmFsL0NyaXNpcy1FY29ub21pY3NkAgEPZBYCZg8VAYoBPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0Jvb2tzL1BlcnNvbmFsL0NyaXNpcy1FY29ub21pY3NfMjIweFYuanBnIiBhbHQ9IkNyaXNpcyBFY29ub21pY3MgYnkgTm91cmllbCBSb3ViaW5pICYgU3RlcGhlbiBNaWhtIi8+ZAIDD2QWAmYPFQUMTWF5IDExLCAyMDEwEVRoZSBQZW5ndWluIFByZXNzCTM2OCBwYWdlcwJOb5cBPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly91cy5wZW5ndWluZ3JvdXAuY29tL25mL0Jvb2svQm9va0Rpc3BsYXkvMCwsOTc4MTU5NDIwMjUwNiwwMC5odG1sP0NyaXNpc19FY29ub21pY3NfTm91cmllbF9Sb3ViaW5pIj5TZWFyY2ggTW9yZSBJbmZvPC9hPmQCAw9kFgJmDxUEOUNyaXNpcyBFY29ub21pY3M6IEEgQ3Jhc2ggQ291cnNlIGluIHRoZSBGdXR1cmUgb2YgRmluYW5jZSAvQm9va3MvUGVyc29uYWwvQ3Jpc2lzLUVjb25vbWljcw1KdWx5IDI3LCAyMDExOUNyaXNpcyBFY29ub21pY3M6IEEgQ3Jhc2ggQ291cnNlIGluIHRoZSBGdXR1cmUgb2YgRmluYW5jZWQCBQ9kFgYCAQ9kFgJmD2QWAgICDxUBigE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvQm9va3MvUGVyc29uYWwvQ3Jpc2lzLUVjb25vbWljc18yMjB4Vi5qcGciIGFsdD0iQ3Jpc2lzIEVjb25vbWljcyBieSBOb3VyaWVsIFJvdWJpbmkgJiBTdGVwaGVuIE1paG0iLz5kAgIPFQQgL0Jvb2tzL1BlcnNvbmFsL0NyaXNpcy1FY29ub21pY3MNSnVseSAyNywgMjAxMTlDcmlzaXMgRWNvbm9taWNzOiBBIENyYXNoIENvdXJzZSBpbiB0aGUgRnV0dXJlIG9mIEZpbmFuY2UAZAIDD2QWAmYPFQMQQ3Jpc2lzLUVjb25vbWljcwAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCAQ9kFgJmDxUBCT9zaG93YWxsPWQCDw8WAh8BAv////8PZAIJD2QWAmYPZBYIAgEPFgIfAQIDFgZmD2QWAgIBDw8WBB4EVGV4dAUKQWxsIFRvcGljcx8GBQcvVG9waWNzZGQCAQ9kFgICAQ8PFgQfBwUFQm9va3MfBgUGL0Jvb2tzZGQCAg9kFgICAQ8PFgQfBwUJRWR1Y2F0aW9uHwYFES9Ub3BpY3MvRWR1Y2F0aW9uZGQCAw8WAh8BAgMWBmYPZBYCAgEPDxYEHwcFBkVuZXJneR8GBQ4vVG9waWNzL0VuZXJneWRkAgEPZBYCAgEPDxYEHwcFC0RldmVsb3BtZW50HwYFEy9Ub3BpY3MvRGV2ZWxvcG1lbnRkZAICD2QWAgIBDw8WBB8HBQZIZWFsdGgfBgUOL1RvcGljcy9IZWFsdGhkZAIFDxYCHwECARYCZg9kFgICAQ8PFgQfBwUIUGVyc29uYWwfBgUJL1BlcnNvbmFsZGQCBw8WAh8HBQQyMDEzZGQ3m5wrGJK+UH/edCpgms7jBwzsYA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALHx4ykDALf6cCfDQKNhbaICQL5oamLB0m4uFR5Nv6gscahspoKOw/AB3BJ" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="navLink"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="active"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+					<p class="image"></p>
+					
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+				<p class="date">July 29, 2011 | By Bill Gates</p>
+				<h1>Can USA Inc. Avoid Bankruptcy?</h1>
+				<h2></h2>
+
+				<blockquote>Bill’s strong belief in the importance of education and health has made him increasingly concerned about the finances of U.S. state governments and about the growing federal deficit. To help Americans understand the growing crisis in public finance, Bill recommends a new report.</blockquote>
+				<p _extendedByPrototype="function() { }">I gave a talk on <a href="/Topics/Education/Bill-Gates-TED2011-video" _extendedByPrototype="function() { }">state budgets at TED2011</a>, where I said that states use accounting tricks to make their budgets look balanced. I tried to show why states need to make some hard choices to be able to continue providing essential services, such as public education. Similar budget problems are also confronting the federal government today, for similar reasons, but on an even larger scale.</p>
+<p _extendedByPrototype="function() { }">That&rsquo;s made very clear by <a href="http://www.kpcb.com/usainc/" target="_blank" _extendedByPrototype="function() { }"><i _extendedByPrototype="function() { }">USA Inc.</i></a>,<i _extendedByPrototype="function() { }"> </i>an excellent, new, non-partisan report. It&rsquo;s by Mary Meeker, a highly respected financial analyst and partner at Kleiner Perkins Caulfield &amp; Byers, the very successful venture capital firm based in Silicon Valley. Mary&rsquo;s report looks at the financials of the U.S. government as a business. It vividly demonstrates why the United States is headed toward bankruptcy unless we act decisively to reduce expenses and increase revenues. I want to encourage everyone to read <i _extendedByPrototype="function() { }">USA Inc.</i> and get involved in helping all levels of government to make the right choices that will put our nation&rsquo;s public finances on a more sustainable course.</p>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Personal">personal</a>, </li><li><a href="/Search?search=North+America">North America</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{04E395B9-6A4E-4FE2-BAA9-43CBE164BAE5}";
+    var disqus_url = "http://www.thegatesnotes.com/Personal/Can-USA-Inc-Avoid-Bankruptcy";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_0" title="My TED2011 Talk" href="/Topics/Education/Bill-Gates-TED2011-video"><p id="content_0_ctl03_Articles_P2_0" class="image">
+							
+                            <img src="/~/media/Images/TED/Bill Gates TED2011 State Budgets/TED-Speakers-Topics-Bill-Gates-Bill-Gates-TED2011-video_220x124.jpg" alt="Bill Gates TED2011 State Budgets"/>
+							
+						</p></a>
+					<a href="/Topics/Education/Bill-Gates-TED2011-video">
+						<p class="date">March 04, 2011</p>
+						<h1>My TED2011 Talk</h1>
+
+						<p>Some states are balancing budgets using tricks and fictions that ultimately pose a major risk to vital programs like education.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_1" title="State Budgets &amp; Education Funding" href="/Topics/Education/Bill-Gates-State-Budgets-Education"></a>
+					<a href="/Topics/Education/Bill-Gates-State-Budgets-Education">
+						<p class="date">March 01, 2011</p>
+						<h1>State Budgets & Education Funding</h1>
+
+						<p>Improving U.S. education depends on more people understanding state budgets. I explain why this may be a big challenge for our time.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+					<article class="book photoIncluded relatedContentLink">
+
+
+						<a href="/Books/Personal/Crisis-Economics">
+							<p id="content_0_ctl03_Articles_P1_2" class="image"><img src="/~/media/Images/GatesNotes/Books/Personal/Crisis-Economics_220xV.jpg" alt="Crisis Economics by Nouriel Roubini & Stephen Mihm"/></p>
+						</a>
+						
+					</article>
+					
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Can USA Inc. Avoid Bankruptcy?', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Can USA Inc. Avoid Bankruptcy?', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Can USA Inc. Avoid Bankruptcy?', 'WT.ti', 'End: Can USA Inc. Avoid Bankruptcy?', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Can USA Inc. Avoid Bankruptcy?', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Can-USA-Inc-Avoid-Bankruptcy"
+    s.channel = "Personal"
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

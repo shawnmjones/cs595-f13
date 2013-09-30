@@ -1,0 +1,4985 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<!-- Sticking this elsewhere until it can be fixed. -->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=IM+Fell+English">
+	<title>Daily Kos: This week in science: and Neo was its name-o!</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="DC.description" content="" />
+	<meta name="DC.subject" content="" />
+	<meta name="DC.creator" content="Happy Cog Studios - http://www.happycog.com and Daily Kos" />
+	<meta name="DC.publisher" content="" />
+	<meta name="DC.language" content="en" />
+	<meta name="viewport" content="width=978" />
+	<!-- facebook thing. Hmph. -->
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<meta property="og:title" content="Daily Kos: This week in science: and Neo was its name-o!" />
+	
+			<meta property="og:image" content="http://images2.dailykos.com/i/admin/Neo.jpg" />
+			
+	
+	
+	<meta property="og:description" content=" 
+
+No, not that Neo, Near Earth Objects., i.e., dino killers , city busters, Siberian dynamite . The House and Senate finally had a hearing on the danger posed by NEOs. The hearings weren't half bad," />
+	
+	
+	<meta property="og:url" content="http://www.dailykos.com/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o" />
+	
+	<!-- Twitter js. Apparently it's supposed to be as close to the top as
+	     possible. -->
+	<script src="http://platform.twitter.com/anywhere.js?id=7IvZ5TAS7cSXI1yAAXnMA&v=1" type="text/javascript"></script>
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	
+	<!-- TODO: we should consolidate the css before launch -->
+
+	<!-- ask if this is actually OK. Hrmph. -->
+	<link href="/c/unified.css?rev=4d" media="all" rel="stylesheet" type="text/css" />
+	<!-- can this be unified? -->
+	<link href="/c/print.css" rel="stylesheet" media="print" type="text/css" />
+
+
+	<!--[if lt IE 8]><link href="/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	<!--[if lt IE 7]><link href="/c/ie6.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	
+		<script type="text/javascript"><!--
+		  document.write('<link href="/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+		//--></script>
+
+
+
+<!-- need the jquery up here for skins. I suppose it can be made to move
+     around as needed -->
+<script src="https://www.google.com/jsapi?key=ABQIAAAAJSSc0UDn-DPmAGTPsJgsxxQ_dDAjRQ0Rab5Jbkgn1xY6vdZysBRN7laBUGz651Zyl9lgP3ZAQA4D0A" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<script src="/j/jquery.cookie.js?body=1" type="text/javascript"></script>
+<script src="/j/detect_mobile.js?body=1" type="text/javascript"></script>
+<script src="/j/mobile_redirect.js?body=1" type="text/javascript"></script>
+	
+	
+	
+	
+	
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-4201116381449156");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK4_Story");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_ATF");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_BTF_Right");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_Homepage_Top_Right");
+
+GA_googleAddSlot("ca-pub-4201116381449156", "728X90_DK4_Story_Leaderboard");
+GA_googleAddSlot("ca-pub-4201116381449156", "DK_Skin_Background");
+
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/dailykos/loader.js"></script> 
+
+
+	
+	
+	<!-- canonical thingy -->
+	
+	<link rel="canonical" href="http://www.dailykos.com/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o" />
+	
+	<!-- end canonical thingy -->
+	<!-- END OF TAG FOR head SECTION -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-50193-1']);
+  _gaq.push(['_setDomainName', '.dailykos.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script src="/j/iframe-resize.js"></script>
+<script src="/j/underscore.js"></script>
+
+  </head>
+
+<body class="med-ad-one-col-sub">
+
+
+
+
+	
+
+
+<script type='text/javascript'>
+GA_googleFillSlot("DK_Skin_Background"); 
+</script>
+
+
+
+
+
+
+
+
+
+<div class="is-popup show-on-load " id="popup-user_login" title="Login">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/user/login"
+	method="POST">
+
+
+
+<div class="user-search" style="background:#eeeeee; margin:0px">
+<div id="search-users" style="background:#eeeeee">
+<div id="search-users-form" style="padding:0px">
+
+<table>
+<tr><td style="text-align:left">
+<label for="uname">Username:</label> <input style="margin:2px 0px" type="text" size="20" name="uname"><br/>
+<label for="pass" >Password:</label> <input style="margin:2px 0px" type="password" size="20" name="pass"><br/>
+
+</td>
+</tr><tr><td colspan="3">
+<label><a href="/accounts">Lost your password or username?<br />Need a new activation email? Click Here.</a></label>
+</td></tr></table>
+
+</div>
+</div>
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<!-- div style="width: 728px; height: 90px; margin: 15px auto 0px auto; position: relative;" -->
+
+<div style="width: 728px; margin: 15px auto 0px auto; position: relative;">
+
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_ATF_Header_728x90 -->
+
+<!-- story -->
+<!-- ca-pub-4201116381449156/DK_Story_ATF_728x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
+</script>
+<!-- END OF TAG FOR SLOT DK_FP_ATF_Header_728x90 -->
+
+</div>
+
+ 
+
+<div id="pageWrapper"> 
+<p class="move"><a href="#content">Skip to main content</a></p>
+<div id="header">
+
+<div id="header-authorization" style="text-align: right; font-size: 12px; font-family: Verdana; padding: 15px 0px; color: #adabab">
+  
+	  <a href="http://www.dailykos.com/login" style="display: inline !important;">Log In</a>
+    |
+    <a href="http://www.dailykos.com/newuser">Sign Up</a>
+	
+	|
+  <a href="http://campaigns.dailykos.com/signup_page/genericsignup" style="color: #918f8f; font-style: italic">Join the Action Alert list!</a>
+  |
+	<a href="http://www.dailykos.com/helpdesk_redirect" style="color: #918f8f;">Help</a>
+</div>
+
+  
+	<div id="masthead-dailykos" class="masthead">
+	  <h1><a href="http://www.dailykos.com/">Daily Kos</a></h1>
+	  <img id="flagman" src="/i/header/masthead/flagman.png" style="position: absolute; left: 368px; top: 11px; z-index: 100000"></img>
+	  <h2>News, Community, Action</h2>
+	</div>
+ 
+
+<div id="nav-main" class="clearfix">
+<ul>
+	
+	<li><a href="http://www.dailykos.com/people" class="people">PEOPLE</a></li>
+	<li><a href="http://www.dailykos.com/groups" class="groups">GROUPS</a></li>
+	<li><a href="http://www.dailykos.com/diaries" class="diaries">DIARIES</a></li>
+	<li><a href="http://www.dailykos.com/news" class="tags">TAGS</a></li>
+	<li><a href="http://labor.dailykos.com" class="labor vertical">LABOR</a></li>
+	<li><a href="http://comics.dailykos.com" class="comics vertical">COMICS</a></li>
+	<li><a href="http://elections.dailykos.com" class="econ vertical">ELECTIONS</a></li>
+	<li><a href="http://economics.dailykos.com" class="econ vertical">ECON</a></li>
+	<li><a href="http://dailykosradio.dailykos.com" class="radio vertical">RADIO</a></li>
+</ul>
+<form action="/search" method="get" id="search-form">
+	<div>
+	<label for="search-term" class="move">Search Term</label>
+	<input type="text" name="text" value="Search" id="search-term" onfocus="doDefaultFocus(this);" onblur="doDefaultBlur(this);" />
+	
+	<input type="hidden" name="time_begin" value="09/23/2013" />
+	<input type="hidden" name="time_end" value="now" />
+	<input type="hidden" name="text_type" value="any" />
+	<input type="hidden" name="text_expand" value="contains" />
+	<input type="hidden" name="search_type" value="search_stories" />
+	<input type="hidden" name="time_type" value="time_published" />
+	<input type="image" src="http://images2.dailykos.com/i/header/nav/button-go.gif" value="1" name="submit" id="search-submit" />
+	</div>
+</form>
+</div>    
+
+
+</div>
+
+
+
+
+<div id="content">
+
+
+	
+
+
+
+<div id="main" class="published">
+
+<div id="storyWrapper" class="ajax-delay-load">
+	
+
+<div id="article-1" class="article collapsable-panel", data-story_id="1196141">
+
+	
+
+	
+	
+	
+
+	<div class="meta share-expanded">
+		
+		
+		
+	      <div id="group_info" class="clearfix">
+                  <div class="image" style="float: left; border: 1px solid #cccccc; margin-right: 20px">
+                    <a href="/"><img id="avatar" src="http://images1.dailykos.com/i/default_avatar.gif" height="56" /></a>
+                  </div>
+                  <div class="heading">
+		    <span class="name">Daily Kos Staff, Front Page</span><span class="follow"></span><span class="rss"><a href="/rss/index.xml">RSS</a></span>
+		  </div>
+    	  <div><span class="group_member">Daily Kos editors</span><span class="gift_subscription"></span></div>
+		  <ul class="actions">
+		    <li class="first"><a href="/user/main">Profile</a></li>
+		    <li><a href="/">Diaries</a> <a href="/user/main/history">(list)</a></li>
+		
+		  </ul>
+		</div>
+		<p class="date">Sat Mar 23, 2013 at 06:00 AM PDT</p>
+		<h2><a id="titleHref" href="/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o">This week in science: and Neo was its name-o!</a><span style="white-space: nowrap"></span></h2>
+		
+		<p class="author"><span>by</span> <a href="/user/DarkSyde">DarkSyde</a><a class="ajax type-user do-hotlist do-updateContent size-tiny off altTooltip" alt="Follow this author" href="#?friend_id=40885&is_stream=1">Follow</a> <span class="for">for</span> <a href="/blog/main">Daily Kos</a></p>
+    
+    <ul class="front-page-share clearfix">
+      
+      <li style="margin-left: 0px"><div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-href="http://www.dailykos.com/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o"></div></li>
+      <li><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="dailykos" data-related="markos" data-url="http://www.dailykos.com/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o" data-text="This week in science: and Neo was its name-o!">Tweet</a></li>
+          
+		  <li style="margin-left: 0px"><a href="#" class="email">Email</a></li>
+		  
+		  <li><a href="/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o#comments" class="comments comment_count_with_new" data-story_id="1196141" data-comment_count="62">62 Comments</a></li>
+		</ul>
+		
+		
+	</div>
+	
+	<div class="article-body">
+		<div id="intro">
+			
+<div class="dkimg-c"><img src="http://images2.dailykos.com/i/admin/Neo.jpg" alt="Neo" height="403" width="450" title="Neo" /></div>
+<p>No, not <i>that</i> Neo, Near Earth Objects., i.e., <a href="http://en.wikipedia.org/wiki/Chicxulub_crater">dino killers</a>, city busters, <a href="http://en.wikipedia.org/wiki/Tunguska_event">Siberian dynamite</a>. The House and Senate finally had a hearing on the danger posed by NEOs. The hearings weren't half bad, a round of bipartisan agreement almost broke out, and there was some talk of a <a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-asteroids-senator-space-threats-hearing-bruce-willis-20130320,0,3922479.story">Sentinal chasing after a Neo &nbsp;...</a>:</p>
+<blockquote>The Silicon Valley-based B612 Foundation’s plan to send an asteroid-hunting space telescope called the Sentinel into space in July 2018 would solve that problem, Green told the senators. "We have discovered 10,000 near-Earth asteroids thus far.... Sentinel will discover roughly that number every two weeks," said B612 chair Ed Lu, a former astronaut and another witness on the panel.<br />
+"Assuming that we found one before you got your satellite up ... what would an asteroid that is a kilometer in diameter, what would it do if it hit the Earth?" asked subcommittee chair Bill Nelson (D-Fla.) .... "That is likely to end human civilization," Lu responded.</blockquote>
+Best of all, in my biased opinion, we were mostly spared the spectacle of a bunch of imbeciles who pissed away over a trillion dollars and counting on non-existent Weapons of Mass Destruction<sup>tm</sup> lecture the experts and the nation about "wasting" a thousandth of that on WMDs we know exist to a 100 percent certainty.
+<p>The full House Hearing on NEOs is <a href="http://science.house.gov/hearing/full-committee-hearing-threats-space-meteors-and-comets-part-1">here</a>, the Senate version is <a href="http://commerce.senate.gov/public/index.cfm?p=Hearings&amp;ContentRecord_id=11933343-6109-4e2d-8ee6-73cdae02a849&amp;ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&amp;Group_id=b06c39af-e033-4cba-9221-de668ca1978a">here</a>, the B612 Foundation and the Sentinel Telescope are described <a href="http://b612foundation.org/">here</a>.</p>
+<ul>
+<li>A <a href="http://cosmiclog.nbcnews.com/_news/2013/03/21/17397298-planck-probes-cosmic-baby-picture-revises-universes-vital-statistics?lite">beautiful new image</a> of the infant universe suggests it is a little older than we thought, but I still don't think it looks a day past 13.7 billion. &nbsp;</li>
+<li>We may now have a <a href="http://topnews.ae/content/215334-scientists-release-high-quality-sequencing-new-neanderthal-genome">complete neander genome</a> sequenced and ready for comparison, base pair by base pair, to anatomically modern humans.</li>
+<li>I have no idea how to get in touch with <a href="http://en.wikipedia.org/wiki/Seth_MacFarlane">Seth MacFarlane</a>, but it might be fun to talk to him about some space and science stuff. If anyone can forward my email, see first comment below.</li>
+</ul>
+
+		</div>
+		
+		
+			<p class="divider-doodle" />
+		
+		
+			<div id="body" class="article-body">
+</div>
+		
+		
+	</div>
+	
+	
+	
+	
+		<h4>Originally posted to <a href="/blog/main/">Daily Kos</a> on Sat Mar 23, 2013 at 06:00 AM PDT.</h4>
+	
+
+	
+		<h4>Also republished by 
+		
+		<a href="/blog/SciTech/">SciTech</a>.
+		</h4>
+	
+	
+	
+		<div class="tags">
+		<h4>Tags</h4>
+		
+			
+<ul>
+
+
+	<li><a href="/news/Science">Science</a></li>
+
+</ul>
+
+		
+		</div>
+	
+
+	
+
+	
+	
+	
+	
+		<div class="utility" style="display:block;margin-top:10px">
+			
+		</div>
+	
+
+	<!-- <a href="#" class="collapse-article collapsor">Collapse Article</a> -->
+
+	
+
+	
+
+<a id="doLoadPreview"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=preview&story_id=1196141">(Load)</a>
+<a id="doLoadEdit"			class="ajax do-delay-load invisible" href="/part/story/as_full?mode=edit&story_id=1196141">(Load)</a>
+<a id="doLoadPublished"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=published&story_id=1196141">(Load)</a>
+<a id="doLoadScheduled"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=scheduled&story_id=1196141">(Load)</a>
+<a id="doLoadQueued"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=queued&story_id=1196141">(Load)</a>
+<a id="doLoadUnpublished"	class="ajax do-delay-load invisible" href="/part/story/as_full?mode=unpublished&story_id=1196141">(Load)</a>
+<a id="doLoadDeleted"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=deleted&story_id=1196141">(Load)</a>
+
+<!-- popups -->
+
+
+
+<div id="share_email_popup" class="jqmWindow">
+  <div class="header">
+    <span class="title">EMAIL TO A FRIEND</span>
+    <a href="#" class="jqmClose">X</a>
+  </div>
+  <form method="post">
+    <label>To <span class="error_message">Please use one to three valid email addresses.</span></label>
+    <input name="to" data-default_value="Separate up to three multiple addresses with commas" value="Separate up to three multiple addresses with commas"/>
+    
+    <label>From <span class="error_message">Please use a valid email address.</span></label>
+    <input name="from" data-default_value="Enter your email address" value="Enter your email address" class="" />
+    
+    <label>Your Message</label>
+    <textarea class="message" name="message" data-default_value="Enter your message">Enter your message</textarea>
+    
+    <button type="button" class="cancel jqmClose">Cancel</button><button type="submit" class="submit">Send</button>
+    <div class="success">Your Email has been sent.</div>
+  </form>
+</div>
+
+
+</div>
+
+	<a class="ajax do-delay-load invisible" href="/part/story/as_full?story_id=1196141">(Load)</a>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_setTags" title="Add Diary Tags:">
+<div class="info-bar"  >You must add at least one tag to this diary before publishing it.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/setTags"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+<style>
+	#popup-story_setTags div.content-bar p { font-size: 13px; text-align: left; }
+	#popup-story_setTags div.content-bar a			{ color: #E5721E }
+	#popup-story_setTags div.content-bar a:hover,
+	#popup-story_setTags div.content-bar a:focused,
+	#popup-story_setTags div.content-bar a:visited	{ color: #7C470C }
+</style>
+
+<br /><div>
+	<p>Add keywords that describe this diary.
+		Separate multiple keywords with commas.<br />
+	  <a href="/special/tag_tips" target="_blank">Tagging tips</a>
+	- <a href="/search?search_tags=1" target="_blank">Search For Tags</a>
+	- <a href="http://www.dkosopedia.com/wiki/Tag:Tagfinder" target="_blank">Browse For Tags</a>
+	</p>
+	
+	<div class="pageTip hasTooltip" style="margin-top:3px">?</div>
+	<div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+		<p><b>More Tagging tips:</b></p>
+		<p>A tag is a way to search for this diary. If someone is searching for "Barack Obama," is this a diary they'd be trying to find?</p>
+		<p>Use a person's full name, without any title. Senator Obama may become President Obama, and Michelle Obama might run for office.</p>
+		<p>If your diary covers an election or elected official, use election tags, which are generally the state abbreviation followed by the office. 
+		CA-01 is the first district House seat. CA-Sen covers both senate races. NY-GOV covers the New York governor's race.</p>
+		<p>Tags do not compound: that is, "education reform" is a completely different tag from "education". A tag like "reform" alone is probably not meaningful.</p>
+	</div>
+	
+	<!-- <h4 id="p_tagErrorMessage">You must enter at least one Tag for this Diary Entry:</h4> -->
+	
+	<p><input id="p_tagInput" type="text" name="tag_draft" value="" size="70" />
+		<!-- <input id="tagSubmit" type="submit" name="submit" value="Submit" /> -->
+	</p>
+
+	
+	
+	<p style="font-style:italic">Consider if one or more of these tags fits your diary: 
+	
+	<a href="#" onClick="addTagToField('Civil Rights');return false;">Civil Rights</a>, <a href="#" onClick="addTagToField('Community');return false;">Community</a>, <a href="#" onClick="addTagToField('Congress');return false;">Congress</a>, <a href="#" onClick="addTagToField('Culture');return false;">Culture</a>, <a href="#" onClick="addTagToField('Economy');return false;">Economy</a>, <a href="#" onClick="addTagToField('Education');return false;">Education</a>, <a href="#" onClick="addTagToField('Elections');return false;">Elections</a>, <a href="#" onClick="addTagToField('Energy');return false;">Energy</a>, <a href="#" onClick="addTagToField('Environment');return false;">Environment</a>, <a href="#" onClick="addTagToField('Health Care');return false;">Health Care</a>, <a href="#" onClick="addTagToField('International');return false;">International</a>, <a href="#" onClick="addTagToField('Labor');return false;">Labor</a>, <a href="#" onClick="addTagToField('Law');return false;">Law</a>, <a href="#" onClick="addTagToField('Media');return false;">Media</a>, <a href="#" onClick="addTagToField('Meta');return false;">Meta</a>, <a href="#" onClick="addTagToField('National Security');return false;">National Security</a>, <a href="#" onClick="addTagToField('Science');return false;">Science</a>, <a href="#" onClick="addTagToField('Transportation');return false;">Transportation</a>, or <a href="#" onClick="addTagToField('White House');return false;">White House</a>.
+	If your diary is specific to a state, consider adding the state 
+	(<a href="#" onClick="addTagToField('California');return false;">California</a>,
+	<a href="#" onClick="addTagToField('Texas');return false;">Texas</a>, etc).
+	Keep in mind, though, that there are many wonderful and important diaries
+	that don't fit in any of these tags. Don't worry if yours doesn't.
+	</p>
+
+
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_hotlist" title="Hotlist This Diary:">
+<div class="info-bar"  >You can add a private note to this diary when hotlisting it:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/hotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1196141" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unHotlist" title="Remove Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from your hotlist?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unHotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1196141" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_removeRating" title="Remove Recommendation">
+<div class="info-bar"  >Are you sure you want to remove your recommendation? You can only recommend a diary once, so you will not be able to re-recommend it afterwards.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/removeRating"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_rescue" title="Rescue this Diary:">
+<div class="info-bar"  >Rescue this diary, and add a note:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/rescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unRescue" title="UnRescue Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from Rescue?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unRescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_addBlogQueue" title="Republish this Diary:">
+<div class="info-bar"  >Choose where to republish this diary. The diary will be added to the queue for that group. Publish it from the queue to make it appear.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/addBlogQueue"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+
+	<p>You must be a member of a group to use this feature.</p>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_update" title="Update Diary">
+<div class="info-bar"  >Add a quick update to your diary without changing the diary itself:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/update"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+
+<textarea class="is-validated vtype-required vtype-text" name="appendtext"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_deleteHow" title="Delete Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/deleteHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+
+	<table style="margin:4px;">
+	  <tr>
+		<td colspan="2" style="border-bottom:1px solid #dddddd; padding-bottom:4px;">
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="unpublish" checked />
+				<label for="where_hide" style="display:inline;padding-left:8px">Unpublish Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed from the site and returned to your drafts for further editing.)
+			</span>
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="hide"  />
+				<label for="where_hide" style="display:inline;padding-left:8px">Delete Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed.)
+			</span>
+		</td>
+	
+	  </tr>
+	</table>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishHow" title="Choose how to publish this diary:">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/publishHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+<input name="user_id"  value="40885" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishChanges" title="Publish changes to this diary:">
+<div class="info-bar"  >Are you sure you want to save these changes to the published diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/edit"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+<input name="user_id"  value="40885" type="hidden" />
+<input name="use_draft" value=1" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_bumpHow" title="Update timestamp for this diary now?">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/bumpHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1196141" type="hidden" />
+<input name="user_id"  value="40885" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+
+
+
+<div style="width: 300px; margin: 0 auto; position: relative;">
+<!-- ca-pub-4201116381449156/DK_Story_BTF_300x250 -->
+<script type='text/javascript'>
+
+GA_googleFillSlot("300x250_DK4_Story");
+
+</script>
+</div>
+<div id='taboola-autosized-generated-2r' ></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'autosized-generated-2r', container:'taboola-autosized-generated-2r'});
+</script>
+
+
+
+	
+
+
+
+<div id="comment-prefs">
+      <div class="preferences-container">
+        <div class="preferences">
+	
+	<h4>Comment Preferences</h4>
+	<form id="cDForm" action="#" method="post">
+          <ul class="visibility">
+            <li><input type="radio" name="visibility" value="expand" id="comments-preferences-expand" checked="checked" /> <label for="comments-preferences-expand">expand</label></li>
+            <li><input type="radio" name="visibility" value="shrink" id="comments-preferences-shrink" /> <label for="comments-preferences-shrink">shrink</label></li>
+            <li><input type="radio" name="visibility" value="hide" id="comments-preferences-hide" /> <label for="comments-preferences-hide">hide</label></li>
+            <!-- <li class="remember"><input type="checkbox" name="visibility-remember" value="hide" id="comments-preferences-visibility-remember" /> <label for="comments-preferences-visibility-remember">Remember this selection</label></li> -->
+          </ul>
+          <!-- <ul>
+            <li><input type="radio" name="layout" value="indented" id="comments-preferences-indented" checked="checked" /> <label for="comments-preferences-indented">indented</label></li>
+            <li><input type="radio" name="layout" value="flat" id="comments-preferences-flat" /> <label for="comments-preferences-flat">flat</label></li>
+            <li class="remember"><input type="checkbox" name="layout-remember" value="hide" id="comments-preferences-layout-remember" /> <label for="comments-preferences-layout-remember">Remember this selection</label></li> 
+          </ul> -->
+	</form>
+	<form id="aRForm" action="#" method="post">
+              <ul class="visibility"><li>  <input type="checkbox" id="autoRefresh" name="autoRefresh" value=1  /> <label for="autoRefresh">Auto Refresh?</label>
+	</li></ul>
+        </form>
+        </div>
+      </div>
+
+</div>
+   <div id="comments">
+	<form id="rateAllForm" method="post" action="/" autocomplete="off">
+		<input id="story_id" value="1196141" type="hidden"/>
+		<input id="sid" value="2013/3/22/113651/305" type="hidden"/>
+		<input type="hidden" id="uid" value="-1"  /> 
+		<input type="hidden" id="uname" value="Anonymous Coward" />
+      
+
+    
+	<div class="cbar"><h4>
+      
+                  <span class="cct">62</span> <span class="comment-text"><a href="/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o#comments">comments</a></span>
+                 | <a class="plink" href="/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o?detail=hide">Permalink</a>
+    </h4></div>
+      
+    
+
+<ul class="cm i0">
+
+
+
+
+
+
+
+
+<li id="c1">
+  <div class="cx" id="cx49706123">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49706123#c1?mode=alone;showrate=1#c1">31+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:201634">foresterbob</a>, <a href="/user/uid:13682">eeff</a>, <a href="/user/uid:126742">Troubadour</a>, <a href="/user/uid:147330">WakeUpNeo</a>, <a href="/user/uid:16551">nightsweat</a>, <a href="/user/uid:39130">Major Kong</a>, <a href="/user/uid:76458">Unitary Moonbat</a>, <a href="/user/uid:507543">CwV</a>, <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:134317">statsone</a>, <a href="/user/uid:7655">Powered Grace</a>, <a href="/user/uid:235580">a2nite</a>, <a href="/user/uid:196660">political mutt</a>, <a href="/user/uid:164517">sunny skies</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:47283">ichibon</a>, <a href="/user/uid:163895">BenderRodriguez</a>, <a href="/user/uid:76686">middleagedhousewife</a>, <a href="/user/uid:644469">OldSoldier99</a>, <a href="/user/uid:70475">dougymi</a>, <a href="/user/uid:235212">Joieau</a>, <a href="/user/uid:199857">enhydra lutris</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:5137">glitterscale</a>, <a href="/user/uid:157265">Railfan</a>, <a href="/user/uid:63952">Jim R</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:95345">Mary Mike</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>, <a href="/user/uid:156548">Larsstephens</a>, <a href="/user/uid:140256">Neon Vincent</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>hear MacfFarlane is a big space exploration fan. For realz. I dunno if that's true but if it I want to talk to him, I can be reahced at Darksydotheomoon the domain of Alpha then Oscar then Lima as in Peru ... get it? Now here's a weird ass sci-fi movie ..<br />
+<iframe width="350" height="197" src="http://www.youtube.com/embed/vqIFFf8hxR0" frameborder="0" defang_allowfullscreen=""></iframe></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Follow me @<a href="http://twitter.com/SAndrewDKos">SAndrewDKos</a> & the <a href="http://freethoughtblogs.com/zingularity/">Zingularity</a>.
+</p>
+  <p class="cb">by <a href="/user/uid:40885">DarkSyde</a> on <a href="/comments/1196141/49706123#c1">Fri Mar 22, 2013 at 07:44:13 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49706123" class="cm i1">
+
+
+
+
+<li id="c6">
+  <div class="cx" id="cx49707626">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Weird but good</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707626#c6?mode=alone;showrate=1#c6">7+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:7655">Powered Grace</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I always liked Dark City.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+If the pilot's good, see, I mean if he's reeeally sharp, he can barrel that baby in so low... oh you oughta see it sometime. It's a sight. A big plane like a '52... varrrooom! Its jet exhaust... frying chickens in the barnyard!
+</p>
+  <p class="cb">by <a href="/user/uid:39130">Major Kong</a> on <a href="/comments/1196141/49707626#c6">Sat Mar 23, 2013 at 06:15:26 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c1">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707626" class="cm i1">
+
+
+
+
+<li id="c30">
+  <div class="cx" id="cx49708240">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Great movie</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708240#c30?mode=alone;showrate=1#c30">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:120151">here4tehbeer</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Get the director's cut dvd if you can.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"If you tell the truth, you'll eventually be found out." Mark Twain
+</p>
+  <p class="cb">by <a href="/user/uid:40554">Steven D</a> on <a href="/comments/1196141/49708240#c30">Sat Mar 23, 2013 at 07:57:41 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c6">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c35">
+  <div class="cx" id="cx49708632">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Opps</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708632#c35?mode=alone;showrate=1#c35">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:156548">Larsstephens</a>, <a href="/user/uid:15325">red moon dog</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>darksydothemoon at aohell ...</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Follow me @<a href="http://twitter.com/SAndrewDKos">SAndrewDKos</a> & the <a href="http://freethoughtblogs.com/zingularity/">Zingularity</a>.
+</p>
+  <p class="cb">by <a href="/user/uid:40885">DarkSyde</a> on <a href="/comments/1196141/49708632#c35">Sat Mar 23, 2013 at 08:52:03 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c1">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c41">
+  <div class="cx" id="cx49709281">
+   <h5> <a class="de">&nbsp;</a><span class="cu">That misogynist shit at the Oscars? No thanks. </span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49709281#c41?mode=alone;showrate=1#c41">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Thank God, the Bob Fosse Kid is here! - Colin Mochrie
+</p>
+  <p class="cb">by <a href="/user/uid:641235">gardnerhill</a> on <a href="/comments/1196141/49709281#c41">Sat Mar 23, 2013 at 10:24:50 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c1">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c2">
+  <div class="cx" id="cx49707591">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It's depressing to consider</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707591#c2?mode=alone;showrate=1#c2">12+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:7655">Powered Grace</a>, <a href="/user/uid:204003">freerad</a>, <a href="/user/uid:640509">Dr Arcadia</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:67671">cybersaur</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:5137">glitterscale</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>all the money, and natural resources, wasted by one group of humans wanting to kill another group. Or by one group of humans setting up elaborate defenses against enemies, real or imagined.</p>
+<p>Earth could be a really good place to live, if we put just a little effort into it.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:201634">foresterbob</a> on <a href="/comments/1196141/49707591#c2">Sat Mar 23, 2013 at 06:07:47 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c3">
+  <div class="cx" id="cx49707604">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The money spent on the Iraq War</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707604#c3?mode=alone;showrate=1#c3">18+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:7655">Powered Grace</a>, <a href="/user/uid:204003">freerad</a>, <a href="/user/uid:164517">sunny skies</a>, <a href="/user/uid:193189">Kobuk Sands</a>, <a href="/user/uid:640509">Dr Arcadia</a>, <a href="/user/uid:201634">foresterbob</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:7305">Pandora</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:55070">mojo workin</a>, <a href="/user/uid:5137">glitterscale</a>, <a href="/user/uid:157265">Railfan</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:641235">gardnerhill</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>could have had a thriving city on Mars, the timetable for renewable energy moved up decades, and America's infrastructure rebuilt into an awe-inspiring achievement that would have made the rest of the world gasp. &nbsp;I will never forgive the Iraq War. &nbsp;Never, ever. &nbsp;And not anyone who consented to it when they had the power to stand in the way.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49707604#c3">Sat Mar 23, 2013 at 06:09:55 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707604" class="cm i1">
+
+
+
+
+<li id="c22">
+  <div class="cx" id="cx49707857">
+   <h5> <a class="de">&nbsp;</a><span class="cu">George Bush Danced Like A Puppet For Bin Laden</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707857#c22?mode=alone;showrate=1#c22">7+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:126742">Troubadour</a>, <a href="/user/uid:170420">DrTerwilliker</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:5137">glitterscale</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><a href="http://independentreport.blogspot.com/2011/05/osama-bin-ladens-ultimate-goal-bankrupt.html">http://independentreport.blogspot.com/...</a></p>
+<blockquote>More than three years after the September 11, 2001 terrorist attacks on the US, Bin laden released a videotape in which he staked out his ultimate goal; to bankrupt America.
+<p>"We are continuing this policy in bleeding America to the point of bankruptcy, Allah willing. And nothing is too great for Allah," bin Laden said.</p>
+</blockquote>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+There’s always free cheddar in a mousetrap, baby
+</p>
+  <p class="cb">by <a href="/user/uid:76448">bernardpliers</a> on <a href="/comments/1196141/49707857#c22">Sat Mar 23, 2013 at 07:00:31 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c3">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707857" class="cm i1">
+
+
+
+
+<li id="c24">
+  <div class="cx" id="cx49707862">
+   <h5> <a class="de">&nbsp;</a><span class="cu">They were both mortal enemies of the United States</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707862#c24?mode=alone;showrate=1#c24">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:5137">glitterscale</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>and both achieved their respective objectives, playing off each other like Laurel and Hardy, the fucks.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49707862#c24">Sat Mar 23, 2013 at 07:02:16 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c22">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c45">
+  <div class="cx" id="cx49710520">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Bush's puppetmasters</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710520#c45?mode=alone;showrate=1#c45">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>made a huge amount of money off that war and the subsequent bankruptcy. Bin Laden and the neocons were enablers for each other.</p>
+<p>Of course, there is another word for that: a very old word. Treason. But none of the neocons will hang for their treason against the United States, because the "United States" is merely their con game at this point. And we are their marks.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49710520#c45">Sat Mar 23, 2013 at 01:37:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c22">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c27">
+  <div class="cx" id="cx49708026">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Theyd have found a diffenent rationale</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708026#c27?mode=alone;showrate=1#c27">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>for why its God's will that all our money has to be sucked up by the MIC, multi-nationals, and big banks. We'd still be screwed.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:170420">DrTerwilliker</a> on <a href="/comments/1196141/49708026#c27">Sat Mar 23, 2013 at 07:25:47 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c3">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708026" class="cm i1">
+
+
+
+
+<li id="c28">
+  <div class="cx" id="cx49708037">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I don't subscribe to fatalism.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708037#c28?mode=alone;showrate=1#c28">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:2139">raboof</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:134541">squarewheel</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Those treasonous pieces of subhuman shit exploited a terrorist attack and lied through their teeth to the American people to rationalize a war of aggression that would have gotten them hanged by the Nuremberg tribunals.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49708037#c28">Sat Mar 23, 2013 at 07:27:35 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c27">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708037" class="cm i1">
+
+
+
+
+<li id="c39">
+  <div class="cx" id="cx49709082">
+   <h5> <a class="de">&nbsp;</a><span class="cu">and the voter by-and-large, let them n/t</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49709082#c39?mode=alone;showrate=1#c39">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+big badda boom : GRB 090423
+</p>
+  <p class="cb">by <a href="/user/uid:134541">squarewheel</a> on <a href="/comments/1196141/49709082#c39">Sat Mar 23, 2013 at 10:01:56 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c28">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49709082" class="cm i1">
+
+
+
+
+<li id="c46">
+  <div class="cx" id="cx49710542">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Americans love to beat people up</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710542#c46?mode=alone;showrate=1#c46">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:76994">ebohlman</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Cf Michael Moore's analysis of the roots of American violence on Friday's Ed Show.</p>
+<p>The Cheney Administration knew exactly what it was doing. They knew the American psyche and they used it to fleece us of trillions of dollars.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49710542#c46">Sat Mar 23, 2013 at 01:41:54 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c39">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49710542" class="cm i1">
+
+
+
+
+<li id="c49">
+  <div class="cx" id="cx49711230">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Half the American people opposed the war.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49711230#c49?mode=alone;showrate=1#c49">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Don't turn the failure to stop what both the US and British governments had been planning for some time into some kind of anti-American blood libel.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49711230#c49">Sat Mar 23, 2013 at 03:50:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c46">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49711230" class="cm i1">
+
+
+
+
+<li id="c50">
+  <div class="cx" id="cx49711582">
+   <h5> <a class="de">&nbsp;</a><span class="cu">A few days before the invasion of Iraq</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49711582#c50?mode=alone;showrate=1#c50">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:134541">squarewheel</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><a href="http://en.wikipedia.org/wiki/American_popular_opinion_on_invasion_of_Iraq#March_2003">polls showed</a> 54% of Americans in favor of invasion.</p>
+<p>But I'm also talking about support for the invasion of Afghanistan, which as we now know was just a set-up for the invasion of Iraq. Popular support for that invasion was an <a href="http://www.time.com/time/nation/article/0,8599,179449,00.html">overwhelming 87%</a>.</p>
+<p>I remember, because I opposed both invasions. Let's not rewrite American history in order to, er... whitewash the majority of Americans who backed these acts of mindless US aggression.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49711582#c50">Sat Mar 23, 2013 at 04:43:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c49">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49711582" class="cm i1">
+
+
+
+
+<li id="c51">
+  <div class="cx" id="cx49712090">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Yes, let's not rewrite American history.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49712090#c51?mode=alone;showrate=1#c51">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>For starters, let's not cherry-pick a poll that showed a smidge over half agreed with it when it was a fait accompli as evidence that Americans are evil.</p>
+<p>Second, no, the "invasion" of Afghanistan - with the full support of the UN-recognized government, NATO, and with no objections by virtually any nation on Earth - was not part of the Iraq War plot, and was in fact something the Bush regime was forced to do (albeit halfheartedly) following 9/11 when they would much rather than have gone after Iraq. &nbsp;And unless you're making Truther insinuations, going into Afghanistan was self-defense.</p>
+<p>Don't slander Americans with bigoted history revisionism. &nbsp;</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49712090#c51">Sat Mar 23, 2013 at 05:56:41 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c50">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49712090" class="cm i1">
+
+
+
+
+<li id="c52">
+  <div class="cx" id="cx49712279">
+   <h5> <a class="de">&nbsp;</a><span class="cu">No need to depend on one poll </span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49712279#c52?mode=alone;showrate=1#c52">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>for evidence of American aggression and brutality when we have the whole of American history to demonstrate it.</p>
+<p>Michael Moore was dead on <a href="http://www.nbcnews.com/id/45755822/ns/msnbc-the_ed_show/vp/51297813#51297813">in his analysis on the Ed Show</a>.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49712279#c52">Sat Mar 23, 2013 at 06:22:46 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c51">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49712279" class="cm i1">
+
+
+
+
+<li id="c53">
+  <div class="cx" id="cx49712618">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Exactly what country's history are you using for</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49712618#c53?mode=alone;showrate=1#c53">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>comparison, by which to blood libel an entire nation as bloodthirsty savages?</p>
+<p>Michael Moore is an American too, and unlike you seems to interpret that as giving him certain responsibilities to make it a better place instead of just trying to make himself feel superior. &nbsp;The same goes for too many brilliant, noble American luminaries of human progress and equality in history than I could practically list. &nbsp;Furthermore, Daily Kos is an American website. &nbsp;The internet on which we're having this discussion is an American invention, brought into widespread use largely via American entrepreneurship. &nbsp;You're welcome to see your way out of them all if you're serious about rejecting this country. &nbsp;</p>
+<p>Frankly, democracy would still be a fringe element among world governments without this country's historical influence - certainly in Europe - and you don't get to say that the most potent geopolitical advocate of liberal humanism in the history of the world is its chief enemy simply because you can identify anecdotes where politics and values were at odds.</p>
+<p>What you're saying does not reflect the lessons of history, but seems just to be a lazy, slanderous broadside against hundreds of millions of people based on an ignorant, bigoted, and ideology-driven agenda with no sense of its own moral or philosophical foundations.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49712618#c53">Sat Mar 23, 2013 at 07:07:55 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c52">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49712618" class="cm i1">
+
+
+
+
+<li id="c54">
+  <div class="cx" id="cx49712837">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Actually, Moore's point was that white racism</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49712837#c54?mode=alone;showrate=1#c54">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>and white American genocide of native Americans created a culture in which whites are <em>afraid</em> of those they have oppressed, and cling to their guns and their violence out of their fear of retribution against them for their crimes.</p>
+<p>As for who <em>I</em> am -- I am a transgender woman who has barely survived the violence and bigotry I've received in this country. I have as much right to resent my oppression at the hands of heteronormative America as do other targets of American violence and oppression.</p>
+<p>America is not the most potent advocate of human rights on Earth -- that would be Europe, by far. America is far behind Europe on every parameter of human welfare and human rights.</p>
+<p>I think you must have swallowed the whole of Reagan Era propaganda somewhere back in your youth, if you think America is as you paint it.</p>
+<p>Also, the web is a <em>European</em> invention -- invented at CERN. For that matter, science was a <em>European</em> invention.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49712837#c54">Sat Mar 23, 2013 at 07:38:07 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c53">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49712837" class="cm i1">
+
+
+
+
+<li id="c55">
+  <div class="cx" id="cx49713092">
+   <h5> <a class="de">&nbsp;</a><span class="cu">How many other countries have you lived in?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713092#c55?mode=alone;showrate=1#c55">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>And what parts of this one are you referring to? &nbsp;Are you really going to denigrate the suffering of others in your circumstance in other countries?<br /></p>
+<blockquote>America is not the most potent advocate of human rights on Earth -- that would be Europe, by far. America is far behind Europe on every parameter of human welfare and human rights.</blockquote>
+I was speaking of the entire scope of history, as you had originally been - only now you change the subject to this very moment. &nbsp;Yes, at this instant, European <i>governments</i> have a better human rights record - or, at least, Western Europe and Scandinavia. &nbsp;And except for the whole thing about forcing vulnerable governments to adopt radical austerity programs. &nbsp;And the countries that still don't have jury trials, or presumption of innocence, and have official religions and/or monarchies funded with taxpayer money, stringent laws restricting speech about the government, etc. etc. &nbsp;There's also the minor fact that the only reason they don't have massive militaries is that they were under US protection for half a century, had completely destroyed themselves, and were rebuilt at US expense (<i>not</i> loans). &nbsp;Yeah, your characterization is a <i>tad</i> selective and amnesiac.<br />
+<blockquote>I think you must have swallowed the whole of Reagan Era propaganda somewhere back in your youth, if you think America is as you paint it.</blockquote>
+So you're not on the American-invented and American-commercialized internet, on an American liberal political website, freely expressing yourself because of the American Constitution, and using all that to take a giant shit on America and say what terrible, inhuman, brutal people we are?<br />
+<blockquote>Also, the web is a European invention -- invented at CERN.</blockquote>
+Yes, the World Wide Web is a European invention - and if it had stayed a European invention instead of being taken up by Silicon Valley, it would still be at CERN. &nbsp;Instead its inventors went to the US and worked with DARPA to build it into something more, and it was subsequently seeded by US startup businesses.<br />
+<blockquote>For that matter, science was a European invention.</blockquote>
+And by the 20th century, the form of that science was racial hierarchy, totalitarian economics, and the logistics of Total War. &nbsp;They've obviously learned from their mistakes, but the only reason they had a chance to is that one of their earlier inventions - the United States of America - rescued them from horrors this country has never even come close to committing, and have never gotten (or for that matter, needed) a similar level of assistance. &nbsp;
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49713092#c55">Sat Mar 23, 2013 at 08:25:24 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c54">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49713092" class="cm i1">
+
+
+
+
+<li id="c56">
+  <div class="cx" id="cx49713196">
+   <h5> <a class="de">&nbsp;</a><span class="cu">This is absurd </span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713196#c56?mode=alone;showrate=1#c56">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Nothing I said even remotely "denigrates the suffering" of transwomen in other countries.</p>
+<p>I am not a cheerleader for the US. It has a culture of violence and greed that goes far beyond anything in contemporary Europe or British Commonwealth countries, and Moore is right that this culture of violence is rooted in a brutal history of white Americans, a history of slavery and genocide. US violence hugely exceeds that in Europe or any of the Commonwealth countries -- just look at the statistics.</p>
+<p>As for the rest of the mindless jingoism you spout, it's not even worth responding to. Reagan is dead.</p>
+<p>You may have have infinite religious faith in the ability of "American technology" to bring about the Transhuman Era, or some such escapism from ecological limits -- but the fact is that American technology has proven to be the #1 threat to the survival of humanity. And again, its because of that same greed that lead white Americans to practice genocide and slavery. Humanity may very well die of American greed.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49713196#c56">Sat Mar 23, 2013 at 08:51:55 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c55">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c57">
+  <div class="cx" id="cx49713488">
+   <h5> <a class="de">&nbsp;</a><span class="cu">You didn't answer my question.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713488#c57?mode=alone;showrate=1#c57">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>If you're going to use your experiences as a basis to attack the entire United States, you need to be able to argue convincingly that (a)you've experienced a broad of this country, and (b)other countries would have treated you better. &nbsp;You haven't tried to do that.<br /></p>
+<blockquote>I am not a cheerleader for the US.</blockquote>
+Nor a convincing critic. &nbsp;It's a little too obvious that nothing any American could say or do would alter your opinion of this country. &nbsp;I don't like it when people treat me personally like that, and I'm no less disgusted by it applied to 5% of the entire human species.<br />
+<blockquote>It has a culture of violence and greed that goes far beyond anything in contemporary Europe or British Commonwealth countries, and Moore is right that this culture of violence is rooted in a brutal history of white Americans, a history of slavery and genocide. US violence hugely exceeds that in Europe or any of the Commonwealth countries -- just look at the statistics.</blockquote>
+It does have a culture of violence and greed. &nbsp;It also has a culture of compassion, innovation, and idealism, because the American people run the moral and intellectual gamut - but you don't seem especially interested in any aspect of our culture that doesn't confirm your attitude. &nbsp;And that, in itself, is about the only convincing part of your argument - the fact that your own attitude exemplifies the ugliness you're criticizing.
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49713488#c57">Sat Mar 23, 2013 at 09:50:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c56">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c59">
+  <div class="cx" id="cx49713574">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Are you the epistemology policeman?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713574#c59?mode=alone;showrate=1#c59">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Your first sentence is ridiculous. I do not need to prove anything of the sort.</p>
+<p>But I will humor your madness, because it is quite easy to give a personal example: in Britain I would have had the NHS and the costs of transitioning would not have bankrupted me and put me on the street. And Britain has long been less homophobic than the US.</p>
+<p>And your imperial edict that I "am not a convincing critic" sounds like the usual marginalizing bigotry to me. Who appointed you Keeper of the Flame of Criticism? You don't even have a radio talk show.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49713574#c59">Sat Mar 23, 2013 at 10:04:12 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c57">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c61">
+  <div class="cx" id="cx49713760">
+   <h5> <a class="de">&nbsp;</a><span class="cu">"I do not need to prove anything of the sort."</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713760#c61?mode=alone;showrate=1#c61">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>That's right, you certainly don't. &nbsp;I said "need" under the assumption that you were trying to be persuasive, and not just saying things to make yourself feel better.<br /></p>
+<blockquote>in Britain I would have had the NHS and the costs of transitioning would not have bankrupted me and put me on the street. And Britain has long been less homophobic than the US.</blockquote>
+Fair enough, at least about the second part - Britain's greater cultural openness in this respect. &nbsp;The first part is a bit sideways, since the problem is that we don't have a public health system, not that what we do have discriminates against you. &nbsp;So, you've convincingly shown that there is one other country on Earth where you would probably have experienced fewer problems. &nbsp;Care to try for two?<br />
+<blockquote>And your imperial edict that I "am not a convincing critic" sounds like the usual marginalizing bigotry to me. Who appointed you Keeper of the Flame of Criticism? You don't even have a radio talk show.</blockquote>
+Now you're just being silly. &nbsp;There is no logical plane on which the phrase "unconvincing critic" and "imperial edict" occupy the same universe, let alone calling that "bigotry." &nbsp;But I can't say I'm surprised to see what had begun as a careless, bigoted put-down of an entire nation degenerate into flailing and paranoia when challenged. &nbsp;All I'm asking is that you put up some kind of effort to not scapegoat an entire nation for your negative experiences in life.
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49713760#c61">Sat Mar 23, 2013 at 10:44:24 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c59">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c62">
+  <div class="cx" id="cx49713807">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Better</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713807#c62?mode=alone;showrate=1#c62">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>But you still didn't personalize the "persuasiveness" to yourself. By implication, you speak as if you can decide what is persuasive to all readers, not merely to yourself. That is the sort of tactic feminists call "mansplaining". Tacitly, it is still a claim to the privilege of policing the boundaries of discourse. A claim which I, of course, do not concede to you.</p>
+<p>I don't have to rely exclusively on personal experiences to support the fact that American history is one of racism and genocide, and that history doesn't depend on my personal experiences. The history is there and well documented. Even if the US had been a heaven for transsexuals rather than the hell it has been, it would still be guilty of slavery and genocide. My personal experiences merely enable me to call out bullies and bigots when they attempt to marginalize and silence me for speaking the truth about this culture.</p>
+<p>The Cheney Administration used the American bully culture against the American people to fleece them of trillions of dollars. It's a kind of national karma.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49713807#c62">Sat Mar 23, 2013 at 11:00:46 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c61">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c58">
+  <div class="cx" id="cx49713550">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Should read: "...broad swath of this country..."</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713550#c58?mode=alone;showrate=1#c58">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49713550#c58">Sat Mar 23, 2013 at 10:01:33 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c56">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c60">
+  <div class="cx" id="cx49713601">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The transsexual menace</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49713601#c60?mode=alone;showrate=1#c60">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>is international, not merely national. And we keep in touch: plotting ceaselessly to recruit your children.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49713601#c60">Sat Mar 23, 2013 at 10:10:20 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c58">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c48">
+  <div class="cx" id="cx49710706">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Bush was still unelected in 2003</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710706#c48?mode=alone;showrate=1#c48">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>regardless of one's opinion of 2004.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I demand that you prove you're alive.
+</p>
+  <p class="cb">by <a href="/user/uid:126742">Troubadour</a> on <a href="/comments/1196141/49710706#c48">Sat Mar 23, 2013 at 02:15:28 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c39">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c47">
+  <div class="cx" id="cx49710582">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Six trillion dollars</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710582#c47?mode=alone;showrate=1#c47">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>would buy quite a lot of infrastructure, both on the Earth and off it. But the problem is that the money wouldn't have gone into the "right" pockets, which are the pockets of those who are ultra-rich because of the way things are right now.</p>
+<p>And unless we can find a way to free ourselves of the Owners of their Status Quo, we aren't going anywhere -- except down a climate hole caused by the technology that enriches these people.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49710582#c47">Sat Mar 23, 2013 at 01:51:15 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c3">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c4">
+  <div class="cx" id="cx49707613">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Whoa.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707613#c4?mode=alone;showrate=1#c4">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Don't be defeatist, dear. It's very middle class." - Violet Crawley
+</p>
+  <p class="cb">by <a href="/user/uid:16551">nightsweat</a> on <a href="/comments/1196141/49707613#c4">Sat Mar 23, 2013 at 06:12:07 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c5">
+  <div class="cx" id="cx49707617">
+   <h5> <a class="de">&nbsp;</a><span class="cu">comparison</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707617#c5?mode=alone;showrate=1#c5">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:196660">political mutt</a>, <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<blockquote>We may now have a complete neander genome sequenced and ready for comparison, base pair by base pair, to anatomically modern humans.</blockquote>
+Maybe they should compare the genome sequences of conservatives and liberals. &nbsp;There might be an empathy gene--or a bigot gene--or fact over fiction gene.<br />
+There was a time I went clean for Gene--anyone here remember those days?
+
+  </div>
+  <div class="cf">
+  <p class="sig">Apres Bush, le deluge.</p>
+  <p class="cb">by <a href="/user/uid:7866">melvynny</a> on <a href="/comments/1196141/49707617#c5">Sat Mar 23, 2013 at 06:13:04 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707617" class="cm i1">
+
+
+
+
+<li id="c7">
+  <div class="cx" id="cx49707628">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I've wondered the same, given statistics</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707628#c7?mode=alone;showrate=1#c7">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:196660">political mutt</a>, <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:67671">cybersaur</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>It's curious how often about 25% of the population turn out to have fundamentalist (or at least bizarre hero-worshipping) tendencies.</p>
+<p>It's almost as if there is a recessive gene for it.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:22119">JMcDonald</a> on <a href="/comments/1196141/49707628#c7">Sat Mar 23, 2013 at 06:16:04 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c10">
+  <div class="cx" id="cx49707673">
+   <h5> <a class="de">&nbsp;</a><span class="cu">They've made some comparisons already</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707673#c10?mode=alone;showrate=1#c10">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Apparently there's a gene for openness to new and different things that correlates with being on the liberal side of the political spectrum.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+that art thou
+</p>
+  <p class="cb">by <a href="/user/uid:196660">political mutt</a> on <a href="/comments/1196141/49707673#c10">Sat Mar 23, 2013 at 06:27:15 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c8">
+  <div class="cx" id="cx49707636">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Well, maybe Krugman's joke was actually right.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707636#c8?mode=alone;showrate=1#c8">10+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:196660">political mutt</a>, <a href="/user/uid:201634">foresterbob</a>, <a href="/user/uid:47283">ichibon</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:67671">cybersaur</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:63952">Jim R</a>, <a href="/user/uid:194338">thomask</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>He said we need to rally behind a defense against space aliens because that would pull us all together and make us wise up as to where we put our resources.<br />
+So maybe not space aliens, but space rocks.<br />
+Humans can be beastly to each other. We have centuries of history of slaughter after slaughter, senseless crap like slightly different interpretations of the same book can cause people to form teams and kill each other for decades.<br />
+But when we are threatened from outside our cave, we all suddenly pull together in mutual defense.<br />
+An outside threat, like a planet-busting asteroid might be just the thing to push aside the petty bullsh!t we fight over and get us all on the same page.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+If I ran this circus, things would be DIFFERENT!
+</p>
+  <p class="cb">by <a href="/user/uid:507543">CwV</a> on <a href="/comments/1196141/49707636#c8">Sat Mar 23, 2013 at 06:18:11 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707636" class="cm i1">
+
+
+
+
+<li id="c11">
+  <div class="cx" id="cx49707679">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I remember a cheesy 1970s movie</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707679#c11?mode=alone;showrate=1#c11">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:507543">CwV</a>, <a href="/user/uid:65471">kovie</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:70475">dougymi</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:156548">Larsstephens</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>called "Meteor" where the US and Soviets had to work together to stop the titular earth-destroying space rock.</p>
+<p>It features Sean Connery and Henry Fonda at low points in their careers.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+If the pilot's good, see, I mean if he's reeeally sharp, he can barrel that baby in so low... oh you oughta see it sometime. It's a sight. A big plane like a '52... varrrooom! Its jet exhaust... frying chickens in the barnyard!
+</p>
+  <p class="cb">by <a href="/user/uid:39130">Major Kong</a> on <a href="/comments/1196141/49707679#c11">Sat Mar 23, 2013 at 06:28:30 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c8">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707679" class="cm i1">
+
+
+
+
+<li id="c17">
+  <div class="cx" id="cx49707776">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Was Sofia Loren or Ann Margaret in it?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707776#c17?mode=alone;showrate=1#c17">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:70475">dougymi</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I picture one of those silly movies of a thousand stars posters, with all these mostly has-been stars in little boxes at the bottom, some in very brief cameos, produced by Menahem Golan or Dino Di Laurentis.</p>
+<p>Ernest Borgnine AND Lee Marvin? I'm in cliche movie heaven!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Liberty without virtue would be no blessing to us" - Benjamin Rush, 1777
+</p>
+  <p class="cb">by <a href="/user/uid:65471">kovie</a> on <a href="/comments/1196141/49707776#c17">Sat Mar 23, 2013 at 06:46:46 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c11">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707776" class="cm i1">
+
+
+
+
+<li id="c18">
+  <div class="cx" id="cx49707794">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Natalie Wood (I looked it up)</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707794#c18?mode=alone;showrate=1#c18">5+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:65471">kovie</a>, <a href="/user/uid:52536">Clem Yeobright</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:70475">dougymi</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>It also had Brian Keith and Karl Malden. Pretty good cast actually.</p>
+<p>Kind of half sci-fi film half 1970's disaster film.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+If the pilot's good, see, I mean if he's reeeally sharp, he can barrel that baby in so low... oh you oughta see it sometime. It's a sight. A big plane like a '52... varrrooom! Its jet exhaust... frying chickens in the barnyard!
+</p>
+  <p class="cb">by <a href="/user/uid:39130">Major Kong</a> on <a href="/comments/1196141/49707794#c18">Sat Mar 23, 2013 at 06:50:03 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707794" class="cm i1">
+
+
+
+
+<li id="c21">
+  <div class="cx" id="cx49707845">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Others who often appeared in such movies</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707845#c21?mode=alone;showrate=1#c21">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Roddy McDowell<br />
+Ursula Andress<br />
+Leslie Nielson<br />
+Clint Eastwood (go figure)<br />
+Robert Culp<br />
+Robert Wagner<br />
+George Peppard<br />
+James Coburn<br />
+Shelly Winters<br />
+Shirley Jones<br />
+Steve McQueen</p>
+<p>I'm guessing that they tried to capitalize on the success of The Great Escape, and added women to appeal to a broader audience (no pun intended).</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Liberty without virtue would be no blessing to us" - Benjamin Rush, 1777
+</p>
+  <p class="cb">by <a href="/user/uid:65471">kovie</a> on <a href="/comments/1196141/49707845#c21">Sat Mar 23, 2013 at 06:58:28 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c18">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c31">
+  <div class="cx" id="cx49708253">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I saw that as a kid at a drive-in</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708253#c31?mode=alone;showrate=1#c31">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>good times, good times</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"If you tell the truth, you'll eventually be found out." Mark Twain
+</p>
+  <p class="cb">by <a href="/user/uid:40554">Steven D</a> on <a href="/comments/1196141/49708253#c31">Sat Mar 23, 2013 at 07:59:50 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c11">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c9">
+  <div class="cx" id="cx49707669">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Thanks DarkSyde </span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707669#c9?mode=alone;showrate=1#c9">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:329475">Aunt Pat</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:235580">a2nite</a> on <a href="/comments/1196141/49707669#c9">Sat Mar 23, 2013 at 06:26:16 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c12">
+  <div class="cx" id="cx49707681">
+   <h5> <a class="de">&nbsp;</a><span class="cu">So proud of my former teammate Ed</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707681#c12?mode=alone;showrate=1#c12">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:201634">foresterbob</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>who is going to save the planet while I am off in the sticks mucking around training dogs....</p>
+<p>Thanks for posting this!<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+that art thou
+</p>
+  <p class="cb">by <a href="/user/uid:196660">political mutt</a> on <a href="/comments/1196141/49707681#c12">Sat Mar 23, 2013 at 06:29:38 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c13">
+  <div class="cx" id="cx49707692">
+   <h5> <a class="de">&nbsp;</a><span class="cu">B612?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707692#c13?mode=alone;showrate=1#c13">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:163895">BenderRodriguez</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>watch out for the baobab trees. &nbsp;They'll tear the place to shreds.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"We’re not going to give up on destroying the health care system for the American people." - Rep. Paul Ryan
+</p>
+  <p class="cb">by <a href="/user/uid:9191">Khun David</a> on <a href="/comments/1196141/49707692#c13">Sat Mar 23, 2013 at 06:32:43 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707692" class="cm i1">
+
+
+
+
+<li id="c16">
+  <div class="cx" id="cx49707758">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I know it's a beloved classic.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707758#c16?mode=alone;showrate=1#c16">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:47283">ichibon</a>, <a href="/user/uid:9191">Khun David</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I read it in English.</p>
+<p>I read it in French in high school.</p>
+<p>I just don't like "The Little Prince."</p>
+<p>I have an uncle who adores the book. I bought him a lovely copy when he retired a few years ago.</p>
+<p>Perhaps it's time I read it again and give it another chance. After all, I was a teenager when I read it the first time, and I'm a little (okay, decades) older now.</p>
+<p>Wiser? Maybe. Older? Definitely.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+How about I believe in the unlucky ones?
+</p>
+  <p class="cb">by <a href="/user/uid:163895">BenderRodriguez</a> on <a href="/comments/1196141/49707758#c16">Sat Mar 23, 2013 at 06:44:27 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c13">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707758" class="cm i1">
+
+
+
+
+<li id="c23">
+  <div class="cx" id="cx49707861">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I've spent considerable</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707861#c23?mode=alone;showrate=1#c23">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:163895">BenderRodriguez</a>, <a href="/user/uid:9191">Khun David</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>time in South Korea in past years, and found it interesting how loved this story is there, even among the Nuns of the temple I spent most of my time at. &nbsp;</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Severely Socialist
+</p>
+  <p class="cb">by <a href="/user/uid:47283">ichibon</a> on <a href="/comments/1196141/49707861#c23">Sat Mar 23, 2013 at 07:01:56 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c16">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c14">
+  <div class="cx" id="cx49707731">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Correction.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707731#c14?mode=alone;showrate=1#c14">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:201634">foresterbob</a>, <a href="/user/uid:47283">ichibon</a>, <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>You said the universe is 13.7 billion years old.</p>
+<p>I believe you meant to say it's 6,000 years old.</p>
+<p>No need to thank me!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+How about I believe in the unlucky ones?
+</p>
+  <p class="cb">by <a href="/user/uid:163895">BenderRodriguez</a> on <a href="/comments/1196141/49707731#c14">Sat Mar 23, 2013 at 06:38:53 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707731" class="cm i1">
+
+
+
+
+<li id="c33">
+  <div class="cx" id="cx49708413">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Maybe it's 13.7 thousand years old? Just sayin'!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708413#c33?mode=alone;showrate=1#c33">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:163895">BenderRodriguez</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Those pesky decimal points are <em>always</em> causin' trouble.</p>
+<p>And after that last Biblical translation, well..........</p>
+<p>It could happen. &nbsp;The cat told me so.</p>
+<p><strong>:-D</strong></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+We cannot call ourselves a civilised society if we refuse to protect the weakest among us.
+</p>
+  <p class="cb">by <a href="/user/uid:570284">The Marti</a> on <a href="/comments/1196141/49708413#c33">Sat Mar 23, 2013 at 08:20:40 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c14">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c15">
+  <div class="cx" id="cx49707756">
+   <h5> <a class="de">&nbsp;</a><span class="cu">A trillion?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707756#c15?mode=alone;showrate=1#c15">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Try <a href="http://en.wikipedia.org/wiki/The_Three_Trillion_Dollar_War">three</a> (now upped to four, apparently).</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Liberty without virtue would be no blessing to us" - Benjamin Rush, 1777
+</p>
+  <p class="cb">by <a href="/user/uid:65471">kovie</a> on <a href="/comments/1196141/49707756#c15">Sat Mar 23, 2013 at 06:43:51 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c19">
+  <div class="cx" id="cx49707820">
+   <h5> <a class="de">&nbsp;</a><span class="cu">No kudos for 9-year-old Daisy Morris?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707820#c19?mode=alone;showrate=1#c19">10+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:47283">ichibon</a>, <a href="/user/uid:109024">jwinIL14</a>, <a href="/user/uid:70475">dougymi</a>, <a href="/user/uid:9191">Khun David</a>, <a href="/user/uid:39130">Major Kong</a>, <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:40885">DarkSyde</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Of course, she's aged a lot since discovering a new dinosaur species <b>at age 5</b>: <a href="http://www.dailymail.co.uk/sciencetech/article-2296244/Vectidraco-Daisymorrisae-Daisy-discovers-dinosaur-scientists-her.html">Vertidraco Daisymorrisae</a>, but these things always lag a bit, don't they?</p>
+<p>To be fully accurate, she did not just discover a new species, she discovered a new <b>genus</b>!</p>
+<p>Question: What do you do with the rest of your life when you start like this?</p>
+<p>Way to go, Daisy!<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Too late for the simple life, too early for android love slaves - Savio
+</p>
+  <p class="cb">by <a href="/user/uid:52536">Clem Yeobright</a> on <a href="/comments/1196141/49707820#c19">Sat Mar 23, 2013 at 06:54:32 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49707820" class="cm i1">
+
+
+
+
+<li id="c29">
+  <div class="cx" id="cx49708200">
+   <h5> <a class="de">&nbsp;</a><span class="cu">That's pretty amazing</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708200#c29?mode=alone;showrate=1#c29">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:52536">Clem Yeobright</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>At age 5 I think I was still flinging mud at the wall to see if it would stick (it does).</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+If the pilot's good, see, I mean if he's reeeally sharp, he can barrel that baby in so low... oh you oughta see it sometime. It's a sight. A big plane like a '52... varrrooom! Its jet exhaust... frying chickens in the barnyard!
+</p>
+  <p class="cb">by <a href="/user/uid:39130">Major Kong</a> on <a href="/comments/1196141/49708200#c29">Sat Mar 23, 2013 at 07:52:49 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c19">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708200" class="cm i1">
+
+
+
+
+<li id="c34">
+  <div class="cx" id="cx49708435">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It does, indeed, but it must have the correct</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708435#c34?mode=alone;showrate=1#c34">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:52536">Clem Yeobright</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>water to dirt ratio.</p>
+<p>I cannot <em>tell</em> you how many hours I spent getting that proportion just right. &nbsp;It's an art, I tells ya!</p>
+<p>And I was a heckuva lot older than Daisy when I was experitmentin' with the mud!</p>
+<p>wtg, Daisy!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+We cannot call ourselves a civilised society if we refuse to protect the weakest among us.
+</p>
+  <p class="cb">by <a href="/user/uid:570284">The Marti</a> on <a href="/comments/1196141/49708435#c34">Sat Mar 23, 2013 at 08:23:21 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c29">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c37">
+  <div class="cx" id="cx49708714">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708714#c37?mode=alone;showrate=1#c37">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:52536">Clem Yeobright</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>was unaware of Daisy and pressed for time, my apologies.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Follow me @<a href="http://twitter.com/SAndrewDKos">SAndrewDKos</a> & the <a href="http://freethoughtblogs.com/zingularity/">Zingularity</a>.
+</p>
+  <p class="cb">by <a href="/user/uid:40885">DarkSyde</a> on <a href="/comments/1196141/49708714#c37">Sat Mar 23, 2013 at 09:08:00 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c19">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708714" class="cm i1">
+
+
+
+
+<li id="c38">
+  <div class="cx" id="cx49708844">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I wasn't criticizing!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708844#c38?mode=alone;showrate=1#c38">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Holy cow, the things you do for us, the things you do for ME ... I just thought it was a neat story - like your other ones.</p>
+<p>Thanks for all you do.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Too late for the simple life, too early for android love slaves - Savio
+</p>
+  <p class="cb">by <a href="/user/uid:52536">Clem Yeobright</a> on <a href="/comments/1196141/49708844#c38">Sat Mar 23, 2013 at 09:28:30 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c37">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c20">
+  <div class="cx" id="cx49707823">
+   <h5> <a class="de">&nbsp;</a><span class="cu">If only our Congress took the red pill more often.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707823#c20?mode=alone;showrate=1#c20">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Father Time remains undefeated.
+</p>
+  <p class="cb">by <a href="/user/uid:109024">jwinIL14</a> on <a href="/comments/1196141/49707823#c20">Sat Mar 23, 2013 at 06:55:06 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c25">
+  <div class="cx" id="cx49707894">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I imagine the rest of the conversation went like </span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49707894#c25?mode=alone;showrate=1#c25">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:40554">Steven D</a>, <a href="/user/uid:72191">Hobbitfoot</a>, <a href="/user/uid:570284">The Marti</a>, <a href="/user/uid:209053">Anthony Page aka SecondComing</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>"Assuming that we found one before you got your satellite up ... what would an asteroid that is a kilometer in diameter, what would it do if it hit the Earth?" asked subcommittee chair Bill Nelson (D-Fla.) ....</p>
+<p>&nbsp;"That is likely to end human civilization," Lu responded.</p>
+<p>"HUMAN civilization?" interjected Ted Cruz? &nbsp;"Well, then we've got nothing to worry about."</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Once in a while you get shown the light, in the strangest of places if you look at it right.
+</p>
+  <p class="cb">by <a href="/user/uid:69806">darthstar</a> on <a href="/comments/1196141/49707894#c25">Sat Mar 23, 2013 at 07:06:16 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c26">
+  <div class="cx" id="cx49708016">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Neanderthal genome WONT tell us why theyre gone</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708016#c26?mode=alone;showrate=1#c26">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:40885">DarkSyde</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>or why their minds seem to have worked on a much less abstract level than ours do.<br />
+Thats just heavy breathing hype on the part of science 'journalists'. I cant believe MAX PLANCK INST would say such a thing.<br />
+We already know they DIDNT just merge with us, which a DNA comparison would be able to show.<br />
+"Mingling' was a very rare event, tho it seems to have happened.<br />
+Still a milestone achievement on more than one level.<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:170420">DrTerwilliker</a> on <a href="/comments/1196141/49708016#c26">Sat Mar 23, 2013 at 07:23:48 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708016" class="cm i1">
+
+
+
+
+<li id="c36">
+  <div class="cx" id="cx49708704">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708704#c36?mode=alone;showrate=1#c36">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>don't thionk we can say they didn't merge with us, in the sense that we can't say that not one single interbreeding incident occured where a descendant of that union contributed to the gene pool of extant humans in some way. It's certainly possible but it's hard to demo a negative like that. For example using the same criteria we might find a population of ancient Egyptions and be able to say they didn't merge with us, even though they definitely were part of the whole colorfull modern bloodline.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Follow me @<a href="http://twitter.com/SAndrewDKos">SAndrewDKos</a> & the <a href="http://freethoughtblogs.com/zingularity/">Zingularity</a>.
+</p>
+  <p class="cb">by <a href="/user/uid:40885">DarkSyde</a> on <a href="/comments/1196141/49708704#c36">Sat Mar 23, 2013 at 09:05:46 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c26">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49708704" class="cm i1">
+
+
+
+
+<li id="c40">
+  <div class="cx" id="cx49709095">
+   <h5> <a class="de">&nbsp;</a><span class="cu">What I meant was</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49709095#c40?mode=alone;showrate=1#c40">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>they didnt disappear because the 2 species blended together.<br />
+Tiny amounts of presumptive Neanderthal DNA in modern Europeans indicates, according to some, cross breeding occurred at least once that didn't result in sterile offspring.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:170420">DrTerwilliker</a> on <a href="/comments/1196141/49709095#c40">Sat Mar 23, 2013 at 10:03:30 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c36">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c32">
+  <div class="cx" id="cx49708323">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The Homo Sapien Genome & Neander Genome Would Be</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49708323#c32?mode=alone;showrate=1#c32">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>an interesting comparison, seeing as how only about 2% of the human genome is "human."</p>
+<p>Our genome is <a href="http://blogdredd.blogspot.com/2012/04/one-mans-junk-gene-is-another-mans.html">98% microbial</a>.</p>
+<p>What would be interesting would be to see how the microbial symbiont match up has or has not changed.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:202204">The Dredd</a> on <a href="/comments/1196141/49708323#c32">Sat Mar 23, 2013 at 08:09:20 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c42">
+  <div class="cx" id="cx49709400">
+   <h5> <a class="de">&nbsp;</a><span class="cu">B612 Donation</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49709400#c42?mode=alone;showrate=1#c42">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>After the Russian meteor, I donated a bunch of money to the b612 organization because they looked like they were doing an efficient job of trying to save Earth from NEOs. &nbsp;Not much bureaucracy, just activity and science. &nbsp;Glad they got some attention for their hard work. &nbsp;</p>
+<p>Sometimes it really bothers me the type of dumb questions asked at these hearings. &nbsp;We are supposed to be GLAD about that some of these folks are "in charge"?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:535735">portlandval</a> on <a href="/comments/1196141/49709400#c42">Sat Mar 23, 2013 at 10:39:56 AM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k49709400" class="cm i1">
+
+
+
+
+<li id="c44">
+  <div class="cx" id="cx49710508">
+   <h5> <a class="de">&nbsp;</a><span class="cu">There</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710508#c44?mode=alone;showrate=1#c44">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>were some funny and entertaining moments. Like when one politicians was pressing a general for why our early detection system didn't pick up the Russian metor, and he was trying to be gracious and stay out of classified material and still hint that our system looks down at the earth for rocket plumes leaving the surface, especially in certain regions of the earth, not up and out into every direction in space for freezing cold rocks and ice cubes humming along in a vacuum.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Follow me @<a href="http://twitter.com/SAndrewDKos">SAndrewDKos</a> & the <a href="http://freethoughtblogs.com/zingularity/">Zingularity</a>.
+</p>
+  <p class="cb">by <a href="/user/uid:40885">DarkSyde</a> on <a href="/comments/1196141/49710508#c44">Sat Mar 23, 2013 at 01:36:40 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c42">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c43">
+  <div class="cx" id="cx49710492">
+   <h5> <a class="de">&nbsp;</a><span class="cu">That's just great...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1196141/49710492#c43?mode=alone;showrate=1#c43">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>but what's the point of protecting ourselves against NEOs if we won't protect ourselves against climate change?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:316255">atana</a> on <a href="/comments/1196141/49710492#c43">Sat Mar 23, 2013 at 01:33:55 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+
+<li id="eP">    
+<div class="cx" style="display:none;">
+	<h5><a class="de">&nbsp;</a><span class="cu" id="previewSubject">&nbsp;</span> <span class="crd ntb">(<a href="#">0 / 0</a>)</span></h5>
+	<div class="ct" id="previewComment"></div>
+	<div class="cf"><p class="sig"></p>
+		<p class="cb">by <a href="#" id="previewName">you</a> on <a href="#" id="previewDate">soon</a></p>
+		<div id="previewConfirm"><h5>If this is OK, click Post: &nbsp;
+			<input id="ePostButton" type="submit" value="Post" accesskey="s" tabindex="7" title="Post your comment. Comments cannot be edited or deleted after posting." /></h5>
+			<p>Or you may make changes below and Preview again, or Cancel this comment.</p>
+		</div>
+	</div>
+</div>
+</li>
+</ul>
+<div id="e" style="display:none;">
+	<fieldset id="eFieldset"><legend>Post Comment</legend>
+		<h4 id="eErrorMessage">You must enter a subject for your comment.</h4>
+		<dl><dt><label for="eSubject" accesskey="j">Subject:</label></dt>
+		<dd><input id="eSubject" tabindex="1" type="text" size="50" value="" maxlength="50" /></dd>
+		<dt><label for="eComment" accesskey="o">Comment:</label></dt>
+		<dd><textarea id="eComment" tabindex="2" cols="50" rows="20"></textarea></dd></dl>
+		<dl id="eLink"><dt><label for="eLinkUrl" accesskey="u">URL:</label></dt>
+		<dd><textarea id="eLinkUrl" cols="50" rows="1" tabindex="13" title="Paste or enter a URL you wish to link to, e.g. http://www.dailykos.com/">http://</textarea></dd>
+		<dt><label for="eLinkLabel" accesskey="a">Label:</label></dt>
+		<dd><input id="eLinkLabel" size="36" maxlength="256" tabindex="14" title="(optional) Paste or enter a label for this link, e.g. Outrageous article!" /> <input id="eLinkImage" type="checkbox" tabindex="15" title="Adds this link as an image when checked" /><label for="eLinkImage">Image</label> <input id="eAddLink" type="submit" value="Add" tabindex="16" title="Adds the link you have entered to the comment" /></dd></dl>
+		<div id="eHelp"></div>
+		<div id="eButtons" class="button-row"><input id="eBold" type="button" value="Bold" accesskey="b" tabindex="9" title="Text between &lt;strong&gt; and &lt;/strong&gt; will look bold" />
+			<input id="eItalic" type="button" value="Italic" accesskey="i" tabindex="10" title="Text between &lt;em&gt; and &lt;/em&gt; will look italic" /> <input id="eBlockquote" type="button" value="Blockquote" accesskey="q" tabindex="11" title="Select text anywhere on this page, click this button, and it will be quoted in a gray box" /> <input id="eLinkButton" type="button" value="Link" accesskey="l" tabindex="12" title="Helps you link to another web page or an image" /> <input id="eHelpButton" type="button" value="Help" accesskey="h" tabindex="17" title="Click here for help posting and formatting comments" /> &nbsp;
+			<input id="ePButton" type="submit" value="Preview" tabindex="6" accesskey="p" title="View a Preview of your comment, which you can then Post" /> <input id="eCancelButton" type="reset" value="Cancel" accesskey="c" tabindex="8" title="Abandons this comment entry" />
+		</div>
+	</fieldset>
+</div>
+</div> 
+</form>
+<div id="dbox"><p id="dbox_msg"></p><a id="dbox_close" href="#">Close</a></div>
+
+
+
+
+	
+	<div class="cbar"><h4>
+	
+	   <a class="plink" href="/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o?detail=hide">Permalink</a>
+	</h4>
+	</div>
+
+
+</div>	
+
+
+
+<div id="recommenders" class="hide">
+
+
+<a href="/user/5137">glitterscale</a>, <a href="/user/7655">Powered Grace</a>, <a href="/user/13682">eeff</a>, <a href="/user/19580">88kathy</a>, <a href="/user/44070">sachristan</a>, <a href="/user/62729">littlewren</a>, <a href="/user/63952">Jim R</a>, <a href="/user/95345">Mary Mike</a>, <a href="/user/109024">jwinIL14</a>, <a href="/user/126742">Troubadour</a>, <a href="/user/130619">palantir</a>, <a href="/user/134317">statsone</a>, <a href="/user/140256">Neon Vincent</a>, <a href="/user/156548">Larsstephens</a>, <a href="/user/157265">Railfan</a>, <a href="/user/163895">BenderRodriguez</a>, <a href="/user/163899">Polly Syllabic</a>, <a href="/user/194338">thomask</a>, <a href="/user/196660">political mutt</a>, <a href="/user/199857">enhydra lutris</a>, <a href="/user/205927">Vatexia</a>, <a href="/user/235580">a2nite</a>, <a href="/user/329475">Aunt Pat</a>, <a href="/user/334539">IndyinDelaware</a>, <a href="/user/505187">richholtzin</a>, <a href="/user/644469">OldSoldier99</a>
+</div>
+
+
+
+
+	
+	
+	<div id="sub" class="published">
+		<div id="subscription_bug">
+<p>
+
+<a href="https://www.dailykos.com/subscribe">Subscribe</a> or
+
+<a href="https://www.dailykos.com/donate">Donate</a> to support Daily Kos.
+</p>
+</div>
+
+		<div class="content">
+			
+			
+
+
+
+
+
+  
+
+  <div id="sub-med-ad">
+	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_BTF_300x250 -->
+	
+	<div style="width: 300px; margin: 0 auto; position: relative;">
+	<script type="text/javascript">
+	
+	  GA_googleFillSlot("300x250_DK_Story_ATF");
+	
+	</script>
+	</div>
+	<!-- END OF TAG FOR SLOT DK_FP_BTF_300x250 -->
+  </div>
+  
+
+
+
+
+
+
+	
+	
+	
+	<div id="users-recommending" class="ajax-delay-load">
+		
+<div id="recommenders_div" class="featured-articles collapsed collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="recommenders">Diary Recommended By</h2></a>
+<ul class="articles ajax-paged-content">
+<div class="listOfRecommenders">
+
+	<a href="/user/glitterscale">glitterscale</a>, <a href="/user/Powered Grace">Powered Grace</a>, <a href="/user/eeff">eeff</a>, <a href="/user/88kathy">88kathy</a>, <a href="/user/sachristan">sachristan</a>, <a href="/user/littlewren">littlewren</a>, <a href="/user/Jim R">Jim R</a>, <a href="/user/Mary Mike">Mary Mike</a>, <a href="/user/jwinIL14">jwinIL14</a>, <a href="/user/Troubadour">Troubadour</a>, <a href="/user/palantir">palantir</a>, <a href="/user/statsone">statsone</a>, <a href="/user/Neon Vincent">Neon Vincent</a>, <a href="/user/Larsstephens">Larsstephens</a>, <a href="/user/Railfan">Railfan</a>, <a href="/user/BenderRodriguez">BenderRodriguez</a>, <a href="/user/Polly Syllabic">Polly Syllabic</a>, <a href="/user/thomask">thomask</a>, <a href="/user/political mutt">political mutt</a>, <a href="/user/enhydra lutris">enhydra lutris</a>, <a href="/user/Vatexia">Vatexia</a>, <a href="/user/a2nite">a2nite</a>, <a href="/user/Aunt Pat">Aunt Pat</a>, <a href="/user/IndyinDelaware">IndyinDelaware</a>, <a href="/user/richholtzin">richholtzin</a>, <a href="/user/OldSoldier99">OldSoldier99</a>
+
+</div></ul>
+
+</div>
+
+		<a class="ajax do-delay-load invisible" href="/part/sidebar/stories/recommenders_as_list?story_id=1196141">(Load)</a>
+	</div>
+
+
+
+  
+	
+<div id="rec-by-user_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="rec-by-user">Recommended by DarkSyde</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/21/1240415/-Transgender-worker-wins-workplace-discrimination-settlement-with-backing-from-EEOC">Transgender worker wins workplace discrimination settlement with backing from EEOC</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Cori McCreery was working as a clerk in the grocery store Don's Valley Market in Rapid City, SD and had earned a promotion in 2010.  Then she announced that she was transitioning from male to female.</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/rserven" class="author">rserven</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/21/1240415/-Transgender-worker-wins-workplace-discrimination-settlement-with-backing-from-EEOC#comments" class="comment-count comment_count_with_new compact" data-story_id="1240415" data-comment_count="15">
+			    15 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;42&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/12/1238459/-Louie-Gohmert-America-s-dumbest-congressman-gives-a-speech">Louie Gohmert, America's dumbest congressman, gives a speech</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Whatever you do, don't cast ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Hunter" class="author">Hunter</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/12/1238459/-Louie-Gohmert-America-s-dumbest-congressman-gives-a-speech#comments" class="comment-count comment_count_with_new compact" data-story_id="1238459" data-comment_count="120">
+			    120 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;152&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/05/1236497/-Daily-Kos-World-of-Warcraft-Guild-Update-Ancestor-Flintpaw">Daily Kos World of Warcraft Guild Update: Ancestor Flintpaw</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+Standard disclaimer: Leave your loathing of meta, World of Warcraft, or community diaries outside. If you think we should be playing your MMO instead, start a guild and write a recruitment diary. ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Moody Loner" class="author">Moody Loner</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/05/1236497/-Daily-Kos-World-of-Warcraft-Guild-Update-Ancestor-Flintpaw#comments" class="comment-count comment_count_with_new compact" data-story_id="1236497" data-comment_count="10">
+			    10 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;21&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/03/1235980/-William-Polk-offers-a-primer-on-Syria-You-can-read-all-of-it-here">William Polk offers a primer on Syria. You can read all of it here</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">William R. Polk
+
+[William R. Polkhttp://en.wikipedia.org/wiki/William_R._Polk] is a long-time political consultant on foreign policy dating back to the days of John F. Kennedy when he served on ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Meteor Blades" class="author">Meteor Blades</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/03/1235980/-William-Polk-offers-a-primer-on-Syria-You-can-read-all-of-it-here#comments" class="comment-count comment_count_with_new compact" data-story_id="1235980" data-comment_count="321">
+			    321 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;306&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/08/26/1233527/-Sticking-To-The-Weather">Sticking To The Weather</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">A few months ago, I wrote a diary called Stick to the weather, Weatherdude . The title was a tongue-in-cheek reference to the people who derisively tell me to "stick to the weather" when they don't ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/weatherdude" class="author">weatherdude</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/08/26/1233527/-Sticking-To-The-Weather#comments" class="comment-count comment_count_with_new compact" data-story_id="1233527" data-comment_count="192">
+			    192 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;490&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/08/02/1228358/-Right-In-This-Moment-Email-To-An-Old-Friend">Right In This Moment (Email To An Old Friend)</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Checked the email one last time before bed, and saw a message from my dear old friend Tom. 
+
+"Thinking of playing hooky tomorrow to go to the track. Any chance of you joining?"
+
+"Come on skinny love ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/PapaChach" class="author">PapaChach</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/08/02/1228358/-Right-In-This-Moment-Email-To-An-Old-Friend#comments" class="comment-count comment_count_with_new compact" data-story_id="1228358" data-comment_count="31">
+			    31 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;77&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/21/1225277/-A-Complex-and-Inconvenient-Reality">A Complex and Inconvenient Reality </a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Right now, it seems to me and to a lot of other scientists, that the human species is at a crossroads in regard to our longterm survival. The earth really cannot support 11 billion people, as the UN ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Desert Scientist" class="author">Desert Scientist</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/21/1225277/-A-Complex-and-Inconvenient-Reality#comments" class="comment-count comment_count_with_new compact" data-story_id="1225277" data-comment_count="44">
+			    44 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;59&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/09/1221054/-The-Evolution-of-the-Primates-Part-Three">The Evolution of the Primates, Part Three</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">This is a chapter from my book The Emergence and Nature of Human History, Volume One . The main section of the book is a chronology of the events that led to the emergence of human consciousness. ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Yosef 52" class="author">Yosef 52</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/09/1221054/-The-Evolution-of-the-Primates-Part-Three#comments" class="comment-count comment_count_with_new compact" data-story_id="1221054" data-comment_count="28">
+			    28 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;31&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/08/1221552/-GETTING-TO-ZERO-Is-renewable-energy-economically-viable">GETTING TO ZERO: Is renewable energy economically viable? </a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">This diary is Part II of GETTING TO ZERO: Our non-fossil energy future.
+
+Human civilization depends on food, food depends on weather, and weather depends on climate. Every grain and every mammal on ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Keith Pickering" class="author">Keith Pickering</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/08/1221552/-GETTING-TO-ZERO-Is-renewable-energy-economically-viable#comments" class="comment-count comment_count_with_new compact" data-story_id="1221552" data-comment_count="313">
+			    313 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;63&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/06/26/1219057/-Wendy-Davis-stands-literally-against-the-war-on-women">Wendy Davis stands (literally) against the War on Women</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Texas state Sen. Wendy Davis
+
+People across the country tuned in, then tuned in some more, as Texas Republicans tried to put the next step in the War on Women into place on Tuesday, but were stopped ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/06/26/1219057/-Wendy-Davis-stands-literally-against-the-war-on-women#comments" class="comment-count comment_count_with_new compact" data-story_id="1219057" data-comment_count="72">
+			    72 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;164&nbsp;Recs</span>
+		</span>
+		</li>
+	
+
+</ul>
+
+<ul class="navigation">
+
+<li class="next"		><a class="ajax do-page-next" href="/part/sidebar/stories/recommended_by_user?user_id=40885&page=1">Next</a></li>
+</ul>
+
+</div>
+
+
+	
+	
+				<!-- ca-pub-4201116381449156/300x250_DK_lower_med_rec -->
+		<div id="lower_side_ad" style="width: 300px; margin: 0px auto 20px auto; position: relative;">
+			<script type='text/javascript'>
+			
+				GA_googleFillSlot("300x250_DK_Story_BTF_Right");
+			
+			</script>
+		</div>
+	
+  
+
+  
+
+  
+	
+	
+<div id="tag-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="tag-list">DarkSyde's Tags</h2></a>
+<ul class="articles ajax-paged-content">
+
+  	<li><i>No current results.</i></li>
+
+</ul>
+
+</div>
+
+	
+<div id="blogroll-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="blogroll-list">DarkSyde's Blogroll</h2></a>
+<ul class="articles ajax-paged-content">
+
+	<li><i>No current results.</i></li>
+
+
+</ul>
+
+</div>
+
+  
+	
+	
+	<div id="fb_box" class="featured-articles collapsable-panel ajax-paged"> 
+	<iframe src="http://www.facebook.com/plugins/activity.php?site=www.dailykos.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;action=recommend" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowTransparency="true"></iframe>
+	</div>
+	
+
+
+
+
+
+
+		
+		</div>
+	</div>
+</div>
+
+    <div id="footer">    
+      <div id="nav-tag">
+        <h2><a href="/news/">Browse Tags</a></h2>
+
+        <ul>
+
+          <li><a href="/news/Civil Rights">Civil Rights</a></li>
+
+          <li><a href="/news/Community">Community</a></li>
+
+          <li><a href="/news/Congress">Congress</a></li>
+
+          <li><a href="/news/Culture">Culture</a></li>
+
+          <li><a href="/news/Economy">Economy</a></li>
+
+          <li><a href="/news/Education">Education</a></li>
+
+          <li><a href="/news/Elections">Elections</a></li>
+
+          <li><a href="/news/Energy">Energy</a></li>
+
+          <li><a href="/news/Environment">Environment</a></li>
+
+          <li><a href="/news/Health Care">Health Care</a></li>
+
+          <li><a href="/news/International">International</a></li>
+
+          <li><a href="/news/Labor">Labor</a></li>
+
+          <li><a href="/news/Law">Law</a></li>
+
+          <li><a href="/news/Media">Media</a></li>
+
+          <li><a href="/news/Meta">Meta</a></li>
+
+          <li><a href="/news/National Security">National Security</a></li>
+
+          <li><a href="/news/Science">Science</a></li>
+
+          <li><a href="/news/Transportation">Transportation</a></li>
+
+          <li><a href="/news/White House">White House</a></li>
+
+        </ul>
+      </div>      
+      <div id="legal">
+        <p><strong>&copy; Kos Media, LLC</strong> Site content may be used for any purpose without explicit permission unless otherwise specified</p>
+        <p>&ldquo;Kos&rdquo; and &ldquo;Daily Kos&rdquo; are registered trademarks of Kos Media, LLC</p>
+        <p><a href="/special/privacy">Privacy Policy</a></p>
+      </div>      
+      <div id="nav-footer">
+        <ul>
+          <li><h2 class="daily-kos-network">Daily Kos Network</h2>
+            <ul>
+              <li><a href="/">Daily Kos</a></li>
+              <li><a href="http://comics.dailykos.com">Comics</a></li>
+              <li><a href="http://elections.dailykos.com">Elections</a></li>
+              <!-- <li><a href="#">DK Answers</a></li> -->
+              <li><a href="http://www.dailykostv.com/">DKTV</a></li>
+              <li class="last"><a href="http://feeds.dailykos.com/dailykos/index.xml">RSS</a></li>
+				</ul><br/>
+				<ul>
+              <li><a href="http://www.mothertalkers.com/">Mother Talkers</a></li>
+              <li><a href="http://www.streetprophets.com/">Street Prophets</a></li>
+              <li class="last"><a href="http://www.congressmatters.com/">Congress Matters</a></li>
+            </ul>
+          </li>
+          <li><h2 class="about">About</h2>
+            <ul>
+              <li><a href="/special/about2">Masthead</a></li>
+              <li><a href="/special/about2#dk">History</a></li>
+              <li><a href="/special/about2#bio">Writers</a></li>
+              <li><a href="http://www.dkosopedia.com/wiki/DailyKos_FAQ">Frequently Asked Questions</a></li>
+              <li class="last"><a href="https://secure.actblue.com/page/dkendorsements2014?refcode=footer">Endorsements</a></li>
+            </ul>
+          </li>
+          <li><h2 class="advertise">Advertise</h2>
+            <ul>
+              <li><a href="/special/advertising">Advertising Overview</a></li>
+              <li class="last"><a href="http://www.quantcast.com/dailykos.com">Visits and Other Stats for Advertisers</a></li>
+            </ul>
+          </li>
+          <li><h2 class="store">Store</h2>
+            <ul>
+              <li class="last"><a href="http://www.bluecollardistro.com/dailykos/categories.php?cPath=1052">Shirts</a></li>
+            </ul>
+          </li>
+          <li class="last"><h2 class="contact">Contact</h2>
+            <ul>
+              <li><a href="/special/media">Media Inquiries</a></li>
+              <li><a href="/contactus">General Inquiries</a></li>
+              <li class="last"><a href="/special/jobs">Jobs</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>        
+    </div>			
+
+</div> <!-- matches div id="pageWrapper" in _topnav.html  -->
+
+
+
+	<script type="text/javascript" src="/j/unified-nolib.js?rev=4c"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready( App.initOnReady );
+	
+        kos.story_id = 1196141;
+        kos.sid = '2013/3/22/113651/305';
+		//kos.LAST_SEEN = '0';
+		kos.LAST_SEEN = DailyKos.CommentCount.getReadCommentCount(kos.story_id);
+		kos.pub_status = 'published';
+		kos.version = 0;
+		kos.trcount = 0;
+		kos.trremain = 0;
+		kos.serial = 237;
+		kos.updated = '2013-08-08 02:03:54';
+		kos.hidingchoice = false;
+		kos.can_comment = 0;
+	
+		$('#popup-story_setTags').dialog({
+			autoOpen: false,
+			width: 600,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_hotlist').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unHotlist').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_removeRating').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_rescue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unRescue').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_addBlogQueue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_update').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_deleteHow').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishChanges').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish Changes" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_bumpHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Update Timestamp Now" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-user_login').dialog({
+			autoOpen: false,
+			width: 500,
+			position: [$(window).width()/2 - 345, $("#pageWrapper").offset()["top"] + 15],
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Login" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+</script>
+
+
+
+
+
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+<!-- FAcebook Tags -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:2709,domain:"dailykos.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<div style="background: #f4f4f4">
+
+
+ <!-- Quantcast Tag --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<script type="text/javascript">
+_qevents.push( { qacct:"p-94z2SIg8PaHLI"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-94z2SIg8PaHLI.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7520149,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7520149&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+<a class="skipmobile mobile_preference" href="#">Click here for the mobile view of the site</a>.
+
+
+
+
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 955959297;
+
+var google_conversion_language = "en";
+
+var google_conversion_format = "3";
+
+var google_conversion_color = "ffffff";
+
+var google_conversion_label = "9V3aCKe93wMQgZDrxwM";
+
+var google_conversion_value = 0;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/955959297/?value=0&amp;label=9V3aCKe93wMQgZDrxwM&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+</div>
+
+
+
+<!-- start mixpanel -->
+
+	<script type="text/javascript">		
+	  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+    b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+    '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+    'track_forms','register','register_once','unregister','identify','alias','name_tag',
+    'set_config','people.set','people.increment','people.track_charge','people.append'];
+    for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+    mixpanel.init("c560efce2a0fbd485ac276343781784a"); 
+  </script>
+
+
+<script type="text/javascript" src="/j/metrics.js"></script>
+
+
+	<script type='text/javascript'>
+	  DailyKos.Metrics.metricsOn = (1 === 1);
+	  DailyKos.Metrics.sampleSize = 10;
+		DailyKos.Metrics.setUserProperties({
+			requestFormat: 'full site',
+			subscriber: false,
+			mobile: $.browser.mobile,
+			loggedIn: false,
+			staff: false
+		});
+		DailyKos.Metrics.init();
+	</script>
+
+
+
+
+	
+	
+	  
+	  <script type='text/javascript'>
+	    if (document.location.pathname.match(/^\/story/)) {
+			  DailyKos.Metrics.track('Viewed Story', {  url: "http://www.dailykos.com/story/2013/03/23/1196141/-This-week-in-science-and-Neo-was-its-name-o", 
+			                                            blog: "main",
+			                                            author: $('.author').children('a').first().html(),
+			                                            title: $('#titleHref').html()
+			                                          });
+			} else if (document.location.pathname.match(/^\/comment/)) {
+			  DailyKos.Metrics.track('Viewed Comment');
+			}
+
+		</script>
+	
+
+	
+<script type='text/javascript'>
+	if($.cookie('meter_user') !== 'false') {
+		if ($('#ePostButton').length > 0) {
+		  $('#ePostButton').click(function() { 
+		    DailyKos.Metrics.track('Posted Comment', { 
+		      repliedTo: $(this).parents('#eP').prevAll('.cb').children('a').first().html() 
+		    });
+		  });
+		}
+		
+		if (!!document.location.pathname.match('activate') && $('h1:contains("Welcome to Daily Kos!")').length > 0) {
+		  DailyKos.Metrics.track('Signed Up');
+		}
+		
+		if (document.location.pathname === '/') {
+		  if (document.location.hostname.match(/^www|^dailykos/)) {
+		    DailyKos.Metrics.track('Viewed Front Page');
+		  } else {
+		    var subdomain = document.location.hostname.split('.')[0];
+		    DailyKos.Metrics.track('Viewed Vertical', { name: subdomain });
+		  }
+		}
+		
+		if ($('.ratinate').length > 0) {
+		  $('.ratinate').click(function() { DailyKos.Metrics.track('Recommended Comment') });
+		}
+		
+		if ($('.do-addRating.type-story').length > 0) {
+		  $('.do-addRating.type-story').click(function() { DailyKos.Metrics.track('Recommended Story') });
+		}
+		
+		if ($("form[action$='publishHow']").length > 0) {
+		  $(document).ready(function() {
+			  $('.type-story.do-publishHow').click(function() { DailyKos.Metrics.track('Published Story') });
+			 });
+		}
+		
+		if (document.location.pathname.match(/^\/user/) && $('li.here').length > 0) {
+		  if ($('.pageMenu:first li.here').children('a').html().match(/Stream/)) {
+		    DailyKos.Metrics.track('Viewed Stream', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:first li.here').children('a').html().match(/Profile/)) {
+		    DailyKos.Metrics.track('Viewed Profile', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:last li.here').children('a').html().match(/My Recent Replies/)) {
+		    DailyKos.Metrics.track('Viewed Replies');
+		  }
+		} 
+		
+		if ($('#search-tabbed').length > 0) {
+		  DailyKos.Metrics.track('Searched');
+		}
+		
+		if ($('#group-tables').length > 0) {
+			DailyKos.Metrics.track('Viewed Groups List');
+		}
+		
+		if (document.location.pathname.match(/^\/groups/) && $("#group_info").length > 0) {
+		  DailyKos.Metrics.track('Viewed Group', { name: $('.name').children('a').text() });
+		}
+		
+		if ($('.do-hotlist.type-user, .do-unHotlist.type-user').length > 0) {
+		  $('.do-hotlist.type-user, .do-unHotlist.type-user').click(function() {
+		    var nickName;
+		    nickName = ($(this).prev('a').html() || $('.name a').html())
+		    if ($(this).hasClass('do-hotlist')) {
+		      DailyKos.Metrics.track('Followed User', { nickname: nickName }) 
+		    } else if ($(this).hasClass('do-unHotlist')) {
+		      DailyKos.Metrics.track('Unfollowed User', { nickname: nickName }) 
+		    }    
+		  });
+		}
+	}
+</script>
+
+<!-- end mixpanel -->
+
+
+</body>
+</html>

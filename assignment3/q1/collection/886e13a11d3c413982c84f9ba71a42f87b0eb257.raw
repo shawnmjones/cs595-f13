@@ -1,0 +1,712 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="language" content="en" />
+<title>  Gay marriage issue reaches Court (UPDATED) : SCOTUSblog</title>
+<link rel="alternate" type="application/rss+xml" title="SCOTUSblog RSS Feed" href="http://www.scotusblog.com/feed/" />
+<link rel="alternate" type="application/atom+xml" title="SCOTUSblog Atom Feed" href="http://www.scotusblog.com/feed/atom/" />
+<link rel="pingback" href="http://www.scotusblog.com/xmlrpc.php" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"  /> 
+<!-- WP-Minify CSS -->
+<!--<link rel="stylesheet" type="text/css" media="all" href="http://www.scotusblog.com/wp-content/themes/scotusblog55/style.css" />-->
+<link rel='stylesheet' href='/wp-content/themes/scotusblog55/style.css?ver=1338916945' type='text/css' media='all' />
+
+              
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/mail_defence.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/imp_lib/js/ash.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/widget.js?v=1.1'></script>
+
+
+
+<script type='text/javascript' src='http://www.scotusblog.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/imp_lib/js/jquery-ui-1.8.16.custom.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.scotusblog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.scotusblog.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Law before politics: The Court affirms the constitutional power to solve national problems' href='http://www.scotusblog.com/2012/06/law-before-politics-the-court-affirms-the-constitutional-power-to-solve-national-problems/' />
+<link rel='next' title='Final October Term 2011 Stat Pack and Summary Memo' href='http://www.scotusblog.com/2012/06/final-october-term-2011-stat-pack-and-summary-memo/' />
+<link rel='canonical' href='http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/' />
+<link rel='shortlink' href='http://www.scotusblog.com/?p=148247' />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5001145-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'52f2ee33-82e0-4265-a943-abae7fd46e7c'});var st_type='wordpress3.4.2';</script><script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/imp_lib/js/ash.js?ver=3.5.1'></script>
+		<script type="text/javascript">
+			// Need to initialize jQuery and the SuperFish menus
+			jQuery(document).ready(function($){
+				
+				$('.sf-menu').superfish({
+					delay:       250,
+					animation:   {opacity:'show',height:'show' ,width:'show'},
+					speed:       'normal',
+					autoArrows:  false,
+					dropShadows: false
+				});
+
+		/*		$('#accordion').accordion({
+					"handle": "h4",
+					"panel": ".textwidget",
+					canToggle: false
+				});
+				/*$("#awards-accordion *:not(h4)").wrap("<div class='panel'></div>");*/
+	/*		    function itemsWrapper(){
+					$('#awards-accordion .widget').each(function(){
+						$(this).find('.panel').children('*:not(.clearfloat)').each(function(){
+							if ($(this).get(0).tagName == 'IMG') {
+								imgheight = $(this).attr('height');
+							}
+							if ($(this).get(0).tagName == 'DIV' && imgheight) {
+								if ($(this).height() < imgheight) {
+									$(this).height(imgheight+'px');
+								}
+							}
+						});
+					}); 
+				}
+
+				itemsWrapper();
+				$('#awards-accordion').accordion({
+					"handle": "h4",
+					canToggle: false
+				});*/
+				
+			});
+		</script>	
+		<script type="text/javascript">stLight.options({onhover:false});</script>
+<script type="text/javascript">
+	function InsertMailToTag( userName, domainName, firstName) {
+		var EmailId;
+		var atSign = "&#64;";
+		
+		EmailId = userName;
+		EmailId = "" + EmailId + atSign + domainName; 
+		//EmailId = EmailId + domainName;
+		
+		document.write( "<a class='email' href='mailto:" + EmailId + "'>" + 'Email ' + firstName + "</a>" );
+	}
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#nav .sub-menu").parent("li").css('background','url(http://www.scotusblog.com/wp-content/themes/scotusblog55/images/arrow-accordion.png) no-repeat right center').hover(function(){
+				$(this).css('background','url(http://www.scotusblog.com/wp-content/themes/scotusblog55/images/arrow-accordion-active.png) no-repeat right center');
+			},
+			function(){
+				$(this).css('background','url(http://www.scotusblog.com/wp-content/themes/scotusblog55/images/arrow-accordion.png) no-repeat right center');
+			}
+		);
+	});
+</script>
+
+<!--[if IE]>
+<style type="text/css">         
+#new-sidebar h4,#new-sidebar #sidebarwidgeted h4{background:#5A5B5F;margin-bottom:20px}#new-sidebar h4,#new-sidebar #sidebarwidgeted h4 a{margin:0 -20px 20px;padding:5px 20px;margin-left:-20px;margin-right:-20px;padding:5px 20px}#main #new-sidebar #sidebarwidgeted li.widget a.recpostlink{margin-top:-5px;display:inline}#main #new-sidebar #sidebarwidgeted li.widget a.uporarg{margin-top:-5px;display:block}.seeall{font-size:.75em;margin-top:2px}#new-sidebar li.text-22{padding: 0;} #new-sidebar li.text-22 h4{margin:0 -20px 0px;border-bottom:2px solid #CCC}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<style>
+	#scotusblog_logo,
+	#bloomberg_sponsor {
+				top: 24px;
+	}
+</style>
+<![endif]-->
+<!--[if !IE]>-->
+<style>
+	#scotusblog_logo,
+	#bloomberg_sponsor {
+				top: 30px;
+	}
+</style>
+<!--<![endif]-->
+</head>
+<body class="single single-post postid-148247 single-format-standard">
+	<a id="more-148247" name="more-148247" ></a>
+<div class="header aligncenter">
+	<div id="banner" class="alignleft" style="background: url('http://www.scotusblog.com/wp-content/uploads/2013/06/copy-scotusblog-banner-835-166_final.jpg') no-repeat;">
+		 
+		
+		<a href="/" id="scotusblog_logo" class="left"></a>
+		
+		<a href="http://about.bloomberglaw.com/general2/?bbgsum=AD-PA-07-13-AW-SBWEB1&utm_source=scotusblog&utm_medium=header_logo&utm_content=general&utm_campaign=AD-PA-07-13-AW-SBWEB1" target="_blank" id="bloomberg_sponsor" class="right"></a>
+	</div>
+
+	<div id="menu" class="right">
+		<div style="color:#851200;text-align: center;margin-bottom: 6px; font-weight:bold;font: 11px Georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif;">quick links</div>
+		<ul id="nav" class="menu sf-menu"><li id="menu-item-125918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-125918"><a href="http://www.scotusblog.com">Home</a></li>
+<li id="menu-item-152658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152658"><a href="http://www.scotusblog.com/case-files/terms/">Merits Cases</a>
+<ul class="sub-menu">
+	<li id="menu-item-159665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159665"><a href="http://www.scotusblog.com/case-files/terms/ot2013/?sort=mname">October Term 2013</a></li>
+	<li id="menu-item-138507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138507"><a href="http://www.scotusblog.com/case-files/terms/ot2012/">October Term 2012</a></li>
+	<li id="menu-item-126356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126356"><a href="http://www.scotusblog.com/case-files/terms/ot2011/">October Term 2011</a></li>
+	<li id="menu-item-126357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126357"><a href="http://www.scotusblog.com/case-files/terms/ot2010/">October Term 2010</a></li>
+	<li id="menu-item-152659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152659"><a href="http://www.scotusblog.com/case-files/terms/">Term Archive</a></li>
+</ul>
+</li>
+<li id="menu-item-152660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152660"><a href="http://www.scotusblog.com/case-files/petitions-were-watching/">Petitions</a></li>
+<li id="menu-item-126214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126214"><a href="http://www.scotusblog.com/statistics/">Statistics</a></li>
+<li id="menu-item-127471" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-127471"><a href="http://www.scotusblog.com/category/special-features/">Special Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-169614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169614"><a title="Town of Greece symposium" href="http://www.scotusblog.com/category/special-features/town-of-greece-symposium/">Legislative prayer symposium</a></li>
+	<li id="menu-item-169378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169378"><a href="http://www.scotusblog.com/category/special-features/cline-symposium/"><em>Cline</em> symposium</a></li>
+	<li id="menu-item-169141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169141"><a href="http://www.scotusblog.com/category/special-features/schuette-symposium/"><em>Schuette</em> symposium</a></li>
+	<li id="menu-item-168314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168314"><a href="http://www.scotusblog.com/category/special-features/campaign-finance/">Campaign Finance</a></li>
+	<li id="menu-item-166929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166929"><a href="http://www.scotusblog.com/category/special-features/recess-appointments/">Recess Appointments</a></li>
+	<li id="menu-item-151035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151035"><a href="http://www.scotusblog.com/category/special-features/fisher-symposium/"><em>Fisher</em> Symposium</a></li>
+	<li id="menu-item-151694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151694"><a href="http://www.scotusblog.com/category/special-features/the-court-and-the-voting-rights-act/">The Court and the Voting Rights Act</a></li>
+	<li id="menu-item-150513" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150513"><a href="http://www.scotusblog.com/category/special-features/election-symposium/">Election Symposium</a></li>
+	<li id="menu-item-169142" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-169142"><a href="http://www.scotusblog.com/category/special-features/">More</a></li>
+</ul>
+</li>
+<li id="menu-item-125922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125922"><a href="http://www.scotusblog.com/category/plain-english/">Plain English</a></li>
+<li id="menu-item-158607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158607"><a href="/media/">Videos</a></li>
+<li id="menu-item-126387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126387"><a href="http://www.scotusblog.com/resources/">Resources</a></li>
+<li id="menu-item-126373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126373"><a href="http://www.scotusblog.com/administration/">Admin</a></li>
+</ul> 	 
+	
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+<div id="featured" class="wrapper">
+	<!-- empty --></div><div id="main" class="wrapper"> 
+	<div id="content" class="wrapper-left">
+			<div id="post-148247" class="post">
+
+		
+					
+<div id="author-info">
+	<img src="http://sblog.s3.amazonaws.com/headshots/lyle-denniston.jpg" id="headshot-small" class="left" />
+	
+	<div class="left">
+		<p id="author-name-role"><a href="http://www.scotusblog.com/author/lyle-denniston" style="text-decoration:none; color:#444;">Lyle Denniston</a> <span>Reporter</span></p>
+		<p class="time">Posted Fri, June 29th, 2012 6:01 pm</p>
+	</div> 
+	
+	<div id="author-links" class="right">
+											<script type="text/javascript">
+				InsertMailToTag("ldenniston", "scotusblog.com", "Lyle");
+			</script>
+				<br />	
+		<a href="http://www.scotusblog.com/author/lyle-denniston">Bio &amp; Post Archive &raquo;</a>
+	</div> 
+</div>
+		
+		<h1>Gay marriage issue reaches Court (UPDATED)</h1>
+		<p><strong>UPDATED Tuesday 7/3 at 3:55 p.m.    For those who wish to start following this case, it has now been docketed as 12-13.   The Court switched to new OT 12 numbers on the docket last week.</strong></p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p>Placing before the Supreme Court another huge cultural controversy, the House of Representatives&#8217; Republican leaders on Friday afternoon asked the Justices to uphold the constitutionality of the 1996 federal law that limits all federal programs and benefits for marriage to legal unions of a man and a woman.   This could set the stage for the Justices to take up the issue of same-sex marriage in their next Term, opening October 1.   The new petition is <a href="http://sblog.s3.amazonaws.com/wp-content/uploads/2012/06/DOMA-House-GOP-petition-6-29-121.pdf">here</a>; the case does not yet have a docket number assigned.</p>
+<p>&#8220;This case calls out for the Court&#8217;s review,&#8221; the petition argued.  The First Circuit Court, it added, applied &#8220;an entirely novel form of scrutiny that cannot be reconciled with the approach of this Court and that of ten other circuits.  Thus, the decision below invalidates an act of Congress, conflicts with the decisions of this Court and numerous other courts of appeals, and embraces an entirely novel approach to constitutional equal protection analysis.  It is hard to imagine a stronger candidate for this Court&#8217;s review.&#8221;</p>
+<p><span id="more-148247"></span></p>
+<p>This is the first same-sex marriage case to reach the Court in a new round of lawsuits from coast to coast, with many of the cases focused on the law at issue in the new House GOP petition: the Defense of Marriage Act, passed with overwhelming majorities in the House and Senate and signed into law by President Clinton in 1996.   Soon to be filed at the Court is a case from California, testing the constitutionality of &#8220;Proposition 8,&#8221; the voter-approved ban on marriage for gays and lesbians in that state.</p>
+<p>&#8220;Proposition 8&#8243; has been struck down by a federal appeals court, as has DOMA in the case newly filed at the Supreme Court.  The California measure is a flat ban on same-sex marriage, but it is restricted to one state.   DOMA applies nationwide, and its section at issue in the new appeal does not seek to ban such marriages, but, when they are allowed under a state&#8217;s own laws, denies all federal benefits to such couples.</p>
+<p>The GOP leaders of the House have taken up the defense of DOMA, in the wake of a decision last year by the Obama Administration to stop defending its constitutionality in court.   The Democratic leaders of the House have not joined in the defense of the Act, but courts have allowed the GOP leaders to take on the task and the Administration has encouraged them to get involved.   While not defending the law any more, the Administration insists that, since it is still on the books, it will enforce it while the court tests go on.</p>
+<p>The new petition sharply criticized the Administration for its actions on DOMA.   The GOP leaders, in fact, used that stance as a further argument why the Supreme Court should accept this case for review.</p>
+<p>They argued: &#8220;Separation of powers considerations strongly counsel in favor of this Court&#8217;s review.  The executive branch has not only abdicated its traditional role of defending the constitutionality of duly-enacted statutes, but has simultaneously announced that it will continue to enforce DOMA.  As a result, the House has been forced into the position of defending numerous lawsuits challenging DOMA across the Nation.  That is a role for which the Justice Department &#8212; not the House &#8212; is institutionally designed.  Only this Court can settle this matter definitively.&#8221;</p>
+<p>In the meantime, it said, the Administration will continue to attack DOMA in court, while also enforcing it, &#8220;thus creating more potential litigation for the House to defend.&#8221;</p>
+<p>The First Circuit on May 31 struck down DOMA&#8217;s Section 3, defining marriage for purposes of all federal laws and programs as &#8220;only a legal union between one man and one woman as husband and wife.&#8221;   (Another part of DOMA, not at issue in this case, seeks to assure states that do not recognize same-sex marriages that they will not have to recognize such legal unions performed in other states.)</p>
+<p>In the House GOP petition, the First Circuit was attacked as having &#8220;invented a new standard of equal protection review that it described as involving &#8216;intensified scrutiny&#8217; and &#8216;closer than usual review.&#8217;&#8230;The court said that, under this newly minted form of judicial review, the &#8216;deference ordinarily accorded&#8217; to an Act of Congress is &#8216;diminished.&#8217; &#8221;</p>
+<p>This new standard, the leaders went on, was presented by the Circuit Court &#8220;as a fusion of federalism and equal protection concerns.&#8221;  The standard it used, the petition added, &#8220;was outcome-determinative in this case, since the court acknowledged that DOMA satisfies rational basis review&#8221; (the lowest test of constitutionality of a law).</p>
+<p>The House GOP could have waited as much as three months before pressing its appeal to the Supreme Court.  By filing its challenge there in just a single month, it apparently sought to add urgency to the case.  Under normal procedures, the Court would not even consider whether to grant or deny the review until it holds its first Conference of the new Term in the week of September 24, ahead of the official opening of the new Term.</p>
+<p>The DOMA provision at issue in the case is also under review now in the Ninth Circuit Court.  Two federal District judges in California have ruled against it, and those cases are now on appeal.</p>
+<p>The Ninth Circuit is the appeals court that has struck down California&#8217;s &#8220;Proposition 8,&#8221; but it did on quite narrow grounds, largely limited to California.  That has raised the question whether the dispute in that case is broad enough to assure review by the Supreme Court.   The case was considerably broader when it was first filed by prominent attorneys Theodore B. Olson and David Boies, and when it was ruled upon by a federal District judge in California, who found it unconstitutional in a broad ruling.</p>
+<p>Proponents of the California ban have been expected to file a petition in the Supreme Court early this summer.</p>
+<p>The House GOP petition was filed at the Court Friday by Paul D. Clement, the prominent Washington, D.C., lawyer and former U.S. Solicitor General, who was a key lawyer in the Court&#8217;s major cases this Term on the new federal health care law and Arizona&#8217;s tough new immigration law.   Clement represented the 26 states challenging the health care law, and the state of Arizona in its defense of its immigrant-control law.  The Court did not strike down any of the new Affordable Care Act, but did strike down three of the four provisions of the Arizona immigration law at stake.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<script type='text/javascript'>	jQuery(document).ready(function() {		imglbl1 = '';		imgurl1 = '';		imglbl2 = '';		imgurl2 = '';		if (imgurl1 && imgurl2) {			big = jQuery('#big');			small = jQuery('#img-label');			small.click(function(){				if (big.attr('src') == imgurl1) {					if (imglbl1) {						small.html(imglbl1);					} else {						small.html(imgurl1);					}					big.attr('src', imgurl2);				} else {					if (imglbl2) {						small.html(imglbl2);					} else {						small.html(imgurl2);					}					big.attr('src', imgurl1);				}			});		}	});</script><div class='swapimages' style='margin:15px 0;'></div><p class="meta" style="border-top:3px solid #ddd; padding-top:1em; clear:both; margin-top:1em;">Posted in <a href="http://www.scotusblog.com/category/in-the-pipeline/" title="View all posts in Cases in the Pipeline" rel="category tag">Cases in the Pipeline</a>, <a href="http://www.scotusblog.com/category/featured/" title="View all posts in Featured" rel="category tag">Featured</a>, <a href="http://www.scotusblog.com/category/special-features/same-sex-marriage/" title="View all posts in Same-Sex Marriage" rel="category tag">Same-Sex Marriage</a></p>			<p id="bluebook-citation">
+				<strong>Recommended Citation:</strong> 
+				Lyle Denniston, 
+				<em>Gay marriage issue reaches Court (UPDATED)</em>, 
+				<span>SCOTUSblog</span> (Jun. 29, 2012, 6:01 PM), 
+				http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/			</p>
+		<!-- AddThis Button BEGIN -->
+<div class="sharethis">
+<span style="display: inline-block;" class='st_facebook' st_title='Gay marriage issue reaches Court (UPDATED)' st_url='http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/'></span>
+<span style="display: inline-block;" st_via='scotusblog' st_username='scotusblog' class='st_twitter' st_title='Gay marriage issue reaches Court (UPDATED)' st_url='http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/'></span>
+<span style="display: inline-block;" class='st_email' st_title='Gay marriage issue reaches Court (UPDATED)' st_url='http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/'></span>
+<span style="display: inline-block;" class='st_print' st_processed="yes"><span onclick="javascript:window.print();" style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px; height: 16px; background: url('http://www.scotusblog.com/wp-content/themes/scotusblog55/images/print_s.png') no-repeat;" class="stButton"><span class="chicklets print">&nbsp;</span></span></span>
+<span style="display: inline-block;" class='st_sharethis' st_title='Gay marriage issue reaches Court (UPDATED)' st_url='http://www.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/'></span>
+</div>
+<!-- AddThis Button END -->
+	</div><!-- #post-148247 -->	</div><!-- ends #content -->
+	
+<div id="new-sidebar" class="column right">
+	<ul class="sidebarwidgeted">
+		
+		<li class="widget text-20"><h4 class="widget-title">Featured Posts</h4>			<div class="textwidget"><div id="feature-content">
+ 
+	<div id="feature-1" class="feature"> 
+		<h1>
+			<a href="http://www.scotusblog.com/2013/09/town-of-greece-v-galloway-what-is-the-supreme-court-up-to/">
+				<em>Town of Greece v. Galloway</em>: What is the Supreme Court up to?			</a>
+			<span class="author">
+				&ndash; Jessie Hill			</span>
+		</h1>
+	</div>
+	 
+	<div id="feature-2" class="feature"> 
+		<h1>
+			<a href="http://www.scotusblog.com/2013/09/court-to-remain-open-for-now/">
+				Court to remain open -- for now			</a>
+			<span class="author">
+				&ndash; Lyle Denniston			</span>
+		</h1>
+	</div>
+	 
+	<div id="feature-3" class="feature"> 
+		<h1>
+			<a href="http://www.scotusblog.com/2013/09/symposium-legislative-prayer-and-judicial-review/">
+				Symposium: Legislative prayer and judicial review  			</a>
+			<span class="author">
+				&ndash; Rick Garnett			</span>
+		</h1>
+	</div>
+	<div class="clear"></div>
+</div></div>
+		</li><li class="widget text-21"><h4 class="widget-title"><a href="http://www.bloomberglaw.com" class="">Sponsored by Bloomberg Law</a></h4>			<div class="textwidget"><a target="_blank" href="http://about.bloomberglaw.com/general2/?bbgsum=AD-PA-07-13-AW-SBWEB2&utm_source=scotusblog&utm_medium=banner_278x278&utm_content=general&utm_campaign=AD-PA-07-13-AW-SBWEB2"><img src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/07/blaw201307.jpg" height="278" width="278" alt="Sponsored by Bloomberg Law" border="0"></a></div>
+		</li><li class="widget text-22"><h4 class="widget-title">Search</h4>			<div class="textwidget"><div id="dd-search" class="wrapper right">
+			<div id="search" class="searchwrapper-leftsmall">
+				<form role="search" method="get" id="searchform" action="http://www.scotusblog.com" ><div style="width:300px">
+					<div class="alignleft">
+						<input 
+							type="search"
+							name="s"
+							id="s"
+							class="default-value"
+							onfocus="javascript: if(this.value == 'Search Blog or Court Docket'){this.value='';}"
+							onblur="javascript: if(this.value == ''){this.value='Search Blog or Court Docket';}"
+							value="Search Blog or Court Docket"
+						/>
+					</div>
+					<div class="alignright">
+						<input type="submit" id="searchsubmit" class="submit" name="searchsubmit" value="Blog" />
+						<input type="submit" id="searchsubmit" class="submit" name="searchsubmit" value="Docket" />
+					</div>
+				</div></form>
+			</div>
+
+			<div id="case-dropdowns" class="dropdowncolumn-right">
+								<form name="term-case-select" id="term-case-select" action="http://www.scotusblog.com/" method="get">
+					<select onchange="document.location.href=this.options[this.selectedIndex].value;" name="case-select" id="case-select">
+						<option value="">This Term's Merits Cases</option>
+						<option value="http://www.scotusblog.com/case-files/cases/air-wisconsin-airlines-corp-v-hoeper/?wpmp_switcher=desktop">Air Wisconsin Airlines Corp. v. Hoeper</option><option value="http://www.scotusblog.com/case-files/cases/american-lung-association-v-eme-homer-city-generation/?wpmp_switcher=desktop">American Lung Association v. EME Homer City Generation</option><option value="http://www.scotusblog.com/case-files/cases/atlantic-marine-construction-co-v-united-states-district-court-for-the-western-district-of-texas/?wpmp_switcher=desktop">Atlantic Marine Construction Co. v. United States District Court</option><option value="http://www.scotusblog.com/case-files/cases/bg-group-plc-v-republic-of-argentina/?wpmp_switcher=desktop">BG Group PLC v. Republic of Argentina</option><option value="http://www.scotusblog.com/case-files/cases/bond-v-united-states-2/?wpmp_switcher=desktop">Bond v. United States</option><option value="http://www.scotusblog.com/case-files/cases/burrage-v-united-states/?wpmp_switcher=desktop">Burrage v. United States</option><option value="http://www.scotusblog.com/case-files/cases/burt-v-titlow/?wpmp_switcher=desktop">Burt v. Titlow</option><option value="http://www.scotusblog.com/case-files/cases/chadbourne-parke-llp-v-troice/?wpmp_switcher=desktop">Chadbourne & Parke LLP v. Troice</option><option value="http://www.scotusblog.com/case-files/cases/cline-v-oklahoma-coalition-for-reproductive-justice/?wpmp_switcher=desktop">Cline v. Oklahoma Coalition for Reproductive Justice</option><option value="http://www.scotusblog.com/case-files/cases/daimlerchrysler-ag-v-bauman/?wpmp_switcher=desktop">DaimlerChrysler AG v. Bauman </option><option value="http://www.scotusblog.com/case-files/cases/environmental-protection-agency-v-eme-homer-city-generation/?wpmp_switcher=desktop">Environmental Protection Agency v. EME Homer City Generation</option><option value="http://www.scotusblog.com/case-files/cases/executive-benefits-insurance-agency-v-arkison/?wpmp_switcher=desktop">Executive Benefits Insurance Agency v. Arkison</option><option value="http://www.scotusblog.com/case-files/cases/fernanedz-v-california/?wpmp_switcher=desktop">Fernandez v. California</option><option value="http://www.scotusblog.com/case-files/cases/heimeshoff-v-hartford-life-accident-insurance-co-and-wal-mart-stores-inc/?wpmp_switcher=desktop">Heimeshoff v. Hartford Life & Accident Insurance Co.</option><option value="http://www.scotusblog.com/case-files/cases/kaley-v-united-states/?wpmp_switcher=desktop">Kaley v. United States</option><option value="http://www.scotusblog.com/case-files/cases/kansas-v-cheever/?wpmp_switcher=desktop">Kansas v. Cheever</option><option value="http://www.scotusblog.com/case-files/cases/law-v-siegel/?wpmp_switcher=desktop">Law v. Siegel</option><option value="http://www.scotusblog.com/case-files/cases/lawson-v-fmr-llc/?wpmp_switcher=desktop">Lawson v. FMR LLC</option><option value="http://www.scotusblog.com/case-files/cases/lexmark-international-inc-v-static-control-components-inc/?wpmp_switcher=desktop">Lexmark International, Inc. v. Static Control Components, Inc.</option><option value="http://www.scotusblog.com/case-files/cases/lozano-v-alvarez/?wpmp_switcher=desktop">Lozano v. Alvarez</option><option value="http://www.scotusblog.com/case-files/cases/madigan-v-levin/?wpmp_switcher=desktop">Madigan v. Levin</option><option value="http://www.scotusblog.com/case-files/cases/mayorkas-v-cuellar-de-osorio/?wpmp_switcher=desktop">Mayorkas v. Cuellar de Osorio</option><option value="http://www.scotusblog.com/case-files/cases/mccullen-v-coakley/?wpmp_switcher=desktop">McCullen v. Coakley</option><option value="http://www.scotusblog.com/case-files/cases/mccutcheon-v-federal-election-commission/?wpmp_switcher=desktop">McCutcheon v. Federal Election Commission</option><option value="http://www.scotusblog.com/case-files/cases/medtronic-inc-v-boston-scientific-corp/?wpmp_switcher=desktop">Medtronic, Inc. v. Boston Scientific Corp.</option><option value="http://www.scotusblog.com/case-files/cases/michigan-v-bay-mills-indian-community/?wpmp_switcher=desktop">Michigan v. Bay Mills Indian Community</option><option value="http://www.scotusblog.com/case-files/cases/mississippi-ex-rel-hood-v-au-optronics-corp/?wpmp_switcher=desktop">Mississippi ex rel. Hood v. AU Optronics Corp.</option><option value="http://www.scotusblog.com/case-files/cases/mount-holly-v-mt-holly-gardens-citizens-in-action-inc/?wpmp_switcher=desktop">Mount Holly v. Mt. Holly Gardens Citizens in Action, Inc.</option><option value="http://www.scotusblog.com/case-files/cases/national-labor-relations-board-v-noel-canning/?wpmp_switcher=desktop">National Labor Relations Board v. Noel Canning</option><option value="http://www.scotusblog.com/case-files/cases/northwest-inc-v-ginsberg/?wpmp_switcher=desktop">Northwest, Inc. v. Ginsberg</option><option value="http://www.scotusblog.com/case-files/cases/paroline-v-united-states/?wpmp_switcher=desktop">Paroline v. United States</option><option value="http://www.scotusblog.com/case-files/cases/proskauer-rose-llp-v-troice/?wpmp_switcher=desktop">Proskauer Rose LLP v. Troice</option><option value="http://www.scotusblog.com/case-files/cases/ray-haluch-gravel-co-v-central-pension-fund-of-the-international-union-of-operating-engineers-and-participating-employers/?wpmp_switcher=desktop">Ray Haluch Gravel Co. v. Central Pension Fund</option><option value="http://www.scotusblog.com/case-files/cases/rosemond-v-united-states/?wpmp_switcher=desktop">Rosemond v. United States</option><option value="http://www.scotusblog.com/case-files/cases/sandifer-v-united-states-steel-corporation/?wpmp_switcher=desktop">Sandifer v. United States Steel Corporation</option><option value="http://www.scotusblog.com/case-files/cases/schuette-v-coalition-to-defend-affirmative-action/?wpmp_switcher=desktop">Schuette v. Coalition to Defend Affirmative Action</option><option value="http://www.scotusblog.com/case-files/cases/sprint-communications-company-v-jacobs/?wpmp_switcher=desktop">Sprint Communications Company v. Jacobs</option><option value="http://www.scotusblog.com/case-files/cases/town-of-greece-v-galloway/?wpmp_switcher=desktop">Town of Greece v. Galloway</option><option value="http://www.scotusblog.com/case-files/cases/unite-here-local-355-v-mulhall/?wpmp_switcher=desktop">Unite Here Local 355 v. Mulhall</option><option value="http://www.scotusblog.com/case-files/cases/united-states-v-apel/?wpmp_switcher=desktop">United States v. Apel</option><option value="http://www.scotusblog.com/case-files/cases/united-states-v-woods/?wpmp_switcher=desktop">United States v. Woods</option><option value="http://www.scotusblog.com/case-files/cases/walden-v-fiore/?wpmp_switcher=desktop">Walden v. Fiore</option><option value="http://www.scotusblog.com/case-files/cases/white-v-woodall/?wpmp_switcher=desktop">White v. Woodall</option><option value="http://www.scotusblog.com/case-files/cases/willis-of-colorado-inc-v-troice/?wpmp_switcher=desktop">Willis of Colorado Inc. v. Troice</option>					</select>
+				</form>
+							</div>
+
+			<div class="archives" style="width:300px">
+				<!--[if IE ]>  <div class="alignleft" style="margin-left:5px;padding-top:3px;">  <![endif]-->
+				<!--[if !IE]><!--> <div class="alignleft" style="margin-left:5px;padding-top:1px;"> <!--<![endif]-->
+					<a href="http://www.scotusblog.com/2013">Archives</a>
+					<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+						<option>Month</option>
+							<option value='http://www.scotusblog.com/2013/09/'> Sept 2013 </option>
+	<option value='http://www.scotusblog.com/2013/08/'> Aug 2013 </option>
+	<option value='http://www.scotusblog.com/2013/07/'> July 2013 </option>
+	<option value='http://www.scotusblog.com/2013/06/'> June 2013 </option>
+	<option value='http://www.scotusblog.com/2013/05/'> May 2013 </option>
+	<option value='http://www.scotusblog.com/2013/04/'> Apr 2013 </option>
+	<option value='http://www.scotusblog.com/2013/03/'> Mar 2013 </option>
+	<option value='http://www.scotusblog.com/2013/02/'> Feb 2013 </option>
+	<option value='http://www.scotusblog.com/2013/01/'> Jan 2013 </option>
+	<option value='http://www.scotusblog.com/2012/12/'> Dec 2012 </option>
+	<option value='http://www.scotusblog.com/2012/11/'> Nov 2012 </option>
+	<option value='http://www.scotusblog.com/2012/10/'> Oct 2012 </option>
+	<option value='http://www.scotusblog.com/2012/09/'> Sept 2012 </option>
+	<option value='http://www.scotusblog.com/2012/08/'> Aug 2012 </option>
+	<option value='http://www.scotusblog.com/2012/07/'> July 2012 </option>
+	<option value='http://www.scotusblog.com/2012/06/'> June 2012 </option>
+	<option value='http://www.scotusblog.com/2012/05/'> May 2012 </option>
+	<option value='http://www.scotusblog.com/2012/04/'> Apr 2012 </option>
+	<option value='http://www.scotusblog.com/2012/03/'> Mar 2012 </option>
+	<option value='http://www.scotusblog.com/2012/02/'> Feb 2012 </option>
+	<option value='http://www.scotusblog.com/2012/01/'> Jan 2012 </option>
+	<option value='http://www.scotusblog.com/2011/12/'> Dec 2011 </option>
+	<option value='http://www.scotusblog.com/2011/11/'> Nov 2011 </option>
+	<option value='http://www.scotusblog.com/2011/10/'> Oct 2011 </option>
+	<option value='http://www.scotusblog.com/2011/09/'> Sept 2011 </option>
+	<option value='http://www.scotusblog.com/2011/08/'> Aug 2011 </option>
+	<option value='http://www.scotusblog.com/2011/07/'> July 2011 </option>
+	<option value='http://www.scotusblog.com/2011/06/'> June 2011 </option>
+	<option value='http://www.scotusblog.com/2011/05/'> May 2011 </option>
+	<option value='http://www.scotusblog.com/2011/04/'> Apr 2011 </option>
+	<option value='http://www.scotusblog.com/2011/03/'> Mar 2011 </option>
+	<option value='http://www.scotusblog.com/2011/02/'> Feb 2011 </option>
+	<option value='http://www.scotusblog.com/2011/01/'> Jan 2011 </option>
+	<option value='http://www.scotusblog.com/2010/12/'> Dec 2010 </option>
+	<option value='http://www.scotusblog.com/2010/11/'> Nov 2010 </option>
+	<option value='http://www.scotusblog.com/2010/10/'> Oct 2010 </option>
+	<option value='http://www.scotusblog.com/2010/09/'> Sept 2010 </option>
+	<option value='http://www.scotusblog.com/2010/08/'> Aug 2010 </option>
+	<option value='http://www.scotusblog.com/2010/07/'> July 2010 </option>
+	<option value='http://www.scotusblog.com/2010/06/'> June 2010 </option>
+	<option value='http://www.scotusblog.com/2010/05/'> May 2010 </option>
+	<option value='http://www.scotusblog.com/2010/04/'> Apr 2010 </option>
+	<option value='http://www.scotusblog.com/2010/03/'> Mar 2010 </option>
+	<option value='http://www.scotusblog.com/2010/02/'> Feb 2010 </option>
+	<option value='http://www.scotusblog.com/2010/01/'> Jan 2010 </option>
+	<option value='http://www.scotusblog.com/2009/12/'> Dec 2009 </option>
+	<option value='http://www.scotusblog.com/2009/11/'> Nov 2009 </option>
+	<option value='http://www.scotusblog.com/2009/10/'> Oct 2009 </option>
+	<option value='http://www.scotusblog.com/2009/09/'> Sept 2009 </option>
+	<option value='http://www.scotusblog.com/2009/08/'> Aug 2009 </option>
+	<option value='http://www.scotusblog.com/2009/07/'> July 2009 </option>
+	<option value='http://www.scotusblog.com/2009/06/'> June 2009 </option>
+	<option value='http://www.scotusblog.com/2009/05/'> May 2009 </option>
+	<option value='http://www.scotusblog.com/2009/04/'> Apr 2009 </option>
+	<option value='http://www.scotusblog.com/2009/03/'> Mar 2009 </option>
+	<option value='http://www.scotusblog.com/2009/02/'> Feb 2009 </option>
+	<option value='http://www.scotusblog.com/2009/01/'> Jan 2009 </option>
+	<option value='http://www.scotusblog.com/2008/12/'> Dec 2008 </option>
+	<option value='http://www.scotusblog.com/2008/11/'> Nov 2008 </option>
+	<option value='http://www.scotusblog.com/2008/10/'> Oct 2008 </option>
+	<option value='http://www.scotusblog.com/2008/09/'> Sept 2008 </option>
+	<option value='http://www.scotusblog.com/2008/08/'> Aug 2008 </option>
+	<option value='http://www.scotusblog.com/2008/07/'> July 2008 </option>
+	<option value='http://www.scotusblog.com/2008/06/'> June 2008 </option>
+	<option value='http://www.scotusblog.com/2008/05/'> May 2008 </option>
+	<option value='http://www.scotusblog.com/2008/04/'> Apr 2008 </option>
+	<option value='http://www.scotusblog.com/2008/03/'> Mar 2008 </option>
+	<option value='http://www.scotusblog.com/2008/02/'> Feb 2008 </option>
+	<option value='http://www.scotusblog.com/2008/01/'> Jan 2008 </option>
+	<option value='http://www.scotusblog.com/2007/12/'> Dec 2007 </option>
+	<option value='http://www.scotusblog.com/2007/11/'> Nov 2007 </option>
+	<option value='http://www.scotusblog.com/2007/10/'> Oct 2007 </option>
+	<option value='http://www.scotusblog.com/2007/09/'> Sept 2007 </option>
+	<option value='http://www.scotusblog.com/2007/08/'> Aug 2007 </option>
+	<option value='http://www.scotusblog.com/2007/07/'> July 2007 </option>
+	<option value='http://www.scotusblog.com/2007/06/'> June 2007 </option>
+	<option value='http://www.scotusblog.com/2007/05/'> May 2007 </option>
+	<option value='http://www.scotusblog.com/2007/04/'> Apr 2007 </option>
+	<option value='http://www.scotusblog.com/2007/03/'> Mar 2007 </option>
+	<option value='http://www.scotusblog.com/2007/02/'> Feb 2007 </option>
+	<option value='http://www.scotusblog.com/2007/01/'> Jan 2007 </option>
+	<option value='http://www.scotusblog.com/2006/12/'> Dec 2006 </option>
+	<option value='http://www.scotusblog.com/2006/11/'> Nov 2006 </option>
+	<option value='http://www.scotusblog.com/2006/10/'> Oct 2006 </option>
+	<option value='http://www.scotusblog.com/2006/09/'> Sept 2006 </option>
+	<option value='http://www.scotusblog.com/2006/08/'> Aug 2006 </option>
+	<option value='http://www.scotusblog.com/2006/07/'> July 2006 </option>
+	<option value='http://www.scotusblog.com/2006/06/'> June 2006 </option>
+	<option value='http://www.scotusblog.com/2006/05/'> May 2006 </option>
+	<option value='http://www.scotusblog.com/2006/04/'> Apr 2006 </option>
+	<option value='http://www.scotusblog.com/2006/03/'> Mar 2006 </option>
+	<option value='http://www.scotusblog.com/2006/02/'> Feb 2006 </option>
+	<option value='http://www.scotusblog.com/2006/01/'> Jan 2006 </option>
+	<option value='http://www.scotusblog.com/2005/12/'> Dec 2005 </option>
+	<option value='http://www.scotusblog.com/2005/11/'> Nov 2005 </option>
+	<option value='http://www.scotusblog.com/2005/10/'> Oct 2005 </option>
+	<option value='http://www.scotusblog.com/2005/09/'> Sept 2005 </option>
+	<option value='http://www.scotusblog.com/2005/08/'> Aug 2005 </option>
+	<option value='http://www.scotusblog.com/2005/07/'> July 2005 </option>
+	<option value='http://www.scotusblog.com/2005/06/'> June 2005 </option>
+	<option value='http://www.scotusblog.com/2005/05/'> May 2005 </option>
+	<option value='http://www.scotusblog.com/2005/04/'> Apr 2005 </option>
+	<option value='http://www.scotusblog.com/2005/03/'> Mar 2005 </option>
+	<option value='http://www.scotusblog.com/2005/02/'> Feb 2005 </option>
+					</select>
+				</div>
+				<div class="alignright">
+					or 
+					<form action="http://www.scotusblog.com/" method="get" style="display:inline;">
+						<div style="display:inline;">
+							<select name='cat' id='cat' class='postform'  onchange="return this.form.submit()"  style="margin-top:3px;width:129px;">
+	<option value='-1'>Category</option>
+	<option class="level-0" value="150">Academic Round-up</option>
+	<option class="level-0" value="151">Analysis</option>
+	<option class="level-0" value="149">Book Reviews</option>
+	<option class="level-0" value="152">Cases in the Pipeline</option>
+	<option class="level-0" value="854">Community</option>
+	<option class="level-0" value="242">Corrections</option>
+	<option class="level-0" value="153">Detainee Litigation</option>
+	<option class="level-0" value="154">Everything Else</option>
+	<option class="level-0" value="155">Featured</option>
+	<option class="level-0" value="76">Headline</option>
+	<option class="level-0" value="156">Live</option>
+	<option class="level-0" value="157">Merits Cases</option>
+	<option class="level-0" value="72">Plain English / Cases Made Simple</option>
+	<option class="level-0" value="1280">Podcast</option>
+	<option class="level-0" value="60">Round-up</option><option class="level-0" value="220">Special Features</option>
+	<option class="level-0" value="850">SCOTUS for law students</option>
+	<option class="level-0" value="158">This Week at the Court</option>
+	<option class="level-0" value="159">What&#8217;s Happening Now</option>
+</select>
+							<noscript>
+								<div><input type="submit" value="View" /></div>
+							</noscript>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+</div>
+		</li>	</ul>
+
+	<div class="acc-title widget-title">Term Snapshot </div>
+	<ul id="accordion" class="sidebarwidgeted accordion">
+		<li class="widget text-23"><h4><a href="http://www.scotusblog.com/category/this-week/" class="">This Week at the Court</a></h4>			<div class="textwidget"><p>The Court has recessed for the summer.</p>
+<p style="margin-top:1em;">
+<p style="margin-top:1em;"><span style="color: black; font-family: Tahoma; font-size: small;"> </span></p>
+</div>
+		</li><li class="widget text-24"><h4>Major Cases</h4>			<div class="textwidget"><ul class="major-petition"><li><a href="http://www.scotusblog.com/case-files/cases/mccullen-v-coakley/" title="McCullen v. Coakley">McCullen v. Coakley</a><br/>"Buffer zone" law and the First Amendment</li><li><a href="http://www.scotusblog.com/case-files/cases/national-labor-relations-board-v-noel-canning/" title="National Labor Relations Board v. Noel Canning">National Labor Relations Board v. Noel Canning</a><br/>Constitutionality of President's recess appointments to NRLB</li><li><a href="http://www.scotusblog.com/case-files/cases/mccutcheon-v-federal-election-commission/" title="McCutcheon v. Federal Election Commission">McCutcheon v. Federal Election Commission</a><br/>Constitutionality of limits on aggregate campaign contributions</li><li><a href="http://www.scotusblog.com/case-files/cases/town-of-greece-v-galloway/" title="Town of Greece v. Galloway">Town of Greece v. Galloway</a><br/>Constitutionality of legislative prayer practice</li><li><a href="http://www.scotusblog.com/case-files/cases/schuette-v-coalition-to-defend-affirmative-action/" title="Schuette v. Coalition to Defend Affirmative Action">Schuette v. Coalition to Defend Affirmative Action</a><br/>State constitutional amendment prohibiting affirmative action</li></ul><a href="/case-files/terms/ot2012/" target="_blank">see all this Term’s cases »</a></div>
+		</li><li class="widget text-25"><h4>Upcoming Petitions</h4>			<div class="textwidget"><ul class="squibs">
+				<h5 style="font-weight:bold; margin-bottom:1em; ">Conference of September 30</h5><li><a href="http://www.scotusblog.com/case-files/cases/snyder-v-american-beverage-association/">Snyder v. American Beverage Association</a> Extent of the extraterritorial branch of dormant Commerce Clause doctrine</li><li><a href="http://www.scotusblog.com/case-files/cases/young-v-united-parcel-service/">Young v. United Parcel Service</a> Accommodations for pregnant employees under Pregnancy Discrimination Act</li><li><a href="http://www.scotusblog.com/case-files/cases/plumhoff-v-rickard/">Plumhoff v. Rickard</a> Determining qualified immunity based on law at time of act</li><li><a href="http://www.scotusblog.com/case-files/cases/jeffries-v-united-states/">Jeffries v. United States</a> Proof of intent to send threatening communication</li><li><a href="http://www.scotusblog.com/case-files/cases/dormescar-v-holder/">Dormescar v. Holder</a> Res judiciata as bar to second removal proceedingUpcoming Petitions</li>			</ul> 
+			<p><a href="/petitions" title="Pending Supreme Court Petitions">More Petitions &raquo;</a></p></div>
+		</li><li class="widget text-26"><h4>Major Pending Petitions</h4>			<div class="textwidget"><ul class="major-petition"><li><a href="http://www.scotusblog.com/case-files/cases/utility-air-regulatory-group-v-environmental-protection-agency/" title="Utility Air Regulatory Group v. Environmental Protection Agency">Utility Air Regulatory Group v. Environmental Protection Agency</a><br/>EPA authority to regulate greenhouse gases under the Clean Air Act</li><li><a href="http://www.scotusblog.com/case-files/cases/medtronic-inc-v-stengel/" title="Medtronic, Inc. v. Stengel">Medtronic, Inc. v. Stengel</a><br/>Food, Drug, and Cosmetic Act preemption of state-law claims</li></ul></div>
+		</li><li class="widget text-28"><h4>Recent Special Features</h4>			<div class="textwidget"><ul class="recent-features">
+<li><a href="http://www.scotusblog.com/category/cline-symposium/">Abortion regulation symposium</a></li>
+
+<li><a href="http://www.scotusblog.com/category/special-features/schuette-symposium//"> Affirmative action symposium</a></li>
+
+<li><a href="http://www.scotusblog.com/category/special-features/campaign-finance/">Campaign finance symposium</a><br/></li>
+
+<li><a href="http://www.scotusblog.com/category/special-features/town-of-greece-symposium/">Legislative prayer symposium</a></li>
+
+</ul></div>
+		</li><li class="widget text-29"><h4><a href="/statistics/" class="">Statistical Snapshot</a></h4>			<div class="textwidget"><table id="snapshot">
+	<tr>
+		<td>Cases argued</td>
+		<td class="datum">75</td>
+	</tr>
+	<tr>
+		<td>Cases decided</td>
+		<td class="datum">75</td>
+	</tr>
+	<tr>
+		<td>Summary reversals</td>
+		<td class="datum">5</td>
+	</tr>
+	<tr class="last">
+		<td>Merits Cases Set for Argument</td>
+		<td class="datum">75</td>
+	</tr>
+</table>
+<a href="/statistics/" target="_blank">see all »</a></div>
+		</li><li class="widget text-30"><h4><a href="http://www.twitter.com/scotusblog" class="">Twitter Feed</a></h4>			<div class="textwidget">	
+	<div class="clear"></div>
+	<div style="line-height:1.5em;">
+		<!--<script src="http://www.scotusblog.com/wp-content/themes/scotusblog55/js/widget.js"></script>
+		<script type="text/javascript">
+			(new t({version:2,type:"profile",rpp:2,interval:6e3,width:"auto",height:300,theme:{shell:{background:"#ffffff",color:"#ffffff"},tweets:{background:"#ffffff",color:"#333333",links:"#333333"}},features:{scrollbar:false,loop:false,live:false,hashtags:true,timestamp:true,avatars:false,behavior:"all"}})).render().setUser("scotusblog").start();
+		</script>-->
+
+<a class="twitter-timeline" href="https://twitter.com/SCOTUSblog" data-widget-id="346583495973425152">Tweets by @SCOTUSblog</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	</div>
+</div>
+		</li>	</ul>
+
+	<ul class="sidebarwidgeted">
+		<li class="widget events_calendar_widget">
+			<h4 class="widget-title"><a href="http://www.scotusblog.com/events/">Calendar: September 2013</a></h4>
+							<div id="calendar" class="hpfeatured">
+					<p>
+						<a href="http://www.scotusblog.com/events/">Full Calendar</a>
+						<a style="background:none" href="#" class="email right" rel="">
+							<img class="submit-event" src="http://sblog.s3.amazonaws.com/icons/email12x12.png" /> Submit Event
+						</a>
+					</p>
+					&nbsp;<div id="calendar_wrap"><h4 class="cal-header" style="font-size:1.25em;">Sept. 2013</h4>
+
+<table class="tec-calendar tec-calendar-widget" id="small">
+	<thead>
+			<tr>
+				<th id="tec-su" abbr="Sunday">Su</th><th id="tec-mo" abbr="Monday">Mo</th><th id="tec-tu" abbr="Tuesday">Tu</th><th id="tec-we" abbr="Wednesday">We</th><th id="tec-th" abbr="Thursday">Th</th><th id="tec-fr" abbr="Friday">Fr</th><th id="tec-sa" abbr="Saturday">Sa</th>			</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+		<td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_1'>1<div id='tooltip_day_1' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_2'>2<div id='tooltip_day_2' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_3'>3<div id='tooltip_day_3' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_4'>4<div id='tooltip_day_4' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_5'>5<div id='tooltip_day_5' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_6'>6<div id='tooltip_day_6' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_7'>7<div id='tooltip_day_7' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td></tr>
+	<tr><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_8'>8<div id='tooltip_day_8' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_9'>9<div id='tooltip_day_9' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_10'>10<div id='tooltip_day_10' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_11'>11<div id='tooltip_day_11' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_12'>12<div id='tooltip_day_12' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_13'>13<div id='tooltip_day_13' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_14'>14<div id='tooltip_day_14' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td></tr>
+	<tr><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_15'>15<div id='tooltip_day_15' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_16'>16<div id='tooltip_day_16' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_17'>17<div id='tooltip_day_17' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_18'>18<div id='tooltip_day_18' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_19'>19<div id='tooltip_day_19' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_20'>20<div id='tooltip_day_20' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_21'>21<div id='tooltip_day_21' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td></tr>
+	<tr><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_22'>22<div id='tooltip_day_22' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_23'>23<div id='tooltip_day_23' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_24'>24<div id='tooltip_day_24' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_25'>25<div id='tooltip_day_25' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_26'>26<div id='tooltip_day_26' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_27'>27<div id='tooltip_day_27' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_28'>28<div id='tooltip_day_28' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td></tr>
+	<tr><td class='tec-thismonth tec-past'><div class='daynum tec-event' id='daynum_29'>29<div id='tooltip_day_29' class='tec-tooltip' style='display:none;'><span class="tec-arrow"></span></div></div>
+</td><td class='tec-thismonth tec-present'><div class='daynum tec-event private-conferences' id='daynum_30'><a class='tec-mini-has-event'>30</a><div id='tooltip_day_30' class='tec-tooltip' style='display:none;'><h5 class="tec-event-title-mini"><a href="http://www.scotusblog.com/case-files/petitions-were-watching/">Long Conference</a></h5><span class="tec-arrow"></span></div></div>
+</td><td class='tec-othermonth'></td><td class='tec-othermonth'></td><td class='tec-othermonth'></td><td class='tec-othermonth'></td><td class='tec-othermonth'></td>		</tr>
+	</tbody>
+</table>
+</div>					<ul class="calendar-key left">
+						<li class="orders-and-or-opinions"><span>Orders/Opinions</span></li>
+						<li class="oral-arguments"><span>Arguments</span></li>
+						<li class="private-conferences"><span>Conferences</span></li>
+					</ul>
+					<ul class="calendar-key right">
+						<li class="court-related-events"><span>Events</span></li>
+						<li class="holidays"><span>Holidays</span></li>
+						<li class="multi"><span>Multiple</span></li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+					</li>
+		
+	</ul>	
+		
+	<ul class="sidebarwidgeted">
+		<li class="widget text-33"><h4 class="widget-title">Videos <a href="/media/" class="right">see all</a></h4>			<div class="textwidget">			<div class="clearfix">
+			<div class="title"><a href="http://www.scotusblog.com/media/peabody-panel-the-roberts-court-and-ot2013/" title="Peabody Panel: The Roberts Court and OT2013">Peabody Panel: The Roberts Court and OT2013</a></div>
+			<div class="thumbnail"><a href="http://www.scotusblog.com/media/peabody-panel-the-roberts-court-and-ot2013/" title="Peabody Panel: The Roberts Court and OT2013"><img width="277" height="207" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/09/Panel-3-277x207.png" class="attachment-media-sidebar wp-post-image" alt="Peabody Panel 3" /></a></div>			<div class="description"><p>Moderated by Sonja West of the University of Georgia Law School, Pete Williams of NBC News, Tony Mauro of the National Law Journal, and Tom Goldstein and Amy Howe of SCOTUSblog explore the Roberts Court and the upcoming Term in a panel at the University of Georgia.</p>
+</div>
+		</div>
+	</div>
+		</li>	</ul>
+		
+	<div class="acc-title  widget-title">Awards</div>
+	<ul id="awards-accordion" class="sidebarwidgeted accordion">
+		<li class="widget widget_sp_image-2"><h4>Peabody Award</h4><div class="panel"><table><tr><td><img width="120" height="121" alt="Peabody Award" class="attachment-120x121 alignleft" style="max-width: 120px;max-height: 121px;" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/04/Peabody-medallion_w120.jpg" /></td><td class="middle"><div class="widget_sp_image-description" ><p>Awarded the Peabody Award for excellence in electronic media.</p>
+</div></td></tr></table><div class="clearfloat"></div></div></li><li class="widget widget_sp_image-3"><h4>Sigma Delta Chi</h4><div class="panel"><table><tr><td><img width="120" height="120" alt="Sigma Delta Chi" class="attachment-120x120 alignleft" style="max-width: 120px;max-height: 120px;" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/04/sdx_medalion.png" /></td><td class="middle"><div class="widget_sp_image-description" ><p>Awarded the Sigma Delta Chi deadline reporting award for online coverage of the Affordable Care Act decision.</p>
+</div></td></tr></table><div class="clearfloat"></div></div></li><li class="widget widget_sp_image-4"><h4>Silver Gavel Award</h4><div class="panel"><table><tr><td><img width="120" height="120" alt="Silver Gavel Award" class="attachment-120x120 alignleft" style="max-width: 120px;max-height: 120px;" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/06/sgavel21.jpg" /></td><td class="middle"><div class="widget_sp_image-description" ><p>Awarded the Silver Gavel Award by the American Bar Association for fostering the American public’s understanding of the law and the legal system.</p>
+</div></td></tr></table><div class="clearfloat"></div></div></li><li class="widget widget_sp_image-5"><h4>American Gavel Award</h4><div class="panel"><table><tr><td><img width="120" height="120" alt="American Gavel Award" class="attachment-120x120 alignleft" style="max-width: 120px;max-height: 120px;" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/06/aja.png" /></td><td class="middle"><div class="widget_sp_image-description" ><p>Awarded the American Gavel Award for Distinguished Reporting About the Judiciary to recognize the highest standards of reporting about courts and the justice system.</p>
+</div></td></tr></table><div class="clearfloat"></div></div></li><li class="widget widget_sp_image-6"><h4>National Press Club Award</h4><div class="panel"><table><tr><td><img width="120" height="60" alt="National Press Club Award" class="attachment-120x60" style="max-width: 120px;max-height: 60px;" src="http://sblog.s3.amazonaws.com/wp-content/uploads/2013/08/NPC_logotype_RGB.jpg" /></td><td class="middle"><div class="widget_sp_image-description" ><p>Awarded the National Press Club's Breaking News Award for coverage of the Affordable Care Act decision.</p>
+</div></td></tr></table><div class="clearfloat"></div></div></li>	</ul>
+
+	<ul class="sidebarwidgeted">
+		<li id="widget_text" class="widget text-31"><h4  class="widget-title">Subscriptions</h4>			<div class="textwidget"><form
+	id="more-email"
+	class="more-revealed"
+	style="margin-bottom: 1em;"
+	action="http://www.feedburner.com/fb/a/emailverify"
+	method="post"
+	onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1224496', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"
+	target="popupwindow">
+<input type="hidden" name="url" value="http://feeds.feedburner.com/~e?ffid=1224496" />
+<input type="hidden" name="title" value="SCOTUSblog" />
+<input type="hidden" name="loc" value="en_US" />
+<input type="text" name="email" style="width: 175px;" value="Email address" onblur="if (this.value == '') this.value = 'Email address';" onfocus="if (this.value == 'Email address') this.value = '';" size="27" /> <input style="width: 90px;" type="submit" value="Email Digest" />
+</form>
+</br></br>
+<strong>RSS</strong></br>
+<a href="http://feeds.feedburner.com/scotusblog/pFXs"><img style="border: 0;" alt="" src="http://feeds.feedburner.com/~fc/scotusblog/pFXs?bg=99CCFF&amp;fg=444444&amp;anim=0" width="88" height="26" /></a>
+</br></br>
+<strong>Twitter: Blog Staff Tweets</strong></br>
+<a class="twitter-follow-button" href="http://twitter.com/scotusblog">Follow @scotusblog</a></br></br>
+<strong>Twitter: Each Blog Post, Tweeted</strong></br>
+<a class="twitter-follow-button" href="http://twitter.com/scotusblogposts">Follow @scotusblogposts</a></div>
+		</li><li id="widget_text" class="widget text-32">			<div class="textwidget"><h4 class="widget-title">Bloomberg Law and <span>SCOTUSblog’s</span> Supreme Court Challenge</h4>
+<strong>Current Standings - Top 5 Teams</strong></br>
+</br>
+ 1. Protect Sam Chase</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;St. Johns University School of Law</br>
+</br>
+2. Bro Bono</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indiana University -Bloomington, Maurer School of Law</br>
+</br>
+3. Goldman St Johns School of Law</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;St. Johns University School of Law</br>
+</br>
+4. rough justice</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Law School</br>
+</br>
+5. Team Lavoie</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Law School</br>
+</br>
+<a href="http://scotuscompetition.com/" target="_blank">Click here to learn more</a></div>
+		</li>
+		
+			</ul>
+</div><!-- ends #sidebar -->
+</div><!-- ends #main -->
+<div id="footer" class="wrapper"> 
+	<p>
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">&copy; 2013 SCOTUSblog (click for license)</a> 
+		<span style="display:none;">This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.scotusblog.com" property="cc:attributionName" rel="cc:attributionURL">SCOTUSblog</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License</a>.</span>
+	</p>     
+	
+	<div id="mobile-switch">
+    	
+<!-- /// LOAD CHARTBEAT /// -->
+<script type="text/javascript">
+var _sf_async_config={};
+_sf_async_config.uid = 45904;
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<p><a onclick='document.cookie="wpmp_switcher=mobile;path=/;expires=Tue, 01-01-2030 00:00:00 GMT";' href='http://m.scotusblog.com/2012/06/gay-marriage-issue-reaches-court/?wpmp_switcher=mobile'>Switch to our mobile site</a></p>	</div>
+</div> 
+<!-- WP-Minify JS -->
+
+
+<!--<script type='text/javascript' src='http://sblog.s3.amazonaws.com/js/plugins09092011.js'></script>-->
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/footer_js.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/superfish.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/jquery.newsticker.pack.js'></script>
+<script type='text/javascript' src='http://www.scotusblog.com/wp-content/themes/scotusblog55/js/addthis_widget.js#pubid=ra-4e4a8035242162c6'></script>
+<script type="text/javascript" src="http://www.scotusblog.com/wp-content/themes/scotusblog55/js/simple.accordion.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.scotusblog.com/wp-content/themes/scotusblog55/js/simple.banner.js" charset="utf-8"></script>
+
+
+<script type="text/javascript">
+var sc_project=6195944; 
+var sc_invisible=1; 
+var sc_security="74e8b401"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ?  "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter_xhtml.js'></"+"script>");</script>
+<noscript><img class="statcounter" src="https://c.statcounter.com/6195944/0/74e8b401/1/" alt="" /></noscript>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.273 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-30 13:59:29 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

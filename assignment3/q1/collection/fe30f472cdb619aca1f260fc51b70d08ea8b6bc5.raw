@@ -1,0 +1,735 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	Seeing Ghana’s Health Care System in Action
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="Africa, Ghana, health, vaccines" /><meta id="MetaDescription" name="description" content="Bill Gates visits Ghana and sees firsthand that its health care system is highly effective, thanks to detailed record keeping and a strong focus on measuring progress." /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Topics/Health/Seeing-Ghanas-Healthcare-System-in-Action?WT.mc_id=03_28_2013_GhanaBlog2_tw&amp;WT.tsrc=Twitter" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BR9BZnJpY2EsIEdoYW5hLCBoZWFsdGgsIHZhY2NpbmVzZAIDDxYCHwAFpwFCaWxsIEdhdGVzIHZpc2l0cyBHaGFuYSBhbmQgc2VlcyBmaXJzdGhhbmQgdGhhdCBpdHMgaGVhbHRoIGNhcmUgc3lzdGVtIGlzIGhpZ2hseSBlZmZlY3RpdmUsIHRoYW5rcyB0byBkZXRhaWxlZCByZWNvcmQga2VlcGluZyBhbmQgYSBzdHJvbmcgZm9jdXMgb24gbWVhc3VyaW5nIHByb2dyZXNzLmQCARBkZBYIAgEPZBYCZg9kFgQCAg8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYCAgEPZBYCZg8VARo8YSBocmVmPSIvQm9va3MiPkJvb2tzPC9hPmQCAg9kFgICAQ9kFgJmDxUBKTxhIGhyZWY9Ii9Ub3BpY3MvRWR1Y2F0aW9uIj5FZHVjYXRpb248L2E+ZAIDD2QWAgIBD2QWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9FbmVyZ3kiPkVuZXJneTwvYT5kAgQPZBYCAgEPZBYCZg8VAS08YSBocmVmPSIvVG9waWNzL0RldmVsb3BtZW50Ij5EZXZlbG9wbWVudDwvYT5kAgUPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmUWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9IZWFsdGgiPkhlYWx0aDwvYT5kAgYPZBYCAgEPZBYCZg8VASA8YSBocmVmPSIvUGVyc29uYWwiPlBlcnNvbmFsPC9hPmQCBw9kFgICAQ9kFgJmDxUBFjxhIGhyZWY9Ii9BbGwiPkFsbDwvYT5kAgQPFgIfAQL/////D2QCAw9kFgJmD2QWAgIBDw9kFgIeCW9ua2V5ZG93bgWuAWlmKGV2ZW50LndoaWNoIHx8IGV2ZW50LmtleUNvZGUpe2lmICgoZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlID09IDEzKSkge2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwyMF9TZWFyY2hCdXR0b24nKS5jbGljaygpO3JldHVybiBmYWxzZTt9fSBlbHNlIHtyZXR1cm4gdHJ1ZX07IGQCBQ9kFgJmD2QWAmYPZBYMZg8PFgIeB1Zpc2libGVoZBYCZg9kFgRmDxYCHwEC/////w9kAgEPZBYCZg8VAQk/c2hvd2FsbD1kAgMPZBYCZg8WAh8BAv////8PZAIEDxYCHwRnFgICAQ8WAh8BAgsWFgIBD2QWAmYPFQIxJmx0O3AmZ3Q7QSBidXN5IG1hcmtldCBpbiBBY2NyYSwgR2hhbmEuJmx0Oy9wJmd0Ozsvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9IZWFsdGgvR2hhbmEtdHJpcC9TdHJlZXRfNzAwLmpwZ2QCAg9kFgJmDxUCqQEmbHQ7cCBzdHlsZT0mcXVvdDtsaW5lLWhlaWdodDogMTE1JTsgbWFyZ2luOiAwaW4gMGluIDEwcHQ7JnF1b3Q7Jmd0O0kgdmlzaXRlZCB0aGUgS3dhYmVueWEgQXRvbWljIFByaW1hcnkgU2Nob29sIGFuZCB0YWxrZWQgd2l0aCB0ZWFjaGVycyBhbmQgdGhlIGhlYWRtaXN0cmVzcy4mbHQ7L3AmZ3Q7Oy9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0hlYWx0aC9HaGFuYS10cmlwL1NjaG9vbF83MDAuanBnZAIDD2QWAmYPFQJdJmx0O3Agc3R5bGU9JnF1b3Q7bWFyZ2luOiAwaW4gMGluIDEwcHQ7JnF1b3Q7Jmd0O1N0dWRlbnRzIHBlcmZvcm1pbmcgYXQgdGhlIHNjaG9vbC4mbHQ7L3AmZ3Q7Oi9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0hlYWx0aC9HaGFuYS10cmlwL011c2ljXzcwMC5qcGdkAgQPZBYCZg8VAu8BJmx0O3Agc3R5bGU9JnF1b3Q7bWFyZ2luOiAwaW4gMGluIDEwcHQ7JnF1b3Q7Jmd0O1N0dWRlbnRzIGdldCBtZWFscyBpbiBzY2hvb2wgdGhyb3VnaCBhIGxvY2FsIGZhcm1pbmcgcHJvZ3JhbS4gU2Nob29sIG9mZmljaWFscyBob3BlIHRoYXQgbnV0cml0aW91cyBtZWFscyB3aWxsIGhlbHAgc3R1ZGVudHMgZm9jdXMgYW5kIHBlcmZvcm0gYmV0dGVyIGluIGNsYXNzZXMgdGhyb3VnaG91dCB0aGUgZGF5LiZsdDsvcCZndDs6L34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvSGVhbHRoL0doYW5hLXRyaXAvQ2xhc3NfNzAwLmpwZ2QCBQ9kFgJmDxUCvQImbHQ7cCBzdHlsZT0mcXVvdDttYXJnaW46IDBpbiAwaW4gMTBwdDsmcXVvdDsmZ3Q7VGhlIG5leHQgZGF5LCBJIHZpc2l0ZWQgdGhlIEF3dXR1IEhlYWx0aCBDZW50ZXIsIHdoZXJlIEkgbWV0IHdpdGggTXMuIFBhdHJpY2lhIEFudHdpLCB0aGUgRGlzdHJpY3QgRGlyZWN0b3Igb2YgSGVhbHRoIFNlcnZpY2VzLiBTaGUgZ2F2ZSBtZSBhbiBvdmVydmlldyBvZiB0aGUgaGVhbHRoIHNlcnZpY2VzIGFuZCBkZXNjcmliZWQgaG93IHNoZSB1c2VzIGRhdGEgdG8gbWFrZSBkZWNpc2lvbnMgYW5kIG1hbmFnZSBhbmQgbW90aXZhdGUgaGVyIHRlYW0uJmx0Oy9wJmd0O0Yvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9IZWFsdGgvR2hhbmEtdHJpcC9Bd3V0dUhlYWx0aENlbnRlcl83MDAuanBnZAIGD2QWAmYPFQLqASZsdDtwIHN0eWxlPSZxdW90O21hcmdpbjogMGluIDBpbiAxMHB0OyZxdW90OyZndDtXZSBkaXNjdXNzZWQgdGhlIHN1Y2Nlc3NlcyBhbmQgY2hhbGxlbmdlcyB0aGV5IGV4cGVyaWVuY2VkIGludHJvZHVjaW5nIHR3byBuZXcgdmFjY2luZXMgKFBuZXVtb2NvY2NhbCBhbmQgUm90YXZpcnVzKSBzaW11bHRhbmVvdXNseSB0aHJvdWdoIGFuIGltbXVuaXphdGlvbiBwcm9ncmFtIGxhc3QgQXByaWwuJmx0Oy9wJmd0Oz0vfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9IZWFsdGgvR2hhbmEtdHJpcC9WYWNjaW5lc183MDAuanBnZAIHD2QWAmYPFQLeASZsdDtwIHN0eWxlPSZxdW90O21hcmdpbjogMGluIDBpbiAxMHB0OyZxdW90OyZndDtOZXh0LCBJIHZpc2l0ZWQgdGhlIGNvbW11bml0eSBoZWFsdGggY29tcG91bmQgaW4gdGhlIHZpbGxhZ2Ugb2YgQWhlbnRpYS4gSSB3YW50ZWQgdG8gdmlzaXQgaXQgdG8gc2VlIHRoZSBraW5kIG9mIGNsaW5pYyB3aGVyZSBtb3N0IEdoYW5haWFucyBnZXQgdGhlaXIgaGVhbHRoIGNhcmUuJmx0Oy9wJmd0O0Ivfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9IZWFsdGgvR2hhbmEtdHJpcC9Nb2JpbGVNaWR3aWZlXzcwMC5qcGdkAggPZBYCZg8VAn5BbGljZSBHcmFudCBZYW1vYWggcnVucyB0aGUgY29tcG91bmQgd2l0aCB0aHJlZSBvdGhlciBjb2xsZWFndWVzLiBIZXJlLCBzaGUgZ2l2ZXMgc2l4LXdlZWstb2xkIEZyZWRyaWNrIGhpcyByb3RhdmlydXMgdmFjY2luZS45L34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvSGVhbHRoL0doYW5hLXRyaXAvQmFieV83MDAuanBnZAIJD2QWAmYPFQKtASZsdDtwJmd0O0doYW5hIGhhcyBzZXQgdXAgc3BlY2lhbCB6b25lcyBmb3IgcGxhbm5pbmcgaGVhbHRoIHNlcnZpY2VzLCB3aGljaCBsZXRzIHRoZW0gcmVhY2ggdW5kZXItc2VydmVkIGFyZWFzIHdpdGggc21hbGwgcG9wdWxhdGlvbnMgb2Ygbm8gbW9yZSB0aGFuIDUsMDAwIHBlb3BsZS4mbHQ7L3AmZ3Q7Oy9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0hlYWx0aC9HaGFuYS10cmlwL0NoYXJ0c183MDAuanBnZAIKD2QWAmYPFQLGASZsdDtwJmd0O1RoZSBBaGVudGlhIGZhY2lsaXR5IG9mZmVycyBiYXNpYyBwcmltYXJ5IGNhcmUgd2hpbGUgYWxzbyBjb25kdWN0aW5nIG91dHJlYWNoIGFuZCBkb29yLXRvLWRvb3IgZGVsaXZlcnkgb2Ygc2VydmljZXMsIHVzaW5nIG1vYmlsZSBwaG9uZXMgdG8gdHJhY2sgcGF0aWVudCB2aXNpdHMgYW5kIGltbXVuaXphdGlvbnMuJmx0Oy9wJmd0Ozsvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9IZWFsdGgvR2hhbmEtdHJpcC9Nb2JpbGVfNzAwLmpwZ2QCCw9kFgJmDxUCuQImbHQ7cCZndDtJbiBBY2NyYSwgSSBtZXQgd2l0aCB0aGUgcmVjZW50bHktZWxlY3RlZCBwcmVzaWRlbnQgb2YgR2hhbmEsIEpvaG4gRHJhbWFuaSBNYWhhbWEsIGFuZCBzZXZlcmFsIG9mIGhpcyBrZXkgbWluaXN0ZXJzLiBJIHRvbGQgUHJlc2lkZW50IE1haGFtYSBob3cgaW1wcmVzc2VkIEkgYW0gdGhhdCB0aGV5IGFyZSB1c2luZyB0aGUgTURHcyB0byBmcmFtZSB0aGVpciB3b3JrLiBHaGFuYSZhbXA7cnNxdW87cyBzdHJvbmcgaW1tdW5pemF0aW9uIHN5c3RlbSBpcyBhIGdyZWF0IGV4YW1wbGUgZm9yIG90aGVyIGNvdW50cmllcy4mbHQ7L3AmZ3Q7Pi9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0hlYWx0aC9HaGFuYS10cmlwL1ByZXNpZGVudF83MDAuanBnZAIMDxYCHwECBRYKZg9kFgJmDxUDGi9TZWFyY2g/c2VhcmNoPURldmVsb3BtZW50C2RldmVsb3BtZW50AiwgZAIBD2QWAmYPFQMVL1NlYXJjaD9zZWFyY2g9SGVhbHRoBmhlYWx0aAIsIGQCAg9kFgJmDxUDFy9TZWFyY2g/c2VhcmNoPXZhY2NpbmVzCHZhY2NpbmVzAiwgZAIDD2QWAmYPFQMUL1NlYXJjaD9zZWFyY2g9R2hhbmEFR2hhbmECLCBkAgQPZBYCZg8VAxUvU2VhcmNoP3NlYXJjaD1BZnJpY2EGQWZyaWNhAGQCDg9kFgJmD2QWBGYPFgIfAQIEFghmD2QWDgIBD2QWBmYPFQEpL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tRmFjZWJvb2tkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBAApL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tRmFjZWJvb2sAAGQCBQ9kFgYCAQ9kFgJmD2QWAgICDxUBAGQCAg8VBCkvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1GYWNlYm9vawAAAGQCAw9kFgJmDxUDFUcyMC1TaGFyZS1vbi1GYWNlYm9vawAAZAIHDxYCHwRnFgICAQ8WBB4EaHJlZgXlAWphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LmZhY2Vib29rLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIEZhY2Vib29rIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ2ZhY2Vib29rJywgZG9jdW1lbnQudGl0bGUpO30pKCkfAgUIZmFjZWJvb2sWAmYPFQFwPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL1ByZXZpZXcgVGlsZXMvQ29udGVudFRpbGVzX2ZhY2Vib29rLTIyMHg0NC1hLmpwZyIgYWx0PSJTaGFyZSBvbiBGYWNlYm9vayIvPmQCCQ9kFgJmD2QWAmYPZBYCZg8VAbUCPGEgY2xhc3M9ImZhY2Vib29rIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy5mYWNlYm9vay5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBGYWNlYm9vayBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCdmYWNlYm9vaycsIGRvY3VtZW50LnRpdGxlKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlIFRoaXMgT24gRmFjZWJvb2s8L2E+ZAILD2QWAmYPFQG1AjxhIGNsYXNzPSJmYWNlYm9vayIgb25jbGljaz0iamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cuZmFjZWJvb2suY29tJywnZGNzdXJpJywnL3NoYXJlJywnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gRmFjZWJvb2sgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgnZmFjZWJvb2snLCBkb2N1bWVudC50aXRsZSk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZSBUaGlzIE9uIEZhY2Vib29rPC9hPmQCDQ9kFgJmDxUBAGQCAQ9kFg4CAQ9kFgZmDxUBKC9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLVR3aXR0ZXJkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBAAoL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tVHdpdHRlcgAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEKC9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLVR3aXR0ZXIAAABkAgMPZBYCZg8VAxRHMjAtU2hhcmUtb24tVHdpdHRlcgAAZAIHDxYCHwRnFgICAQ8WBB8FBZsCamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cudHdpdHRlci5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCAnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gVHdpdHRlciBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCd0d2l0dGVyJywgJ1NlZWluZyBHaGFuYeKAmXMgSGVhbHRoIENhcmUgU3lzdGVtIGluIEFjdGlvbiBodHRwOi8vYi1nYXQuZXMvTmhqSTJRJyk7fSkoKR8CBQd0d2l0dGVyFgJmDxUBbjxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9QcmV2aWV3IFRpbGVzL0NvbnRlbnRUaWxlc190d2l0dGVyLTIyMHg0NC1hLmpwZyIgYWx0PSJTaGFyZSBvbiBUd2l0dGVyIi8+ZAIJD2QWAmYPZBYCZg9kFgJmDxUBlQI8YSBjbGFzcz0idHdpdHRlciIgb25jbGljaz0iamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cudHdpdHRlci5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCAnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gVHdpdHRlciBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCd0d2l0dGVyJywgJycpO30pKCk7cmV0dXJuIGZhbHNlOyIgaHJlZj0iIyI+U2hhcmU8L2E+ZAILD2QWAmYPFQGVAjxhIGNsYXNzPSJ0d2l0dGVyIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy50d2l0dGVyLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsICdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBUd2l0dGVyIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ3R3aXR0ZXInLCAnJyk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZTwvYT5kAg0PZBYCZg8VAQBkAgIPZBYOAgEPZBYGZg8VAUEvVG9waWNzL0hlYWx0aC9UaHJlZS1SZWFzb25zLUltLUV4Y2l0ZWQtQWJvdXQtdGhlLUZ1dHVyZS1vZi1HaGFuYWQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUENVRocmVlIFJlYXNvbnMgSeKAmW0gRXhjaXRlZCBhYm91dCB0aGUgRnV0dXJlIG9mIEdoYW5hQS9Ub3BpY3MvSGVhbHRoL1RocmVlLVJlYXNvbnMtSW0tRXhjaXRlZC1BYm91dC10aGUtRnV0dXJlLW9mLUdoYW5hDk1hcmNoIDI3LCAyMDEzEVByb2dyZXNzIGluIEdoYW5hZAIFDxYCHwRnFgYCAQ8PFgQeB1Rvb2xUaXAFNVRocmVlIFJlYXNvbnMgSeKAmW0gRXhjaXRlZCBhYm91dCB0aGUgRnV0dXJlIG9mIEdoYW5hHgtOYXZpZ2F0ZVVybAVBL1RvcGljcy9IZWFsdGgvVGhyZWUtUmVhc29ucy1JbS1FeGNpdGVkLUFib3V0LXRoZS1GdXR1cmUtb2YtR2hhbmFkFgJmD2QWAgICDxUBkQE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvSGVhbHRoL0doYW5hLXRyaXAvR2hhbmE1YV9vcHQtMS0yMjB4LmpwZyIgYWx0PSJCaWxsIEdhdGVzOiBUaHJlZSBSZWFzb25zIEknbSBFeGNpdGVkIGFib3V0IEdoYW5hJ3MgRnV0dXJlIi8+ZAICDxUEQS9Ub3BpY3MvSGVhbHRoL1RocmVlLVJlYXNvbnMtSW0tRXhjaXRlZC1BYm91dC10aGUtRnV0dXJlLW9mLUdoYW5hDk1hcmNoIDI3LCAyMDEzEVByb2dyZXNzIGluIEdoYW5hOEhlcmUgYXJlIHRocmVlIHJlYXNvbnMgSSdtIGV4Y2l0ZWQgYWJvdXQgR2hhbmEncyBmdXR1cmUuZAIDDxYCHwRoFgJmDxUDMlRocmVlLVJlYXNvbnMtSW0tRXhjaXRlZC1BYm91dC10aGUtRnV0dXJlLW9mLUdoYW5hAABkAgcPZBYCAgEPZBYCZg8VAQBkAgkPZBYCZg9kFgJmD2QWAmYPFQEAZAILD2QWAmYPFQEAZAIND2QWAmYPFQEAZAIDD2QWDgIBD2QWBmYPFQErL1RvcGljcy9IZWFsdGgvV2hhdC1JbS1MZWFybmluZy1hYm91dC1HaGFuYWQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEHVdoYXQgSSdtIExlYXJuaW5nIGFib3V0IEdoYW5hKy9Ub3BpY3MvSGVhbHRoL1doYXQtSW0tTGVhcm5pbmctYWJvdXQtR2hhbmEOTWFyY2ggMjUsIDIwMTMfV2hhdCBJ4oCZbSBMZWFybmluZyBhYm91dCBHaGFuYWQCBQ8WAh8EZxYGAgEPDxYEHwYFHVdoYXQgSSdtIExlYXJuaW5nIGFib3V0IEdoYW5hHwcFKy9Ub3BpY3MvSGVhbHRoL1doYXQtSW0tTGVhcm5pbmctYWJvdXQtR2hhbmFkFgJmD2QWAgICDxUBAGQCAg8VBCsvVG9waWNzL0hlYWx0aC9XaGF0LUltLUxlYXJuaW5nLWFib3V0LUdoYW5hDk1hcmNoIDI1LCAyMDEzH1doYXQgSeKAmW0gTGVhcm5pbmcgYWJvdXQgR2hhbmGGAUknbSB2aXNpdGluZyBHaGFuYSB0byBzZWUgZmlyc3RoYW5kIHdoeSB0aGUgY291bnRyeeKAmXMgaW1tdW5pemF0aW9uIHN5c3RlbSBpcyB3b3JraW5nIHNvIHdlbGwgYW5kIG1lZXQgdGhlIHBlb3BsZSBpbnZvbHZlZC48YnIvPjxici8+ZAIDDxYCHwRoFgJmDxUDHFdoYXQtSW0tTGVhcm5pbmctYWJvdXQtR2hhbmEAAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgEPZBYCZg8VAQk/c2hvd2FsbD1kAg8PFgIfAQL/////D2QCCQ9kFgJmD2QWCAIBDxYCHwECAxYGZg9kFgICAQ8PFgQeBFRleHQFCkFsbCBUb3BpY3MfBwUHL1RvcGljc2RkAgEPZBYCAgEPDxYEHwgFBUJvb2tzHwcFBi9Cb29rc2RkAgIPZBYCAgEPDxYEHwgFCUVkdWNhdGlvbh8HBREvVG9waWNzL0VkdWNhdGlvbmRkAgMPFgIfAQIDFgZmD2QWAgIBDw8WBB8IBQZFbmVyZ3kfBwUOL1RvcGljcy9FbmVyZ3lkZAIBD2QWAgIBDw8WBB8IBQtEZXZlbG9wbWVudB8HBRMvVG9waWNzL0RldmVsb3BtZW50ZGQCAg9kFgICAQ8PFgQfCAUGSGVhbHRoHwcFDi9Ub3BpY3MvSGVhbHRoZGQCBQ8WAh8BAgEWAmYPZBYCAgEPDxYEHwgFCFBlcnNvbmFsHwcFCS9QZXJzb25hbGRkAgcPFgIfCAUEMjAxM2RkoIBz/7Vxhqxm9cyUxM4wrWr/u/g=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL1sbSBDgLf6cCfDQKNhbaICQL5oamLB4yLKZp7OLQXrlYSs6zaMMpjXO8P" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="navLink"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="active"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="navLink"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+				
+				
+
+                <!-- Galleria Repeater -->
+				
+					<script language="javascript" src="/GatesNotesV2/js/galleria-1.2.5.js"></script>
+					
+						<div id="galleria"></div>
+						<div id="galleriaTemplate" style="display: none;">
+					
+						<img alt="&lt;p&gt;A busy market in Accra, Ghana.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Street_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;line-height: 115%; margin: 0in 0in 10pt;&quot;&gt;I visited the Kwabenya Atomic Primary School and talked with teachers and the headmistress.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/School_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;margin: 0in 0in 10pt;&quot;&gt;Students performing at the school.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Music_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;margin: 0in 0in 10pt;&quot;&gt;Students get meals in school through a local farming program. School officials hope that nutritious meals will help students focus and perform better in classes throughout the day.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Class_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;margin: 0in 0in 10pt;&quot;&gt;The next day, I visited the Awutu Health Center, where I met with Ms. Patricia Antwi, the District Director of Health Services. She gave me an overview of the health services and described how she uses data to make decisions and manage and motivate her team.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/AwutuHealthCenter_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;margin: 0in 0in 10pt;&quot;&gt;We discussed the successes and challenges they experienced introducing two new vaccines (Pneumococcal and Rotavirus) simultaneously through an immunization program last April.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Vaccines_700.jpg" />
+					
+						<img alt="&lt;p style=&quot;margin: 0in 0in 10pt;&quot;&gt;Next, I visited the community health compound in the village of Ahentia. I wanted to visit it to see the kind of clinic where most Ghanaians get their health care.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/MobileMidwife_700.jpg" />
+					
+						<img alt="Alice Grant Yamoah runs the compound with three other colleagues. Here, she gives six-week-old Fredrick his rotavirus vaccine." src="/~/media/Images/GatesNotes/Health/Ghana-trip/Baby_700.jpg" />
+					
+						<img alt="&lt;p&gt;Ghana has set up special zones for planning health services, which lets them reach under-served areas with small populations of no more than 5,000 people.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Charts_700.jpg" />
+					
+						<img alt="&lt;p&gt;The Ahentia facility offers basic primary care while also conducting outreach and door-to-door delivery of services, using mobile phones to track patient visits and immunizations.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/Mobile_700.jpg" />
+					
+						<img alt="&lt;p&gt;In Accra, I met with the recently-elected president of Ghana, John Dramani Mahama, and several of his key ministers. I told President Mahama how impressed I am that they are using the MDGs to frame their work. Ghana&amp;rsquo;s strong immunization system is a great example for other countries.&lt;/p&gt;" src="/~/media/Images/GatesNotes/Health/Ghana-trip/President_700.jpg" />
+					
+						</div>
+					
+
+                <script language="javascript" type="text/javascript">
+
+                    (function ($, sr) {
+
+                        // debouncing function from John Hann
+                        // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+                        var debounce = function (func, threshold, execAsap) {
+                            var timeout;
+
+                            return function debounced() {
+                                var obj = this, args = arguments;
+                                function delayed() {
+                                    if (!execAsap)
+                                        func.apply(obj, args);
+                                    timeout = null;
+                                };
+
+                                if (timeout)
+                                    clearTimeout(timeout);
+                                else if (execAsap)
+                                    func.apply(obj, args);
+
+                                timeout = setTimeout(delayed, threshold || 100);
+                            };
+                        }
+                        // smartresize 
+                        jQuery.fn[sr] = function (fn) { return fn ? this.bind('resize', debounce(fn)) : this.trigger(sr); };
+
+                    })(jQuery, 'smartresize');
+
+                    var oldWidth = $('body').width()
+                    var galleriaWidth = 0;
+                    var galleriaIndex = 0;
+                    jQuery(document).ready(function () {
+                        var isiPad = navigator.userAgent.match(/iPad/i) != null;
+
+                        Galleria.loadTheme('/GatesNotesV2/js/galleria/galleria.classic.js');
+                        jQuery('#galleria').html(jQuery('#galleriaTemplate').html());
+                        jQuery('#galleria').galleria({ carouselFollow: true });
+
+                        //Ipads need different resizing
+                        if (isiPad) {
+                            window.onorientationchange = function () {
+                                jQuery('#galleria').html(jQuery('#galleriaTemplate').html()).css('display', 'none');
+                                jQuery('#galleria').galleria({ show: galleriaIndex }).css('display', 'block');
+                            }
+                        } else {
+                            $(window).smartresize(function () {
+                                newWidth = $('body').width()
+                                if (resizeThresholdPassed(newWidth, oldWidth)) {
+                                    jQuery('#galleria').html(jQuery('#galleriaTemplate').html()).css('display', 'none');
+                                    jQuery('#galleria').galleria({ show: galleriaIndex }).css('display', 'block');
+                                }
+                                oldWidth = newWidth;
+                            });
+                        }
+                    });
+
+                    function resizeThresholdPassed() {
+                        if ((newWidth >= 768 && oldWidth <= 768) || (newWidth <= 768 && oldWidth >= 768)) {
+                            return true;
+                        } else if ((newWidth >= 979 && oldWidth <= 979) || (newWidth <= 979 && oldWidth >= 979)) {
+                            return true;
+                        } else if ((newWidth >= 1225 && oldWidth <= 1225) || (newWidth <= 1225 && oldWidth >= 1225)) {
+                            return true;
+                        } else {
+                            return false;
+                        }
+                    }						
+                </script>
+				
+
+
+				
+				<p class="date">March 27, 2013 | By Bill Gates</p>
+				<h1>Seeing Ghana’s Health Care System in Action</h1>
+				<h2></h2>
+
+				<blockquote>During my visit, I was very impressed by the information tracking in Ghana’s health care system. It’s enabling health care workers to closely measure their progress in delivering immunizations and other patient services. And it’s helping Ghana make progress toward the Millennium Development Goals.</blockquote>
+				<p style="margin: 0in 0in 10pt;">I got to spend two days in Ghana this week.&nbsp;It was my first visit there, and the time was really productive and inspiring. I got to watch an effective health system in action &ndash; from the decision makers at the national level to nurses who live and work in the villages.&nbsp;</p>
+<p>I had heard that Ghana&rsquo;s health system thrived on tracking information but I didn&rsquo;t realize until I got there that it has an entire culture of data. Every immunization is carefully documented in the mother&rsquo;s green booklet that tracks the health care of each child, as well as recorded in large registry books. That data moves up the chain to the sub-district and district levels. This kind of rigor may sound obvious, but in many places I&rsquo;ve traveled,&nbsp;recordkeeping is so erratic that health workers don&rsquo;t know how many babies live in their area of service, much less whether they&rsquo;ve had all of their shots.</p>
+<p>I met Patricia Antwi, district director of health services in Awutu Senya, about an hour&rsquo;s drive north of Accra. Every month she gathers all of the sub-district heads to validate and pressure test their data with each other. Then every quarter all of the district leaders in her region meet and do the same. They track their work and adjust their planning and decision making based on such data as patient visits, products delivered and used, and immunization coverage rates. They openly debate what they have measured to help each other improve. They admit when it doesn&rsquo;t go as well as it should.&nbsp; </p>
+<p>Many of us are looking at potential digital strategies for record-keeping, but paper is pretty good. </p>
+<p>The energy and commitment of the well-trained nurses was obvious. Alice Grant Yamoah runs the community health compound in the village of Ahentia. She lives in the heart of the community with three colleagues.&nbsp;A couple of days a week they go out in to the villages to treat or immunize children when their mothers don&rsquo;t bring them in.&nbsp;Alice showed me how to give six-week-old Fredrick his rotavirus vaccine. Luckily for Fredrick these are drops that are fairly easy to administer. Still, both Fredrick and his mother were patient with someone doing it who clearly was less experienced than Alice and her colleagues.</p>
+<p>There is a lot to learn from Ghana&rsquo;s successes &ndash; but the most important in my mind is that countries need to have a really strong primary health care system that includes&nbsp;immunization as well as maternal and child health, malaria treatment and prevention, and other things that protect children and their families.&nbsp;It was a strong reminder to me that health is the magic lever. If you make progress there, it will help with all other things. </p>
+<p>I&rsquo;m a huge believer in the Millennium Development Goals, and I was also struck in Ghana over how important they are in helping drive focus and progress in the right places and in the right ways. </p>
+<p>After visiting the clinics, I had the opportunity to meet with President <strong>John Dramani Mahama,</strong> who came into office in January. I was impressed by his strong focus on the MDGs. President Mahama and his ministers have a clear sense for where there has been great progress and where they still need to drive improvement. </p>
+<p>The MDGs have really helped Ghana&rsquo;s leaders focus their efforts, develop effective plans and measure their progress. Mahama was very clear about the good strides they have made in hunger and poverty as well as child mortality and education. He was equally candid about where they must redouble efforts to hit their targets in the areas of maternal health and sanitation. They still have a ways to go, but what&rsquo;s exciting is that they have a strong direction and a solid plan to accelerate progress.</p>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Development">development</a>, </li><li><a href="/Search?search=Health">health</a>, </li><li><a href="/Search?search=vaccines">vaccines</a>, </li><li><a href="/Search?search=Ghana">Ghana</a>, </li><li><a href="/Search?search=Africa">Africa</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{883EAC67-3745-400C-8008-5E88941348A4}";
+    var disqus_url = "http://www.thegatesnotes.com/Topics/Health/Seeing-Ghanas-Healthcare-System-in-Action";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.facebook.com','dcsuri','/share','WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Facebook Sidebar');openSharingSite('facebook', document.title);})()" id="content_0_ctl03_Articles_ImageTileLink_0" class="facebook">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_facebook-220x44-a.jpg" alt="Share on Facebook"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.twitter.com','dcsuri','/share', 'WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Twitter Sidebar');openSharingSite('twitter', 'Seeing Ghana’s Health Care System in Action http://b-gat.es/NhjI2Q');})()" id="content_0_ctl03_Articles_ImageTileLink_1" class="twitter">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_twitter-220x44-a.jpg" alt="Share on Twitter"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_2" title="Three Reasons I’m Excited about the Future of Ghana" href="/Topics/Health/Three-Reasons-Im-Excited-About-the-Future-of-Ghana"><p id="content_0_ctl03_Articles_P2_2" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Health/Ghana-trip/Ghana5a_opt-1-220x.jpg" alt="Bill Gates: Three Reasons I'm Excited about Ghana's Future"/>
+							
+						</p></a>
+					<a href="/Topics/Health/Three-Reasons-Im-Excited-About-the-Future-of-Ghana">
+						<p class="date">March 27, 2013</p>
+						<h1>Progress in Ghana</h1>
+
+						<p>Here are three reasons I'm excited about Ghana's future.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_3" title="What I&#39;m Learning about Ghana" href="/Topics/Health/What-Im-Learning-about-Ghana"><p id="content_0_ctl03_Articles_P2_3" class="image">
+							
+                            
+							
+						</p></a>
+					<a href="/Topics/Health/What-Im-Learning-about-Ghana">
+						<p class="date">March 25, 2013</p>
+						<h1>What I’m Learning about Ghana</h1>
+
+						<p>I'm visiting Ghana to see firsthand why the country’s immunization system is working so well and meet the people involved.<br/><br/></p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Seeing Ghana’s Health Care System in Action', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Seeing Ghana’s Health Care System in Action', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Seeing Ghana’s Health Care System in Action', 'WT.ti', 'End: Seeing Ghana’s Health Care System in Action', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Seeing Ghana’s Health Care System in Action', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Seeing-Ghanas-Healthcare-System-in-Action"
+    s.channel = "Development"
+    s.pageType = "Article"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

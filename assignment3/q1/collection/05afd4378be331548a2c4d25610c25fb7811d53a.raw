@@ -1,0 +1,1035 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en" itemscope itemtype="http://schema.org/Article">           <![endif]-->
+<!--[if (gt IE 9)|!(IE)]<!--><html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+<!--
+              .:+uuuuuuuuuuu+:.
+          ./sssssssssssssssssssss/-
+       ./aaaaaaaaaaaaaaaaaaaaaaaaaaa/.
+     .+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+.
+   `/sssssssssssssssssssssssssssssssssss/
+  `aaaaaaaaaaaaa:-`       `-:aaaaaaaaaaaaa.
+ `uuuuuuuuuuu/.               ./uuuuuuuuuuu.
+ sssssssssss.                   .sssssssssss`
+-aaaaaaaaaa`                     `+aaaaaaaaa:
+uuuuuuuuuu.                       `uuuuuuuuuu
+ssssss-```                         ```-ssssss
+`       ....aaaaaaaaaaaaaaaaaaaaa....       `
+...+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+...
+-ssssssssssssss+//-```                  `````
+ aaaaa+/:-`            ...aaaaaaaaaaaaaaaaaa.
+ `/-``        ..::uuuuuuuuuuuuuuuuuuuuuuuuu.
+        .:/+sssssssssssssssss-```      ````
+     /aaaaaaaaaaaaa+/:-``       ...aaaaaa
+     .+uuuuuuu/:-``        .-:/+uuuuuuu-
+       ./s/-`         -:+sssssssssss+.
+                  -/aaaaaaaaaaaaa+-`
+              .:+usausausausa+:]
+-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Organizing for Action</title>
+
+    
+    <meta name="description" content="The next big step for our grassroots movement is being launched: Organizing for Action.">
+    <link rel="canonical" href="http://www.barackobama.com/">
+
+    <meta property="og:title" content="Organizing for Action">
+    <meta property="og:type" content="cause">
+    <meta property="og:url" content="http://www.barackobama.com/">
+    <meta property="og:image" content="http://secure.assets.bostatic.com/org-for-action/fb-thumbnail.jpg">
+    <meta property="og:site_name" content="Organizing for Action">
+    <meta property="og:description" content="The next big step for our grassroots movement is being launched: Organizing for Action.">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@BarackObama">
+
+    <meta itemprop="name" content="Organizing for Action">
+    <meta itemprop="image" content="http://secure.assets.bostatic.com/org-for-action/fb-thumbnail.jpg">
+    <link rel="image_src" href="http://secure.assets.bostatic.com/org-for-action/fb-thumbnail.jpg">
+    <meta name="thumbnail" content="http://secure.assets.bostatic.com/org-for-action/fb-thumbnail.jpg" />
+
+    
+
+
+    <meta name="twitter:site" content="@BarackObama">
+    <meta property="fb:page_id" content="6815841748">
+    <meta property="fb:app_id" content="111399285589490">
+    <meta property="article:publisher" content="https://www.facebook.com/BarackObama" />
+
+    <link rel="publisher" href="https://plus.google.com/110031535020051778989">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" href="//secure.assets.bostatic.com/hydepark/images/touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@114x114.png">
+
+
+    <link rel="shortcut icon" href="//secure.assets.bostatic.com/hydepark/images/favicon.ico">
+
+
+    <link rel="stylesheet" href="https://secure.assets.bostatic.com/fonts/11298/4E8DEE4E5CB6EFD97.css">
+    
+
+    <link rel="stylesheet" href="//secure.assets.bostatic.com/apps/madison/static/css/site/structure/core.css">
+    <link rel="stylesheet" href="//secure.assets.bostatic.com/apps/madison/static/css/site/structure/action-bar.css">
+    <link rel="stylesheet" href="//secure.assets.bostatic.com/apps/madison/static/css/site/structure/footer.css">
+    <link rel="stylesheet" type="text/css" href="//secure.assets.bostatic.com/apps/madison/static/css/site/heroshot/hero.css">
+    <link rel="stylesheet" type="text/css" href="//secure.assets.bostatic.com/apps/madison/static/css/site/heroshot/nav.css">
+    <link rel="stylesheet" href="//secure.assets.bostatic.com/apps/madison/static/css/site/structure/home-page.css">
+
+
+    <script>var _gaq=_gaq||[];_gaq.push(['_setAccount',"UA-30908-1"]);_gaq.push(['_setDomainName','barackobama.com']);_gaq.push(function(){function a(a){return(RegExp("(?:^|; )"+a+"=([^;]*)").exec(document.cookie)||[]).pop()}function b(a){_gaq.push(["_setCustomVar"].concat(a).concat(2))}location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,c,d){"source"==c&&b([1,"Source",d])});a("msid")&&b([2,"mailing_send_id",""+(parseInt(a("msid"),16)^1438720643)]);b([5,"Logged In",""+!!a("PHPSESSID")]);b([3,"Has GUID",""+!!a("guid")]);b([4,"Has Spud",""+!!a("spud")])});_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+    <script src="//secure.assets.bostatic.com/frontend/polyfills/vendors/modernizr-2.0.6.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//secure.assets.bostatic.com/apps/madison/static/js/jquery-1.7.0.min.js"><\/script>')</script>
+
+    <link rel="profile" href="http://microformats.org/profile/hcard">
+    <link rel="profile" href="http://microformats.org/profile/hcalendar">
+
+    
+
+<style>
+    #zip-search-form input[type="submit"] {
+        padding: 7px;
+    }
+    #event-search-results .event {
+        background: white;
+        padding: 12px 12px 12px 0;
+        border-radius: 3px;
+        margin-bottom: 20px;
+    }
+    #event-search-results .no-results {
+        display:none;
+    }
+    #event-search-results .no-results p {
+        padding: 0 20px;
+    }
+</style>
+
+
+    
+    
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+
+<body class="home-page home-page">
+    
+
+    <header id="action-bar" class="action-bar" role="banner">
+        <div class="row">
+            <div class="container">
+                <div>
+                    <nav class="logo-link">
+                        <a href="/?source=action-bar" title="Organizing for Action Homepage" class="logo">Homepage</a>
+                    </nav>
+                </div>
+                
+                <div class="">
+                    <nav class="ab-navs donate-group">
+                        
+                        <a href="https://contribute.barackobama.com/?source=site_actionbar" title="Donate to Organizing for Action" class="button donate">Donate</a>
+                                  
+                    </nav>
+
+                    
+                    <nav class="ab-navs profile-group auth">
+                        <ul class="identity">
+                            <li class="login">
+                                <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Log In">Log in</a>
+                            </li>
+
+                            <li class="create-account">
+                                <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Create Account">Create account</a>
+                            </li>
+                        </ul> 
+                    </nav>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+    
+    
+        <div class="row heroshot nav-bottom">
+            <div class="tiles three-tiles">
+                <div class="tile get-the-facts-hero" style="background: #f1f1f1 url(https://secure.assets.bostatic.com/madison/images/heroes/hero-1.gif) 50% 50% no-repeat;">
+                    <div class="container">
+                        <div class="span5 offset7">
+                            <div class="callout">
+       
+                                
+
+<h2>Make a difference</h2>
+<span class="hanging">Change comes about because people are activated, people are involved.  When those voices are heard, you can't stop it.</span>
+
+                                <form id="httpsmybarackobamacompagesofa-are-you-insource20130916-get-the-facts-hero" method="POST" action="https://my.barackobama.com/page/s/ofa-are-you-in?source=20130916-get-the-facts-hero" class="inline signup">
+    <ol>
+        <li class="email">
+            <label for="hero_emailhttpsmybarackobamacompagesofa-are-you-insource20130916-get-the-facts-hero">Email</label>
+            <input type="email" name="email" value="" id="hero_emailhttpsmybarackobamacompagesofa-are-you-insource20130916-get-the-facts-hero" required placeholder="Email">
+        </li>
+        <li class="zip">
+            <label for="hero_ziphttpsmybarackobamacompagesofa-are-you-insource20130916-get-the-facts-hero">ZIP Code</label>
+            <input type="text" name="zip" value="" id="hero_ziphttpsmybarackobamacompagesofa-are-you-insource20130916-get-the-facts-hero" required pattern="[\d]{5}(-[\d]{4})?" placeholder="ZIP">
+        </li>
+        <li class="button">
+            <button type="submit" class=" ">Join us</button>
+        </li>
+    </ol>
+    <input type="hidden" name="bp_load_counter" value="1">
+    <input name="redirect_url" type="hidden" value="">
+</form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tile get-the-latest-hero" style="background: #f1f1f1 url(https://secure.assets.bostatic.com/madison/images/heroes/facts-hero-2.gif) 50% 50% no-repeat;">
+                    <div class="container">
+                        <div class="span5 offset7">
+                            <div class="callout">
+                                
+
+<h2 class="hanging">Our economy isn’t something to play politics with.</h2>
+<p>	 <em>—President Obama</em></p>
+<p>
+	    Don't let Congress sabotage the economy. Tell them: Enough already.
+</p>
+
+                                <form id="httpsmybarackobamacompagesstand-up-to-nonsense" method="POST" action="https://my.barackobama.com/page/s/stand-up-to-nonsense" class="inline signup">
+    <ol>
+        <li class="email">
+            <label for="hero_emailhttpsmybarackobamacompagesstand-up-to-nonsense">Email</label>
+            <input type="email" name="email" value="" id="hero_emailhttpsmybarackobamacompagesstand-up-to-nonsense" required placeholder="Email">
+        </li>
+        <li class="zip">
+            <label for="hero_ziphttpsmybarackobamacompagesstand-up-to-nonsense">ZIP Code</label>
+            <input type="text" name="zip" value="" id="hero_ziphttpsmybarackobamacompagesstand-up-to-nonsense" required pattern="[\d]{5}(-[\d]{4})?" placeholder="ZIP">
+        </li>
+        <li class="button">
+            <button type="submit" class="red">Add your name</button>
+        </li>
+    </ol>
+    <input type="hidden" name="bp_load_counter" value="1">
+    <input name="redirect_url" type="hidden" value="">
+</form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tile get-involved-hero" style="background: #f1f1f1 url(https://secure.assets.bostatic.com/madison/images/heroes/hero-3.gif) 50% 50% no-repeat;">
+                    <div class="container">
+                        <div class="span5 offset7">
+                            <div class="callout">
+                                
+
+<h2>Visit the Action Hub</h2>
+<p>
+	     There are so many ways to take action in your community right now.
+</p>
+<p>
+	<a href="action" class="button green">Get Involved</a>
+</p>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        <div class="row navigation overlay">
+                <div class="container">
+                    <a class="close hidden-phone" href="#"></a>
+                    <nav>
+                        <ul>
+                            <li class="parent tab span12"><a class="mobile" href="get-the-facts">Get the facts</a>
+                                <ul>
+                                    <li class="child span3 get-the-facts-nav">
+                                        <h3 class="hidden-phone">Features</h3>
+                                        <ul>
+                                            <li><a href="/impact/" title="Impact Map">Impact Map</a></li>
+                                            <li><a href="/action/" title="Action Hub">Action Hub</a></li>
+                                            <li><a href="/about/barack-obama/" title="About President Obama">About President Obama</a></li>
+                                            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+                                            <li><a href="/faq/" title="Frequently Asked Questions">FAQ</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-the-facts-nav">
+                                        <h3 class="hidden-phone">Issues</h3>
+                                        <ul>
+                                            <li><a href="/climate/" title="Climate Change">Climate Change</a></li>
+                                            <li><a href="/gun-reform/" title="Gun Violence Prevention">Gun Violence Prevention</a></li>
+                                            <li><a href="/health-care/" title="Health">Health Care</a></li>
+                                            <li><a href="/immigration/" title="Immigration Reform">Immigration Reform</a></li>
+                                            <li><a href="/economy/" title="Jobs and the Economy">Jobs &amp; the Economy</a></li>
+                                            <li><a href="https://www.facebook.com/obamapride" title="Marriage Equality">Marriage Equality</a></li>
+                                            <li><a href="/women/" title="Stand with Women">Stand with Women</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="parent tab span12"><a class="mobile" href="get-the-latest">Get the latest</a>
+                                <ul>
+                                    <li class="child span3 get-the-latest-nav">
+                                        <h3 class="hidden-phone">Blogs</h3>
+                                        <ul>
+                                            <li><a href="/news/" title="Main Blog">Main Blog</a></li>
+                                            <li><a href="/news/?tags=Environment" title="Climate Change Blog">Climate Change Blog</a></li>
+                                            <li><a href="/news/?tags=Gun-Violence-Prevention" title="Gun Violence Prevention Blog">Gun Violence Prevention Blog</a></li>
+                                            <li><a href="/news/?tags=Health-Care" title="Health Care Blog">Health Care Blog</a></li>
+                                            <li><a href="/news/?tags=Immigration" title="Immigration Reform Blog">Immigration Reform Blog</a></li>
+                                            <li><a href="/news/?tags=Economy-and-Jobs" title="Jobs and the Economy Blog">Jobs &amp; the Economy Blog</a></li>
+                                            <li><a href="/news/?tags=Womens-Voices" title="Stand with Women Blog">Stand with Women Blog</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-the-latest-nav">
+                                        <h3 class="hidden-phone">Connect with us</h3>
+                                        <ul>
+                                            <li><a href="http://www.facebook.com/barackobama" title="Barack Obama on Facebook" target="_blank">Barack Obama on Facebook</a></li>
+                                            <li><a href="http://www.twitter.com/barackobama" title="@BarackObama on Twitter" target="_blank">@BarackObama on Twitter</a></li>
+                                            <li><a href="http://www.twitter.com/ofa" title="@OFA on Twitter" target="_blank">@OFA on Twitter</a></li>
+                                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Barack Obama on Google+" target="_blank">Barack Obama on Google+</a></li>
+                                            <li><a href="http://instagram.com/barackobama" title="Barack Obama on Instagram" target="_blank">Barack Obama on Instagram</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="parent tab span12"><a class="mobile" href="get-involved">Get involved</a>
+                                <ul>
+                                    <li class="child span3 get-involved-nav">
+                                        <h3 class="hidden-phone">Events</h3>
+                                        <ul>
+                                            <li><a href="/events/" title="Attend an Event">Attend an Event</a></li>
+                                            <li><a href="https://my.barackobama.com/page/event/create" title="Host an Event">Host an Event</a></li>
+                                            <li><a href="/action/?default=host-guides" title="Event Host Materials">Event Host Materials</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-involved-nav">
+                                        <h3 class="hidden-phone">Digital Organizing Tools</h3>
+                                        <ul>
+                                            <li><a href="/action/" title="Action Hub">Action Hub</a></li>
+                                            <li><a href="/stories/" title="Your Stories">Your Stories</a></li>
+                                            <li><a href="/health-care/" title="Obamacare Resources">Obamacare Resources</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="row tab-container">
+                <div class="container">
+                    <div id="hero-tabs" class="tabs hidden-phone">
+                        <ul>
+                            <li class="tab"><a href="get-the-facts"><strong>Get the facts</strong></a></li>
+                            <li class="tab"><a href="get-the-latest"><strong>Get the latest</strong></a></li>
+                            <li class="tab"><a href="get-involved"><strong>Get involved</strong></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
+<div class="tabbed-content">
+    <div class="container get-the-facts-container">
+        <section id="main_1" role="main" class="main">
+            <div class="row">
+                <div class="span12">
+                    
+                    
+
+<p class="leader">
+	<em>Organizing for Action</em> is the grassroots movement fighting for the agenda Americans voted for in 2012. We are millions of people, empowering individuals to make their voices heard. <a href="/about" class="action">Learn more »</a>
+</p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="span8">
+     
+                            
+
+<article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static//images/homepage-tiles/climate-thumb.png" alt="Climate">
+<h3><a href="/climate">Climate</a></h3>
+<p>
+	                         Organizing to make America a global leader in clean energy and changing the conversation on climate by calling out lawmakers who deny the basic science of climate change <a href="/climate" class="action">learn more »</a>
+</p>
+</article><article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static/images/homepage-tiles/gunviolenceprevention.gif" alt="Gun Violence Prevention">
+<h3><a href="/gun-reform/">Gun Violence Prevention</a></h3>
+<p>
+	                         Speaking out for common sense laws that help keep guns out of dangerous hands and keep our communities safe <a href="/gun-reform" class="action">learn more »</a>
+</p>
+</article><article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static/images/homepage-tiles/healthcare.gif" alt="Health Care">
+<h3><a href="/health-care">Health Care</a></h3>
+<p>
+	                         Helping millions of Americans learn about how Obamacare works for them and how they can find affordable care <a href="/health-care" class="action">learn more »</a>
+</p>
+</article><article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static/images/homepage-tiles/immigration-thumb.png" alt="Immigration">
+<h3><a href="/immigration">Immigration</a></h3>
+<p>
+	                         Fighting to fix our broken immigration system to grow our economy by creating an earned pathway to citizenship for undocumented youth and their families <a href="/immigration" class="action">learn more »</a>
+</p>
+</article><article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static/images/homepage-tiles/jobs-econ-thumb.png" alt="Jobs and the Economy">
+<h3><a href="/economy">Jobs &amp; the Economy</a></h3>
+<p>
+	                         Working for a better bargain for all Americans, building a stronger and more secure economy for the middle class and for those working to get in the middle class <a href="/economy" class="action">learn more »</a>
+</p>
+</article><article class="issue"><img src="//secure.assets.bostatic.com/apps/madison/static/images/homepage-tiles/women.gif" alt="Stand with Women">
+<h3><a href="/women">Stand with Women</a></h3>
+<p>
+	                         Protecting women’s rights, promoting women’s economic security and advancing women’s leadership <a href="/women" class="action">learn more »</a>
+</p>
+</article>
+
+               
+                </div>
+                <div class="span4">
+                            
+                            <ul class="sidebar-tiles" style="margin-bottom: 20px;">
+	<li class="blue"><a href="/health-care" title="Obamacare">SEE HOW OBAMACARE WORKS FOR&nbsp;<strong>YOU</strong></a></li>
+	<li class="left-half blue"><a href="/impact" title="Impact Map"><strong>IMPACT </strong>MAP</a></li>
+	<li class="right-half"><a href="/about/barack-obama" title="Barack Obama"><strong>BARACK </strong>OBAMA</a></li>
+</ul>
+      
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="container get-the-latest-container">
+        <section id="main_2" role="main" class="main">
+            <div class="row">
+                <div class="span12">
+                    
+
+<p class="leader">
+	  OFA is making a difference every day. Read the latest news on how we're fighting for Americans in communities nationwide. <a href="/news" class="action">Read More »</a>
+</p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="span6">
+               
+                        <div class="hfeed module">
+	<ul class="blog-posts">
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="president-obama-tells-congress-pass-budget">
+    <header>
+        <h2 class="entry-title"><a href="/news/president-obama-tells-congress-pass-budget/" title="President Obama: &quot;They&#39;re playing political games&quot;">President Obama: &quot;They&#39;re playing political games&quot;</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  Tell Congress to pass a budget.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-28T13:00:00-05:00">September 28, 2013</time>
+            
+                | <span class="author vcard fn">Samantha Abernethy</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        President Obama asks Americans to remind Speaker Boehner that Congress has a job to do.
+        <a class="action" href="/news/president-obama-tells-congress-pass-budget/" title="President Obama: &quot;They&#39;re playing political games&quot;">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="donor-wall">
+    <header>
+        <h2 class="entry-title"><a href="/news/donor-wall/" title="Introducing the OFA Donor Wall">Introducing the OFA Donor Wall</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  These people are building this movement, brick by brick.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-27T13:00:00-05:00">September 27, 2013</time>
+            
+                | <span class="author vcard fn">Kathy Gasperine, Development Director</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        Your name can be here—just chip in to help before our critical September 30th fundraising deadline.<br>
+ <br>
+ <img src="https://secure.assets.bostatic.com/apps/madison/media/blog_images/e8c9e2cb828c4a19984b7d40cf2c51cd_Screen Shot 2013-09-27 at 12.45.55 PM.png">
+        <a class="action" href="/news/donor-wall/" title="Introducing the OFA Donor Wall">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=women" title="View more posts in Women">Women</a>
+            
+                <a href="/news/?tags=health-care" title="View more posts in Health Care">Health Care</a>
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+                <a href="/news/?tags=environment" title="View more posts in Environment">Environment</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="become-member-get-free-magnet">
+    <header>
+        <h2 class="entry-title"><a href="/news/become-member-get-free-magnet/" title="Become a member and get a free magnet">Become a member and get a free magnet</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  Proudly display your commitment to action
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-26T13:16:08-05:00">September 26, 2013</time>
+            
+                | <span class="author vcard fn">Samantha Abernethy</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        <a href="https://contribute.barackobama.com/donation/orgforaction/09/car-magnet.html?source=socnet_blog_GRF_20130926_bo_1"><img src="https://secure.assets.bostatic.com/apps/madison/media/blog_images/d0b6757902dc494b9d76093f51ec7571_OFA-CarMagnet_FBShare_092313.png" alt=""></a>
+        <a class="action" href="/news/become-member-get-free-magnet/" title="Become a member and get a free magnet">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=organizing" title="View more posts in Organizing">Organizing</a>
+            
+                <a href="/news/?tags=health-care" title="View more posts in Health Care">Health Care</a>
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="government-shutdown-enough-already">
+    <header>
+        <h2 class="entry-title"><a href="/news/government-shutdown-enough-already/" title="One step closer to a government shutdown">One step closer to a government shutdown</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  The clock is ticking, but a group of Republicans is still playing games with our economy.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-30T11:19:12-05:00">September 30, 2013</time>
+            
+                | <span class="author vcard fn">Jon Carson, Executive Director</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        On Saturday night a group of Republicans in the House of Representatives continued on a path towards a shutdown of the federal government, unless their demand to delay Obamacare by a year is met. Here's what that means.
+        <a class="action" href="/news/government-shutdown-enough-already/" title="One step closer to a government shutdown">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="united-nations-ipcc-report-climate-change">
+    <header>
+        <h2 class="entry-title"><a href="/news/united-nations-ipcc-report-climate-change/" title="United Nations releases sobering report on climate change">United Nations releases sobering report on climate change</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  These 800 scientists have a message for climate deniers
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-28T09:00:00-05:00">September 28, 2013</time>
+            
+                | <span class="author vcard fn">Ivan Frishberg, Climate Campaign Manager</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        It is hard to look at today's news from the UN's Intergovernmental Panel on climate change as good news, but I think it might be.<br>
+<img src="https://secure.assets.bostatic.com/apps/madison/media/blog_images/68939b2891c848a09cf17e8ab753afd3_CC-800scientists-share3-v2_2.png" alt="">
+        <a class="action" href="/news/united-nations-ipcc-report-climate-change/" title="United Nations releases sobering report on climate change">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=climate" title="View more posts in Climate">Climate</a>
+            
+                <a href="/news/?tags=environment" title="View more posts in Environment">Environment</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="americans-tell-congress-where-its-at">
+    <header>
+        <h2 class="entry-title"><a href="/news/americans-tell-congress-where-its-at/" title="Enough Already: Americans tell Congress where it&#39;s at">Enough Already: Americans tell Congress where it&#39;s at</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  Volunteers demand that Congress stop playing political games.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-28T00:00:00-05:00">September 28, 2013</time>
+            
+                | <span class="author vcard fn">Liz Merrow</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        A group of Republicans are willing to shut down the government over Obamacare. OFA volunteers aren't taking that lying down.<br>
+        <a class="action" href="/news/americans-tell-congress-where-its-at/" title="Enough Already: Americans tell Congress where it&#39;s at">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=health-care" title="View more posts in Health Care">Health Care</a>
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="immigration-reform-letter-to-the-editor">
+    <header>
+        <h2 class="entry-title"><a href="/news/immigration-reform-letter-to-the-editor/" title="Letter to the editor: It&#39;s time">Letter to the editor: It&#39;s time</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  Comprehensive immigration reform can&#39;t wait any longer. It&#39;s time for the House of Representatives to act.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-27T12:00:00-05:00">September 27, 2013</time>
+            
+                | <span class="author vcard fn">Pedro Morillas, Immigration Campaign Manager</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        By writing a short letter to your local newspapers, you can help bring attention to the the House of Representatives' failure to act on immigration reform.<br>
+<br>
+ <img src="https://secure.assets.bostatic.com/apps/madison/media/blog_images/b02c1dad23334db0b4f1080d850e1326_20130925cirlte.jpg">
+        <a class="action" href="/news/immigration-reform-letter-to-the-editor/" title="Letter to the editor: It&#39;s time">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=immigration" title="View more posts in Immigration">Immigration</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="stop-the-government-shut-down-threat">
+    <header>
+        <h2 class="entry-title"><a href="/news/stop-the-government-shut-down-threat/" title="Here&#39;s what people have to say about a government shutdown">Here&#39;s what people have to say about a government shutdown</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  Spoiler: They&#39;re not happy about it. 
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-26T18:09:00-05:00">September 26, 2013</time>
+            
+                | <span class="author vcard fn">Ethan Krupp</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        OFA recorded reactions from people after the House of Representatives voted once again to try and defund Obamacare.<br>
+<br>
+<iframe width="560" height="315" src="//www.youtube.com/embed/e1lB3_wYHy4?list=UUNtsF7N2vuMcX-ZvTwzD_tw" frameborder="0" allowfullscreen="">
+</iframe>
+        <a class="action" href="/news/stop-the-government-shut-down-threat/" title="Here&#39;s what people have to say about a government shutdown">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=health-care" title="View more posts in Health Care">Health Care</a>
+            
+                <a href="/news/?tags=economy-and-jobs" title="View more posts in Economy and jobs">Economy and jobs</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="good-news-obamacare-premiums">
+    <header>
+        <h2 class="entry-title"><a href="/news/good-news-obamacare-premiums/" title="More good news on Obamacare">More good news on Obamacare</a>
+        </h2>
+        
+            <h3 class="entry-subtitle">
+                  How good are prices on the new health insurance marketplace? Pretty damn good.
+            </h3>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-26T07:12:57-05:00">September 26, 2013</time>
+            
+                | <span class="author vcard fn">Erin Hannigan, Health Care Campaign Manager</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        While Washington is focused on the political games being played by Senator Ted Cruz and a group of Republicans in the House who are willing to sabotage the economy over Obamacare, what is making headlines in the rest of America? The facts.
+        <a class="action" href="/news/good-news-obamacare-premiums/" title="More good news on Obamacare">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=health-care" title="View more posts in Health Care">Health Care</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	    <li class="blog-post module ">
+	        <article class="post" data-slug="house-leadership-rebukes-science">
+    <header>
+        <h2 class="entry-title"><a href="/news/house-leadership-rebukes-science/" title="ICYMI: House leadership rebukes science">ICYMI: House leadership rebukes science</a>
+        </h2>
+        
+        <div class="byline">
+            <time class="published" datetime="2013-09-25T17:34:44-05:00">September 25, 2013</time>
+            
+                | <span class="author vcard fn">Jesse Lehrich</span>
+            
+        </div>
+    </header>
+
+    <div class="entry-excerpt">
+        This time, not only are <a href="http://www.barackobama.com/climate-deniers?source=socnet_blog_CC_20130925_bo_1">climate change deniers</a> refusing to listen to science—they want to stop others from hearing it as well.
+        <a class="action" href="/news/house-leadership-rebukes-science/" title="ICYMI: House leadership rebukes science">read more &raquo;</a>
+    </div>
+    
+        <span class="tags">
+            
+                <a href="/news/?tags=climate" title="View more posts in Climate">Climate</a>
+            
+                <a href="/news/?tags=environment" title="View more posts in Environment">Environment</a>
+            
+        </span>
+    
+    
+
+</article>
+	    </li>
+	    
+	</ul>
+</div>
+          
+                </div>
+                 <div class="offset1 span4">
+                            
+                            <a class="twitter-timeline" href="https://twitter.com/BarackObama" data-widget-id="379676813661700096">Tweets by @BarackObama</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><ul class="sidebar-tiles" style="margin-bottom: 20px;">
+	<li class="blue"><a href="/health-care" title="Obamacare">SEE HOW OBAMACARE WORKS FOR&nbsp;<strong>YOU</strong></a></li>
+	<li class="left-half blue"><a href="/impact" title="Impact Map"><strong>IMPACT </strong>MAP</a></li>
+	<li class="right-half"><a href="/about/barack-obama" title="Barack Obama"><strong>BARACK </strong>OBAMA</a></li>
+</ul>
+      
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="container get-involved-container">
+        <section id="main_3" role="main" class="main">
+            <div class="row">
+                <div class="span12">
+                    
+
+<p class="leader">
+	We are what we do. Be a part of the grassroots movement by joining the OFA chapter in your community. <a href="/action" class="action">Take action &raquo;</a>
+</p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="span8">
+                    <div class="module">
+                        
+
+<p class="explanatory-text">
+	Find an event near you:
+</p>
+
+
+
+<form id="zip-search-form" action="#">
+    <input type="text" required="required" maxlength="5" title="ZIP Code" pattern="[0-9]{5}" placeholder="ZIP" id="zip" name="zip" />
+    <input type="submit" value="Search" class="submit-btn green" />
+    <input type="hidden" name="event_type_id" value="None">
+    <input type="hidden" name="events_from_date" value="">
+    <input type="hidden" name="events_until_date" value="">
+    <input type="hidden" name="max_results" value="None">
+    <input type="hidden" name="official_only" value="False">
+</form>
+
+<div id="event-search-results">
+	<div class="results"></div>
+    <div class="no-results">
+    	No events found in your area.
+    </div>
+
+</div>
+                    </div>
+                </div>
+                <div class="span4">
+                    <div class="module">
+                        
+
+<div class="well">
+	<nav>
+	<ul>
+		<li><a href="/action" title="Action Hub">Action Hub</a></li>
+		<li><a href="https://my.barackobama.com/page/event/create" title="Host an Event">Host an Event</a></li>
+		<li><a href="/stories" title="Story tool">Story tool</a></li>
+		<li><a href="https://my.barackobama.com/page/s/tweeting-for-action" title="Tweeting for Action">Tweeting for Action</a></li>
+		<li><a href="/action/lte" title="Letter to the Editor">Letter to the Editor</a></li>
+<li><a href="/volunteer" title="Volunteer">Volunteer</a></li>
+	</ul>
+	</nav>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+    <footer id="ft" class=" footer">
+        <div class="navs">
+            <div class="container">
+                
+                <div class="row">
+                    <nav class="span2 about">
+                        <p class="title">About</p>
+                        <ul>
+                            <li><a href="/about/?source=footer-nav" title="About Organizing for Action">Organizing for Action</a></li>
+                            <li><a href="/about/barack-obama/?source=footer-nav" title="About Barack Obama">Barack Obama</a></li>
+                             <li><a href="/faq/?source=footer-nav" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+                            
+                        </ul>
+                    </nav>
+                    <nav class="span2 connect">
+                        <p class="title">Connect</p>
+                        <ul>
+                            <li><a href="http://www.facebook.com/BarackObama" title="Facebook">Facebook</a></li>
+                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Google+">Google+</a></li>
+                            <li><a href="http://www.twitter.com/barackobama" title="Twitter">Twitter</a></li>
+                            <li><a href="http://www.youtube.com/organizingforaction" title="YouTube">YouTube</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 related">
+                        <p class="title">Issues</p>
+                        <ul>
+                            <li><a href="/climate/?source=footer-nav" title="Climate">Climate</a></li>
+                            <li><a href="/gun-reform/?source=footer-nav" title="Gun violence prevention">Gun violence prevention</a></li>
+                            <li><a href="/health-care/?source=footer-nav" title="Health care">Health care</a></li>
+                            <li><a href="/immigration/?source=footer-nav" title="Immigration">Immigration</a></li>
+                            <li><a href="/economy/?source=footer-nav" title="Jobs and the economy">Jobs and the economy</a></li>
+                            <li><a href="/women/?source=footer-nav" title="Stand with women">Stand with women</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2">
+                        <p class="title">In loving memory <br>of Alex Okrent</p>
+                    </nav>
+                    <nav class="span2">
+                        <ul class="social-follows">
+                            <li>
+                                <a href="https://twitter.com/BarackObama" class="twitter-follow-button" data-show-count="false">Follow @BarackObama</a>
+                            </li>
+                            <li>
+                                <div class="fb-like" data-href="http://www.facebook.com/BarackObama" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            
+        </div>
+        <div class="disclaimers container">
+            <div class="disclaimer-links">
+                <ul>
+                    <li><a href="/terms-of-service/?source=footer-nav" title="Terms of Service">Terms of Service</a></li>                    
+                    <li><a href="/privacy-policy/?source=footer-nav" title="Privacy Policy">Privacy</a></li>
+                    <li><a href="/contact-us/?source=footer-nav" title="Contact Us">Contact</a></li>
+
+                </ul>
+            </div>
+            <div class="disclaimer-license">
+                
+                
+                <small class="disclaimer">Paid for by Organizing for Action</small>
+                <small class="license">&copy; 2013 Organizing for Action. All&nbsp;Rights&nbsp;Reserved.</small>
+            </div>
+            
+        </div>
+    </footer>
+    <div id="fb-root"></div>
+    
+    
+    <script>window.loadOpenGraphAPI = false;</script>
+    
+    
+    <script src="https://secure.assets.bostatic.com/uptown/js/footer-switch.js"></script>
+
+    <script src="https://secure.assets.bostatic.com/hydepark/js/core-201211041914.min.js" data-js-base="https://secure.assets.bostatic.com" data-identity="https://login.barackobama.com" data-bsd="https://my.barackobama.com" data-www="http://www.barackobama.com"></script>
+
+
+
+    <script src="//secure.assets.bostatic.com/apps/madison/static/js/madison.js"></script>
+
+
+    
+
+    
+    
+    
+
+    <script type="text/javascript"> var _sf_async_config={uid:26329,domain:"barackobama.com"}; (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script');
+e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
+document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </script>
+
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2MC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2MC');</script>
+    <!-- End Google Tag Manager -->
+    
+<script type="text/javascript">
+
+var resultsBox = $('#event-search-results .results'),
+noResults = $('#event-search-results .no-results');
+$("#zip-search-form").submit(function(e) {
+    e.preventDefault();
+    var params = {
+        event_type_id: this.event_type_id.value === "None" ? "" : this.event_type_id.value,
+        events_from_date: this.events_from_date.value,
+        events_until_date: this.events_until_date.value,
+        max_results: this.max_results.value,
+        official_only: this.official_only.value,
+        zip: this.zip.value
+    }
+    $.get('/event-search-json/', params, showResults, 'json');
+
+    function showResults(events) {
+        resultsBox.empty();
+        if (events.results.length) {
+            $.each(events.results, function(i, event) {
+                var id = event.id,
+                    link = '<h2><a href="' + event.url + '" title="' + event.name + '">' + event.name + '</a></h2>',
+                    date_segments = event.start_day.split('-'),
+                    month_array = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+                    month = month_array[parseInt(date_segments[1], 10) - 1],
+                    time_segments = event.start_time.split(':');
+                if (time_segments[0] <= 12) {
+                    time = time_segments[0] + ':' + time_segments[1] + ' AM'
+                } else {
+                    time = parseInt(time_segments[0]) - 12 + ':' + time_segments[1] + ' PM'
+                }
+                datetime = '<span class="datetime">' + month + ' ' + date_segments[2] + ', ' + date_segments[0] + ' ' + time + '</span><br />',
+                venue = '<span class="venue">' + event.venue_name + ' (' + event.venue_city + ', ' + event.venue_state_cd + ')</span>',
+
+                desc = '<p>' + event.description + '</p>',
+
+                button = '<form class="inline" action="' + event.url + '" method="post" name="event_rsvp" id="event_rsvp" _lpchecked="1"><input name="identification_type" type="hidden" value="nocreate"><table style="display: none;"><tbody><tr id="bsd-will-attend-row"><th>Will you attend: <select onchange="if (this.value == 0) {document.event_rsvp.guests.value = 0;if(document.event_rsvp.pledge_amt) {document.event_rsvp.pledge_amt.value = \'\';}} else if (this.value == 1) {if (document.event_rsvp.guests.value == 0) { document.event_rsvp.guests.value = 1;}if (document.event_rsvp.pledge_amt &amp;&amp; document.event_rsvp.pledge_amt.value.length == 0) {document.event_rsvp.pledge_amt.value=\'\'}}" name="will_attend"><option value="1">Yes, I will attend.</option><option value="0">No, I will not attend.</option></select></th></tr></tbody></table><ol><li class="email"><input size="30" placeholder="Email" id="rsvp_nocreate_email" name="nocreate_email" type="text" class="focused"></li><li class="zip"><input size="6" maxlength="16" id="rsvp_nocreate_zip" placeholder="ZIP" name="nocreate_zip" type="text"></li><li><input type="submit" value="RSVP"></li></ol><div id="guestCount" style="display: none;"><div class="details_header">How many people are coming?<div class="helpText">(incl. yourself)</div></div><div class="details_text"><input size="3" name="guests" type="text" value="1"></div></div></form>';
+
+                $('<div class="event" />').attr('id', 'event-' + event.id).appendTo(resultsBox);
+
+                $('#event-' + event.id).append(link, datetime, venue, desc, button);
+
+                var content = '<div class=\"info_window\"><div>' + link + datetime + venue + desc + button + '</div></div>';
+            });
+
+        }else {
+            resultsBox.empty();
+            noResults.show();
+        }
+    }
+
+});
+</script>
+
+
+    
+
+    
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","277d7e5183","2761384","YlAGNkpZW0pYUEVRClsaIhdWW0FQVl0eWwhGGxILXU9GA11WRVkMWUY=",0,377,new Date().getTime(),"","","","",""]);</script></body>
+</html>

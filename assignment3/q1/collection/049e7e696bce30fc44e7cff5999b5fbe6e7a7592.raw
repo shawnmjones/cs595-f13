@@ -1,0 +1,1058 @@
+
+  
+
+  <!DOCTYPE html PUBLIC
+                "-//W3C//DTD XHTML 1.0 Transitional//EN"
+                "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  
+
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+
+    
+      
+    
+    
+    
+    
+
+    
+    <head>
+      <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+      <meta name="generator" content="Plone - http://plone.org" />
+      
+
+      <!-- Internet Explorer fix, forces IE8 into newest possible rendering
+            engine even if it's on an intranet. This has to be defined before any
+            script/style tags. -->
+      <!-- the extra conditional here is because of IE10, the hacks never end... -->
+      <!--[if IE]>
+      <meta http-equiv="X-UA-Compatible" content="IE=8; IE=7; IE=5" />
+      <![endif]-->
+      
+          <base href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest" /><!--[if lt IE 7]></base><![endif]-->
+      
+
+      
+<link rel="kss-base-url" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest/" />
+
+  
+    <link rel="stylesheet" type="text/css" href="http://www.fbi.gov/portal_css/FBI%202010%20Theme/resourcetinymce.stylesheetstinymce-cachekey-cb1ee7a09f8a461d6994eed206a68edd.css" media="screen" />
+
+    <style type="text/css" media="print">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/print-cachekey-c00b9f4004771a9efa6d4aa05adeb000.css);</style>
+
+    <style type="text/css" media="screen">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/base-cachekey-bb4fb6e54bd88887cc92e41994953f3a.css);</style>
+
+    <style type="text/css">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/deprecated-cachekey-da57a491333920cff94c618899add12a.css);</style>
+
+    <style type="text/css" media="all">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/ploneCustom-cachekey-1702a38a982eca141eeaced65b8fda2b.css);</style>
+
+        <!--[if IE]>    
+    
+    <style type="text/css">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/IEAllVersions-cachekey-e12a1a452b7ef4416d25831e0930e6be.css);</style>
+        <![endif]-->
+    
+
+        <!--[if IE 8]>    
+    
+    <style type="text/css" media="screen">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/ie8fixes-cachekey-c0c49fd071fe904f7fbe1c639a2760be.css);</style>
+        <![endif]-->
+    
+
+        <!--[if IE]>    
+    
+    <style type="text/css" media="print">@import url(http://www.fbi.gov/portal_css/FBI%202010%20Theme/ie_print-cachekey-c7c58bd0d3824fdac39f5064b718ab08.css);</style>
+        <![endif]-->
+    
+
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="http://www.fbi.gov/portal_css/FBI%202010%20Theme/IEFixes-cachekey-de1e05adb2fdaeb0d5a834809f1f674f.css" media="screen" />
+        <![endif]-->
+    
+
+  
+  
+    <script type="text/javascript" src="http://www.fbi.gov/portal_javascripts/FBI%202010%20Theme/detect-mobile-cachekey-aa3448e807024631da9074f8a3678476.js"></script>
+
+    <script type="text/javascript" src="http://www.fbi.gov/portal_javascripts/FBI%202010%20Theme/resourceeasyslider-portlet-cachekey-e62ac87765bf27d291c22f32fdeb941f.js"></script>
+
+    <script type="text/javascript" src="http://www.fbi.gov/portal_javascripts/FBI%202010%20Theme/inline_java-cachekey-8dc6775ea9e64de6318d5304726c53e2.js"></script>
+
+    <script type="text/javascript" src="http://www.fbi.gov/portal_javascripts/FBI%202010%20Theme/foreseeforesee-alive-cachekey-7926e8571b3a9dd0a848617ba7d8bbd1.js"></script>
+
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://www.fbi.gov/portal_javascripts/FBI%202010%20Theme/iefixes-cachekey-75d14264ee99e363cff5c4e8a3abe348.js"></script>
+       <![endif]-->
+     
+
+
+
+
+  <title>FBI &mdash; The “Public Safety” Exception to Miranda</title>
+
+  <!-- Google indexing meta -->
+  <meta name="modificationDate" content="2011/02/22" />
+  <meta name="creationDate" content="2011/02/15" />
+  <meta name="publicationDate" content="2011/02/22" />
+  <meta name="expirationDate" />
+  
+  <meta name="portalType" content="Document" />
+  <meta name="mobileEnabled" />
+  
+  
+    <meta name="location" content="" />
+  
+  
+    <meta name="contentType" content="text/html" />
+  
+
+  <!-- Facebook meta -->
+  <meta property="og:title" content="The “Public Safety” Exception to Miranda" />
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest" />
+  <meta property="og:image" content="http://www.fbi.gov/fbi_seal_mini.png" />
+  <meta property="og:site_name" content="FBI"/>
+  <meta property="og:description" content=""/>
+
+
+
+
+      
+
+      
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fbi.gov/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.fbi.gov/touch_icon.png" />
+
+
+
+
+    <link rel="home" href="http://www.fbi.gov" title="Front page" />
+
+    <link rel="contents" href="http://www.fbi.gov/sitemap" title="Site Map" />
+
+
+
+
+
+
+
+
+      <!-- Disable IE6 image toolbar -->
+      <meta http-equiv="imagetoolbar" content="no" />
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+    </head>
+    <body class="section-stats-services  template-document_view obj-c2e84debdd26f0cdb936915f96dff6b9 portaltype-document" dir="ltr">
+          
+<div id="shadow">
+      <div id="visual-portal-wrapper">
+          <div id="portal-top">
+            <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest#portal-globalnav">Skip to navigation</a>
+</p>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-az_index">
+
+           
+           <a href="http://www.fbi.gov/a-z-index">
+          <img src="http://www.fbi.gov/++resource++plonetheme.fbi.images/az_index.png" alt="AZ Index" title="AZ Index"/></a>
+        </li>
+    <li id="siteaction-sitemap">
+
+           
+           <a href="http://www.fbi.gov/site-map">
+          <img src="http://www.fbi.gov/++resource++plonetheme.fbi.images/sitemap-trans.png" alt="Site Map" title="Site Map"/></a>
+        </li>
+
+</ul>
+<div id="portal-searchbox">
+
+<link rel="stylesheet" href="http://www.fbi.gov/cse.css" type="text/css" />
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      '004748461833896749646:e41lgwqry7w',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+<form id="cse-search-box" action="http://www.fbi.gov/fbi-search">
+  <div>
+    <input type="text" style="border: 1px solid rgb(126, 157, 185); background:#FFFFFF;" name="q" id="q" autocomplete="off" maxlength="200" size="20" value="" />
+    <input class="searchButton" type="submit" name="sa" value="Search" />
+  </div>
+  <input type="hidden" value="www.fbi.gov/" name="siteurl" />
+</form>
+
+<script type="text/javascript" src="http://www.fbi.gov/search-brand.js?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+</div>
+
+<div id="portal-logo">
+  <a accesskey="1" href="http://www.fbi.gov">
+    <img id="logo1" alt="Federal Bureau of Investigation" src="http://www.fbi.gov/logo1.png" /><img id="logo2" alt="Federal Bureau of Investigation" src="http://www.fbi.gov/logo2.png" /><img id="logo3" alt="Federal Bureau of Investigation" src="http://www.fbi.gov/logo3.png" />
+  </a>  
+</div>
+
+  <h5 class="hiddenStructure">Sections</h5>
+  <div class="visualClear"></div>
+  <div id="topnav-container">
+    <ul id="topnav" class="clearfix">
+      
+        <li class="first-level" id="nav-contact">
+          <a class="first-level" href="http://www.fbi.gov/contact-us">
+            <span>Contact the FBI</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/contact-us/fbi-headquarters">FBI Headquarters</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/contact-us/field">Local FBI Offices</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/contact-us/legat">Overseas Offices</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="https://tips.fbi.gov">Submit a Tip on Crime/Terrorism</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.ic3.gov/">Report Internet Crime</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/contact-us/">More Contacts...</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-about-us">
+          <a class="first-level" href="http://www.fbi.gov/about-us">
+            <span>About the FBI</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/quick-facts">Quick Facts</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/investigate/what_we_investigate">What We Investigate</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/faqs">Frequently Asked Questions</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/history">History</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/partnerships_and_outreach/">Partnerships and Outreach</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/publications">Reports and Publications</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/cjis">Criminal Justice Information Services</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/information-technology">Information Technology</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/intelligence">Intelligence</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/lab">Laboratory Services</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/nsb">National Security Branch</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/training">Training Academy</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us">More About Us...</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-most-wanted">
+          <a class="first-level" href="http://www.fbi.gov/wanted">
+            <span>Most Wanted</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/topten">Ten Most Wanted Fugitives</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/wanted_terrorists">Most Wanted Terrorists</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/terrorinfo">Seeking Terrorism Info</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/kidnap">Kidnappings &amp; Missing Persons</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/parent">Parental Kidnappings</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/alert">Crime Alerts</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted/wcc">White Collar Crimes</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/wanted">More Wanted by the FBI...</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-news">
+          <a class="first-level" href="http://www.fbi.gov/news/news_blog">
+            <span>FBI News</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/news_blog">News Blog</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/photos">Photo Gallery</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/podcasts">Podcasts &amp; Radio</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/pressrel">Press Releases</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/rss">RSS News Feeds</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/speeches">Speeches</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/stories">Stories</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/testimony">Testimony</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/videos/view">Video</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/news/widgets-1">Widgets</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-stats">
+          <a class="first-level" href="http://www.fbi.gov/stats-services/fbi-resources">
+            <span>FBI Stats and Services</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/cjis/criminal-history-summary-checks">Criminal History Summary Checks</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/crimestats">Crime Statistics/UCR</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/cjis">Criminal Justice Information Services</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/cjis/fingerprints_biometrics">Fingerprints &amp; Other Biometrics</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/foia/">FOIA/Records Requests</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/cjis/nics">Gun Checks/NICS</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/lab">Laboratory Services</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/law-enforcement/">Law Enforcement Services</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/name-checks">Name Checks</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/publications">Reports &amp; Publications</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/about-us/training">Training</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/victim_assistance">Victim Assistance</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/stats-services/fbi-resources">More Resources...</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-scams">
+          <a class="first-level" href="http://www.fbi.gov/scams-safety">
+            <span>Scams and Safety</span>
+          </a>
+          <div class="topnav-dd-outer">
+            <div class="topnav-dd-inner clearfix">
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.fbi.gov/scams-safety/">Be Crime Smart Advice</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/scams-safety/fraud">Common Fraud Schemes</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/scams-safety/e-scams">E-scams &amp; Warnings</a>
+                  </li>
+                
+              </ul>
+              <ul class="two-col clearfix">
+                
+                  <li>
+                    <a href="http://www.ic3.gov/">Report Internet Crime</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://www.fbi.gov/scams-safety/registry">Sex Offender Registry</a>
+                  </li>
+                
+                
+                  <li>
+                    <a href="http://tips.fbi.gov">Submit a Tip on Crime/Terrorism</a>
+                  </li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+      
+      
+        <li class="first-level" id="nav-jobs">
+          <a class="first-level" href="http://www.fbi.gov/jobs">
+            <span>Get a Job!</span>
+          </a>
+          
+        </li>
+      
+      
+        <li class="first-level" id="nav-fun-gam">
+          <a class="first-level" href="http://www.fbi.gov/fun-games">
+            <span>FBI Fun and Games!</span>
+          </a>
+          
+        </li>
+      
+    </ul>
+  </div>
+
+
+<ul id="portal-globalnav"></ul>
+
+
+</div>
+
+<div  id="portal-header-cell">
+  
+  <div  class="header-cell image-cell main-layout" colspan="2">
+    <a href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/leb-2">
+      <img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/headerImage" />
+    </a>
+    
+  </div>
+  
+  <div id="fbi-alerts">
+    <label for="login">
+      <a style="color: #B71318" href="http://www.fbi.gov/e-mail-updates">
+	<img alt="Mail Image" src="http://www.fbi.gov/mail.png" />
+    	Get FBI Updates
+      </a>
+    </label>					
+  </div>
+</div>
+
+
+    <div id="portlets-in-header" class="row">
+         
+             
+         
+    </div>
+
+    
+
+
+<div id="portal-breadcrumbs">
+
+     <a href="http://www.fbi.gov"><font color="#b71318">Home</font></a>
+    <span class="breadcrumbSeparator">
+        &bull;
+        
+    </span>
+    <span dir="ltr">
+        
+            <a href="http://www.fbi.gov/stats-services">Stats &amp; Services</a>
+            <span class="breadcrumbSeparator">
+                &bull;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            <a href="http://www.fbi.gov/stats-services/publications">Reports and Publications</a>
+            <span class="breadcrumbSeparator">
+                &bull;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            <a href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin">LEB</a>
+            <span class="breadcrumbSeparator">
+                &bull;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            <a href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011">February 2011</a>
+            <span class="breadcrumbSeparator">
+                &bull;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            
+            
+            <span>The “Public Safety” Exception to Miranda</span>
+         
+    </span>
+</div>
+
+        <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+          <table id="portal-columns">
+            <tbody>
+              <tr>
+                
+                
+                
+                
+                <td id="portal-column-content">
+                    
+                      <div  class="content_border_wrapper">
+                        <div class="">
+                          
+
+
+                          <div id="region-content" class="documentContent">
+
+                              <span id="contentTopLeft"></span>
+                              <span id="contentTopRight"></span>
+                              <a name="documentContent"></a>
+
+                              
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+            
+                              <div id="viewlet-above-content">
+<div id="portlets-above" class="row">
+    
+        
+    
+</div>
+
+</div>
+
+                              
+                                <div id="content">
+                                  
+                                  
+                            
+
+                                                                                        
+
+                                                          
+                                                           
+                                 
+                                 
+        
+
+        	
+		        <h1 id="parent-fieldname-title" class="documentFirstHeading">
+		            The “Public Safety” Exception to Miranda
+		        </h1>
+		     
+        
+        
+                                                                                            
+                                                                                                            
+                             
+
+
+                             
+
+                                               
+                                 
+                                 
+        
+        
+        
+        
+                                                                                             
+                                                                                                      
+
+                             
+
+                              
+                             <div id="content-core">                                                                      
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-c2e84debdd26f0cdb936915f96dff6b9">
+            <p class="graphicboxheader" style="text-align: center; "><b>The "Public Safety" Exception to Miranda</b></p>
+<p class="blackgraphtx">By CARL A. BENOIT, J.D.</p>
+<p align="center"><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_1.jpg" border="1" alt="police officers at a scene" title="miranda_1" /></p>
+<p class="blackgraphtx">After 44 years, the   Miranda decision   stands as a monolith in   police procedure.<sup>1</sup> Its requirements   are so well known that   the Supreme Court remarked,   "Miranda has become embedded   in routine police practice   to the point where the warnings   have become part of our national   culture."<sup>2</sup> And, although   the Supreme Court has clarified   and refined Miranda over the   years, its central requirements   are clear.<sup>3</sup> Whenever the prosecution   seeks in its direct case to   introduce a statement made by   a suspect while in custody and   in response to interrogation, it   must prove that the subject was   warned of specific rights and   voluntarily waived those rights.<sup>4</sup> The penalty imposed on the   prosecution for failing to prove   that the Miranda procedures   were properly followed is harsh.   While some secondary and   limited uses of statements obtained   in violation of Miranda   are permitted, such statements   are presumed to be coerced and   cannot be introduced by the prosecution in its direct case.<sup>5</sup></p>
+<p class="blackgraphtx">The strength of the Miranda   decision is its clarity in its   nearly unwavering protection   of a suspect's Fifth Amendment   protection against selfincrimination. The commitment to this rule is so strong that the Supreme Court has recognized only one exception to the Miranda rule&mdash;the "public safety" exception&mdash;which permits law enforcement to engage in a limited and focused unwarned interrogation and allows the government to introduce the statement as direct evidence.</p>
+<p class="blackgraphtx">Recent and well-publicized   events, including the attempted   bombing of Northwest Airlines   Flight 235 near Detroit, Michigan,   on December 25, 2009, and   the attempted bombing in New   York City's Times Square in   May 2010, highlight the importance   of this exception.<sup>6</sup> Those   current events, occurring in a   time of heightened vigilance   against terrorist acts, place a   spotlight on this law enforcement   tool, which, although   26 years old, may play a vital role in protecting public safety   while also permitting statements   obtained under this exception to   be used as evidence in a criminal   prosecution. In brief, and as   discussed in this article, police   officers confronting situations   that create a danger to themselves   or others may ask questions   designed to neutralize the   threat without first providing a   warning of rights. This article   discusses the origins of the   public safety exception and provides   guidance for law enforcement   officers confronted with   an emergency that may require   interrogating a suspect held   in custody about an imminent   threat to public safety without providing Miranda warnings.</p>
+<table align="left" border="0" cellpadding="2" cellspacing="2" style="border: 1px solid black; background: none repeat scroll 0% 0% #dff1fb; margin-right: 5px; width: 352px;">
+<tbody>
+<tr>
+<td align="center"><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_2.jpg" border="1" align="center" alt="Special Agent Benoit" title="miranda_2" /></td>
+<td align="center"><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_3.jpg" border="1" align="center" alt="Recent and well-publicized events...highlight the importance of this exception." title="miranda_3" /></td>
+</tr>
+<tr>
+<td colspan="2"><span class="graygraphtxsmall"><i>Special Agent Benoit serves as a legal instructor at the FBI Academy.</i></span></td>
+</tr>
+</tbody>
+</table>
+<p class="blackgraphtx"><b>ORIGIN OF THE RULE</b></p>
+<p class="blackgraphtx">The origin of the public   safety exception to Miranda,   the case of New York v. Quarles,   began in the early morning   hours of September 11, 1980.   While on routine patrol in   Queens, New York, two New   York City police officers were   approached by a young woman   who told them that she had just   been raped. She described the   assailant as a black male, approximately   6 feet tall, wearing   a leather jacket with "Big Ben"   printed in yellow letters on   the back. The woman told the   officers that the man had just   entered a nearby supermarket   and that he was carrying a gun.</p>
+<p class="blackgraphtx">The officers drove to the   supermarket, and one entered   the store while the other radioed   for assistance. A man matching   the description was near   a checkout counter, but upon   seeing the officer, ran to the   back of the store. The officer   pursued the subject, but lost   sight of him for several seconds   as the individual turned   a corner at the end of an aisle.   Upon finding the subject, the   officer ordered him to stop and   to put his hands over his head.   As backup personnel arrived,   the officer frisked the man and   discovered he was wearing an   empty shoulder holster. After   handcuffing him, the officer   asked where the gun was. The   man gestured toward empty   milk cartons and said, "The gun   is over there." The officer found   and removed a loaded handgun from a carton, formally placed   the man under arrest, and then   read the Miranda rights to him.   The man waived his rights and   answered questions about the   ownership of the gun and where it was purchased.<sup>7</sup></p>
+<p class="blackgraphtx">The state of New York   charged the man, identified as   Benjamin Quarles, for criminal   possession of a weapon.<sup>8</sup> The   trial court excluded the statement   "The gun is over there,"   as well as the handgun, on the   grounds that the officer did   not give Quarles the warnings   required by Miranda v. Arizona.   <sup>9</sup> After an appellate court   affirmed the decision, the case   was appealed to the New York State Court of Appeals.</p>
+<p class="blackgraphtx">The New York Court of   Appeals upheld the trial court   decision by a 4 to 3 vote.<sup>10</sup> According   to the New York Court   of Appeals, because Quarles   responded "to the police interrogation   while he was in   custody, [and] before he had   been given the preinterrogation   warnings&hellip;," the lower courts   properly suppressed the statement   and the gun.<sup>11</sup> The court   refused to recognize an emergency   exception to Miranda   and noted that even if there   were such an exception, there   was "no evidence in the record   before us that there were   exigent circumstances posing a   risk to the public safety or that   the police interrogation was   prompted by such concern."<sup>12</sup> In dissent, Judge Watchler   believed that there was a public   safety exception to Miranda   and that the facts presented   such a situation. Judge Watchler   noted that "Miranda was never   intended to enable a criminal   defendant to thwart official   attempts to protect the general   public against an imminent,   immediate and grave risk of serious   physical harm reasonably   perceived."<sup>13</sup> He also believed   there was "a very real threat of possible physical harm which   could result from a weapon being   at large."<sup>14</sup> The state of New   York appealed the case to the Supreme Court.</p>
+<p class="blackgraphtx"><b><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_4.jpg" border="1" align="right" alt="The Quarles case provides a framework that police officers can use to assess a particular situation, determine whether the exception is available, and ensure that their questioning remains within the scope of the rule." title="LEB February 2011 quote" /></b>The Supreme Court ruled on   these facts that a public safety   exception to Miranda existed.   To understand how the Court   reached this conclusion and the   implications of this exception on the admissibility of the   statement and the handgun, a   consideration of a summary of   the steps used by the Court is important.</p>
+<p class="blackgraphtx">The first step toward this   conclusion was a discussion by   the Court of the relationship   between the Miranda requirements   and the Fifth Amendment   to the U.S. Constitution. The   Fifth Amendment provides that   "[n]o person&hellip;shall be compelled   in any criminal case to be a witness against himself."<sup>15</sup> The Fifth Amendment "does   not prohibit all incriminating   admissions," only those that   are "officially coerced selfaccusations&hellip;."   <sup>16</sup> In Miranda,   the Supreme Court "for the   first time extended the Fifth   Amendment privilege against   compulsory self-incrimination   to individuals subjected to custodial interrogation by the   police."<sup>17</sup> Thus, Miranda created   a presumption that "interrogation   in custodial circumstances   is inherently coercive" and that   statements obtained under those   circumstances "are inadmissible   unless the subject is specifically   informed of his Miranda rights   and freely decides to forgo those   rights."<sup>18</sup> Importantly, the Court   noted that Miranda warnings   were not required by the Constitution,   but were prophylactic   measures designed to provide   protection for the Fifth Amendment privilege against selfincrimination. <sup>19</sup></p>
+<p class="blackgraphtx">After providing this explanation   of the relationship between   the Fifth Amendment and Miranda,   the Court explained that   Quarles did not claim that his   statements were "actually compelled   by police conduct which   overcame his will to resist."<sup>20</sup> Had police officers obtained an   involuntary or coerced statement   from Quarles in violation of the   due process clause of the Fifth   Amendment, both the statement   and the handgun would have   been suppressed. <sup>21</sup> And, in this   regard, the Court explained that   the failure to administer Miranda   warnings does not, standing   alone, make a confession involuntary   in violation of the Constitution. <sup>22</sup></p>
+<p class="blackgraphtx"><b><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_5.jpg" border="1" align="left" alt="person being placed under arrest" title="miranda_5" /></b>The Supreme Court then   proceeded to determine whether   the Miranda rule was implicated   in this case and agreed with the   New York Court of Appeals   that it was. The Court agreed   with the New York courts that   Quarles was in custody. As the   Court noted, "Quarles was surrounded   by at least four police   officers and was handcuffed   when the questioning at issue   took place."<sup>23</sup> Therefore, on   the facts of the case, the Court   found that the Miranda decision   was clearly implicated.   The Court then referred to the   determination by the New York courts that there was nothing   in the record indicating that   any of the police officers were   concerned with their safety   when they questioned Quarles.   The Supreme Court noted that   the New York Court of Appeals   did not address the issue of   whether there was an exception   to Miranda in cases that involve a danger to the public "because   the lower courts in New York   made no factual determination   that the police had acted with that motive."<sup>24</sup></p>
+<p class="blackgraphtx">The Supreme Court chose   to address whether a public   safety exception to Miranda   should exist. In this regard,   the Court held that: "there is   a 'public safety' exception to   the requirement that Miranda   warnings be given before a   suspect's answers may be   admitted into evidence, and   the exception does not depend   upon the motivation of the   individual officers involved."<sup>25</sup> Thus, according to the Court,   without regard to the actual   motivation of the individual   officers, Miranda need not be   strictly followed in situations   "in which police officers ask   questions reasonably prompted   by a concern for the public safety."<sup>26</sup></p>
+<p class="blackgraphtx">The Court then applied   the facts to the situation confronting   them when Quarles   was arrested. In the course   of arresting Quarles, it became   apparent that Quarles   had removed the handgun   and discarded it within the   store. While the location of   the handgun remained undetermined,   it posed a danger to   public safety.<sup>27</sup> In this case, the   officer needed an answer to   the question about the location   of the gun to ensure that its concealment in a public location   would not endanger the public.   The immediate questioning of   Quarles was directed specifically   at resolving this emergency.   Since the questioning of Quarles   was prompted by concern for   public safety, the officers were   not required to provide Miranda   warnings to Quarles first. Therefore,   the statement made by   Quarles about the location of   the handgun was admissible.<sup>28</sup> In addition, because the Court   found there was no violation of   Miranda, the handgun also was   admissible. The Court declined   to address whether the handgun   would have been suppressed if   the statements were found to be inadmissible.<sup>29</sup></p>
+<p class="blackgraphtx"><b>FRAMEWORK OF THE EXCEPTION</b></p>
+<p class="blackgraphtx">The Quarles case provides   a framework that police officers   can use to assess a particular   situation, determine whether   the exception is available, and   ensure that their questioning   remains within the scope of the   rule. This framework includes   the presence of a public safety   concern, limited questioning, and voluntariness.</p>
+<p class="blackgraphtx"><b>Public Safety Concern</b></p>
+<p class="blackgraphtx">According to the Supreme   Court, the public safety exception   is triggered when police   officers have an objectively   reasonable need to protect the   police or the public from immediate   danger. Because the   standard is objective, the availability   of the exception does not   depend on subjective motivation   of the officers. Legitimate concerns   for officer safety or public   safety prompting unwarned   custodial questioning arise in   a variety of contexts. A common   factor that can be gleaned   from the courts addressing this issue is the prior knowledge or   awareness of specific facts or   circumstances that give rise to   the imminent safety concern that prompted the questioning.</p>
+<p class="blackgraphtx"><b><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_6.jpg" border="1" align="right" alt="...the public safety exception is triggered when police officers have an objectively reasonable need to protect the police or the public from immediate danger." title="miranda_6" /></b>For example, in U.S. v.   Talley, police officers executing   a federal arrest warrant at a   residence heard sounds indicating   that a number of unexpected   people were inside the home.<sup>30</sup> The officers returned to their   vehicles to get their bulletproof   vests and then returned to the front door. After the defendant   and another individual were   secured by a police officer just   inside the residence, the officer   noticed other people inside the   house who had not complied   with the demand to come outside.   The officer entered further   into the residence to gain control   of the unsecured subjects   and tripped over a trash can that   contained bullets and a magazine   for a semiautomatic pistol.   The officer returned to the two   subjects and asked, "Where is   the gun?" The defendant told   the officer that the gun was   inside a vacuum cleaner, from   where it was retrieved. The   defendant sought to suppress   the gun, claiming the officer did   not provide him his Miranda   warnings first. The district court   suppressed the defendant's   statement, finding a violation   of Miranda. The circuit court   reversed and upheld the admissibility   of the statement. The   court stressed the context of the   arrest in finding that the public   safety exception was applicable.   The court stated that "[o]nce   Officer Rush had seen the magazine,   he had reason to believe a   gun was nearby and was justified,   under Quarles, in asking   his question prior to administering a Miranda warning."<sup>31</sup></p>
+<p class="blackgraphtx">In U.S. v. Jones, members   of a fugitive task force arrested   Phillip Jones for a homicide he   committed with a handgun on June 27, 2006.<sup>32</sup> Members of   the task force met on August 10,   2006, the day of the arrest, and   were briefed about the nature   of the homicide, the possibility   that Jones may have two   weapons, and that he had two   previous convictions for gun   and drug offenses. After going   to search for Jones in a dangerous   high-crime area in northeast   Washington, D.C., Deputy U.S.   Marshal Cyphers made eye contact   with Jones, who immediately   fled. The marshal pursued   and caught Jones in a partially   lit stairwell of an apartment   building. At some point during   the chase, Cyphers heard a gunshot   fired. Within 30 seconds   of arresting Jones and before   providing the Miranda warnings,   Cyphers asked if Jones   had anything on him. Jones   replied, "I have a burner in my   waistband."<sup>33</sup> Jones sought to   suppress his statement. The   circuit court had little difficulty   in determining that "Cypher's   questions fell squarely within   the public safety exception."<sup>34</sup> The circuit court stressed the   information that Deputy U.S.   Marshal Cyphers knew about   Jones before making the arrest,   as well as the circumstances   surrounding the chase and arrest,   concluding that the question   was prompted by a concern for public safety.</p>
+<p class="blackgraphtx">In each of the two cases   above, information that came to   the attention of the law enforcement   officers concerning an immediate   threat to safety prompted   the officers to ask questions   directed at neutralizing the danger.   In both cases, the reviewing   courts agreed with the officers   that the information prompted a public safety concern.</p>
+<p class="blackgraphtx"><b><b><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_7.jpg" border="1" align="left" alt="person in handcuffs" title="miranda_7" /></b>Limited Questioning</b></p>
+<p class="blackgraphtx">The Quarles Court made   clear that only those questions   necessary for the police "to   secure their own safety or the   safety of the public" were permitted   under the public safety   exception.<sup>35</sup> In U.S. v. Khalil,   New York City police officers   raided an apartment in Brooklyn   after they received information   that Khalil and Abu Mezer   had bombs in their apartment   and were planning to detonate   them.<sup>36</sup> During the raid, both   men were shot and wounded as   one of them grabbed the gun   of a police officer and the other   crawled toward a black bag believed   to contain a bomb. When   the officers looked inside the   black bag, they saw pipe bombs   and observed that a switch on one bomb was flipped.</p>
+<p class="blackgraphtx">Officers went to the hospital   to question Abu Mezer about   the bombs. They asked Abu   Mezer "how many bombs there   were, how many switches were   on each bomb, which wires   should be cut to disarm the   bombs, and whether there were   any timers."<sup>37</sup> Abu Mezer answered   each question and also   was asked whether he planned   to kill himself in the explosion.   He responded by saying, "Poof."<sup>38</sup></p>
+<p class="blackgraphtx">Abu Mezer sought to suppress   each of his statements, but   the trial court permitted them,   ruling that they fell within the   public safety exception. On   appeal, Abu Mezer only challenged   the admissibility of the   last question, whether he intended   to kill himself when detonating   the bombs. He claimed the   question was unrelated to public   safety. The circuit court disagreed   and noted "Abu Mezer's   vision as to whether or not he   would survive his attempt to   detonate the bomb had the potential   for shedding light on the bomb's stability."<sup>39</sup></p>
+<p class="blackgraphtx">A common theme throughout   cases such as this is the   importance of limiting the   interrogation of a subject to   questions directed at eliminating   the emergency. Following   Quarles, at least two federal   circuit courts of appeals have   addressed the issue of the effect   of an invocation of a right on   the exception. In U.S. v. De-   Santis, the Ninth Circuit Court   of Appeals held that the public   safety exception applies even   after the invocation of counsel.<sup>40</sup> According to the court: "The   same consideration that allows   the police to dispense with   providing Miranda warnings   in a public safety situation also   would permit them to dispense   with the prophylactic safeguard   that forbids initiating further   questioning of an accused who requests counsel."<sup>41</sup></p>
+<p class="blackgraphtx">In U.S. v. Mobley, the   Fourth Circuit Court of Appeals   also ruled that the public   safety exception applied even   when the subject had invoked   his right to counsel.<sup>42</sup> The   court recognized that a threat   to public safety still may exist   even after Miranda rights are provided and invoked.</p>
+<p class="blackgraphtx"><b><b><img src="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/image/miranda_8.jpg" border="1" align="right" alt="Once the questions turn from those designed to resolve the concern for safety to questions designed solely to elicit incriminating statements, the questioning falls...within the traditional rules of Miranda." title="LEB February 2011 quote" /></b>Voluntariness</b></p>
+<p class="blackgraphtx">Voluntariness is the linchpin   of the admissibility of any   statement obtained as a result   of government conduct.<sup>43</sup> Thus,   statements obtained by the   government under the public   safety exception cannot be   coerced or obtained through   tactics that violate fundamental   notions of due process.<sup>44</sup> Here,   it is worth mentioning that   prior to the Miranda decision,   the only test used to determine   the admissibility of statements   in federal court was whether the statement was voluntarily made within the requirements of the due process clause.<sup>45</sup> This test requires that a court review the "totality of the circumstances" to determine whether the subject's will was overborne by police conduct. If a court finds that the questioning of a subject, even in the presence of a situation involving public safety, violated due process standards, the statement will be suppressed.<sup>46</sup></p>
+<p class="blackgraphtx">In the Khalil case, Abu   Mezer also argued that the statements   he made to police officers   while he was in the hospital   should be suppressed because   they were not voluntary. Testimony   from the interviewing   agent indicated that although   Abu Mezer was in pain, "he was   alert, seemed to understand the   questions, and gave responsive   answers."<sup>47</sup> Testimony from   the surgeon indicated that Abu   Mezer "was alert and had no difficulty understanding her explanation   of the surgical procedure   he would undergo."<sup>48</sup> The   district court found that under   the totality of the circumstances,   Abu Mezer's statements were   voluntary, and the court of appeals upheld this determination.</p>
+<p class="blackgraphtx">Police officers must be   vigilant to ensure that the questioning   and other actions of the   police, even if prompted by an   emergency situation involving   public safety, permits subjects   to exercise their free will when   deciding to answer questions.   This exception does not permit   police officers to compel   a statement from a subject. It   simply permits them to question   a subject before providing any   Miranda warnings to resolve an imminent public safety concern.</p>
+<p class="blackgraphtx"><b>CONCLUSION</b></p>
+<p class="blackgraphtx">The "public safety" exception   to Miranda is a powerful   tool with a modern application   for law enforcement. When   police officers are confronted   by a concern for public safety,   Miranda warnings need not be   provided prior to asking questions   directed at neutralizing an   imminent threat, and voluntary   statements made in response to   such narrowly tailored questions   can be admitted at trial. Once   the questions turn from those   designed to resolve the concern   for safety to questions designed   solely to elicit incriminating   statements, the questioning falls   outside the scope of the exception   and within the traditional   rules of Miranda.</p>
+<p class="blackgraphtx"><b>Endnotes</b></p>
+<p class="blackgraphtx"><sup>1</sup> Miranda v. Arizona, 384 U.S. 436   (1966).<br /> <sup>2</sup> Dickerson v. U.S., 530 U.S. 428,   (2000).<br /> <sup>3</sup> Berghuis v. Thompkins, 560 U.S.___   (2010) and Maryland v. Shatzer, 559   U.S.__(2010). See also Jonathan L. Rudd,  "The Supreme Court Revisits the Miranda   Right to Silence," FBI Law Enforcement   Bulletin, September 2010, 25-31; and Kenneth   A. Myers, "Fifth Amendment Protection   and Break in Custody," FBI Law   Enforcement Bulletin, May 2010, 26-32.<br /> <sup>4</sup> Miranda v. Arizona, 384 U.S. 436   (1966).<br /> <sup>5</sup> Miranda v. Arizona, 389 U.S. 436;   Michigan v. Tucker, 417 U.S. 433 (1974);   United States v. Patane, 542 U.S. <sup>6</sup>30   (2004); Oregon v. Hass, 420 U.S. 714   (1975).<br /> <sup>6</sup> Holder, Eric, Letter to Senator Mitch   McConnell, United States Department Of   Justice. 3 Feb. 2010. Web. 8 December   2010.<br /> <sup>7</sup> New York v. Quarles, 467 U.S. 649,   651-652 (1984).<br /> <sup>8</sup> There is no indication as to why the   state did not pursue the original charge of   rape.<br /> <sup>9</sup> Quarles at 652.<br /> <sup>10</sup> People v. Quarles, 58 N.Y.2d 664   (1982).<br /> <sup>11</sup> Id. at 666.<br /> <sup>12</sup> Id.<br /> <sup>13</sup> Id. at 671.<br /> <sup>14</sup> Id.<br /> <sup>15</sup> U.S. Const. Amend. V.<br /> <sup>16</sup> New York v. Quarles, 467 U.S. 649,   654 (1984). See also Miranda v. Arizona,   384 U.S. 436, 460-461, 467 (1966).<br /> <sup>17</sup> Id.<br /> <sup>18</sup> Id.<br /> <sup>19</sup> Id. Citing Michigan v. Tucker, 417   U.S. 433 (1974).<br /> <sup>20</sup> Id. (emphasis added).<br /> <sup>21</sup> Add cite regarding remedy for 5th   Amendment violation.<br /> <sup>22</sup> Id. at 655 fn. 5.<br /> <sup>23</sup> Id.<br /> <sup>24</sup> Id. People v. Quarles, 58 N.Y.2d 664,   666 (1982).<br /> <sup>25</sup> Id. at 655, 656.<br /> <sup>26</sup> Id. at 656.<br /> <sup>27</sup> Id. at 657.<br /> <sup>28</sup> Id. at 660.<br /> <sup>29</sup> Id. See U.S. v. Patane.<br /> <sup>30</sup> 275 F.3d 560 (6th Circ. 2001).<br /> <sup>31</sup> Id. at 564.<br /> <sup>32</sup> 567 F.3d 712 (D.C. Cir. 2009).<br /> <sup>33</sup> Id. at 713-714.<br /> <sup>34</sup> Id. at 715.<br /> <sup>35</sup> New York v. Quarles, 467 U.S. 649,   659 (1984).<br /> <sup>36</sup> 214 F.3d 111 (2d Cir. 2000).<br /> <sup>37</sup> Id. at 115.<br /> <sup>38</sup> Id.<br /> <sup>39</sup> Id. at 121.<br /> <sup>40</sup> 870 F.2d 536 (9th Cir. 1989).<br /> <sup>41</sup> Id. at 541.<br /> <sup>42</sup> 40 F.3d 688 (4th Cir. 1994).<br /> <sup>43</sup> Colorado v. Connelly, 479 U.S. 157   (1986).<br /> <sup>44</sup> New York v. Quarles, 467 U.S. at 655.   The Quarles Court made clear that Quarles   did not make any claim that the police   compelled his statements. The Court also    noted that Quarles was free to argue "that his statement was coerced under traditional due process standards." Id. at 655 fn. 5.<br /> <sup>45</sup> See New York v. Quarles, 467 U.S. 649, 661 (1984) (Justice O'Connor concurring in the judgment and dissenting in part).<br /> <sup>46</sup> See U.S. v. Patane, (2004) (Plurality opinion); Chavez v. Martinez, 538 U.S. 760 (2003) (Plurality opinion).<br /> <sup>47</sup> 214 F.3d 111, 121 (2d Cir. 2000).<br /> <sup>48</sup> Id.</p>
+<p class="blackgraphtx">________________________________________________________<br /> Law enforcement officers of other than   federal jurisdiction who are interested   in this article should consult their legal   advisors. Some police procedures ruled   permissible under federal constitutional   law are of questionable legality under state law or are not permitted at all.</p>
+            
+        </div>
+    
+    
+                                                                            
+                             </div>                                                                                       
+                             
+                              
+
+                            
+                                  
+                                </div>
+                              
+                              
+                                
+    
+
+
+
+<div id="portlets-below" class="row">
+     
+         
+     
+</div>
+
+
+
+
+                              
+
+                              <span id="contentBottomLeft"></span>
+                              <span id="contentBottomRight"></span>
+                          </div>
+                        </div>
+                      
+                    </td>
+                    
+                    
+                    <td id="portal-column-two">
+                      <div class="visualPadding">
+                        
+                          
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f66626964652e77696c6463617264636f72702e636f6d2f73746174732d73657276696365732f7075626c69636174696f6e732f6c61772d656e666f7263656d656e742d62756c6c6574696e2f6665627275617279323031310a636f6e74656e742d706f72746c6574" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f66626964652e77696c6463617264636f72702e636f6d2f73746174732d73657276696365732f7075626c69636174696f6e732f6c61772d656e666f7263656d656e742d62756c6c6574696e2f6665627275617279323031310a636f6e74656e742d706f72746c6574">
+
+  <div class="portletContent">
+    
+        
+
+        <p class="item-date">11.11.10</p>
+
+        
+
+        
+
+        <div><table style="width: 100%;">
+<tbody>
+<tr>
+<td><b class="reditlheader">Table of Contents</b></td>
+</tr>
+<tr>
+<td><img src="http://www.fbi.gov/stats-services/line60.jpg" height="1" title="no image" alt="line" width="100%" /></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011"><span class="graygraphtx"><span class="internal-link"><b>Back to the Co</b></span><span class="internal-link"><b>v</b></span><span class="internal-link"><b>er</b></span></span></a></p>
+<p><span class="graygraphtx"><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/drug_war_feature"><b>A Model for Success in the Drug War</b></a><br /><i>By Kelly J. Thomas</i><br />Law enforcement agencies can succeed in this battle despite the formidable enemies they face.<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/copy_of_notable-speech"><b>Systematic Pattern Response Strategy</b></a><br /><i>By Roberto Santos</i><br />With the limited resources that police executives face today, it is necessary, more than ever, for organizations to employ systematic crime-reduction efforts to become more efficient and effective.<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/legal_digest"><b>The "Public Safety" Exception to Miranda</b></a><br /><i>By Carl A. Benoit</i><br />One exception to the Miranda rule permits officers to conduct a limited and focused unwarned interrogation and allows the statement to serve as direct evidence.<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/perspective"><b>Perspective</b></a><br />Writing Policy and Procedure Manuals<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/leadership-spotlight"><b>Leadership Spotlight</b></a><br />Inspirational Leaders Suspend Their Ego<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/notable-speech"><b>Notable Speech</b></a><br />Partners in the Battle<br /><br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/unusual-weapons"><b>Unusual Weapons</b></a><br />Cartridge Knives<br /> <br /><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/bulletin-honors"><b>Bulletin Honors</b></a><br />Odessa Peace Officers Memorial<br /> </span></p>
+<p><span class="graygraphtx"><b><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/author-guidelines">Author Guidelines</a></b><br /></span></p>
+<p><span class="graygraphtx"><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/the-bulletin-notes"><span class="internal-link"><b>The Bulletin Notes</b></span></a></span></p>
+<p><span class="graygraphtx"><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/february2011/patch-call"><span class="internal-link"><b>Patch Call</b></span></a></span></p>
+<p><span class="blackgraphtx"><a class="internal-link" href="http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin"><b>LEB Home</b></a></span></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+
+        
+          <span class="portletBottomLeft"></span>
+          <span class="portletBottomRight"></span>
+        
+      
+  </div>
+
+  
+
+</div>
+
+
+
+
+                        
+                        &nbsp;
+                      </div>
+                    </td>
+                    
+                </tr>
+              </tbody>
+            </table>
+        </div>
+          </div>
+<div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+            
+              <div id="portal-footer">
+
+<div class="footerWrapper">
+          <div align="center">   
+             <a href="http://www.fbi.gov/contact-us" title="Contact Us">Contact Us</a> |
+    
+          <a href="http://www.fbi.gov/about-us" title="About Us">About Us</a> |
+  
+          <a href="http://www.fbi.gov/wanted/" title="Most Wanted">Most Wanted</a> |
+
+          <a href="http://www.fbi.gov/news/news_blog/" title="News">News</a> |
+  
+          <a href="http://www.fbi.gov/stats-services/fbi-resources/" title="Stats & Services">Stats & Services</a> |
+         
+          <a href="http://www.fbi.gov/scams-safety/be_crime_smart/" title="Scams & Safety">Scams & Safety</a> |
+  
+          <a href="http://www.fbi.gov/jobs" title="Jobs">Jobs</a> |
+
+          <a href="http://www.fbi.gov/fun-games" title="Fun & Games">Fun & Games</a> |
+
+          <a href="http://m.fbi.gov" title="Mobile Site">
+            Mobile</a> |
+
+          <a href="http://www.fbi.gov/espanol" title="Espanol">
+            Español</a>
+
+<br />
+             Resources for:
+             <a href="http://www.fbi.gov/stats-services/law-enforcement" title="Resources for: Law Enforcement">Law Enforcement</a> |
+    
+          <a href="http://www.fbi.gov/about-us/intelligence/" title="Intel Partners">Intel Partners</a> |
+  
+          <a href="http://www.fbi.gov/stats-services/research/" title="Researchers/Students">Researchers/Students</a> |
+
+          <a href="http://www.fbi.gov/about-us/partnerships_and_outreach/community_outreach" title="Communities">Communities</a> |
+  
+          <a href="http://www.fbi.gov/stats-services/parents/" title="Parents">Parents</a> |
+         
+          <a href="http://www.fbi.gov/stats-services/victim_assistance/" title="Victims">Victims</a> |
+  
+          <a href="http://www.fbi.gov/stats-services/business/" title="Businesses">Businesses</a>
+<br />
+             Follow Us On: <a href="http://www.facebook.com/FBI" title="Facebook">Facebook</a> |
+
+             <a href="http://youtube.com/fbi" title="tube">You Tube</a> |
+
+             <a href="http://twitter.com/FBIPressOffice" title="Twitter">Twitter</a> |
+
+             <a href="https://itunes.apple.com/us/podcast/fbi-this-week/id281204861?mt=2&ign-mpt=uo=4" title="iTunes">iTunes</a> |
+
+             <a href="http://www.fbi.gov/news/fbi-social-media-sites" title="All Sites">
+             All Sites</a> 
+      </div>
+</div>
+</div>
+<div id="portal-footer2">
+
+      
+
+      <div class="footer2Wrapper">
+      <div align="center">
+          <a href="http://www.fbi.gov/accessibility" title="Resources for: Accessibility">Accessibility</a> |
+    
+          <a href="http://www.regulations.gov" title="eRulemaking">eRulemaking</a> |
+  
+          <a href="http://foia.fbi.gov" title="Freedom">Freedom of Information Act</a> |
+
+          <a href="http://www.fbi.gov/legalnotices" title="legal">Legal Notices</a> |
+  
+          <a href="http://www.justice.gov/legalpolicies.htm" title="Disclaimers">Legal Policies and Disclaimers</a> |
+         
+          <a href="http://www.fbi.gov/links" title="Links">Links</a> |
+  
+          <a href="http://www.fbi.gov/privacy_policy" title="Privacy">Privacy Policy</a> |
+          
+          <a href="http://www.usa.gov/" title="USA">USA.gov</a> |
+  
+          <a href="http://www.whitehouse.gov/" title="House">White House</a>
+<BR>
+          FBI.gov is an official site of the U.S. government,
+             <a href="http://www.justice.gov/" title="justice">U.S. Department of Justice</a>
+
+      </div>
+    </div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1603990-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://www.fbi.gov/urchin.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="http://www.fbi.gov/foresee/foresee-trigger.js"></script>
+
+</div>
+<div id="portlets-footer" class="row">
+     
+         
+     
+</div>
+
+
+
+            
+          <div id="kss-spinner"><img alt="" src="http://www.fbi.gov/spinner.gif" /></div>
+        </div>
+      </body>
+    </html>
+  
+

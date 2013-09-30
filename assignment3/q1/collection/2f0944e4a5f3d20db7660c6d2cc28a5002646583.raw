@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>London Summit on Family Planning</title>
+           
+	<meta name="keywords" content="London Summit, Family Planning, London Summit on Family Planning"/>
+	<meta name="description" content="On 11 July 2012 the UK Government and the Bill & Melinda Gates Foundation with UNFPA and other partners will host a summit to support family planning."/>
+
+    <!--link href='http://fonts.googleapis.com/css?family=Asap:400,400italic,700' rel='stylesheet' type='text/css' /-->
+    <link href="fonts/asap/stylesheet.css" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Antic+Slab' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="include/style.css" />
+    <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="include/jquery.cycle.lite.js"></script>
+    <script src="include/script.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header">
+        <a href="/"><img id="logo" src="images/temp-logo.png" title="Family Planning 2020" alt="Family Planning 2020" /></a>
+        <h1 id="header-title">Family Planning 2020</h1>
+        <!--<div id="summit-date">
+          <span id="summit-date-dow">Wednesday</span>
+          <span id="summit-date-full">11 July 2012</span>
+        </div>-->
+      </div>
+      <div id="navigation">
+                <a class="active" href="index.php" id="nav-home">Home</a>
+        <a  href="about.php" id="nav-about">About</a>
+     	<a  href="summit.php" id="nav-summit">London Summit</a> 
+        <a  href="partners.php" id="nav-partners">Partners</a>
+        <a  href="resources.php" id="nav-resources">Resources</a>
+        <a  href="media.php" id="nav-media">Media</a>
+      </div>
+      <div id="right">
+       <!--<a href="http://familyplanning2020.wufoo.com/forms/fp2020-market-dynamics-working-group-application/" target="_blank"><img src="http://www.londonfamilyplanningsummit.co.uk/images/FP2020_WebBanner_04New.png" border="0"></a>-->
+       <div style="padding-top: 0px; padding-bottom: 5px;">
+        <a href="http://familyplanning2020.wufoo.com/forms/fp2020-mailing-list/" target="_blank"><img src="http://www.londonfamilyplanningsummit.co.uk/images/EmailUpdatesButton.png" border="0"></a>
+       </div>
+          <div style="padding-top: 5px; padding-bottom: 5px;">
+        <a href="http://familyplanning2020.wufoo.com/forms/fp2020-consultative-networks/" target="_blank"><img src="http://www.londonfamilyplanningsummit.co.uk/images/WorkingGroupButton.png" border="0"></a>
+       </div>
+        <div style="padding-top: 5px; padding-bottom: 5px;">
+        <a href="http://www.no-controversy.com/" target="_blank"><img src="http://www.londonfamilyplanningsummit.co.uk/images/TakePledgeButton.png" border="0"></a>
+       </div>
+       
+        
+        <div id="twitter">
+			<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%23fp2020"  data-widget-id="345278930816749568">Tweets about "#fp2020"</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+          <!--
+          <script type="text/javascript">
+            new TWTR.Widget({
+              version: 2,
+              type: 'search',
+              search: '#fp2020',
+              interval: 10000,
+              title: 'Tweets',
+              subject: '#fp2020',
+              width: 300,
+              height: 460,
+              theme: {
+                shell: {
+                  background: '#C0C5C8',
+                  color: '#ffffff'
+                },
+                tweets: {
+                  background: '#ffffff',
+                  color: '#292322',
+                  links: '#1985b5'
+                }
+              },
+              features: {
+                scrollbar: false,
+                loop: true,
+                live: true,
+                behavior: 'default'
+              }
+            }).render().start();
+          </script>
+          -->
+        </div>
+      </div>
+      <div id="content">
+                <img src="images/headers/header-fp2020.jpg" />
+  <br/>
+<h2>FAMILY PLANNING 2020</h2>
+  <p><strong>Family Planning 2020 (FP2020)</strong> builds on the partnerships launched at the London Summit on Family Planning. It will sustain the momentum from London and ensure all partners are working together to achieve and support the goals and <a href="http://www.londonfamilyplanningsummit.co.uk/COMMITMENTS_090712.pdf" target="_blank">commitments</a> announced at the Summit. <a href="fp2020more.php">Learn more</a>.</p><br />
+  <p><a href="http://www.huffingtonpost.com/valerie-defillipo/fp2020-plans-partnerships_b_3573656.html" target="_new">Read FP2020 Director Valerie DeFillipo's blog of our first year</a>.</p><br />
+FP2020 will:</p>
+
+  <ul style="margin-left:20px; margin-top:10px; list-style:disc; padding-left:0px;">
+  <li>Track progress and report on <strong>financial and policy commitments</strong> made at the Summit, linking with established accountability processes for the UN Secretary General's Every Woman Every Child strategy;</li>
+  <li><strong>Monitor and report</strong> on global and country progress toward the FP2020 Summit goals;</li>
+  <li><strong>Identify obstacles and barriers</strong> to achieving Summit goals and recommend solutions;</li>
+  <li>Ensure <strong>promotion of voluntary family planning</strong> and concrete measures to prevent coercion and discrimination, and ensure respect for human rights;</li>
+  <li>Ensure <strong>data availability</strong> to support all of the above, consistent with country processes and sharing data, such as through a global score card; and</li>
+  <li>Publish an <strong>annual report</strong> to update the global community on progress and challenges. </li>
+  </ul>
+  <br/>
+  <p><strong>Coordinating Structure for FP2020</strong></p>
+  <ul style="margin-left:20px; margin-top:10px; list-style:disc; padding-left:0px;">
+    <li>An 18-member <strong><a href="/FP2020-Reference-Group.pdf" target="_new">Reference Group</a></strong>, initially to be chaired by the United Nations Population Fund (UNFPA) and the Bill & Melinda Gates Foundation (BMGF), and comprising of countries, donor partners, civil society and technical partners and agencies, to set overall strategic direction for FP2020, drive coordination among stakeholders and be accountable for reaching 120 million additional women by 2020.</li>
+
+  
+  <li>A small, dedicated <strong>Task Team</strong>, reporting to the Reference Group and hosted by the UN Foundation, that is responsible for day-to-day implementation of FP2020 activities.</li>
+  <li>Four <strong>Working Groups</strong>, to provide technical advice and support: <a target="_blank" href="PM&AWorking_Group_list_FINALJune_2013.pdf">Performance Monitoring &amp; Accountability</a>; <a target="_blank" href="R&EWorking_Group_list_FINALJuly_2013.pdf">Rights &amp; Empowerment</a>; Market Dynamics; and <a target="_blank" href="CEWorkingGroup_list_FINALJune2013">Country Engagement</a>.</li>
+  <li>A high-level group of FP2020 <strong>Champions</strong> to provide leadership, influence and support on behalf of FP2020.</li>
+  </ul>
+  <h2>FP2020 INFORMATION</h2>
+<p>
+   FP2020 Contact Information &ndash; <a target="_blank" href="FP2020Contact-Information.pdf">PDF</a> <br />
+   Stakeholder Meeting Agenda (February 8, 2013) &ndash; <a target="_blank" href="FP2020Feb-8-2013-Stakeholder-Meeting-Agenda.pdf">PDF</a> <br/>
+     Stakeholder Meeting Participant List (February 8, 2013) &ndash; <a target="_blank" href="Stakeholder-Participant-List-2-8-13.pdf">PDF</a> <br/>
+   Stakeholder Presentation (February 8, 2013) &ndash; <a target="_blank" href="FP2020Feb-8-2013-Stakeholder-Meeting-Presentation.pdf">PDF</a><br /> 
+      Stakeholder Meeting Notes (February 8, 2013) &ndash; <a target="_blank" href="StakeholderMeeting-Notes-8-13.pdf">PDF</a><br /> 
+
+   Stakeholder Q&amp;A (February 8, 2013) &ndash; <a target="_blank" href="StakeholderQA-2-8-13.pdf">PDF</a><br /> 
+
+   Reference Group TOR
+&ndash;<a target="_blank" href="FP2020-Refernce-Group-TOR.pdf"> PDF</a><br />
+   Reference Group Meeting Notes (Dec. 14, 2012) &ndash; <a target="_blank" href="2012-12-21-FP2020-Reference-Group-Meeting-Notes-Summary.pdf">PDF</a>
+   <br />
+   FP2020 Background & Context (September 2012, Day 1) &ndash; <a target="_blank" href="Day%201%20-%20September%20meeting%20materials.pdf">Day 1</a> <br/>
+    FP2020 Background & Context (September 2102, Day 2) &ndash; <a target="_blank" href="Day%202%20-%20September%20meeting%20materials.pdf">Day 2</a> <br />
+        Key Document &mdash; London Summit on Family Planning Overview (July 11,2012) &ndash; <a target="_blank" href="London-Summit-Family-PlanningOverview_V1-14June.pdf">PDF</a> 
+</p>
+<h2>WORKING GROUP INFORMATION</h2>
+
+ Market Dynamics Working Group Announcement &ndash; <a target="_blank" href="FP2020AnnouncesApplicationMarketDynamics_FINAL.pdf">PDF</a><br />
+Market Dynamics Working Group TOR &ndash; <a target="_blank" href="FP2020WorkingGroupTOR-MarketDynamics.pdf">PDF</a><br />
+Market Dynamics Working Group &ndash; <a target="_blank" href="http://familyplanning2020.wufoo.com/forms/fp2020-market-dynamics-working-group-application/">Application</a><br />
+Country Engagement Working Group TOR &ndash; <a target="_blank" href="FP2020Working-Group-TOR-Country-Engagement.pdf">PDF</a><br />
+Country Engagement Working Group Membership List &ndash; <a target="_blank" href="CEWorkingGroup_list_FINALJune2013.pdf">PDF</a><br />
+Rights & Empowerment Working Group TOR  &ndash; <a target="_blank" href="RightsandEmpowerment-TOR.PDF"> PDF</a><br />
+Rights & Empowerment Working Group Membership List  &ndash; <a target="_blank" href="R&EWorking_Group_list_FINALJuly_2013.pdf"> PDF</a><br />
+   Performance Monitoring &amp; Accountability Working Group TOR &ndash; <a target="_blank" href="FP2020Working-Group-TOR-Performance-Monitoring-Accountability.pdf">PDF</a>
+ <br/>
+   Performance Monitoring & Accountability Working Group Membership List &ndash; <a target="_blank" href="PM&AWorking_Group_list_FINAL2013.pdf">PDF</a><br/>
+    
+<!--Take the Commitment-maker Survey &ndash; <a target="_blank" href="https://www.surveymonkey.com/s/9CRFVGV">Survey</a>-->
+        <div class="clear"></div>
+      </div>
+      <div id="footerWrapper">
+      	  <div id="footerLeft"></div>	
+		  <div id="footer">
+		    <div class="social-links social-links-dfid">
+		      <div class="clear"></div>
+			</div>
+            <div id="credit2"> <a href="http://everywomaneverychild.org/ " target="_blank"><img src="images/ewec.png" alt="UNFPA"/></a>  </div>
+			<div id="credit">
+                 
+                 <a href="http://http://www.unfoundation.org/" target="_blank"><img src="images/UNF_Logo.png" alt="UKAid Logo"/></a>
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+              
+			  <a href="http://www.dfid.gov.uk/" target="_blank"><img src="images/footer-logo-uk.png" alt="UKAid Logo"/></a>
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+              
+			  <a href="http://www.gatesfoundation.org/" target="_blank"><img src="images/footer-logo-gates.png" alt="Bill & Melinda Gates Foundation"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+             
+              <a href="http://www.unfpa.org" target="_blank"><img src="images/UNFPA_logoXS.png" alt="UNFPA"/></a>
+      
+              &nbsp;&nbsp;<a href="http://www.usaid.gov" target="_blank"><img src="images/USAID.jpg" alt="USAID"/></a>
+             
+			  <div id="copyright">
+				&copy; Copyright 2012<br />
+				<a href="http://www.gatesfoundation.org/" target="_blank">Bill &amp; Melinda Gates Foundation</a>
+			  </div>
+			</div>
+			<div id="footer-nav">
+			  <!--<a href="sitemap.php">Sitemap</a>
+			  &nbsp;|&nbsp;-->
+			  <a href="mailto:info@familyplanning2020.org">info@familyplanning2020.org</a>
+			  &nbsp;|&nbsp;
+			  <a href="policy.php">Privacy Policy and Terms of Use</a>
+			</div>
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-32469535-1']);
+			  _gaq.push(['_trackPageview']);
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>
+		  </div>
+      	  <div id="footerRight"></div>	 
+      </div>
+    </div>
+  </body>
+</html>

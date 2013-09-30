@@ -1,0 +1,911 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7 ]>   <html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8 ]>   <html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]>   <html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><title>
+	America's Future: Education
+</title><meta id="MetaAuthor" name="author" /><meta id="MetaKeywords" name="keywords" content="U.S. education, Thomas Friedman, That Used to Be Us, 
+" /><meta id="MetaDescription" name="description" content="Bill Gates sat down with Thomas Friedman, co-author of That Used to Be Us, for a conversation about the vitally important issues raised by the book, including U.S. education. Watch the video.
+" /><meta id="MetaRobots" name="robots" content="NOINDEX, NOFOLLOW" /><meta name="DCSdir.ClearVars" content="WT.z_type,WT.z_name" /><meta id="MetaWebtrends" name="WT.cg_n" content="tgn2" /><meta name="CODE_LANGUAGE" content="C#" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="initial-scale=1" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta name="bitly-verification" content="4d49a11f1223" /><meta name="viewport" content="width=device-width" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="/default.css" rel="stylesheet" /><link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico" /><link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css" /><link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css" /><link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /><link rel="Stylesheet" href="/GatesNotesV2/css/RTE.css" />
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/GatesNotesV2/js/headerScript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/surveyShower.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
+	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+
+<!--[if lt IE 9]> 
+<script type="text/javascript"> 
+ document.createElement('header'); 
+ document.createElement('video'); 
+ document.createElement('nav'); 
+ document.createElement('menu'); 
+ document.createElement('section'); 
+ document.createElement('article'); 
+ document.createElement('footer'); 
+</script> 
+<![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript">    /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    jQuery(document).ready(function () {
+        jQuery('article').not('.main').find('[href]').parent().addClass('isLink');
+        if ($('#container').has($('.mainPage'))) {
+            $('.container').width(1022);
+        }
+    });
+</script>
+</head>
+<body>
+	<form method="post" action="/Topics/Education/Americas-Future-Bill-Gates-Thomas-Friedman-Education?WT.mc_id=3_7_2012_FriedmanEducation_tw&amp;WT.tsrc=Twitter" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM1NTEzNTk0NQ9kFgRmD2QWBAICDxYCHgdjb250ZW50BTdVLlMuIGVkdWNhdGlvbiwgVGhvbWFzIEZyaWVkbWFuLCBUaGF0IFVzZWQgdG8gQmUgVXMsIA0KZAIDDxYCHwAFwQFCaWxsIEdhdGVzIHNhdCBkb3duIHdpdGggVGhvbWFzIEZyaWVkbWFuLCBjby1hdXRob3Igb2YgVGhhdCBVc2VkIHRvIEJlIFVzLCBmb3IgYSBjb252ZXJzYXRpb24gYWJvdXQgdGhlIHZpdGFsbHkgaW1wb3J0YW50IGlzc3VlcyByYWlzZWQgYnkgdGhlIGJvb2ssIGluY2x1ZGluZyBVLlMuIGVkdWNhdGlvbi4gV2F0Y2ggdGhlIHZpZGVvLg0KZAIBEGRkFggCAQ9kFgJmD2QWBAICDxYCHgtfIUl0ZW1Db3VudAIHFg4CAQ9kFgICAQ9kFgJmDxUBGjxhIGhyZWY9Ii9Cb29rcyI+Qm9va3M8L2E+ZAICD2QWAgIBDxYCHgVjbGFzcwUGYWN0aXZlFgJmDxUBKTxhIGhyZWY9Ii9Ub3BpY3MvRWR1Y2F0aW9uIj5FZHVjYXRpb248L2E+ZAIDD2QWAgIBD2QWAmYPFQEjPGEgaHJlZj0iL1RvcGljcy9FbmVyZ3kiPkVuZXJneTwvYT5kAgQPZBYCAgEPZBYCZg8VAS08YSBocmVmPSIvVG9waWNzL0RldmVsb3BtZW50Ij5EZXZlbG9wbWVudDwvYT5kAgUPZBYCAgEPZBYCZg8VASM8YSBocmVmPSIvVG9waWNzL0hlYWx0aCI+SGVhbHRoPC9hPmQCBg9kFgICAQ9kFgJmDxUBIDxhIGhyZWY9Ii9QZXJzb25hbCI+UGVyc29uYWw8L2E+ZAIHD2QWAgIBD2QWAmYPFQEWPGEgaHJlZj0iL0FsbCI+QWxsPC9hPmQCBA8WAh8BAv////8PZAIDD2QWAmYPZBYCAgEPD2QWAh4Jb25rZXlkb3duBa4BaWYoZXZlbnQud2hpY2ggfHwgZXZlbnQua2V5Q29kZSl7aWYgKChldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgPT0gMTMpKSB7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDIwX1NlYXJjaEJ1dHRvbicpLmNsaWNrKCk7cmV0dXJuIGZhbHNlO319IGVsc2Uge3JldHVybiB0cnVlfTsgZAIFD2QWAmYPZBYCZg9kFg5mDw8WAh4HVmlzaWJsZWhkFgJmD2QWBGYPFgIfAQL/////D2QCAQ9kFgJmDxUBCT9zaG93YWxsPWQCAw8WAh8EZxYCZg8WAh8BAgEWAmYPZBYCAgEPZBYCZg9kFgJmDxYCHwECARYCZg9kFgoCAQ9kFgJmDxUCCDM3OTkwNDg1AGQCAw9kFgJmDxUBAGQCBQ8PFgIfBGdkFgpmDxUBAGQCAQ8VAQM2NzlkAgIPZBYCZg8VATVodHRwOi8vd3d3LnRoZWdhdGVzbm90ZXMuY29tL21lZGlhL3ZpZGVvLzg3Mzg3NTQ3Lm1wNGQCAw9kFgJmDxUBNWh0dHA6Ly93d3cudGhlZ2F0ZXNub3Rlcy5jb20vbWVkaWEvdmlkZW8vODczODc1NDcub2d2ZAIED2QWAmYPFQI1aHR0cDovL3d3dy50aGVnYXRlc25vdGVzLmNvbS9tZWRpYS92aWRlby84NzM4NzU0Ny5tcDQAZAIHDxYCHwRoFgJmDxUBAGQCCA8VAdQBJmx0O2lmcmFtZSB3aWR0aD0mcXVvdDs2ODAmcXVvdDsgaGVpZ2h0PSZxdW90OzQ0MCZxdW90OyBzcmM9JnF1b3Q7aHR0cDovL3d3dy50aGVnYXRlc25vdGVzLmNvbS9WaWRlbz92aWRlb0lkPWQ0MDc3MGRhLTRmMDctNDg0NC05ZDg4LWNhMDFjZjA3YTMwNCZxdW90OyBmcmFtZWJvcmRlcj0mcXVvdDswJnF1b3Q7IGFsbG93ZnVsbHNjcmVlbiZndDsmbHQ7L2lmcmFtZSZndDtkAgQPZBYCAgEPFgIfAQL/////D2QCBQ8PFgIfBGdkZAIMDxYCHwECAxYGZg9kFgJmDxUDGC9TZWFyY2g/c2VhcmNoPUVkdWNhdGlvbgllZHVjYXRpb24CLCBkAgEPZBYCZg8VAxwvU2VhcmNoP3NlYXJjaD1Vbml0ZWQrU3RhdGVzDVVuaXRlZCBTdGF0ZXMCLCBkAgIPZBYCZg8VAxUvU2VhcmNoP3NlYXJjaD1WaWRlb3MGdmlkZW9zAGQCDg9kFgJmD2QWBGYPFgIfAQIIFhBmD2QWDgIBD2QWBmYPFQEpL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tRmFjZWJvb2tkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBAApL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tRmFjZWJvb2sAAGQCBQ9kFgYCAQ9kFgJmD2QWAgICDxUBAGQCAg8VBCkvQ29udGVudEl0ZW1zL1RpbGVzL0cyMC1TaGFyZS1vbi1GYWNlYm9vawAAAGQCAw9kFgJmDxUDFUcyMC1TaGFyZS1vbi1GYWNlYm9vawAAZAIHDxYCHwRnFgICAQ8WBB4EaHJlZgXlAWphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LmZhY2Vib29rLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIEZhY2Vib29rIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ2ZhY2Vib29rJywgZG9jdW1lbnQudGl0bGUpO30pKCkfAgUIZmFjZWJvb2sWAmYPFQFwPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL1ByZXZpZXcgVGlsZXMvQ29udGVudFRpbGVzX2ZhY2Vib29rLTIyMHg0NC1hLmpwZyIgYWx0PSJTaGFyZSBvbiBGYWNlYm9vayIvPmQCCQ9kFgJmD2QWAmYPZBYCZg8VAbUCPGEgY2xhc3M9ImZhY2Vib29rIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy5mYWNlYm9vay5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBGYWNlYm9vayBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCdmYWNlYm9vaycsIGRvY3VtZW50LnRpdGxlKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlIFRoaXMgT24gRmFjZWJvb2s8L2E+ZAILD2QWAmYPFQG1AjxhIGNsYXNzPSJmYWNlYm9vayIgb25jbGljaz0iamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cuZmFjZWJvb2suY29tJywnZGNzdXJpJywnL3NoYXJlJywnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gRmFjZWJvb2sgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgnZmFjZWJvb2snLCBkb2N1bWVudC50aXRsZSk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZSBUaGlzIE9uIEZhY2Vib29rPC9hPmQCDQ9kFgJmDxUBAGQCAQ9kFg4CAQ9kFgZmDxUBKC9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLVR3aXR0ZXJkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBAAoL0NvbnRlbnRJdGVtcy9UaWxlcy9HMjAtU2hhcmUtb24tVHdpdHRlcgAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEKC9Db250ZW50SXRlbXMvVGlsZXMvRzIwLVNoYXJlLW9uLVR3aXR0ZXIAAABkAgMPZBYCZg8VAxRHMjAtU2hhcmUtb24tVHdpdHRlcgAAZAIHDxYCHwRnFgICAQ8WBB8FBcoCamF2YXNjcmlwdDooZnVuY3Rpb24oKXtkY3NNdWx0aVRyYWNrKCdkY3NzaXAnLCd3d3cudHdpdHRlci5jb20nLCdkY3N1cmknLCcvc2hhcmUnLCAnV1QudGknLGRvY3VtZW50LnRpdGxlLCdXVC5kbCcsJzEnLCdXVC56X3R5cGUnLCdTaGFyaW5nJywnV1Quel9uYW1lJywnU2hhcmUgdG8gVHdpdHRlciBTaWRlYmFyJyk7b3BlblNoYXJpbmdTaXRlKCd0d2l0dGVyJywgJ1ZpZGVvOiBCaWxsIEdhdGVzIGFuZCBUaG9tYXMgRnJpZWRtYW4sIGF1dGhvciBvZiBUaGF0IFVzZWQgdG8gQmUgVVMsIGRpc2N1c3MgVS5TLiBlZHVjYXRpb24uIGh0dHA6Ly9iLWdhdC5lcy95bnlsN0QnKTt9KSgpHwIFB3R3aXR0ZXIWAmYPFQFuPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL1ByZXZpZXcgVGlsZXMvQ29udGVudFRpbGVzX3R3aXR0ZXItMjIweDQ0LWEuanBnIiBhbHQ9IlNoYXJlIG9uIFR3aXR0ZXIiLz5kAgkPZBYCZg9kFgJmD2QWAmYPFQGVAjxhIGNsYXNzPSJ0d2l0dGVyIiBvbmNsaWNrPSJqYXZhc2NyaXB0OihmdW5jdGlvbigpe2Rjc011bHRpVHJhY2soJ2Rjc3NpcCcsJ3d3dy50d2l0dGVyLmNvbScsJ2Rjc3VyaScsJy9zaGFyZScsICdXVC50aScsZG9jdW1lbnQudGl0bGUsJ1dULmRsJywnMScsJ1dULnpfdHlwZScsJ1NoYXJpbmcnLCdXVC56X25hbWUnLCdTaGFyZSB0byBUd2l0dGVyIFNpZGViYXInKTtvcGVuU2hhcmluZ1NpdGUoJ3R3aXR0ZXInLCAnJyk7fSkoKTtyZXR1cm4gZmFsc2U7IiBocmVmPSIjIj5TaGFyZTwvYT5kAgsPZBYCZg8VAZUCPGEgY2xhc3M9InR3aXR0ZXIiIG9uY2xpY2s9ImphdmFzY3JpcHQ6KGZ1bmN0aW9uKCl7ZGNzTXVsdGlUcmFjaygnZGNzc2lwJywnd3d3LnR3aXR0ZXIuY29tJywnZGNzdXJpJywnL3NoYXJlJywgJ1dULnRpJyxkb2N1bWVudC50aXRsZSwnV1QuZGwnLCcxJywnV1Quel90eXBlJywnU2hhcmluZycsJ1dULnpfbmFtZScsJ1NoYXJlIHRvIFR3aXR0ZXIgU2lkZWJhcicpO29wZW5TaGFyaW5nU2l0ZSgndHdpdHRlcicsICcnKTt9KSgpO3JldHVybiBmYWxzZTsiIGhyZWY9IiMiPlNoYXJlPC9hPmQCDQ9kFgJmDxUBAGQCAg9kFg4CAQ9kFgZmDxUBJi9Db250ZW50SXRlbXMvVGlsZXMvYXNrYmlsbGctRWR1Y2F0aW9uZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQAJi9Db250ZW50SXRlbXMvVGlsZXMvYXNrYmlsbGctRWR1Y2F0aW9uAABkAgUPZBYGAgEPZBYCZg9kFgICAg8VAQBkAgIPFQQmL0NvbnRlbnRJdGVtcy9UaWxlcy9hc2tiaWxsZy1FZHVjYXRpb24AAABkAgMPZBYCZg8VAxJhc2tiaWxsZy1FZHVjYXRpb24AAGQCBw8WAh8EZxYCAgEPFgQfBQUsaHR0cHM6Ly90d2l0dGVyLmNvbS8jIS9zZWFyY2g/cT0lMjNhc2tiaWxsZyAeBnRhcmdldAUGX2JsYW5rFgJmDxUBhQE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvRWR1Y2F0aW9uL0xhbmRpbmctcGFnZS1pbWFnZXMvYXNrQmlsbGdfRWR1Y2F0aW9uLTIyMHguanBnIiBhbHQ9IiNhc2tiaWxsZyBFZHVjYXRpb24gUXVlc3Rpb25zIi8+ZAIJD2QWAmYPZBYCZg9kFgJmDxUBVDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tLyMhL3NlYXJjaD9xPSUyM2Fza2JpbGxnICI+I2Fza2JpbGxnPC9hPmQCCw9kFgJmDxUBVDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tLyMhL3NlYXJjaD9xPSUyM2Fza2JpbGxnICI+I2Fza2JpbGxnPC9hPmQCDQ9kFgJmDxUBAGQCAw9kFg4CAQ9kFgZmDxUBQy9Db250ZW50SXRlbXMvVGlsZXMvQW1lcmljYXMtRnV0dXJlL0FtZXJpY2FzLUZ1dHVyZS1Db21wZXRpdGl2ZW5lc3NkAgEPZBYCZg8VAQBkAgMPZBYCZg8VBQAAAAJObwBkAgMPZBYCZg8VBABDL0NvbnRlbnRJdGVtcy9UaWxlcy9BbWVyaWNhcy1GdXR1cmUvQW1lcmljYXMtRnV0dXJlLUNvbXBldGl0aXZlbmVzcwAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEQy9Db250ZW50SXRlbXMvVGlsZXMvQW1lcmljYXMtRnV0dXJlL0FtZXJpY2FzLUZ1dHVyZS1Db21wZXRpdGl2ZW5lc3MAAABkAgMPZBYCZg8VAx9BbWVyaWNhcy1GdXR1cmUtQ29tcGV0aXRpdmVuZXNzAABkAgcPFgIfBGcWAgIBDxYCHwUFRC9QZXJzb25hbC9BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tQ29tcGV0aXRpdmVuZXNzFgJmDxUBzAE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUGVyc29uYWwvQW1lcmljYXMgRnV0dXJlIHdpdGggVGhvbWFzIEZyaWVkbWFuL0FtZXJGdXR1cmVfY29tcGV0aXRpdmVuZXNzLW9saXZlLTIyMHg0NC5qcGciIGFsdD0iQW1lcmljYSdzIEZ1dHVyZTogQSBDb252ZXJzYXRpb24gd2l0aCBCaWxsIEdhdGVzIGFuZCBUaG9tYXMgRnJpZWRtYW4iLz5kAgkPZBYCZg9kFgJmD2QWAmYPFQGNATxhIGhyZWY9Ii9QZXJzb25hbC9BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tQ29tcGV0aXRpdmVuZXNzIj5BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tQ29tcGV0aXRpdmVuZXNzPC9hPmQCCw9kFgJmDxUBjQE8YSBocmVmPSIvUGVyc29uYWwvQW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLUNvbXBldGl0aXZlbmVzcyI+QW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLUNvbXBldGl0aXZlbmVzczwvYT5kAg0PZBYCZg8VAQBkAgQPZBYOAgEPZBYGZg8VAT4vQ29udGVudEl0ZW1zL1RpbGVzL0FtZXJpY2FzLUZ1dHVyZS9BbWVyaWNhcy1GdXR1cmUtSW5ub3ZhdGlvbmQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEAD4vQ29udGVudEl0ZW1zL1RpbGVzL0FtZXJpY2FzLUZ1dHVyZS9BbWVyaWNhcy1GdXR1cmUtSW5ub3ZhdGlvbgAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEPi9Db250ZW50SXRlbXMvVGlsZXMvQW1lcmljYXMtRnV0dXJlL0FtZXJpY2FzLUZ1dHVyZS1Jbm5vdmF0aW9uAAAAZAIDD2QWAmYPFQMaQW1lcmljYXMtRnV0dXJlLUlubm92YXRpb24AAGQCBw8WAh8EZxYCAgEPFgIfBQU/L1BlcnNvbmFsL0FtZXJpY2FzLUZ1dHVyZS1CaWxsLUdhdGVzLVRob21hcy1GcmllZG1hbi1Jbm5vdmF0aW9uFgJmDxUBigE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUGVyc29uYWwvQW1lcmljYXMtRnV0dXJlL0FtZXJGdXR1cmVfSW5ub3ZhdGlvbi1vbGl2ZS0yMjB4NDQuanBnIiBhbHQ9IkFtZXJpY2FzIEZ1dHVyZSAtIElubm92YXRpb24iLz5kAgkPZBYCZg9kFgJmD2QWAmYPFQGDATxhIGhyZWY9Ii9QZXJzb25hbC9BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tSW5ub3ZhdGlvbiI+QW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLUlubm92YXRpb248L2E+ZAILD2QWAmYPFQGDATxhIGhyZWY9Ii9QZXJzb25hbC9BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tSW5ub3ZhdGlvbiI+QW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLUlubm92YXRpb248L2E+ZAIND2QWAmYPFQEAZAIFD2QWDgIBD2QWBmYPFQE8L0NvbnRlbnRJdGVtcy9UaWxlcy9BbWVyaWNhcy1GdXR1cmUvQW1lcmljYXMtRnV0dXJlLVBvbGl0aWNzZAIBD2QWAmYPFQEAZAIDD2QWAmYPFQUAAAACTm8AZAIDD2QWAmYPFQQAPC9Db250ZW50SXRlbXMvVGlsZXMvQW1lcmljYXMtRnV0dXJlL0FtZXJpY2FzLUZ1dHVyZS1Qb2xpdGljcwAAZAIFD2QWBgIBD2QWAmYPZBYCAgIPFQEAZAICDxUEPC9Db250ZW50SXRlbXMvVGlsZXMvQW1lcmljYXMtRnV0dXJlL0FtZXJpY2FzLUZ1dHVyZS1Qb2xpdGljcwAAAGQCAw9kFgJmDxUDGEFtZXJpY2FzLUZ1dHVyZS1Qb2xpdGljcwAAZAIHDxYCHwRnFgICAQ8WAh8FBT0vUGVyc29uYWwvQW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLVBvbGl0aWNzFgJmDxUBhgE8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvUGVyc29uYWwvQW1lcmljYXMtRnV0dXJlL0FtZXJGdXR1cmVfUG9saXRpY3Mtb2xpdmUtMjIweDQ0LmpwZyIgYWx0PSJBbWVyaWNhcyBGdXR1cmUgLSBQb2xpdGljcyIvPmQCCQ9kFgJmD2QWAmYPZBYCZg8VAX88YSBocmVmPSIvUGVyc29uYWwvQW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLVBvbGl0aWNzIj5BbWVyaWNhcy1GdXR1cmUtQmlsbC1HYXRlcy1UaG9tYXMtRnJpZWRtYW4tUG9saXRpY3M8L2E+ZAILD2QWAmYPFQF/PGEgaHJlZj0iL1BlcnNvbmFsL0FtZXJpY2FzLUZ1dHVyZS1CaWxsLUdhdGVzLVRob21hcy1GcmllZG1hbi1Qb2xpdGljcyI+QW1lcmljYXMtRnV0dXJlLUJpbGwtR2F0ZXMtVGhvbWFzLUZyaWVkbWFuLVBvbGl0aWNzPC9hPmQCDQ9kFgJmDxUBAGQCBg9kFg4CAQ8WAh8EZxYGZg8VASIvQm9va3MvUGVyc29uYWwvVGhhdC1Vc2VkLXRvLWJlLVVzZAIBD2QWAmYPFQFpPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9HYXRlc05vdGVzL0Jvb2tzL1BlcnNvbmFsL1RoYXRVc2VkVG9CZVVzLVN0cm9rZS5qcGciIGFsdD0iVGhhdCBVc2VkIHRvIGJlIFVzIi8+ZAIDD2QWAmYPFQUSU2VwdGVtYmVyIDA1LCAyMDExGUZhcnJhciwgU3RyYXVzIGFuZCBHaXJvdXgJNDAwIHBhZ2VzA1llc2Q8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3VzLm1hY21pbGxhbi5jb20vdGhhdHVzZWR0b2JldXMvVGhvbWFzRnJpZWRtYW4iPlNlYXJjaCBNb3JlIEluZm88L2E+ZAIDD2QWAmYPFQRdVGhhdCBVc2VkIHRvIGJlIFVzOiBIb3cgQW1lcmljYSBGZWxsIEJlaGluZCBpbiB0aGUgV29ybGQgaXQgSW52ZW50ZWQgYW5kIEhvdyBXZSBDYW4gQ29tZSBCYWNrIi9Cb29rcy9QZXJzb25hbC9UaGF0LVVzZWQtdG8tYmUtVXMRRmVicnVhcnkgMjcsIDIwMTJrVGhhdCBVc2VkIHRvIGJlIFVzOiBIb3cgQW1lcmljYSBGZWxsIEJlaGluZCBpbiB0aGUgV29ybGQgaXQgSW52ZW50ZWQgYW5kIEhvdyBXZSBDYW4gQ29tZSBCYWNrIChCb29rIFJldmlldylkAgUPZBYGAgEPZBYCZg9kFgICAg8VAWk8aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0dhdGVzTm90ZXMvQm9va3MvUGVyc29uYWwvVGhhdFVzZWRUb0JlVXMtU3Ryb2tlLmpwZyIgYWx0PSJUaGF0IFVzZWQgdG8gYmUgVXMiLz5kAgIPFQQiL0Jvb2tzL1BlcnNvbmFsL1RoYXQtVXNlZC10by1iZS1VcxFGZWJydWFyeSAyNywgMjAxMmtUaGF0IFVzZWQgdG8gYmUgVXM6IEhvdyBBbWVyaWNhIEZlbGwgQmVoaW5kIGluIHRoZSBXb3JsZCBpdCBJbnZlbnRlZCBhbmQgSG93IFdlIENhbiBDb21lIEJhY2sgKEJvb2sgUmV2aWV3KTtCaWxsIHJldmlld3MgVG9tIEZyaWVkbWFu4oCZcyBuZXcgYm9vaywgVGhhdCBVc2VkIHRvIEJlIFVzLmQCAw9kFgJmDxUDElRoYXQtVXNlZC10by1iZS1VcwAAZAIHD2QWAgIBD2QWAmYPFQEAZAIJD2QWAmYPZBYCZg9kFgJmDxUBAGQCCw9kFgJmDxUBAGQCDQ9kFgJmDxUBAGQCBw9kFg4CAQ9kFgZmDxUBKi9QZXJzb25hbC9UaGF0LVVzZWQtdG8tQmUtVXMtUGhvdG8tR2FsbGVyeWQCAQ9kFgJmDxUBAGQCAw9kFgJmDxUFAAAAAk5vAGQCAw9kFgJmDxUEJlRoYXQgVXNlZCB0byBCZSBVczogUmVjaXBlIGZvciBSZW5ld2FsKi9QZXJzb25hbC9UaGF0LVVzZWQtdG8tQmUtVXMtUGhvdG8tR2FsbGVyeQ5NYXJjaCAwMiwgMjAxMiZUaGF0IFVzZWQgdG8gQmUgVXM6IFJlY2lwZSBmb3IgUmVuZXdhbGQCBQ8WAh8EZxYGAgEPDxYEHgdUb29sVGlwBSZUaGF0IFVzZWQgdG8gQmUgVXM6IFJlY2lwZSBmb3IgUmVuZXdhbB4LTmF2aWdhdGVVcmwFKi9QZXJzb25hbC9UaGF0LVVzZWQtdG8tQmUtVXMtUGhvdG8tR2FsbGVyeWQWAmYPZBYCAgIPFQGoATxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvR2F0ZXNOb3Rlcy9QZXJzb25hbC9QaG90by1HYWxsZXJ5LVRoYXQtVXNlZC1Uby1CZS1Vcy81UGlsbGFyc19UaGF0VXNlZFRvQmVVcy0yMjB4LmpwZyIgYWx0PSJUaGF0IFVzZWQgdG8gQmUgVXMgLSBGaXZlIFBpbGxhcnMgb2YgUHJvc3Blcml0eSIvPmQCAg8VBCovUGVyc29uYWwvVGhhdC1Vc2VkLXRvLUJlLVVzLVBob3RvLUdhbGxlcnkOTWFyY2ggMDIsIDIwMTImVGhhdCBVc2VkIHRvIEJlIFVzOiBSZWNpcGUgZm9yIFJlbmV3YWw1SG93IHRvIHJlbmV3IHRoZSBwcm9taXNlIG9mIEFtZXJpY2E6IGEgcGhvdG8gZ2FsbGVyeS5kAgMPFgIfBGgWAmYPFQMgVGhhdC1Vc2VkLXRvLUJlLVVzLVBob3RvLUdhbGxlcnkAAGQCBw9kFgICAQ9kFgJmDxUBAGQCCQ9kFgJmD2QWAmYPZBYCZg8VAQBkAgsPZBYCZg8VAQBkAg0PZBYCZg8VAQBkAgEPZBYCZg8VAQk/c2hvd2FsbD1kAg8PFgIfAQL/////D2QCCQ9kFgJmD2QWCAIBDxYCHwECAxYGZg9kFgICAQ8PFgQeBFRleHQFCkFsbCBUb3BpY3MfCAUHL1RvcGljc2RkAgEPZBYCAgEPDxYEHwkFBUJvb2tzHwgFBi9Cb29rc2RkAgIPZBYCAgEPDxYEHwkFCUVkdWNhdGlvbh8IBREvVG9waWNzL0VkdWNhdGlvbmRkAgMPFgIfAQIDFgZmD2QWAgIBDw8WBB8JBQZFbmVyZ3kfCAUOL1RvcGljcy9FbmVyZ3lkZAIBD2QWAgIBDw8WBB8JBQtEZXZlbG9wbWVudB8IBRMvVG9waWNzL0RldmVsb3BtZW50ZGQCAg9kFgICAQ8PFgQfCQUGSGVhbHRoHwgFDi9Ub3BpY3MvSGVhbHRoZGQCBQ8WAh8BAgEWAmYPZBYCAgEPDxYEHwkFCFBlcnNvbmFsHwgFCS9QZXJzb25hbGRkAgcPFgIfCQUEMjAxM2RkYL8pGlFxGgpJ8hsXvh7JAeyscuw=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL0qaHBCgLf6cCfDQKNhbaICQL5oamLB4x8dJjx1HrM5ypjT4Y+AlGcSSnh" />
+</div>
+	<div id="container">
+    	<div class="printlogo"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></div>
+        <div class="noprint">
+		<header>
+			<div class="topPart">
+			<nav>
+                <div class="logo"><a href="/"><img src="/GatesNotesV2/img/new-logo.png" alt="The Gates Notes" /></a></div>
+				<div class="nav1">
+					<div id="ctl19_mobileHiderPanel">
+	
+    <span class="navDropDownButton navLabel">Topics</span>
+    <a id="ctl19_allButton" class="navLabel navAll" href="/All">All</a>
+
+</div>
+<div class="navShadow">
+<div class="navDropDown">
+
+		<ul class="tier1">
+	
+		<li id="ctl19_repeater_NavItem_0" class="navLink"><a href="/Books">Books</a></li>
+	
+		<li id="ctl19_repeater_NavItem_1" class="active"><a href="/Topics/Education">Education</a></li>
+	
+		<li id="ctl19_repeater_NavItem_2" class="navLink"><a href="/Topics/Energy">Energy</a></li>
+	
+		<li id="ctl19_repeater_NavItem_3" class="navLink"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl19_repeater_NavItem_4" class="navLink"><a href="/Topics/Health">Health</a></li>
+	
+		<li id="ctl19_repeater_NavItem_5" class="navLink"><a href="/Personal">Personal</a></li>
+	
+		<li id="ctl19_repeater_NavItem_6" class="navLink"><a href="/All">All</a></li>
+	
+		</ul>
+	
+
+</div>
+</div>
+<div class="clear"></div>
+
+
+                	
+
+<div class="buttonBox">
+<dl class="navSearchButtons">
+	<dt>Search</dt>
+	<dd class="searchBox"><input name="ctl20$SearchBox" type="text" value="Search" id="ctl20_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;ctl20_SearchButton&#39;).click();return false;}} else {return true}; " style="height:25px;" /></dd>
+	<dd class="searchButton"><input type="submit" name="ctl20$SearchButton" value="" onclick="if(jQuery(&#39;.searchBox input&#39;).val() == &#39;&#39;) {return false; };" id="ctl20_SearchButton" tabindex="1" class="search" /></dd>
+    <dd class="connectLabel">Connect</dd>
+    <dd class="socialButton"><input type="submit" name="ctl20$socialButton" value="" onclick="return false;" id="ctl20_socialButton" class="social" /></dd>
+    <dd class="rssButton">
+      <a id="ctl20_rssButton" class="rss" href="/RSS"></a>
+    </dd>
+    <div class="clear"></div>
+</dl>
+<div class="rssHoverThing"></div>
+</div>
+
+<div class="shareDropShadow">
+    <div class="shareDropDown">
+        <span class="headerFacebook"><a target="_blank" href="http://www.facebook.com/BillGates" target="_blank">Facebook</a></span>
+        <span class="headerTwitter"><a target="_blank" href="http://twitter.com/#!/billgates" target="_blank">Twitter</a></span>
+        <span class="headerEmail"><a href="/GlobalPages/Contact-Bill-Gates">Contact Us</a></span>
+    </div>
+</div>
+
+                </div>
+
+			</nav>
+            </div>
+            <div class="headerShadow"></div>
+            <div class="bottomPart"></div>
+		</header>
+        </div>
+
+		
+
+
+<div class="content article">
+	
+	<div class="column3">
+		<section>
+			<article class="main">
+				
+				
+				
+							
+
+
+
+
+<div id="content_0_VideoItem_ctl00_0_VideoItem_0_pnlVideoTag_0" class="video-js-box">
+	
+	<script type="text/javascript" src="/GatesNotesV2/js/Silverlight.js"></script>
+	<script type="text/javascript">
+	    function onSilverlightError(sender, args) {
+	        var appSource = "";
+	        if (sender != null && sender != 0) {
+	            appSource = sender.getHost().Source;
+	        }
+	        var errorType = args.ErrorType;
+	        var iErrorCode = args.ErrorCode;
+	        if (errorType == "ImageError" || errorType == "MediaError") {
+	            return;
+	        }
+	        var errMsg = "Unhandled Error in Silverlight Application " + appSource + "\n";
+	        errMsg += "Code: " + iErrorCode + "    \n";
+	        errMsg += "Category: " + errorType + "       \n";
+	        errMsg += "Message: " + args.ErrorMessage + "     \n";
+
+	        if (errorType == "ParserError") {
+	            errMsg += "File: " + args.xamlFile + "     \n";
+	            errMsg += "Line: " + args.lineNumber + "     \n";
+	            errMsg += "Position: " + args.charPosition + "     \n";
+	        }
+	        else if (errorType == "RuntimeError") {
+	            if (args.lineNumber != 0) {
+	                errMsg += "Line: " + args.lineNumber + "     \n";
+	                errMsg += "Position: " + args.charPosition + "     \n";
+	            }
+	            errMsg += "MethodName: " + args.methodName + "     \n";
+	        }
+	        throw new Error(errMsg);
+	    }
+	</script>
+	<!-- Include the VideoJS Library -->
+<!-- <link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">-->
+
+    <link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/video-js.css" /> <!-- Need to link to video-js.css locally so that the controls appear and the big play button does not-->
+    <script type="text/javascript" src="/GatesNotesV2/js/video.js"></script>
+	<script language="javascript" type="text/javascript">
+	    var myPlayer;
+	    window.onresize = function () { setTimeout(ResizeVideo, 100); };
+	    $(function () {
+	        _V_.options.flash.swf = "/GatesNotesV2/swf/video-js.swf"
+	        _V_("vid").ready(function () {
+	            myPlayer = this
+	            TrackHtml5Video();
+	            setTimeout(ResizeVideo, 100);
+	        });
+	    });
+	    function ResizeVideo() {
+	        articleWidth = jQuery("article.main").width();
+	        if (myPlayer != undefined && articleWidth > 0) {
+	            if (articleWidth == 680) {
+	                myPlayer.width(679);
+	                myPlayer.height(382);
+	            }
+	            else if (articleWidth == 408) {
+	                myPlayer.width(407);
+	                myPlayer.height(229);
+	            }
+	            else {
+	                myPlayer.width(articleWidth);
+	                myPlayer.height(articleWidth * 9 / 16);
+	            }
+	            //myPlayer.positionBox();
+	        }
+	    }
+	    function TrackHtml5Video() {
+	        jQuery("video").each(function () {
+	            var videoTitle;
+	            if (jQuery('video').attr('caption') !== "") {
+	                videoTitle = jQuery('video').attr('caption');
+	            } else {
+	                videoTitle = document.URL;
+	            }
+	            var started = false;
+	            var reachedEightyPercent = false;
+	            var reachedFiftyPercent = false;
+	            var eightyPercentMark = parseInt((this.duration * 0.8), 10);
+	            var fiftyPercentMark = parseInt((this.duration * 0.5), 10);
+	            jQuery(this).bind("timeupdate", function () {
+	                if (started == false) {
+	                    started = true;
+	                    // Code for when the video starts goes here.
+	                    dcsMultiTrack('DCS.dcsuri', '/video/' + jQuery(this).attr("caption") + '/Play', 'WT.ti', $(document).attr('title'), 'WT.z_type', 'Video Play', 'WT.z_name', jQuery(this).attr("caption"), 'WT.dl', '1', 'WT.z_vlength', parseInt(this.duration));
+	                    // Omniture 
+	                    // Play video
+	                    s.eVar6 = videoTitle;
+	                    s.eVar8 = 'Video';
+	                    s.prop2 = 'Video';
+	                    s.prop9 = videoTitle;
+	                    s.tl();
+	                    // End omniture
+	                }
+	                var currentTime = parseInt(this.currentTime, 10);
+	                if (currentTime > fiftyPercentMark && reachedFiftyPercent == false) {
+	                    reachedFiftyPercent = true;
+	                    // Code to fire at 50 percent. goes here.
+	                    // Omniture
+	                    // End video
+	                    s.eVar6 = videoTitle;
+	                    s.eVar8 = 'Video';
+	                    s.prop2 = 'Video';
+	                    s.events = 'event16';
+	                    s.tl();
+	                    // End omniture
+	                }
+	                if (currentTime > eightyPercentMark && reachedEightyPercent == false) {
+	                    reachedEightyPercent = true;
+	                    // Code to fire at 80 percent. goes here.
+	                    dcsMultiTrack('DCS.dcsuri', '/video/' + jQuery(this).attr("caption") + '/80complete', 'WT.ti', $(document).attr('title'), 'WT.z_type', 'Video 80%', 'WT.z_name', jQuery(this).attr("caption"), 'WT.dl', '1', 'WT.z_vlength', parseInt(this.duration));
+	                    // Omniture
+	                    // End video
+	                    s.eVar6 = videoTitle;
+	                    s.eVar8 = 'Video';
+	                    s.prop2 = 'Video';
+	                    s.events = 'event17';
+	                    s.tl();
+	                    // End omniture
+	                }
+	            });
+	            jQuery(this).bind("durationchange", function () {
+	                eightyPercentMark = parseInt((this.duration * 0.8), 10);
+	                fiftyPercentMark = parseInt((this.duration * 0.5), 10);
+	            });
+	            jQuery(this).bind("ended", function () {
+	                // Code for 100% completion here.
+	                dcsMultiTrack('DCS.dcsuri', '/video/' + jQuery(this).attr("caption") + '/100complete', 'WT.ti', $(document).attr('title'), 'WT.z_type', 'Video 100%', 'WT.z_name', jQuery(this).attr("caption"), 'WT.dl', '1', 'WT.z_vlength', parseInt(this.duration));
+	            });
+	        });
+	    }
+	</script>
+
+	<video ID="vid" caption="" class="video-js vjs-default-skin" controls poster='~/media/images/gatesnotes/poster images/87387547.jpg' preload="metadata" width="679" height="382" data-setup="{}">
+	  <source src="http://www.thegatesnotes.com/media/video/87387547.mp4" type="video/mp4" />
+	  <source src="http://www.thegatesnotes.com/media/video/87387547.ogv" type='video/ogg; codecs="theora, vorbis"' />
+	  <!-- <track kind="chapters" src="/GatesNotesV2/testTrack.vtt" srclang="en" default/> -->
+      	
+          <object data="data:application/x-silverlight-2," class="vjs-flash-fallback" type="application/x-silverlight-2" width="679" height="382", AutoPlay="False">
+		    <param name="initParams" value="videoUrl=http://www.thegatesnotes.com/media/video/87387547.mp4,videoCaption="/>
+		    <param name="source" value="/ClientBin/VideoPlayer.xap"/>
+            <param name="start" value="false" />
+            <param name="play" value="false" />
+		    <param name="onError" value="onSilverlightError" />
+		    <param name="background" value="white" />
+		    <param name="minRuntimeVersion" value="4.0.50826.0" />
+		    <param name="autoUpgrade" value="true" />
+		    <a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50826.0" style="text-decoration:none">
+			    <img src="/GatesNotesV2/img/poster-silverlight.png" alt="Get Microsoft Silverlight" style="border-style:none"/>
+		    </a>
+	      </object>
+      
+
+	</video>
+
+</div>
+
+<script type="text/javascript">
+    var player = _V_('vid');
+    player.addEvent('durationchange', function () {
+        var duration = player.duration();
+        var formatted = _V_.formatTime(duration);
+        $('.vjs-remaining-time-display').text(formatted);
+        $('.vjs-controls').css({ 'opacity': '1', 'visibility': 'visible' });
+    });
+    player.addEvent('ended', function () {
+        $('.vjs-poster').show();
+    });
+</script>
+
+
+
+<div id="videoembedcode" style="display:none;">
+	<a href="javascript:void(0);" class="close">close</a>
+	&lt;iframe width=&quot;680&quot; height=&quot;440&quot; src=&quot;http://www.thegatesnotes.com/Video?videoId=d40770da-4f07-4844-9d88-ca01cf07a304&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</div>
+
+
+
+
+<script type="text/javascript">
+    jQuery(function () {
+        jQuery("#videoembedcode .close").click(function () {
+            jQuery(this).parent().slideUp();
+        });
+    }); 
+</script>
+						
+
+                <!-- Galleria Repeater -->
+				
+
+
+				
+<!--
+<ul class="videotools">
+    <li><a id="videoembedcodelink" class="videoembedcode" href="javascript:void(0);">Share this Video</a></li>
+</ul>
+<script language="javascript" type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery("#videoembedcodelink").click(function() {
+            jQuery("#videoembedcode").slideDown();
+        });
+    });
+</script>
+-->
+
+				<p class="date">March 06, 2012</p>
+				<h1>America's Future: Education</h1>
+				<h2></h2>
+
+				<blockquote>I recently read and reviewed That Used to Be Us, a new book on how to strengthen America's economic competitiveness. I sat down with co-author Thomas Friedman for a probing conversation about the vitally important issues raised by the book. </blockquote>
+				<div>
+		<p>This video excerpt from <a href="/Personal/Americas-Future-Bill-Gates-Thomas-Friedman">America's Future: A Conversation with Bill Gates and Thomas Friedman</a> focuses on education.</p>
+</div>
+				<div class="tags">
+				<ul>
+					<li class="head">Tags:</li>
+					<li><a href="/Search?search=Education">education</a>, </li><li><a href="/Search?search=United+States">United States</a>, </li><li><a href="/Search?search=Videos">videos</a></li>
+				</ul>
+				<div class="clear"></div> 
+				</div>
+				<div id="endofarticle"></div>
+				<div id="constrainwidth">
+
+                 
+				</div>
+                
+<div class="newcomments">
+
+<div class="commentShadow"></div>
+<div class="discussionheading"><b>Discussion</b></div>
+<div class="discussionpolicy"><a href="/GlobalPages/Discussion-Policy"><img alt="Discussion" src="/GatesNotesV2/img/discussion_policy.gif" /></a></div>
+
+<!--<div class="clear"></div>-->
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    function disqus_config() {
+        this.callbacks.afterRender = [function () {
+            $('li a.dsq-subscribe-rss em').text('View this stream via RSS');
+            if ($('.dsq-more-button').length > 0) {
+                $('a.dsq-brlink').addClass('buttonPresent');
+            }
+        } ];
+        this.callbacks.onPaginate = [function () {
+            if ($('.dsq-more-button').length == 0) {
+                $('a.dsq-brlink').removeClass('buttonPresent');
+            }
+        } ];
+    }
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thegatesnotes'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+    var disqus_id = "{39BA19CD-3D42-4084-9268-A69F2242975F}";
+    var disqus_url = "http://www.thegatesnotes.com/Topics/Education/Americas-Future-Bill-Gates-Thomas-Friedman-Education";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+			</article>
+		</section>      
+	</div>
+    
+	
+
+<div class="column1">
+
+	<section>
+		
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.facebook.com','dcsuri','/share','WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Facebook Sidebar');openSharingSite('facebook', document.title);})()" id="content_0_ctl03_Articles_ImageTileLink_0" class="facebook">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_facebook-220x44-a.jpg" alt="Share on Facebook"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="javascript:(function(){dcsMultiTrack('dcssip','www.twitter.com','dcsuri','/share', 'WT.ti',document.title,'WT.dl','1','WT.z_type','Sharing','WT.z_name','Share to Twitter Sidebar');openSharingSite('twitter', 'Video: Bill Gates and Thomas Friedman, author of That Used to Be US, discuss U.S. education. http://b-gat.es/ynyl7D');})()" id="content_0_ctl03_Articles_ImageTileLink_1" class="twitter">
+						<img src="/~/media/Images/GatesNotes/Preview Tiles/ContentTiles_twitter-220x44-a.jpg" alt="Share on Twitter"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="https://twitter.com/#!/search?q=%23askbillg " id="content_0_ctl03_Articles_ImageTileLink_2" target="_blank">
+						<img src="/~/media/Images/GatesNotes/Education/Landing-page-images/askBillg_Education-220x.jpg" alt="#askbillg Education Questions"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="/Personal/Americas-Future-Bill-Gates-Thomas-Friedman-Competitiveness" id="content_0_ctl03_Articles_ImageTileLink_3">
+						<img src="/~/media/Images/GatesNotes/Personal/Americas Future with Thomas Friedman/AmerFuture_competitiveness-olive-220x44.jpg" alt="America's Future: A Conversation with Bill Gates and Thomas Friedman"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="/Personal/Americas-Future-Bill-Gates-Thomas-Friedman-Innovation" id="content_0_ctl03_Articles_ImageTileLink_4">
+						<img src="/~/media/Images/GatesNotes/Personal/Americas-Future/AmerFuture_Innovation-olive-220x44.jpg" alt="Americas Future - Innovation"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+
+				
+				<article class="image relatedContentLink"> 
+					<a href="/Personal/Americas-Future-Bill-Gates-Thomas-Friedman-Politics" id="content_0_ctl03_Articles_ImageTileLink_5">
+						<img src="/~/media/Images/GatesNotes/Personal/Americas-Future/AmerFuture_Politics-olive-220x44.jpg" alt="Americas Future - Politics"/>
+                        
+					</a>
+				</article>
+				
+
+				
+
+				
+
+				
+			
+				
+					<article class="book photoIncluded relatedContentLink">
+
+
+						<a href="/Books/Personal/That-Used-to-be-Us">
+							<p id="content_0_ctl03_Articles_P1_6" class="image"><img src="/~/media/Images/GatesNotes/Books/Personal/ThatUsedToBeUs-Stroke.jpg" alt="That Used to be Us"/></p>
+						</a>
+						
+					</article>
+					
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+			
+				
+				
+
+				
+				<article class="standard relatedContentLink">
+					<a id="content_0_ctl03_Articles_ThumbnailLink_7" title="That Used to Be Us: Recipe for Renewal" href="/Personal/That-Used-to-Be-Us-Photo-Gallery"><p id="content_0_ctl03_Articles_P2_7" class="image">
+							
+                            <img src="/~/media/Images/GatesNotes/Personal/Photo-Gallery-That-Used-To-Be-Us/5Pillars_ThatUsedToBeUs-220x.jpg" alt="That Used to Be Us - Five Pillars of Prosperity"/>
+							
+						</p></a>
+					<a href="/Personal/That-Used-to-Be-Us-Photo-Gallery">
+						<p class="date">March 02, 2012</p>
+						<h1>That Used to Be Us: Recipe for Renewal</h1>
+
+						<p>How to renew the promise of America: a photo gallery.</p>
+					</a>
+					
+				</article>
+				
+
+				
+
+				
+
+				
+
+				
+			
+		
+	</section>
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a").each(function () {
+            var title = $(this).attr("title");
+            var href = $(this).attr("href");
+            if (href == "#embed") {
+                $(this).addClass("scslightbox");
+                $(this).attr("href", "#" + title);
+                $(this).attr("title", "Click to open video");
+            }
+        });
+        $('.scslightbox').colorbox({ inline: true, width: '855px' });
+    });
+</script>
+ <script type='text/javascript'>
+	/* <![CDATA[ */
+	var scrolled = 0;
+	jQuery(document).ready(function() {
+		TrackAtEndOfArticle();
+		TrackRelatedArticles();
+		TrackRelatedBooks();
+		if (typeof Galleria !== 'undefined'){
+        Galleria.ready(function() {
+            this.bind('thumbnail', function(e){
+                var index = e.index + 1;
+                $(e.thumbTarget).parent().bind('click', function() {
+                    var wtArguments = ['WT.ti', 'Americas Future: Education', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Nav::' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                });
+            });
+            this.bind('loadstart', function(){
+                var index = this.getIndex() + 1;
+                $('.galleria-stage').bind('click', function ClickOnMainImageWebTrends() {
+                    var wtArguments = ['WT.ti', 'Americas Future: Education', 'WT.z_type', 'Photo Gallery', 'WT.z_name', 'Main:: ' + index];
+                    dcsMultiTrack.apply(this, wtArguments);
+					// Omniture
+                    s.eVar4 = index;
+                    s.events = 'event6';
+					s.tl();
+                    $(this).unbind('click', ClickOnMainImageWebTrends);
+                });
+            });
+        });
+}
+	});
+
+	function TrackAtEndOfArticle() {
+		jQuery(window).scroll(function() {
+			var windowBottom = jQuery(window).height() + jQuery(window).scrollTop();
+			var articlediv = document.getElementById("endofarticle");
+			var shareTop = articlediv.offsetTop;
+			// if the bottom of the article is at the bottom of the window, fire the tag
+			if (windowBottom >= shareTop) {
+				if (scrolled == 0) {
+					scrolled = 1;
+					//alert("Page Scrolled to end of article.");
+					dcsMultiTrack('DCS.dcsuri', '/end/Americas Future: Education', 'WT.ti', 'End: Americas Future: Education', 'WT.z_type', 'Read Complete', 'WT.z_name', 'Americas Future: Education', 'WT.dl', '1');
+				}
+			}
+		});
+	}
+     function TrackRelatedArticles() {
+         jQuery("article.standard > a, article.image > image").not(".facebook, .twitter").click(function() {
+            var title;
+            if ($(this).children('h1').length > 0){
+                title = $(this).children('h1').text();
+            } else {
+                title = $(this).find('img').attr('alt');
+            }
+            var wtArguments = ['WT.ti', $(document).attr('title'), 'WT.z_type', 'Related Article', 'WT.z_name', title];
+            dcsMultiTrack.apply(this, wtArguments);
+         });
+     }
+     function TrackRelatedBooks() {
+         jQuery("article.book > a").click(function() {
+             dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Related Article', 'WT.z_name', title = function(){if ($(this).children('h1').length > 0) {
+                var title = $(this).children('h1').text();
+            } else {
+                var title = $(this).find('img').attr('alt');
+            }});
+         }); 
+     }
+ </script>
+<!-- this is for the comments widget. --><script type="text/javascript" src="/GatesNotesV2/js/jquery.wresize.js"></script>
+
+
+        <!--  -->
+        <div class="noprint">
+		<footer>
+        
+
+<div class="footer">
+<div class="footerShadow"></div>
+<div class="columnBox">
+    <ul id="firstColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn1_columnOneLink_0" href="/Topics">All Topics</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_1" href="/Books">Books</a>
+        </li><li>
+            <a id="ctl21_footerColumn1_columnOneLink_2" href="/Topics/Education">Education</a>
+        </li></ul>
+    <ul id="secondColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn2_columnOneLink_0" href="/Topics/Energy">Energy</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_1" href="/Topics/Development">Development</a>
+        </li><li>
+            <a id="ctl21_footerColumn2_columnOneLink_2" href="/Topics/Health">Health</a>
+        </li></ul>
+    <ul id="thirdColumn" class="footerColumn">
+    <li>
+            <a id="ctl21_footerColumn3_columnOneLink_0" href="/Personal">Personal</a>
+        </li></ul>
+    <ul id="fourthColumn" class="footerColumn">
+        <li><a href="/GlobalPages/Terms-of-Use">Terms of Use</a></li>
+        <li><a href="/GlobalPages/Privacy-Policy">Privacy</a></li>
+    </ul>
+
+    <div class="footerImageBox">
+        <a href="http://www.facebook.com/BillGates" class="footerImage footerFacebook"></a>
+        <a href="http://www.twitter.com/billgates" class="footerImage footerTwitter"></a>
+        <a href="/RSS" class="footerImage footerRSS"></a>
+        <a href="/GlobalPages/Contact-Bill-Gates" class="footerImage footerEmail"></a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="copyrightShadow">
+<div class="copyright">Copyright &copy2013 The Gates Notes, LLC. All Rights Reserved</div>
+</div>
+</div>
+
+		</footer>
+        </div>
+	</div>
+
+	<!--[if lt IE 7 ]> 
+		<script type="text/javascript" src="/GatesNotesV2/js/DD_belatedPNG_0.0.8a-min.js"></script> 
+		<script type="text/javascript">DD_belatedPNG.fix('img');</script> 
+	<![endif]-->
+	</form>
+    <script type='text/javascript'>
+	    /* <![CDATA[ */
+	    var scrolled = 0;
+	    jQuery(document).ready(function() {
+		    TrackFooterTools();
+	    });
+	    function TrackFooterTools() {
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
+		    });
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
+		    });
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
+		    });
+	    }
+	    /* ]]> */
+    </script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25348286-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+	<!-- start of smartsource data collector tag -->
+	<!-- copyright (c) 1996-2009 webtrends inc.  all rights reserved. -->
+	<!-- version: 8.6.2 -->
+	<!-- tag builder version: 3.0  -->
+	<!-- created: 9/18/2009 8:49:11 pm -->
+	<script type="text/javascript" src="/GatesNotesV2/js/webtrends.js"></script>
+
+	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- warning: the two script blocks below must remain inline. moving them to an external -->
+	<!-- javascript include file can cause serious problems with cross-domain tracking.      -->
+	<!-- ----------------------------------------------------------------------------------- -->
+	<script type="text/javascript">
+		//<![CDATA[
+	    var _tag = new WebTrends();
+	    _tag.dcsGetId();
+	    _tag.trackAllEvents = true
+	    //]]>>
+	</script>
+
+	<script type="text/javascript">
+		//<![CDATA[
+	    // Add custom parameters here.
+	    //_tag.DCSext.param_name=param_value;
+	    _tag.dcsCollect();
+	    //]]>>
+	</script>
+
+	<noscript>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsfyz90v10000gc8377t4aaw_1o2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=MS.3.0.0"/></div>
+	</noscript>
+	<!-- end of smartsource data collector tag -->
+    <!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//www.thegatesnotes.com/GatesNotesV2/js/Adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "Americas-Future-Bill-Gates-Thomas-Friedman-Education"
+    s.channel = "Education"
+    s.pageType = "Videos"
+    s.prop1 = ""
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    s.events = ""
+    s.products = ""
+    s.purchaseID = ""
+    s.eVar1 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.25.4. -->
+<script type="text/javascript" src="/GatesNotesV2/js/share.js"></script>
+	<script type="text/javascript">
+		var scrolledToComments = false;
+		jQuery(document).ready(function () {
+			var fb = jQuery(".facebook");
+			var tw = jQuery(".twitter");
+			var rc = jQuery(".relatedContentLink");
+			
+			fb.click(function () {
+				s.eVar9 = "Facebook Share";
+				s.events = "event11";
+				s.tl();
+			});
+			tw.click(function () {
+				s.eVar9 = "Twitter Share";
+				s.events = "event12";
+				s.tl();
+			});
+			rc.click(function(){
+	            var link = $(this).children("a").attr("href");
+	            s.eVar11 = link;
+	            s.tl();
+			});
+			jQuery(window).scroll(function(){
+				if (!scrolledToComments){
+					omnitureScrolledToEnd();
+				}
+			});
+		});
+		
+	    function omnitureScrolledToEnd() {
+	        var $window = $(window);
+	        var $tags = $(".tags");
+
+	        var docViewTop = $window.scrollTop();
+	        var docViewBottom = docViewTop + $window.height();
+
+	        var tagsTop = $tags.offset().top;
+	        var tagsBottom = tagsTop + $tags.height();
+
+            if ((tagsBottom <= docViewBottom) && (tagsTop >= docViewTop)){
+				s.linkTrackVars='events';
+                s.linkTrackEvents = s.events = "event13";
+                s.tl(true, 'o', 'scrolltoend');
+				scrolledToComments = true;
+            }
+	    }
+	</script>
+</body>
+</html>

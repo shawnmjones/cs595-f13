@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#  website: http://ogp.me/ns/website#">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Ow.ly - image uploaded by @theswashbuckler (sputnik)</title>
+	<meta name="keywords" content="Ow.ly, Shorten urls, share files, track visits, twitter file sharing, twitter image sharing, tweet comments" />
+			<meta name="description" content="" />
+
+	
+		
+		<meta name="twitter:card" content="photo">
+		<meta name="twitter:site" content="">
+		<meta name="twitter:site:id" content="">
+		<meta name="twitter:creator" content="">
+		<meta name="twitter:title" content="">
+
+		<meta name="twitter:app:name:iphone" content="HootSuite"/>
+		<meta name="twitter:app:id:iphone" content="341249709"/>
+		<meta name="twitter:app:name:ipad" content="HootSuite"/>
+		<meta name="twitter:app:id:ipad" content="341249709"/>
+		<meta name="twitter:app:name:googleplay" content="HootSuite"/>
+		<meta name="twitter:app:id:googleplay" content="com.hootsuite.droid.full"/>
+
+		<meta property="fb:app_id" content="183319479511"> 		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://ow.ly/i/lr2Q">
+		<meta property="og:image" content="http://static.ow.ly/photos/original/lr2Q.jpg">
+		<meta property="og:title" content="Ow.ly - image uploaded by @theswashbuckler (sputnik)">
+		<meta property="og:description" content="">
+					<meta property="og:image:width" content="">
+			<meta property="og:image:height" content="">
+		    
+						<link href="http://static.ow.ly/4-9-34/css/owly.css" type="text/css" rel="stylesheet" />
+				<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://static.ow.ly/4-9-34/css/ie6.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://static.ow.ly/4-9-34/css/ie7.css" />
+	<![endif]-->
+
+	
+<script type="text/javascript">
+	var owly = new Object();
+	owly.c = new Object();
+	owly.c.rootUrl = "http://ow.ly";
+	owly.c.photoRootUrl = "http://static.ow.ly/photos";
+	owly.c.swfUrl = "http://static.ow.ly/4-9-34/swf";
+</script>
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+	
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/5280035/OwlyImagesBanner', [300, 250], 'div-gpt-ad-1329423447822-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+			<script type="text/javascript" src="http://static.ow.ly/4-9-34/js/owly.js"></script>
+	
+	<link rel="shortcut icon" href="http://static.ow.ly/4-9-34/images/favicon.ico" />
+	<link rel="apple-touch-icon" href="http://static.ow.ly/4-9-34/images/apple-touch-icon.png"/>
+	<script src="//cdn.optimizely.com/js/196974338.js"></script>
+</head>
+
+
+<body>
+<div id="statusContainer" style="display: none;">
+	<div class="y-n">
+		<span class="cn-3">
+			<span class="tl"><!--  --></span>
+			<span class="tc"><!--  --></span>
+			<span class="tr"><!--  --></span>
+			<span class="ml"><!--  --></span>
+			<span class="mr"><!--  --></span>
+			<span class="bl"><!--  --></span>
+			<span class="bc"><!--  --></span>
+			<span class="br"><!--  --></span>
+		</span>
+		<span class="_statusMsgContent"></span>
+	</div>
+</div>
+
+<div id="wrapper">
+	<div id="header">
+		<h1 class="logo"><a href="http://ow.ly">Owly</a></h1>
+		<div id="globalNav">
+										<span id="btnLogin" class="_twitterConnect btn-sta" typename="twitter">
+					<span class="icon-sn-16 twitter"></span>&nbsp;&nbsp;<span class="btn-text">Sign in with Twitter</span>
+				</span>
+				<input type="hidden" id="loggedIn" value="0" />
+				<input type="hidden" id="loggedInTwitterAccountId" value="-1" />
+					</div>
+	</div>
+
+	<div id="page">
+		<div id="primary">
+		<div>
+	<!--  removed -->
+	This photo was removed by its owner.
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("a._flagPhoto").bind("click", function(event) {
+			flagFile('photo', 5108852, this);
+			event.preventDefault();
+		});
+		
+					/*
+			var searchTerm = "http://ow.ly/i/lr2Q";
+			var hash = searchTerm.substring(searchTerm.lastIndexOf("/")+1);
+			getTweetContentBySearch('theswashbuckler', owly.c.rootUrl +'/i ' + hash, true, $("._tweetContent"), 'wheelchair.jpg');
+			*/
+			searchOriginalTweet('', '', $("._tweetContent"), 'wheelchair.jpg');
+			
+
+		$('.imageWrapper').bind("contextmenu",function(e){
+			return false;
+		});
+
+	});
+	
+	
+</script>		</div>
+		<!-- only show sidebar if not viewing original size -->
+					<div id="secondary">
+								<div class="adbox">
+
+										<div id='div-gpt-ad-1329423447822-0' style='width:300px; height:250px;'>
+						<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329423447822-0'); });</script>
+					</div>
+				</div>
+													<!-- this photo was deleted -->
+												<div style="margin-bottom:10px;">
+					<a href="http://hootsuite.com" target="_blank"><img src="http://static.ow.ly/4-9-34/images/hootsuite_promo.jpg" alt="HootSuite" title="HootSuite" /></a>
+				</div>
+				<div class="advertisment last">
+					<!--  VideoEgg tag --><!--
+					<script>
+						var ve_publisher = "Owly";
+						var ve_site = "OW_LY";
+						var ve_area = "OW_LY";
+						var ve_location = "OW_LY_PICTURE_300X600";
+						var ve_placement = "OTHER_picture";
+						var ve_width = 300;
+						var ve_height = 600;
+						var ve_alternate = "collapse";
+						document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");
+					</script>
+					--><!-- end VideoEgg tag -->
+				</div>
+							</div>
+			</div>
+
+	<div id="footer">
+		&copy; 2009-2013 ow.ly - <a href="http://ow.ly/privacy">Privacy Policy</a> | <a href="http://ow.ly/copyright">Copyright Policy</a> | <a href="http://ow.ly/terms">Terms of Service</a> | <a class="fdbk" target="_blank" href="http://getsatisfaction.com/hootsuite/products/hootsuite_owly">Feedback</a>
+	</div>
+
+	<div id="userMessage">
+	</div>
+
+</div>
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		// convert all relative dates
+		$("._relativeDate").each(function() {
+			this.innerHTML = getRelativeTime(this.innerHTML);
+			$(this).css("visibility", "visible");
+		});
+
+		// bind url "copy to clipboard" textboxes
+		$("input._copyUrl").bind("click", function() {
+			this.focus();
+			this.select();
+		});
+
+		// bind all local scroll links
+		$("._localScroll").live("click", function(e) {
+			var href = $(this).attr("href");
+			var name = href.substring(href.indexOf("#")+1);
+			scrollToAnchor(name);
+			e.preventDefault();
+		});
+
+
+					// popauth
+			var p = new popauth("twitter", '/ajax/twitter/get-auth-url', function(e, ot, ov) {
+				$.getJSON('/ajax/twitter/get-access-token?ot='+ot+'&ov='+ov, function(data) {
+					if (data.success) {
+						setTimeout(function(){ window.location = window.location; }, 0.1);	// refresh
+					} else {
+						displayUserMessage("Login failed, please try again");
+					}
+				});
+			});
+			// bind button
+			$("#btnLogin").bind("click", function(e) {
+				e.preventDefault();
+				p.start();	// start auth
+			});
+
+		
+		$('.listTabs .tab a').click(function(e) {
+			if (!$(this).closest('.listTabs').hasClass('_nonAjax')) {
+				if($(this).attr('rel') && $('#'+$(this).attr('rel')).length) {
+				$(this).closest('.listTabs').find('.active').removeClass('active');
+				$(this).parent().addClass('active');
+				$(this).closest('.listWrapper').find('.listBoxes .listBox').hide();
+					var target = $(this).attr('rel');
+					$('#'+target).show();
+				}
+				e.preventDefault();
+			}
+		});
+
+		$.preloadImages = function() {
+			for (var i = 0; i<arguments.length; i++) {
+				img = new Image();
+				img.src = arguments[i];
+			}
+		}
+		$.preloadImages(
+			'http://static.ow.ly/4-9-34/images/new/maps/map-12-hover.png',
+			'http://static.ow.ly/4-9-34/images/new/maps/map-12-active.png',
+			'http://static.ow.ly/4-9-34/images/new/maps/map-19-hover.png',
+			'http://static.ow.ly/4-9-34/images/new/maps/map-19-active.png',
+			'http://static.ow.ly/4-9-34/images/new/maps/map-73-hover.png',
+			'http://static.ow.ly/4-9-34/images/new/maps/map-73-active.png'
+		);
+	});
+</script>
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-51223-22']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-51223-22");
+			pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

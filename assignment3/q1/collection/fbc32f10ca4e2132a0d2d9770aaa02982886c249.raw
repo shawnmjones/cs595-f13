@@ -1,0 +1,4262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<!-- Sticking this elsewhere until it can be fixed. -->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=IM+Fell+English">
+	<title>Daily Kos: Midday open thread</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="DC.description" content="" />
+	<meta name="DC.subject" content="" />
+	<meta name="DC.creator" content="Happy Cog Studios - http://www.happycog.com and Daily Kos" />
+	<meta name="DC.publisher" content="" />
+	<meta name="DC.language" content="en" />
+	<meta name="viewport" content="width=978" />
+	<!-- facebook thing. Hmph. -->
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<meta property="og:title" content="Daily Kos: Midday open thread" />
+	
+			<meta property="og:image" content="http://s3.amazonaws.com/dk-production/images/37355/large/kosstill_(9).png?1371814565" />
+		
+			<meta property="og:image" content="http://a0.twimg.com/profile_images/3588973713/8ef73fc40bbc6556383928f1e4506413_normal.jpeg" />
+			
+	
+	
+	<meta property="og:description" content="
+Today's comic by Mark Fiore is FISA: Now Hiring :" />
+	
+	
+	<meta property="og:url" content="http://www.dailykos.com/story/2013/06/21/1217711/-Midday-open-thread" />
+	
+	<!-- Twitter js. Apparently it's supposed to be as close to the top as
+	     possible. -->
+	<script src="http://platform.twitter.com/anywhere.js?id=7IvZ5TAS7cSXI1yAAXnMA&v=1" type="text/javascript"></script>
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	
+	<!-- TODO: we should consolidate the css before launch -->
+
+	<!-- ask if this is actually OK. Hrmph. -->
+	<link href="/c/unified.css?rev=4d" media="all" rel="stylesheet" type="text/css" />
+	<!-- can this be unified? -->
+	<link href="/c/print.css" rel="stylesheet" media="print" type="text/css" />
+
+
+	<!--[if lt IE 8]><link href="/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	<!--[if lt IE 7]><link href="/c/ie6.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+	
+		<script type="text/javascript"><!--
+		  document.write('<link href="/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+		//--></script>
+
+
+
+<!-- need the jquery up here for skins. I suppose it can be made to move
+     around as needed -->
+<script src="https://www.google.com/jsapi?key=ABQIAAAAJSSc0UDn-DPmAGTPsJgsxxQ_dDAjRQ0Rab5Jbkgn1xY6vdZysBRN7laBUGz651Zyl9lgP3ZAQA4D0A" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<script src="/j/jquery.cookie.js?body=1" type="text/javascript"></script>
+<script src="/j/detect_mobile.js?body=1" type="text/javascript"></script>
+<script src="/j/mobile_redirect.js?body=1" type="text/javascript"></script>
+	
+	
+	
+	
+	
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-4201116381449156");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK4_Story");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_ATF");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_BTF_Right");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_Homepage_Top_Right");
+
+GA_googleAddSlot("ca-pub-4201116381449156", "728X90_DK4_Story_Leaderboard");
+GA_googleAddSlot("ca-pub-4201116381449156", "DK_Skin_Background");
+
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/dailykos/loader.js"></script> 
+
+
+	
+	
+	<!-- canonical thingy -->
+	
+	<link rel="canonical" href="http://www.dailykos.com/story/2013/06/21/1217711/-Midday-open-thread" />
+	
+	<!-- end canonical thingy -->
+	<!-- END OF TAG FOR head SECTION -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-50193-1']);
+  _gaq.push(['_setDomainName', '.dailykos.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script src="/j/iframe-resize.js"></script>
+<script src="/j/underscore.js"></script>
+
+  </head>
+
+<body class="med-ad-one-col-sub">
+
+
+
+
+	
+
+
+<script type='text/javascript'>
+GA_googleFillSlot("DK_Skin_Background"); 
+</script>
+
+
+
+
+
+
+
+
+
+<div class="is-popup show-on-load " id="popup-user_login" title="Login">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/user/login"
+	method="POST">
+
+
+
+<div class="user-search" style="background:#eeeeee; margin:0px">
+<div id="search-users" style="background:#eeeeee">
+<div id="search-users-form" style="padding:0px">
+
+<table>
+<tr><td style="text-align:left">
+<label for="uname">Username:</label> <input style="margin:2px 0px" type="text" size="20" name="uname"><br/>
+<label for="pass" >Password:</label> <input style="margin:2px 0px" type="password" size="20" name="pass"><br/>
+
+</td>
+</tr><tr><td colspan="3">
+<label><a href="/accounts">Lost your password or username?<br />Need a new activation email? Click Here.</a></label>
+</td></tr></table>
+
+</div>
+</div>
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<!-- div style="width: 728px; height: 90px; margin: 15px auto 0px auto; position: relative;" -->
+
+<div style="width: 728px; margin: 15px auto 0px auto; position: relative;">
+
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_ATF_Header_728x90 -->
+
+<!-- story -->
+<!-- ca-pub-4201116381449156/DK_Story_ATF_728x90 -->
+<script type='text/javascript'>
+GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
+</script>
+<!-- END OF TAG FOR SLOT DK_FP_ATF_Header_728x90 -->
+
+</div>
+
+ 
+
+<div id="pageWrapper"> 
+<p class="move"><a href="#content">Skip to main content</a></p>
+<div id="header">
+
+<div id="header-authorization" style="text-align: right; font-size: 12px; font-family: Verdana; padding: 15px 0px; color: #adabab">
+  
+	  <a href="http://www.dailykos.com/login" style="display: inline !important;">Log In</a>
+    |
+    <a href="http://www.dailykos.com/newuser">Sign Up</a>
+	
+	|
+  <a href="http://campaigns.dailykos.com/signup_page/genericsignup" style="color: #918f8f; font-style: italic">Join the Action Alert list!</a>
+  |
+	<a href="http://www.dailykos.com/helpdesk_redirect" style="color: #918f8f;">Help</a>
+</div>
+
+  
+	<div id="masthead-dailykos" class="masthead">
+	  <h1><a href="http://www.dailykos.com/">Daily Kos</a></h1>
+	  <img id="flagman" src="/i/header/masthead/flagman.png" style="position: absolute; left: 368px; top: 11px; z-index: 100000"></img>
+	  <h2>News, Community, Action</h2>
+	</div>
+ 
+
+<div id="nav-main" class="clearfix">
+<ul>
+	
+	<li><a href="http://www.dailykos.com/people" class="people">PEOPLE</a></li>
+	<li><a href="http://www.dailykos.com/groups" class="groups">GROUPS</a></li>
+	<li><a href="http://www.dailykos.com/diaries" class="diaries">DIARIES</a></li>
+	<li><a href="http://www.dailykos.com/news" class="tags">TAGS</a></li>
+	<li><a href="http://labor.dailykos.com" class="labor vertical">LABOR</a></li>
+	<li><a href="http://comics.dailykos.com" class="comics vertical">COMICS</a></li>
+	<li><a href="http://elections.dailykos.com" class="econ vertical">ELECTIONS</a></li>
+	<li><a href="http://economics.dailykos.com" class="econ vertical">ECON</a></li>
+	<li><a href="http://dailykosradio.dailykos.com" class="radio vertical">RADIO</a></li>
+</ul>
+<form action="/search" method="get" id="search-form">
+	<div>
+	<label for="search-term" class="move">Search Term</label>
+	<input type="text" name="text" value="Search" id="search-term" onfocus="doDefaultFocus(this);" onblur="doDefaultBlur(this);" />
+	
+	<input type="hidden" name="time_begin" value="09/23/2013" />
+	<input type="hidden" name="time_end" value="now" />
+	<input type="hidden" name="text_type" value="any" />
+	<input type="hidden" name="text_expand" value="contains" />
+	<input type="hidden" name="search_type" value="search_stories" />
+	<input type="hidden" name="time_type" value="time_published" />
+	<input type="image" src="http://images1.dailykos.com/i/header/nav/button-go.gif" value="1" name="submit" id="search-submit" />
+	</div>
+</form>
+</div>    
+
+
+</div>
+
+
+
+
+<div id="content">
+
+
+	
+
+
+
+<div id="main" class="published">
+
+<div id="storyWrapper" class="ajax-delay-load">
+	
+
+<div id="article-1" class="article collapsable-panel", data-story_id="1217711">
+
+	
+
+	
+	
+	
+
+	<div class="meta share-expanded">
+		
+		
+		
+	      <div id="group_info" class="clearfix">
+                  <div class="image" style="float: left; border: 1px solid #cccccc; margin-right: 20px">
+                    <a href="/"><img id="avatar" src="http://images1.dailykos.com/i/default_avatar.gif" height="56" /></a>
+                  </div>
+                  <div class="heading">
+		    <span class="name">Daily Kos Staff, Front Page</span><span class="follow"></span><span class="rss"><a href="/rss/index.xml">RSS</a></span>
+		  </div>
+    	  <div><span class="group_member">Daily Kos editors</span><span class="gift_subscription"></span></div>
+		  <ul class="actions">
+		    <li class="first"><a href="/user/main">Profile</a></li>
+		    <li><a href="/">Diaries</a> <a href="/user/main/history">(list)</a></li>
+		
+		  </ul>
+		</div>
+		<p class="date">Fri Jun 21, 2013 at 12:00 PM PDT</p>
+		<h2><a id="titleHref" href="/story/2013/06/21/1217711/-Midday-open-thread">Midday open thread</a><span style="white-space: nowrap"></span></h2>
+		
+		<p class="author"><span>by</span> <a href="/user/Barbara Morrill">Barbara Morrill</a><a class="ajax type-user do-hotlist do-updateContent size-tiny off altTooltip" alt="Follow this author" href="#?friend_id=30549&is_stream=1">Follow</a> <span class="for">for</span> <a href="/blog/main">Daily Kos</a></p>
+    
+    <ul class="front-page-share clearfix">
+      
+      <li style="margin-left: 0px"><div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-href="http://www.dailykos.com/story/2013/06/21/1217711/-Midday-open-thread"></div></li>
+      <li><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="dailykos" data-related="markos" data-url="http://www.dailykos.com/story/2013/06/21/1217711/-Midday-open-thread" data-text="Midday open thread">Tweet</a></li>
+          
+		  <li style="margin-left: 0px"><a href="#" class="email">Email</a></li>
+		  
+		  <li><a href="/story/2013/06/21/1217711/-Midday-open-thread#comments" class="comments comment_count_with_new" data-story_id="1217711" data-comment_count="47">47 Comments</a></li>
+		</ul>
+		
+		
+	</div>
+	
+	<div class="article-body">
+		<div id="intro">
+			
+<ul>
+<li>Today's <a href="http://comics.dailykos.com/">comic</a> by Mark Fiore is <a href="http://comics.dailykos.com/story/2013/06/21/1217435/-FISA-Now-Hiring?detail=hide">FISA: Now Hiring</a>:<br />
+<div class="dkimg-c"><a href="http://comics.dailykos.com/story/2013/06/21/1217435/-FISA-Now-Hiring?detail=hide"><span class="image_container"><img src="http://s3.amazonaws.com/dk-production/images/37355/large/kosstill_(9).png?1371814565" alt="Cartoon by Mark Fiore - FISA: Now Hiring" /></span></a></div>
+</li>
+<li>What's coming up on Sunday Kos ...<br />
+<blockquote>
+<ul>
+<li>American Indians still must fight to get their votes counted, by Meteor Blades</li>
+<li>Demographic Winter? Republicans ensuring their own demise, by Dante Atkins</li>
+<li>A tale of two Zimmermans: a radical and a racist, by Denise Oliver Velez</li>
+<li>Book review: Chris Hayes' "Twilight of the Elites," by Susan Gardner</li>
+<li>Honchos and Worker Bees, by DarkSyde</li>
+</ul>
+</blockquote>
+</li>
+<li>This is <a href="http://thinkprogress.org/health/2013/06/21/2193501/hundreds-of-texans-block-anti-abortion-vote/">awesome</a>:<br />
+<blockquote>Texas lawmakers are currently rushing an omnibus anti-abortion bill through a special session, after each of its provisions failed to advance separately during the regular legislative session. But not without being met with a fight. Over 700 Texans traveled to Austin on Thursday to testify against the anti-abortion measure before it could come to a vote in the House — and their “people’s filibuster” successfully prevented the legislation from advancing.</blockquote>
+</li>
+<li>Yahoo News <a href="http://news.yahoo.com/blogs/ticket/top-9-486-ways-jay-carney-won-t-104907191.html">analyzed</a> how Jay Carney dodges questions. Kind of a crash course for aspiring press secretaries everywhere.</li>
+<li><a href="http://politicalticker.blogs.cnn.com/2013/06/20/on-the-left-howard-dean-open-to-presidential-bid/">Yeeeaaarrrggghhh</a>!<br />
+<blockquote>Howard Dean, the former Vermont governor who electrified anti-war liberals during the 2004 presidential race, said Thursday he would consider another run for the White House – a statement that will surely be met with mixed reaction in the Democratic Party.
+<p>Dean, whose underdog presidential campaign officially launched 10 years ago this weekend, said he has "mixed feelings" about running for office again but added he would consider another bid for the Democratic presidential nomination if he doesn't think the other candidates are adequately addressing progressive issues that are dear to his heart.</p>
+</blockquote>
+</li>
+<li>She will be <a href="http://www.wmur.com/political-scoop/controversial-gop-nh-rep-tremblay-resigns/-/16254890/20646208/-/10tawsgz/-/index.html">missed</a> ... by lunatics and sellers of tin foil:<br />
+<blockquote>Controversial state Rep. Stella Tremblay, R-Auburn, resigned from the New Hampshire House of Representatives Thursday ... a day after she made another allegation the Boston Marathon bombing might have been a government conspiracy. [...]
+<p>Serving in her second term in the House, Tremblay made national headlines in April after she backed up claims the Boston Marathon bombings might have been a government-sponsored "false flag" meant to take away civil liberties.</p>
+</blockquote>
+</li>
+<li>How not to go on a PR offensive (not to be confused with being offensive):<br />
+<div style="margin:18px auto; width:470px; font-size:12px;background-color: #eeeeee; border: 1px solid #999999;padding:5px;"><a href="https://twitter.com/todayshow/status/348033482351583232"><img src="http://a0.twimg.com/profile_images/3588973713/8ef73fc40bbc6556383928f1e4506413_normal.jpeg" style="float:left;padding:0px;margin: 0px 5px 5px 0px; width:48px; height:48px;" /></a>'Paula Deen was scheduled to do an interview with us this morning, live in our studio, but we just found out, she’s a no show' - @mlauer<br />
+<span style="color:#555555;font-style:italic;">— <a href="http://twitter.com/todayshow">@todayshow</a></span>
+<div style="clear:both;"></div>
+</div>
+</li>
+<li>The next time you <a href="http://www.bloomberg.com/visual-data/gas-prices/">complain</a> about the price of a gallon of gas ... don't.</li>
+<li>Wow, ancient Mars <a href="http://freethoughtblogs.com/zingularity/2013/06/20/ancient-mars-may-have-had-an-oxygen-rich-atmosphere/">may have had</a> an oxygen rich atmosphere. -- <i>DS</i></li>
+<li>
+<div class="dkimg-r"><iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2368996/height/200/width/250/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="200" width="250" scrolling="no"></iframe></div>
+On today's <a href="http://www.dailykos.com/story/2013/06/21/1217760/-Daily-Kos-Radio-s-KITM-podcast-Rs-in-disarray-Broken-Social-Contract-Privateers-of-the-Caribbean"><em>Kagro in the Morning</em> show</a>, <strong>Greg Dworkin</strong> rounded up news of the farm bill failure, "The Republican War on Data," maneuvering on immigration reform, and Tom Edsall's <em>NYT</em> opinion piece, "Our Broken Social Contract." And that Edsall piece ended up being the basis for most of the rest of the show, so much was there wrapped up in it. <strong>Armando</strong> called in to join that conversation, plus give us a look at the day's Netroots Nation agenda. And just for kicks at the end, "If We Can't Stop Corporations from Hiding in Cayman Islands to Avoid Taxes, We All Need to Become Pirates." Where have we heard this idea before? Hint: <a href="http://www.dailykos.com/story/2012/08/16/1120691/-Privateers-of-the-Caribbean-Daily-Kos-Radio-is-on-the-air">Here!</a></li>
+</ul>
+<p><span class="update"><a name="20130621120317" href="/story/2013/06/21/1217711/-Midday-open-thread#20130621120317"><b>12:03 PM PT</b></a>:</span> Paula Deen posted an apology video and then made it private, but <a href="http://www.buzzfeed.com/jtes/heres-paula-deens-apology-for-using-the-n-word">Buzzfeed</a> grabbed it, so watch, roll your eyes and gag.</p>
+
+		</div>
+		
+		
+			<p class="divider-doodle" />
+		
+		
+			<div id="body" class="article-body">
+</div>
+		
+		
+	</div>
+	
+	
+	
+	
+
+	
+	
+	
+		<div class="tags">
+		<h4>Tags</h4>
+		
+			
+<ul>
+
+
+	<li><a href="/news/Open Thread">Open Thread</a></li>
+
+</ul>
+
+		
+		</div>
+	
+
+	
+
+	
+	
+	
+	
+		<div class="utility" style="display:block;margin-top:10px">
+			
+		</div>
+	
+
+	<!-- <a href="#" class="collapse-article collapsor">Collapse Article</a> -->
+
+	
+
+	
+
+<a id="doLoadPreview"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=preview&story_id=1217711">(Load)</a>
+<a id="doLoadEdit"			class="ajax do-delay-load invisible" href="/part/story/as_full?mode=edit&story_id=1217711">(Load)</a>
+<a id="doLoadPublished"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=published&story_id=1217711">(Load)</a>
+<a id="doLoadScheduled"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=scheduled&story_id=1217711">(Load)</a>
+<a id="doLoadQueued"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=queued&story_id=1217711">(Load)</a>
+<a id="doLoadUnpublished"	class="ajax do-delay-load invisible" href="/part/story/as_full?mode=unpublished&story_id=1217711">(Load)</a>
+<a id="doLoadDeleted"		class="ajax do-delay-load invisible" href="/part/story/as_full?mode=deleted&story_id=1217711">(Load)</a>
+
+<!-- popups -->
+
+
+
+<div id="share_email_popup" class="jqmWindow">
+  <div class="header">
+    <span class="title">EMAIL TO A FRIEND</span>
+    <a href="#" class="jqmClose">X</a>
+  </div>
+  <form method="post">
+    <label>To <span class="error_message">Please use one to three valid email addresses.</span></label>
+    <input name="to" data-default_value="Separate up to three multiple addresses with commas" value="Separate up to three multiple addresses with commas"/>
+    
+    <label>From <span class="error_message">Please use a valid email address.</span></label>
+    <input name="from" data-default_value="Enter your email address" value="Enter your email address" class="" />
+    
+    <label>Your Message</label>
+    <textarea class="message" name="message" data-default_value="Enter your message">Enter your message</textarea>
+    
+    <button type="button" class="cancel jqmClose">Cancel</button><button type="submit" class="submit">Send</button>
+    <div class="success">Your Email has been sent.</div>
+  </form>
+</div>
+
+
+</div>
+
+	<a class="ajax do-delay-load invisible" href="/part/story/as_full?story_id=1217711">(Load)</a>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_setTags" title="Add Diary Tags:">
+<div class="info-bar"  >You must add at least one tag to this diary before publishing it.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/setTags"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+<style>
+	#popup-story_setTags div.content-bar p { font-size: 13px; text-align: left; }
+	#popup-story_setTags div.content-bar a			{ color: #E5721E }
+	#popup-story_setTags div.content-bar a:hover,
+	#popup-story_setTags div.content-bar a:focused,
+	#popup-story_setTags div.content-bar a:visited	{ color: #7C470C }
+</style>
+
+<br /><div>
+	<p>Add keywords that describe this diary.
+		Separate multiple keywords with commas.<br />
+	  <a href="/special/tag_tips" target="_blank">Tagging tips</a>
+	- <a href="/search?search_tags=1" target="_blank">Search For Tags</a>
+	- <a href="http://www.dkosopedia.com/wiki/Tag:Tagfinder" target="_blank">Browse For Tags</a>
+	</p>
+	
+	<div class="pageTip hasTooltip" style="margin-top:3px">?</div>
+	<div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+		<p><b>More Tagging tips:</b></p>
+		<p>A tag is a way to search for this diary. If someone is searching for "Barack Obama," is this a diary they'd be trying to find?</p>
+		<p>Use a person's full name, without any title. Senator Obama may become President Obama, and Michelle Obama might run for office.</p>
+		<p>If your diary covers an election or elected official, use election tags, which are generally the state abbreviation followed by the office. 
+		CA-01 is the first district House seat. CA-Sen covers both senate races. NY-GOV covers the New York governor's race.</p>
+		<p>Tags do not compound: that is, "education reform" is a completely different tag from "education". A tag like "reform" alone is probably not meaningful.</p>
+	</div>
+	
+	<!-- <h4 id="p_tagErrorMessage">You must enter at least one Tag for this Diary Entry:</h4> -->
+	
+	<p><input id="p_tagInput" type="text" name="tag_draft" value="" size="70" />
+		<!-- <input id="tagSubmit" type="submit" name="submit" value="Submit" /> -->
+	</p>
+
+	
+	
+	<p style="font-style:italic">Consider if one or more of these tags fits your diary: 
+	
+	<a href="#" onClick="addTagToField('Civil Rights');return false;">Civil Rights</a>, <a href="#" onClick="addTagToField('Community');return false;">Community</a>, <a href="#" onClick="addTagToField('Congress');return false;">Congress</a>, <a href="#" onClick="addTagToField('Culture');return false;">Culture</a>, <a href="#" onClick="addTagToField('Economy');return false;">Economy</a>, <a href="#" onClick="addTagToField('Education');return false;">Education</a>, <a href="#" onClick="addTagToField('Elections');return false;">Elections</a>, <a href="#" onClick="addTagToField('Energy');return false;">Energy</a>, <a href="#" onClick="addTagToField('Environment');return false;">Environment</a>, <a href="#" onClick="addTagToField('Health Care');return false;">Health Care</a>, <a href="#" onClick="addTagToField('International');return false;">International</a>, <a href="#" onClick="addTagToField('Labor');return false;">Labor</a>, <a href="#" onClick="addTagToField('Law');return false;">Law</a>, <a href="#" onClick="addTagToField('Media');return false;">Media</a>, <a href="#" onClick="addTagToField('Meta');return false;">Meta</a>, <a href="#" onClick="addTagToField('National Security');return false;">National Security</a>, <a href="#" onClick="addTagToField('Science');return false;">Science</a>, <a href="#" onClick="addTagToField('Transportation');return false;">Transportation</a>, or <a href="#" onClick="addTagToField('White House');return false;">White House</a>.
+	If your diary is specific to a state, consider adding the state 
+	(<a href="#" onClick="addTagToField('California');return false;">California</a>,
+	<a href="#" onClick="addTagToField('Texas');return false;">Texas</a>, etc).
+	Keep in mind, though, that there are many wonderful and important diaries
+	that don't fit in any of these tags. Don't worry if yours doesn't.
+	</p>
+
+
+</div>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_hotlist" title="Hotlist This Diary:">
+<div class="info-bar"  >You can add a private note to this diary when hotlisting it:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/hotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1217711" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unHotlist" title="Remove Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from your hotlist?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unHotlist"
+	method="POST">
+
+
+
+<input name="user_id" value="-1" type="hidden" />
+<input name="story_id" value="1217711" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_removeRating" title="Remove Recommendation">
+<div class="info-bar"  >Are you sure you want to remove your recommendation? You can only recommend a diary once, so you will not be able to re-recommend it afterwards.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/removeRating"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_rescue" title="Rescue this Diary:">
+<div class="info-bar"  >Rescue this diary, and add a note:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/rescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+<textarea class="is-validated vtype-text" rows="3" style="width:100%" name="notes"></textarea>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_unRescue" title="UnRescue Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary from Rescue?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/unRescue"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_addBlogQueue" title="Republish this Diary:">
+<div class="info-bar"  >Choose where to republish this diary. The diary will be added to the queue for that group. Publish it from the queue to make it appear.</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/addBlogQueue"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+
+	<p>You must be a member of a group to use this feature.</p>
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_update" title="Update Diary">
+<div class="info-bar"  >Add a quick update to your diary without changing the diary itself:</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/update"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+
+<textarea class="is-validated vtype-required vtype-text" name="appendtext"></textarea>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_deleteHow" title="Delete Diary">
+<div class="info-bar"  >Are you sure you want to remove this diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/deleteHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+
+	<table style="margin:4px;">
+	  <tr>
+		<td colspan="2" style="border-bottom:1px solid #dddddd; padding-bottom:4px;">
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="unpublish" checked />
+				<label for="where_hide" style="display:inline;padding-left:8px">Unpublish Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed from the site and returned to your drafts for further editing.)
+			</span>
+		</td>
+	
+	  </tr><tr>
+		<td style="text-align:left;padding:8px;">
+			<input id="where_hide" type="radio" name="where" value="hide"  />
+				<label for="where_hide" style="display:inline;padding-left:8px">Delete Diary</label>
+			<span style="display:block;padding-top:4px;padding-left:30px">
+				(The diary will be removed.)
+			</span>
+		</td>
+	
+	  </tr>
+	</table>
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishHow" title="Choose how to publish this diary:">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/publishHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+<input name="user_id"  value="30549" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_publishChanges" title="Publish changes to this diary:">
+<div class="info-bar"  >Are you sure you want to save these changes to the published diary?</div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/edit"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+<input name="user_id"  value="30549" type="hidden" />
+<input name="use_draft" value=1" type="hidden" />
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+<div class="is-popup show-on-load " id="popup-story_bumpHow" title="Update timestamp for this diary now?">
+<div class="info-bar"  ></div>
+<div class="status-bar"></div>
+<div class="content-bar">
+<form class="do-validate on-popup-do-reload"
+	action="/ajax/story/bumpHow"
+	method="POST">
+
+
+
+<input name="story_id" value="1217711" type="hidden" />
+<input name="user_id"  value="30549" type="hidden" />
+
+<table class="ajax-radio-panel-group" style="margin:4px">
+
+
+
+  </tr>
+</table>
+
+
+
+</form>
+</div>
+<div class="response-bar"></div>
+</div>
+
+
+
+
+
+
+
+<div style="width: 300px; margin: 0 auto; position: relative;">
+<!-- ca-pub-4201116381449156/DK_Story_BTF_300x250 -->
+<script type='text/javascript'>
+
+GA_googleFillSlot("300x250_DK4_Story");
+
+</script>
+</div>
+<div id='taboola-autosized-generated-2r' ></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'autosized-generated-2r', container:'taboola-autosized-generated-2r'});
+</script>
+
+
+
+	
+
+
+
+<div id="comment-prefs">
+      <div class="preferences-container">
+        <div class="preferences">
+	
+	<h4>Comment Preferences</h4>
+	<form id="cDForm" action="#" method="post">
+          <ul class="visibility">
+            <li><input type="radio" name="visibility" value="expand" id="comments-preferences-expand" checked="checked" /> <label for="comments-preferences-expand">expand</label></li>
+            <li><input type="radio" name="visibility" value="shrink" id="comments-preferences-shrink" /> <label for="comments-preferences-shrink">shrink</label></li>
+            <li><input type="radio" name="visibility" value="hide" id="comments-preferences-hide" /> <label for="comments-preferences-hide">hide</label></li>
+            <!-- <li class="remember"><input type="checkbox" name="visibility-remember" value="hide" id="comments-preferences-visibility-remember" /> <label for="comments-preferences-visibility-remember">Remember this selection</label></li> -->
+          </ul>
+          <!-- <ul>
+            <li><input type="radio" name="layout" value="indented" id="comments-preferences-indented" checked="checked" /> <label for="comments-preferences-indented">indented</label></li>
+            <li><input type="radio" name="layout" value="flat" id="comments-preferences-flat" /> <label for="comments-preferences-flat">flat</label></li>
+            <li class="remember"><input type="checkbox" name="layout-remember" value="hide" id="comments-preferences-layout-remember" /> <label for="comments-preferences-layout-remember">Remember this selection</label></li> 
+          </ul> -->
+	</form>
+	<form id="aRForm" action="#" method="post">
+              <ul class="visibility"><li>  <input type="checkbox" id="autoRefresh" name="autoRefresh" value=1  /> <label for="autoRefresh">Auto Refresh?</label>
+	</li></ul>
+        </form>
+        </div>
+      </div>
+
+</div>
+   <div id="comments">
+	<form id="rateAllForm" method="post" action="/" autocomplete="off">
+		<input id="story_id" value="1217711" type="hidden"/>
+		<input id="sid" value="2013/6/21/73518/7958" type="hidden"/>
+		<input type="hidden" id="uid" value="-1"  /> 
+		<input type="hidden" id="uname" value="Anonymous Coward" />
+      
+
+    
+	<div class="cbar"><h4>
+      
+                  <span class="cct">47</span> <span class="comment-text"><a href="/story/2013/06/21/1217711/-Midday-open-thread#comments">comments</a></span>
+                 | <a class="plink" href="/story/2013/06/21/1217711/-Midday-open-thread?detail=hide">Permalink</a>
+    </h4></div>
+      
+    
+
+<ul class="cm i0">
+
+
+
+
+
+
+
+
+<li id="c1">
+  <div class="cx" id="cx50503019">
+   <h5> <a class="de">&nbsp;</a><span class="cu">JUST for the humor.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503019#c1?mode=alone;showrate=1#c1">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:240516">Horace Boothroyd III</a>, <a href="/user/uid:8871">sacrelicious</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Immigration 1492:</p>
+<p>"Aw hell, go ahead and let 'em in. They look okay to me."</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+The Great Awakening Is Afire! Think outside the box or remain mundane.
+</p>
+  <p class="cb">by <a href="/user/uid:286409">franklyn</a> on <a href="/comments/1217711/50503019#c1">Fri Jun 21, 2013 at 12:03:24 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c2">
+  <div class="cx" id="cx50503040">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Republicans Have Already Lost the Hispanic Vote</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503040#c2?mode=alone;showrate=1#c2">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>"But that position ignores the fact that the 45.5 million Hispanics already in this country legally are registering to vote and are seeing the Republican Party as distinctly hostile. The more the GOP comes to be seen as fighting immigration reform, the more difficult it will be for Republican candidates to compete for this group of voters. Remember, 50,000 Hispanic citizens reach voting age every month."</p>
+<p><a href="http://politicalwire.com/archives/2013/06/21/republicans_have_already_lost_the_hispanic_vote.html?pos=rrtxt">http://politicalwire.com/...</a></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<a href="https://twitter.com/HillaryClinton/">Ready for Hillary</a>
+</p>
+  <p class="cb">by <a href="/user/uid:56450">aaraujo</a> on <a href="/comments/1217711/50503040#c2">Fri Jun 21, 2013 at 12:04:51 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503040" class="cm i1">
+
+
+
+
+<li id="c11">
+  <div class="cx" id="cx50503250">
+   <h5> <a class="de">&nbsp;</a><span class="cu">And the Republicans seem to think</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503250#c11?mode=alone;showrate=1#c11">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:120685">happymisanthropy</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>that they should be able to get away with being distinctly hostile to Hispanics and other groups. Delusions of Ideological Soundness/Theological Correctness do that.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:824659">Old Sailor</a> on <a href="/comments/1217711/50503250#c11">Fri Jun 21, 2013 at 12:31:45 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c2">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c3">
+  <div class="cx" id="cx50503062">
+   <h5> <a class="de">&nbsp;</a><span class="cu">No one in Mass is paying attention to the SEN race</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503062#c3?mode=alone;showrate=1#c3">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Aaron Hernandez, Whitey Bulger and the Bruins have dominated the airwaves here.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<a href="https://twitter.com/HillaryClinton/">Ready for Hillary</a>
+</p>
+  <p class="cb">by <a href="/user/uid:56450">aaraujo</a> on <a href="/comments/1217711/50503062#c3">Fri Jun 21, 2013 at 12:06:45 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c4">
+  <div class="cx" id="cx50503133">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Ancient Mars</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503133#c4?mode=alone;showrate=1#c4">9+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:27928">high uintas</a>, <a href="/user/uid:105891">JML9999</a>, <a href="/user/uid:28578">Dillonfence</a>, <a href="/user/uid:54233">FutureNow</a>, <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:646546">Capt Crunch</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Well, we knew that ancient Mars had liquid water and now possibly a past oxygen atmosphere. &nbsp;How long before they uncover evidence of an ancient Martian anti-science crusade against global warming? &nbsp;I bet it is buried there somewhere...</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+The sequester is the new Republican immigration reform plan. Make things so bad here in the US that no one will want to live here.
+</p>
+  <p class="cb">by <a href="/user/uid:11167">Mote Dai</a> on <a href="/comments/1217711/50503133#c4">Fri Jun 21, 2013 at 12:15:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503133" class="cm i1">
+
+
+
+
+<li id="c8">
+  <div class="cx" id="cx50503161">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Remains of John Carter</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503161#c8?mode=alone;showrate=1#c8">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:105891">JML9999</a>, <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<a href="https://twitter.com/HillaryClinton/">Ready for Hillary</a>
+</p>
+  <p class="cb">by <a href="/user/uid:56450">aaraujo</a> on <a href="/comments/1217711/50503161#c8">Fri Jun 21, 2013 at 12:19:39 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c4">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c32">
+  <div class="cx" id="cx50503626">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I had thought O2 was generated only by life.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503626#c32?mode=alone;showrate=1#c32">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+The highest form of spiritual practice is self observation with compassion.
+</p>
+  <p class="cb">by <a href="/user/uid:15427">NCJim</a> on <a href="/comments/1217711/50503626#c32">Fri Jun 21, 2013 at 01:18:41 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c4">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c5">
+  <div class="cx" id="cx50503134">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Howard Dean</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503134#c5?mode=alone;showrate=1#c5">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:20666">SamSinister</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I find it fascinating how Howard Dean managed to craft a liberal image for himself despite having a fairly conservative record as governor of Vermont.</p>
+<p>St. Petersburg Times, 2003: "The joke among a lot of Vermont Republicans was that they didn't need to run anyone for governor because they basically had one in office already," said Harlan Sylvester, a conservative Democratic stockbroker and longtime adviser to Dean.</p>
+<p><a href="http://www.sptimes.com/2003/07/06/Worldandnation/Democrat_laces_up_a_l.shtml">http://www.sptimes.com/...</a></p>
+<p>And a take from Business Week back from 2003 as well on Howard Dean's public perception 180<br />
+<a href="http://www.businessweek.com/stories/2003-08-10/whos-the-real-howard-dean">http://www.businessweek.com/...</a></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646204">Liberty Equality Fraternity and Trees</a> on <a href="/comments/1217711/50503134#c5">Fri Jun 21, 2013 at 12:15:59 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503134" class="cm i1">
+
+
+
+
+<li id="c15">
+  <div class="cx" id="cx50503273">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Yes, so unlike Obama or HRC</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503273#c15?mode=alone;showrate=1#c15">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:646546">Capt Crunch</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><em>Now</em> we're going to start slamming candidates for pragmaticism and centrism?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">My other car is a pair of boots.</p>
+  <p class="cb">by <a href="/user/uid:54233">FutureNow</a> on <a href="/comments/1217711/50503273#c15">Fri Jun 21, 2013 at 12:34:44 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c19">
+  <div class="cx" id="cx50503319">
+   <h5> <a class="de">&nbsp;</a><span class="cu">We need to shake the race up</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503319#c19?mode=alone;showrate=1#c19">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:54233">FutureNow</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:20666">SamSinister</a>, <a href="/user/uid:141792">divineorder</a>, <a href="/user/uid:120685">happymisanthropy</a>, <a href="/user/uid:8871">sacrelicious</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Dean could be just the start of that process.<br />
+Hell - I'd like to see Warren run. That would really liven things up.<br />
+We don't need another eight years of Clinton after eight years of Clinton disguised as Obama.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646546">Capt Crunch</a> on <a href="/comments/1217711/50503319#c19">Fri Jun 21, 2013 at 12:40:15 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503319" class="cm i1">
+
+
+
+
+<li id="c25">
+  <div class="cx" id="cx50503393">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I'd like Warren to stay right where she is</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503393#c25?mode=alone;showrate=1#c25">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:246193">Mr Robert</a>, <a href="/user/uid:54233">FutureNow</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>However, I'd sign up for Dean and support him instead of Hillary. &nbsp;I recall the early excitement for him back in the day.</p>
+<p>Hillary has done much, but she still is a bit tied to the DLC and her votes supporting the Iraq war. &nbsp;</p>
+<p>I really think Dean has progressive ideas, including how to better the Democratic party as a whole, what with his 50 state strategy to go with better health care and more citizen involvement. &nbsp;Go Dean!</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:92045">ColoTim</a> on <a href="/comments/1217711/50503393#c25">Fri Jun 21, 2013 at 12:50:27 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c19">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503393" class="cm i1">
+
+
+
+
+<li id="c29">
+  <div class="cx" id="cx50503528">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Remember - Warren doesn't have to quit to run</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503528#c29?mode=alone;showrate=1#c29">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:141792">divineorder</a>, <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>And we've just had eight years of an administration filled to the gills with Clinton hold-overs like Larry Summers.<br />
+I'd like to see Warren run to keep things honest.<br />
+At least Dean could break the Hilary inevitability myth.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646546">Capt Crunch</a> on <a href="/comments/1217711/50503528#c29">Fri Jun 21, 2013 at 01:06:23 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c25">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503528" class="cm i1">
+
+
+
+
+<li id="c41">
+  <div class="cx" id="cx50504515">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I just think she should focus on keeping Congress,</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504515#c41?mode=alone;showrate=1#c41">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:63615">RainyDay</a>, <a href="/user/uid:646546">Capt Crunch</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>the White House and Wall Street on their toes, without being out running through the various states from speech to speech. &nbsp;Yes, she could be speechifying about the horrors of the current mess in Washington, but I just think she'd do much better if she were in Washington calling people on the carpet day after day. &nbsp;I think she could do wonders as Massachusetts' senior Senator, taking over from Teddy Kennedy, especially after the Scott Brown debacle.</p>
+<p>You did see the piece Wednesday about Captain Crunch not being a real captain? &nbsp;It was on the Colbert Report.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:92045">ColoTim</a> on <a href="/comments/1217711/50504515#c41">Fri Jun 21, 2013 at 02:52:04 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c29">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50504515" class="cm i1">
+
+
+
+
+<li id="c46">
+  <div class="cx" id="cx50504821">
+   <h5> <a class="de">&nbsp;</a><span class="cu">How dare they!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504821#c46?mode=alone;showrate=1#c46">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><embed style="/*display:block*/" src="http://media.mtvnservices.com/mgid:cms:video:colbertnation.com:427310" width="288" height="247" type="application/x-shockwave-flash" wmode="window" allowfullscreen="true" flashvars="autoPlay=false" allowscriptaccess="always" allownetworking="all" bgcolor="#000000" /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646546">Capt Crunch</a> on <a href="/comments/1217711/50504821#c46">Fri Jun 21, 2013 at 03:25:52 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c41">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c45">
+  <div class="cx" id="cx50504778">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Warren/Dean 2016 FTW</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504778#c45?mode=alone;showrate=1#c45">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>use dkos, teh reddits and youtube ... unbeatable netroots support.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">--<br>
+Make sure everyone's vote counts: <a href="http://verifiedvoting.org/">Verified Voting</a></p>
+  <p class="cb">by <a href="/user/uid:8871">sacrelicious</a> on <a href="/comments/1217711/50504778#c45">Fri Jun 21, 2013 at 03:20:36 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c19">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c24">
+  <div class="cx" id="cx50503390">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Never understood how Dean got to be so hated</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503390#c24?mode=alone;showrate=1#c24">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:646204">Liberty Equality Fraternity and Trees</a>, <a href="/user/uid:141792">divineorder</a>, <a href="/user/uid:120685">happymisanthropy</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>by the establishment Dems and the MSM. &nbsp;As you say, he was never particularly left-wing. &nbsp;Was it just his position on the war? &nbsp;Or were there personalities involved? &nbsp;I can't remember another politician who faced the kind of ridicule from his own side that Dean did, for no apparent reason.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:643970">Algernons Labyrinth</a> on <a href="/comments/1217711/50503390#c24">Fri Jun 21, 2013 at 12:49:46 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503390" class="cm i1">
+
+
+
+
+<li id="c34">
+  <div class="cx" id="cx50503674">
+   <h5> <a class="de">&nbsp;</a><span class="cu">His position on healthcare ?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503674#c34?mode=alone;showrate=1#c34">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Move Single Payer Forward? Join 18,000 Doctors of <a href="http://www.pnhp.org/">PNHP</a> and 185,000 member <a href="http://www.enewspf.com/opinion/36823-national-nurses-united-endorses-president-obama.html">National Nurses United</a>
+</p>
+  <p class="cb">by <a href="/user/uid:141792">divineorder</a> on <a href="/comments/1217711/50503674#c34">Fri Jun 21, 2013 at 01:25:15 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c24">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503674" class="cm i1">
+
+
+
+
+<li id="c37">
+  <div class="cx" id="cx50504121">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Nope, it was his Anti-War Stance</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504121#c37?mode=alone;showrate=1#c37">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:141792">divineorder</a>, <a href="/user/uid:8871">sacrelicious</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>You have to remember that until Lamont beat Lieberman in the primary in 2004, <strong>everyone</strong> in the DC establishment was going for "Liberal Hawk".</p>
+<p>When Dean surged because he was unequivocally anti-War, it was an indictment of the "Very Serious People" in DC.</p>
+<p>The VSPs both in politics, and in the press, hated him.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+6/24/05: <a href="http://tinyurl.com/7apt5">Charlie the Tuna Creator Dies</a> En lieu of flowers, please bring mayonnaise, chopped celery and paprika.
+</p>
+  <p class="cb">by <a href="/user/uid:58016">LunkHead</a> on <a href="/comments/1217711/50504121#c37">Fri Jun 21, 2013 at 02:08:56 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c34">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50504121" class="cm i1">
+
+
+
+
+<li id="c38">
+  <div class="cx" id="cx50504145">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Funny, that was why I considered supporting him</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504145#c38?mode=alone;showrate=1#c38">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>his Anti-War Stance</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+Move Single Payer Forward? Join 18,000 Doctors of <a href="http://www.pnhp.org/">PNHP</a> and 185,000 member <a href="http://www.enewspf.com/opinion/36823-national-nurses-united-endorses-president-obama.html">National Nurses United</a>
+</p>
+  <p class="cb">by <a href="/user/uid:141792">divineorder</a> on <a href="/comments/1217711/50504145#c38">Fri Jun 21, 2013 at 02:11:17 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c37">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c27">
+  <div class="cx" id="cx50503425">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It's true - his "radicalism" was in APPROACH</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503425#c27?mode=alone;showrate=1#c27">6+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:37698">MeToo</a>, <a href="/user/uid:92182">offgrid</a>, <a href="/user/uid:54233">FutureNow</a>, <a href="/user/uid:120685">happymisanthropy</a>, <a href="/user/uid:8871">sacrelicious</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Maybe radicalism is too big a word, but the press and mainstream Dems see him as some crazy guy, and that was before the manufactured scream.</p>
+<p>Informed folks (including Kossaks) were well aware back on '03 and '04 that Dean's positions were not flaming lefty by any means, that he was rather a centrist Dem.</p>
+<p>BUT . . . he was in your face straightforward no bullshit, and that made ALL the difference.</p>
+<p>There were no euphemisms, or leaving room for himself to backpedal, or triangulation bs with Dean. &nbsp;Whatever position he <em>did</em> have, he was straight up and didn't back down. &nbsp;And that was amazing.</p>
+<p>He represented the Democratic Party brand with full force, aggressively and with an offensive, not defensive, approach. &nbsp;Who'd have thunk that you could promote Dem principles forthrightly - and win on them!? &nbsp;He did - don't back down...</p>
+<p>Would love to see this guy back in the picture - any picture. &nbsp;I'd rather take a moderate guy who fights and leads with what he's got, than a marginally more liberal person who hems, haws and sells it all out.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:20666">SamSinister</a> on <a href="/comments/1217711/50503425#c27">Fri Jun 21, 2013 at 12:54:19 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503425" class="cm i1">
+
+
+
+
+<li id="c44">
+  <div class="cx" id="cx50504762">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Exactly.  He didn't sound fake.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504762#c44?mode=alone;showrate=1#c44">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>I was kind of floored in the 2004 election when he "referenced" Wyclef Jean as a favorite musician.</p>
+<p>Specifically this song kind of implied to me that Dean was ready to go to the mat for us:<br />
+<iframe width="420" height="315" src="http://www.youtube.com/embed/-kjdjmixdTM" frameborder="0" defang_allowfullscreen=""></iframe></p>
+<p>Of course, that's probably a stretch, but I never really found Dean to ever be anything other than authentic.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">--<br>
+Make sure everyone's vote counts: <a href="http://verifiedvoting.org/">Verified Voting</a></p>
+  <p class="cb">by <a href="/user/uid:8871">sacrelicious</a> on <a href="/comments/1217711/50504762#c44">Fri Jun 21, 2013 at 03:18:57 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c27">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c43">
+  <div class="cx" id="cx50504688">
+   <h5> <a class="de">&nbsp;</a><span class="cu">VT conservative = liberal almost anywhere else</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504688#c43?mode=alone;showrate=1#c43">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>I'd take a "conservative" Gov. Dean over any of these "neo"liberals like CA Lt. Gov Gavin Newsom.</p>
+<p>Gov Dean's interest is the best thing I've heard this year, politically.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">--<br>
+Make sure everyone's vote counts: <a href="http://verifiedvoting.org/">Verified Voting</a></p>
+  <p class="cb">by <a href="/user/uid:8871">sacrelicious</a> on <a href="/comments/1217711/50504688#c43">Fri Jun 21, 2013 at 03:11:20 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c5">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c6">
+  <div class="cx" id="cx50503138">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Enjoy NN13 everyone!</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503138#c6?mode=alone;showrate=1#c6">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:27928">high uintas</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I wish I could join you there (really!)</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Please proceed, Governor" -- you know who, and when
+</p>
+  <p class="cb">by <a href="/user/uid:121987">lotac</a> on <a href="/comments/1217711/50503138#c6">Fri Jun 21, 2013 at 12:16:37 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c7">
+  <div class="cx" id="cx50503160">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Sorry Paula...too little, too late</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503160#c7?mode=alone;showrate=1#c7">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:184320">msmacgyver</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>I hung with you through the last debacle. But not this time. And your "please don't ruin my empire" video is just too little ... too late.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+We view "The Handmaid's Tale" as cautionary. The GOP views it as an instruction book. <a href="https://twitter.com/PortiaMcGonagal" class="twitter-follow-button" defang_data-show-count="false">Follow @PortiaMcGonagal</a>  
+ 
+ 
+</p>
+  <p class="cb">by <a href="/user/uid:156388">Vita Brevis</a> on <a href="/comments/1217711/50503160#c7">Fri Jun 21, 2013 at 12:19:39 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503160" class="cm i1">
+
+
+
+
+<li id="c13">
+  <div class="cx" id="cx50503266">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Those video snippets were pretty interesting ...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503266#c13?mode=alone;showrate=1#c13">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:156388">Vita Brevis</a>, <a href="/user/uid:92045">ColoTim</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>to watch, though they tell me that if she ever says the sky is blue, I'm going to need empirical proof.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:1611">chrississippi</a> on <a href="/comments/1217711/50503266#c13">Fri Jun 21, 2013 at 12:34:06 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c7">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c22">
+  <div class="cx" id="cx50503338">
+   <h5> <a class="de">&nbsp;</a><span class="cu">yup</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503338#c22?mode=alone;showrate=1#c22">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>She spreads diabetes wherever she goes.</p>
+<p>At the same time she is a paid spokesperson for Novo Nordisk, the company that makes the diabetes drug Victoza.</p>
+<p>I've seen pimps with higher moral standards than this rancid lump of flesh.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:646546">Capt Crunch</a> on <a href="/comments/1217711/50503338#c22">Fri Jun 21, 2013 at 12:42:46 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c7">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c26">
+  <div class="cx" id="cx50503419">
+   <h5> <a class="de">&nbsp;</a><span class="cu">As I said from the start of this,</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503419#c26?mode=alone;showrate=1#c26">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:156388">Vita Brevis</a>, <a href="/user/uid:208885">Miggles</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>why would anyone be surprised?</p>
+<p>Paula Deen is exactly who she says she is and always has been. &nbsp;If she invented her Southern Belle persona, it would include all the things which she believes are true to form. &nbsp;Racism would be one of them, although she would not call it that. &nbsp;She would call it "Being Southern".</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+When someone is impatient and says, "I haven't got all day," I always wonder, How can that be? How can you not have all day? George Carlin
+</p>
+  <p class="cb">by <a href="/user/uid:184320">msmacgyver</a> on <a href="/comments/1217711/50503419#c26">Fri Jun 21, 2013 at 12:53:56 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c7">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c9">
+  <div class="cx" id="cx50503176">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Hey, I met Lindsay Graham a couple weeks ago....</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503176#c9?mode=alone;showrate=1#c9">7+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:70454">KenBee</a>, <a href="/user/uid:246193">Mr Robert</a>, <a href="/user/uid:184320">msmacgyver</a>, <a href="/user/uid:37698">MeToo</a>, <a href="/user/uid:6">Meteor Blades</a>, <a href="/user/uid:281">Caipirinha</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>His SC campaign manager is a colleague of mine from high school and we reconnected after our 20th high school reunion.</p>
+<p>Anyway, he asks if I want to meet the senator, I say sure. So we go to his rowhouse catercorner to the Capitol building. Before we go in, he says "Let me just set your expectations right now. The Senator is a bachelor and he kind of lives like one." Uhhh...ok, I thought. I had assumed this was code for "he's gay", but that was not the message he was sending.</p>
+<p>Knock knock "LINDSAY, its X! I've got a friend who wants to meet you." The Senator lumbers towards the top of the stairs. His hair is standing on end from too much product and he's wearing a wife beater and boxers. "Come on in boys, get comfortable."</p>
+<p>Whoa.</p>
+<p>So we go upstairs. About 15 empty pizza boxes are strewn throughout the room. Empty diet coke bottles everywhere. There is a cinderblock coffeetable in front of a big screen TV. He props his legs up on the "table" with his legs apart. He lives like a fraternity pledge....I was expecting to see an 8-foot bong, but no dice.</p>
+<p>Anyway, so my brain is oozing out of my head during this Fellini-esque experience. We shoot the breeze and we start talking about politics. This is also kind of interesting. He says (paraphrasing):</p>
+<p>If I wanted to get elected indefinitely, I could. I know what buttons to push. But I'm sick of it. I'm up here doing nothing. If I'm going to get anything accomplished, I've got to put my vote in play. If I win this year, I'm done just being a goalie.</p>
+<p>For the record, they are concerned about a challenge from the right in the primaries. Word has it that there are a couple multimillionaires who are ready to jump in the race and could pull a Murdoch. He said Citizens United makes every race a free for all. Maybe its a good thing?</p>
+<p>Anyway, that's what happened. Nice guy. Pretty smart. Lives in a sty and I wanted to call him Dude. I suspect he's going to be a Goldwater/Crist type who will be a post-career rejector of the GOP.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28578">Dillonfence</a> on <a href="/comments/1217711/50503176#c9">Fri Jun 21, 2013 at 12:22:01 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503176" class="cm i1">
+
+
+
+
+<li id="c16">
+  <div class="cx" id="cx50503283">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Wow. I don't know what to say ...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503283#c16?mode=alone;showrate=1#c16">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:70454">KenBee</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:28578">Dillonfence</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>Wish you could do a diary on this ... Would you're friend be OK with it?</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:1611">chrississippi</a> on <a href="/comments/1217711/50503283#c16">Fri Jun 21, 2013 at 12:35:50 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c9">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c23">
+  <div class="cx" id="cx50503354">
+   <h5> <a class="de">&nbsp;</a><span class="cu">ha, like Chris says, diary</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503354#c23?mode=alone;showrate=1#c23">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:184320">msmacgyver</a>, <a href="/user/uid:28578">Dillonfence</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>and I don't care if it's true, that's a funny comment!</p>
+<p>hair sticking up from too much product, geez.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<i><tt>This machine kills Fascists.</tt></i>
+</p>
+  <p class="cb">by <a href="/user/uid:70454">KenBee</a> on <a href="/comments/1217711/50503354#c23">Fri Jun 21, 2013 at 12:44:34 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c9">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c28">
+  <div class="cx" id="cx50503451">
+   <h5> <a class="de">&nbsp;</a><span class="cu">What is a "wife beater"? nt</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503451#c28?mode=alone;showrate=1#c28">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:28578">Dillonfence</a>, <a href="/user/uid:70475">dougymi</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+When someone is impatient and says, "I haven't got all day," I always wonder, How can that be? How can you not have all day? George Carlin
+</p>
+  <p class="cb">by <a href="/user/uid:184320">msmacgyver</a> on <a href="/comments/1217711/50503451#c28">Fri Jun 21, 2013 at 12:56:43 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c9">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503451" class="cm i1">
+
+
+
+
+<li id="c39">
+  <div class="cx" id="cx50504249">
+   <h5> <a class="de">&nbsp;</a><span class="cu">A-shirt... Not sure how it got the nickname.</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504249#c39?mode=alone;showrate=1#c39">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>Probably from a Hollywood reference.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+A learning experience is one of those things that says, 'You know that thing you just did? Don't do that.' <strong>Douglas Adams</strong>
+</p>
+  <p class="cb">by <a href="/user/uid:70475">dougymi</a> on <a href="/comments/1217711/50504249#c39">Fri Jun 21, 2013 at 02:22:33 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c28">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c30">
+  <div class="cx" id="cx50503568">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Great writing- sucked me right in to the 4th</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503568#c30?mode=alone;showrate=1#c30">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:28578">Dillonfence</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>paragraph... haha</p>
+<p>Do one on Orrin Hatch- now there's a guy who uses "facial products". Same with Boehner... wonder if he's ever do a "one man show" like the landlord in The Big Lebowski?</p>
+<blockquote>Lives in a sty and I wanted to call him Dude.</blockquote>
+heh
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+The day is coming when a single carrot, freshly observed, will set off a revolution. Paul Cezanne ...Heads up! Al Gore 2016
+</p>
+  <p class="cb">by <a href="/user/uid:37698">MeToo</a> on <a href="/comments/1217711/50503568#c30">Fri Jun 21, 2013 at 01:12:53 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c9">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c33">
+  <div class="cx" id="cx50503657">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I've already said too much here...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503657#c33?mode=alone;showrate=1#c33">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:37698">MeToo</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>and I could see this being a real problem is my friend catches wind of it since he'll know it was me, so I can't do a diary.</p>
+<p>Thanks for your interest. I hesitated to even write it, but I couldn't not say anything...I was bursting to tell someone. Hahaha.</p>
+<p>And for msmacgyver, a wife beater is a sleeveless men's underwear shirt. Its a distasteful term, but its the only way I could conjure up this image of this weird southern-baked version of Jersey Shore thing he had going on.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:28578">Dillonfence</a> on <a href="/comments/1217711/50503657#c33">Fri Jun 21, 2013 at 01:23:45 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c9">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c10">
+  <div class="cx" id="cx50503191">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Paula Deen's gone rogue...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503191#c10?mode=alone;showrate=1#c10">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:6">Meteor Blades</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>The Food Network needs to fire her or their network will bring scrutiny on itself and the culture they've built. It'll rekindle interest in allegation of Guy Fieri's alleged homophobia:</p>
+<blockquote>Fieri also needed protection from homosexuals, or at least advance warning. Early in the show's run, Page got a phone call from Fieri, who'd just walked out of a restaurant in a huff.
+<p>"Guy had decided that the two men running the restaurant were life partners," Page remembers. "He said, 'You can't send me to talk to gay people without warning! Those people weird me out!'"</p>
+</blockquote>
+<a href="http://www.huffingtonpost.com/2011/10/19/guy-fieri-homophobia_n_1020736.html">Link</a>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+shake well
+</p>
+  <p class="cb">by <a href="/user/uid:96725">dclawyer06</a> on <a href="/comments/1217711/50503191#c10">Fri Jun 21, 2013 at 12:23:36 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503191" class="cm i1">
+
+
+
+
+<li id="c17">
+  <div class="cx" id="cx50503299">
+   <h5> <a class="de">&nbsp;</a><span class="cu">We quit watching the Food Network</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503299#c17?mode=alone;showrate=1#c17">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:96725">dclawyer06</a>, <a href="/user/uid:70475">dougymi</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>quite some time ago. We got sick and tired of abrasive hosts who were way too impressed with themselves, and with the ridiculous "competitions".</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:824659">Old Sailor</a> on <a href="/comments/1217711/50503299#c17">Fri Jun 21, 2013 at 12:37:34 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c10">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503299" class="cm i1">
+
+
+
+
+<li id="c21">
+  <div class="cx" id="cx50503334">
+   <h5> <a class="de">&nbsp;</a><span class="cu">It looks to me like all you need is some tats, too</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503334#c21?mode=alone;showrate=1#c21">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:824659">Old Sailor</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>much hair product, a wardrobe of straight bottom striped shirts, and be opinionated about food without explaining why to be a "chef" on the Food Network.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:1611">chrississippi</a> on <a href="/comments/1217711/50503334#c21">Fri Jun 21, 2013 at 12:42:32 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c31">
+  <div class="cx" id="cx50503602">
+   <h5> <a class="de">&nbsp;</a><span class="cu">The best cooking shows are on PBS...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503602#c31?mode=alone;showrate=1#c31">2+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:208885">Miggles</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>There's a political element to this too because George Will used to beat up on PBS as irrelevant by pointing, among other things, to TFN as providing one of the services PBS offered but without reliance on the government. Why go to PBS to learn how to cook when you can go to The Food Network, he argued? He claimed everything PBS offered by way of programming was already being offered by other networks. Capitalism over government, IOW.</p>
+<p>But like all corporate controlled networks(like Oxygen), TFN eventually lost its way and now barely features cooking instruction. It's all cupcake wars---which is so stupid it hurts(and manages, somehow, to not even teach its audience how to make cupcakes)! Even worse, TFN has that creepy show w/the guy who spies on people with cameras.</p>
+<p>So once again, George Will is wrong.<br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+shake well
+</p>
+  <p class="cb">by <a href="/user/uid:96725">dclawyer06</a> on <a href="/comments/1217711/50503602#c31">Fri Jun 21, 2013 at 01:16:20 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503602" class="cm i1">
+
+
+
+
+<li id="c40">
+  <div class="cx" id="cx50504414">
+   <h5> <a class="de">&nbsp;</a><span class="cu">We *knew* something was rotten</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504414#c40?mode=alone;showrate=1#c40">1+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:96725">dclawyer06</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>in the state of Denmark when TFN gave Sara Moulton the boot.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:824659">Old Sailor</a> on <a href="/comments/1217711/50504414#c40">Fri Jun 21, 2013 at 02:39:47 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c31">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50504414" class="cm i1">
+
+
+
+
+<li id="c47">
+  <div class="cx" id="cx50504860">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Dang, you're in deep...</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504860#c47?mode=alone;showrate=1#c47">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>you remember Sarah Moulton.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+shake well
+</p>
+  <p class="cb">by <a href="/user/uid:96725">dclawyer06</a> on <a href="/comments/1217711/50504860#c47">Fri Jun 21, 2013 at 03:30:40 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c40">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c42">
+  <div class="cx" id="cx50504641">
+   <h5> <a class="de">&nbsp;</a><span class="cu">I liked the Iron Chef, but they've clearly taken</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50504641#c42?mode=alone;showrate=1#c42">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>it too far now...don't watch much of it myself anymore...</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+A learning experience is one of those things that says, 'You know that thing you just did? Don't do that.' <strong>Douglas Adams</strong>
+</p>
+  <p class="cb">by <a href="/user/uid:70475">dougymi</a> on <a href="/comments/1217711/50504641#c42">Fri Jun 21, 2013 at 03:05:58 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c17">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+		</ul>
+
+
+
+
+<li id="c12">
+  <div class="cx" id="cx50503260">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Stand Your Ground Alaska Style</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503260#c12?mode=alone;showrate=1#c12">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:824659">Old Sailor</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:184320">msmacgyver</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><a href="http://thinkprogress.org/justice/2013/06/21/2196781/alaska-governor-signs-stand-your-ground-into-law-at-shooting-range/">http://thinkprogress.org/...</a></p>
+<blockquote>Alaska Governor Signs Stand Your Ground Into Law At Shooting Range
+<p>More than a year after the tragic shooting of 17-year-old Trayvon Martin on a Florida street drew national attention to Stand Your Ground laws, and with shooter George Zimmerman’s trial set to begin next week, no state has successfully repealed its law authorizing the unfettered use of deadly force. But on Thursday, Alaska became the latest state to adopt a Stand Your Ground law, with Gov. Sean Parnell (R) signing the law and several other gun bills at a shooting range.</p>
+<p>“The resolutions, the legislation we sign today are our declaration that we are strong supporters here in the last frontier of our Second Amendment,” Parnell said during the signing. Alaska Public Radio reports that Parnell wanted to send a message by signing this bill and several others that fight “federal overreach” at the shooting range.</p>
+<p>Alaska joins at least 21 other states that have passed Stand Your Ground or similar laws that impose no duty to retreat when facing an “attacker.” The ALEC and NRA-backed laws have cleared those involved in fatal shootings of any criminal liability, and pave the way for arbitrary determinations of guilt and innocence that can facilitate racial bias.</p>
+</blockquote>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+I want 1 less Tiny Coffin, Why Don't You? Support The President's Gun Violence Plan.
+</p>
+  <p class="cb">by <a href="/user/uid:105891">JML9999</a> on <a href="/comments/1217711/50503260#c12">Fri Jun 21, 2013 at 12:33:21 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+	<ul id="k50503260" class="cm i1">
+
+
+
+
+<li id="c18">
+  <div class="cx" id="cx50503317">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Further evidence</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503317#c18?mode=alone;showrate=1#c18">4+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:105891">JML9999</a>, <a href="/user/uid:92045">ColoTim</a>, <a href="/user/uid:184320">msmacgyver</a>, <a href="/user/uid:70475">dougymi</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p>that those on the right are trying to make it easier for themselves to kill people they don't like.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:824659">Old Sailor</a> on <a href="/comments/1217711/50503317#c18">Fri Jun 21, 2013 at 12:40:05 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  [ <a href="#c12">Parent</a> ] 
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+		</ul>
+
+
+
+
+<li id="c14">
+  <div class="cx" id="cx50503267">
+   <h5> <a class="de">&nbsp;</a><span class="cu">A diary looking back at the CNET/Nadler story</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503267#c14?mode=alone;showrate=1#c14">3+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+<div class="crs"><dl>
+  <dt>Recommended by:</dt><dd>
+  <a href="/user/uid:1611">chrississippi</a>, <a href="/user/uid:70454">KenBee</a>, <a href="/user/uid:141792">divineorder</a>
+    </dd>
+  
+</dl></div>
+
+  
+
+  <div class="ct">
+  
+<p><a href="http://www.dailykos.com/story/2013/06/21/1217670/-Nadler-Revisted">Nadler, Revisted</a>.</p>
+<p>Following stories about secret information is a struggle with truth. How to know what to believe.</p>
+<p>From yesterday's <em>Guardian</em> leak, we know that the CNET/Nadler story was correct. Including in small details.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:1693">Garrett</a> on <a href="/comments/1217711/50503267#c14">Fri Jun 21, 2013 at 12:34:07 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c20">
+  <div class="cx" id="cx50503328">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Yahoo news: don't read anything they write</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503328#c20?mode=alone;showrate=1#c20">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>they are so against Obama you can get better informed criticisms right here...the slant is obvious and sustained.</p>
+<p>If you really want some self abuse read the comments, altho for those dedicated to finding the Bright Side in even the deepest doodoo there are good people pushing back against the pinheads in the comments..</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+<i><tt>This machine kills Fascists.</tt></i>
+</p>
+  <p class="cb">by <a href="/user/uid:70454">KenBee</a> on <a href="/comments/1217711/50503328#c20">Fri Jun 21, 2013 at 12:41:24 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c35">
+  <div class="cx" id="cx50503729">
+   <h5> <a class="de">&nbsp;</a><span class="cu">People at the Town Square</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503729#c35?mode=alone;showrate=1#c35">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>At NN13.<br />
+<iframe src="http://player.vimeo.com/video/68876118" width="500" height="286" frameborder="0" defang_webkitallowfullscreen="" defang_mozallowfullscreen="" defang_allowfullscreen=""></iframe></p>
+<p><a href="http://vimeo.com/68876118">Netroots Nation 2013 Town Square</a> from <a href="http://vimeo.com/user19098463">H. Boothroyd III</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+  </div>
+  <div class="cf">
+  <p class="sig">
+"Can you hear me now?"
+</p>
+  <p class="cb">by <a href="/user/uid:240516">Horace Boothroyd III</a> on <a href="/comments/1217711/50503729#c35">Fri Jun 21, 2013 at 01:30:29 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+<li id="c36">
+  <div class="cx" id="cx50503735">
+   <h5> <a class="de">&nbsp;</a><span class="cu">Stock market bi-polar?</span>
+
+
+<span class="crd ntb">(<a href="/comments/1217711/50503735#c36?mode=alone;showrate=1#c36">0+ / 0-</a>)</span>
+  </h5>
+
+  
+  
+
+
+  
+
+  <div class="ct">
+  
+<p>The stock market just could not make up its mind today. The DOW was up, the NASDAQ down. A bit like me, huh?<br />
+I’m still OK with my blog post about the plunge, posted at 4 a.m. PDT.<br />
+<a href="http://warrenswil.com/wordpress1/2013/06/21/stock-market-plunges/">http://warrenswil.com/...</a><br /></p>
+
+  </div>
+  <div class="cf">
+  <p class="sig"></p>
+  <p class="cb">by <a href="/user/uid:875719">Warren Swil</a> on <a href="/comments/1217711/50503735#c36">Fri Jun 21, 2013 at 01:31:12 PM PDT</a></p>
+  <p class="cl">
+  
+ 
+ 
+  
+    
+   
+
+ 
+ 
+ </p> 
+  </div>
+  </div>
+</li> 
+
+
+	
+
+
+
+
+
+
+<li id="eP">    
+<div class="cx" style="display:none;">
+	<h5><a class="de">&nbsp;</a><span class="cu" id="previewSubject">&nbsp;</span> <span class="crd ntb">(<a href="#">0 / 0</a>)</span></h5>
+	<div class="ct" id="previewComment"></div>
+	<div class="cf"><p class="sig"></p>
+		<p class="cb">by <a href="#" id="previewName">you</a> on <a href="#" id="previewDate">soon</a></p>
+		<div id="previewConfirm"><h5>If this is OK, click Post: &nbsp;
+			<input id="ePostButton" type="submit" value="Post" accesskey="s" tabindex="7" title="Post your comment. Comments cannot be edited or deleted after posting." /></h5>
+			<p>Or you may make changes below and Preview again, or Cancel this comment.</p>
+		</div>
+	</div>
+</div>
+</li>
+</ul>
+<div id="e" style="display:none;">
+	<fieldset id="eFieldset"><legend>Post Comment</legend>
+		<h4 id="eErrorMessage">You must enter a subject for your comment.</h4>
+		<dl><dt><label for="eSubject" accesskey="j">Subject:</label></dt>
+		<dd><input id="eSubject" tabindex="1" type="text" size="50" value="" maxlength="50" /></dd>
+		<dt><label for="eComment" accesskey="o">Comment:</label></dt>
+		<dd><textarea id="eComment" tabindex="2" cols="50" rows="20"></textarea></dd></dl>
+		<dl id="eLink"><dt><label for="eLinkUrl" accesskey="u">URL:</label></dt>
+		<dd><textarea id="eLinkUrl" cols="50" rows="1" tabindex="13" title="Paste or enter a URL you wish to link to, e.g. http://www.dailykos.com/">http://</textarea></dd>
+		<dt><label for="eLinkLabel" accesskey="a">Label:</label></dt>
+		<dd><input id="eLinkLabel" size="36" maxlength="256" tabindex="14" title="(optional) Paste or enter a label for this link, e.g. Outrageous article!" /> <input id="eLinkImage" type="checkbox" tabindex="15" title="Adds this link as an image when checked" /><label for="eLinkImage">Image</label> <input id="eAddLink" type="submit" value="Add" tabindex="16" title="Adds the link you have entered to the comment" /></dd></dl>
+		<div id="eHelp"></div>
+		<div id="eButtons" class="button-row"><input id="eBold" type="button" value="Bold" accesskey="b" tabindex="9" title="Text between &lt;strong&gt; and &lt;/strong&gt; will look bold" />
+			<input id="eItalic" type="button" value="Italic" accesskey="i" tabindex="10" title="Text between &lt;em&gt; and &lt;/em&gt; will look italic" /> <input id="eBlockquote" type="button" value="Blockquote" accesskey="q" tabindex="11" title="Select text anywhere on this page, click this button, and it will be quoted in a gray box" /> <input id="eLinkButton" type="button" value="Link" accesskey="l" tabindex="12" title="Helps you link to another web page or an image" /> <input id="eHelpButton" type="button" value="Help" accesskey="h" tabindex="17" title="Click here for help posting and formatting comments" /> &nbsp;
+			<input id="ePButton" type="submit" value="Preview" tabindex="6" accesskey="p" title="View a Preview of your comment, which you can then Post" /> <input id="eCancelButton" type="reset" value="Cancel" accesskey="c" tabindex="8" title="Abandons this comment entry" />
+		</div>
+	</fieldset>
+</div>
+</div> 
+</form>
+<div id="dbox"><p id="dbox_msg"></p><a id="dbox_close" href="#">Close</a></div>
+
+
+
+
+	
+	<div class="cbar"><h4>
+	
+	   <a class="plink" href="/story/2013/06/21/1217711/-Midday-open-thread?detail=hide">Permalink</a>
+	</h4>
+	</div>
+
+
+</div>	
+
+
+
+<div id="recommenders" class="hide">
+
+
+<a href="/user/13682">eeff</a>, <a href="/user/41067">lyvwyr101</a>, <a href="/user/73863">gpoutney</a>, <a href="/user/240516">Horace Boothroyd III</a>, <a href="/user/246193">Mr Robert</a>, <a href="/user/328420">aresea</a>, <a href="/user/382765">Ishmaelbychoice</a>, <a href="/user/646546">Capt Crunch</a>
+</div>
+
+
+
+
+	
+	
+	<div id="sub" class="published">
+		<div id="subscription_bug">
+<p>
+
+<a href="https://www.dailykos.com/subscribe">Subscribe</a> or
+
+<a href="https://www.dailykos.com/donate">Donate</a> to support Daily Kos.
+</p>
+</div>
+
+		<div class="content">
+			
+			
+
+
+
+
+
+  
+
+  <div id="sub-med-ad">
+	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_BTF_300x250 -->
+	
+	<div style="width: 300px; margin: 0 auto; position: relative;">
+	<script type="text/javascript">
+	
+	  GA_googleFillSlot("300x250_DK_Story_ATF");
+	
+	</script>
+	</div>
+	<!-- END OF TAG FOR SLOT DK_FP_BTF_300x250 -->
+  </div>
+  
+
+
+
+
+
+
+	
+	
+	
+	<div id="users-recommending" class="ajax-delay-load">
+		
+<div id="recommenders_div" class="featured-articles collapsed collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="recommenders">Diary Recommended By</h2></a>
+<ul class="articles ajax-paged-content">
+<div class="listOfRecommenders">
+
+	<a href="/user/eeff">eeff</a>, <a href="/user/lyvwyr101">lyvwyr101</a>, <a href="/user/gpoutney">gpoutney</a>, <a href="/user/Horace Boothroyd III">Horace Boothroyd III</a>, <a href="/user/Mr Robert">Mr Robert</a>, <a href="/user/aresea">aresea</a>, <a href="/user/Ishmaelbychoice">Ishmaelbychoice</a>, <a href="/user/Capt Crunch">Capt Crunch</a>
+
+</div></ul>
+
+</div>
+
+		<a class="ajax do-delay-load invisible" href="/part/sidebar/stories/recommenders_as_list?story_id=1217711">(Load)</a>
+	</div>
+
+
+
+  
+	
+<div id="rec-by-user_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="rec-by-user">Recommended by Barbara Morrill</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/30/1240488/-Vigil-For-Timaeus">Vigil For Timaeus                            </a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+Timaeus is scheduled for a high risk, complicated surgery this Wednesday, October 2nd. He wrote a couple diaries about it here and ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/joedemocrat" class="author">joedemocrat</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/30/1240488/-Vigil-For-Timaeus#comments" class="comment-count comment_count_with_new compact" data-story_id="1240488" data-comment_count="121">
+			    121 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;261&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/20/1240218/-Ask-me-anything-about-Daily-Kos">Ask me anything about Daily Kos</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+Welcome back, Kossacks, to the Daily Kos staff's weekly exercise in "I don't know, I'll ask the tech team!" Actually, you guys come up with much better questions than just tech ones, and seem to ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Joan McCarter" class="author">Joan McCarter</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/20/1240218/-Ask-me-anything-about-Daily-Kos#comments" class="comment-count comment_count_with_new compact" data-story_id="1240218" data-comment_count="201">
+			    201 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;75&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/06/1236842/-Ask-Me-Anything-About-Daily-Kos">Ask Me Anything About Daily Kos</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Jason Libsch" class="author">Jason Libsch</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/06/1236842/-Ask-Me-Anything-About-Daily-Kos#comments" class="comment-count comment_count_with_new compact" data-story_id="1236842" data-comment_count="129">
+			    129 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;49&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/09/03/1235930/-Richard-Cohen-Steubenville-rape-wasn-t-rape-because-Miley-Cyrus-is-tasteless">Richard Cohen: Steubenville rape wasn't rape because Miley Cyrus is tasteless</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Richard Cohen or a jackass, you make the call.
+
+At the end of his latest, Richard Cohen offers ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/09/03/1235930/-Richard-Cohen-Steubenville-rape-wasn-t-rape-because-Miley-Cyrus-is-tasteless#comments" class="comment-count comment_count_with_new compact" data-story_id="1235930" data-comment_count="103">
+			    103 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;81&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/08/30/1234919/-Ask-me-anything-about-Daily-Kos">Ask me anything about Daily Kos</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+My turn!
+
+I started reading Daily Kos in 2003, commented a lot in 2004 and wrote about a dozen diaries in 2005, then picked up the pace in 2006 for the midterm elections. At the end of 2006, I ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/08/30/1234919/-Ask-me-anything-about-Daily-Kos#comments" class="comment-count comment_count_with_new compact" data-story_id="1234919" data-comment_count="107">
+			    107 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;46&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/08/17/1231845/-Watauga-County-NC-All-Hell-Broke-Loose-at-the-Board-of-Elections-Meeting">Watauga County, NC: All Hell Broke Loose at the Board of Elections Meeting</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Yep. It's so downright amazing that even Rachel Maddow picked it up.
+
+Monday at 9AM was the first time the new and not-so-improved Watauga County Board of Elections met, a Board now controlled by ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/irmaly" class="author">irmaly</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/08/17/1231845/-Watauga-County-NC-All-Hell-Broke-Loose-at-the-Board-of-Elections-Meeting#comments" class="comment-count comment_count_with_new compact" data-story_id="1231845" data-comment_count="304">
+			    304 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;728&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/08/09/1230103/-Ask-me-anything-again">Ask me anything (again!)</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+Welcome to this week's edition of the Daily Kos Ask Me Anything, where every Friday a staffer answers your questions. I've committed to hosting this feature once per month, and while I just did ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/kos" class="author">kos</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/08/09/1230103/-Ask-me-anything-again#comments" class="comment-count comment_count_with_new compact" data-story_id="1230103" data-comment_count="438">
+			    438 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;77&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/26/1226798/-Ask-me-anything-about-Daily-Kos">Ask me anything about Daily Kos</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+
+
+It's my turn for Ask Me Anything!
+
+First,</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Jed Lewison" class="author">Jed Lewison</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/26/1226798/-Ask-me-anything-about-Daily-Kos#comments" class="comment-count comment_count_with_new compact" data-story_id="1226798" data-comment_count="172">
+			    172 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;57&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/22/1225680/-What-s-new-and-most-shared-in-social-media-7-15-to-7-21">What's new and most-shared in social media: 7/15 to 7/21</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+Social media's all abuzz with the news that Kate Middleton went into labor. Are you like me and don't give a FF? Here'...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/FaithGardner" class="author">FaithGardner</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/22/1225680/-What-s-new-and-most-shared-in-social-media-7-15-to-7-21#comments" class="comment-count comment_count_with_new compact" data-story_id="1225680" data-comment_count="22">
+			    22 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;16&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2013/07/18/1224749/-MD-GOV-Why-I-m-running">MD-GOV: Why I'm running...</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Yesterday, I officially announced my candidacy for Governor of Maryland. After months of talking to people all across Maryland, I believe that there are limitless possibilities on how we can improve ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Heather Mizeur" class="author">Heather Mizeur</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2013/07/18/1224749/-MD-GOV-Why-I-m-running#comments" class="comment-count comment_count_with_new compact" data-story_id="1224749" data-comment_count="34">
+			    34 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;73&nbsp;Recs</span>
+		</span>
+		</li>
+	
+
+</ul>
+
+<ul class="navigation">
+
+<li class="next"		><a class="ajax do-page-next" href="/part/sidebar/stories/recommended_by_user?user_id=30549&page=1">Next</a></li>
+</ul>
+
+</div>
+
+
+	
+	
+				<!-- ca-pub-4201116381449156/300x250_DK_lower_med_rec -->
+		<div id="lower_side_ad" style="width: 300px; margin: 0px auto 20px auto; position: relative;">
+			<script type='text/javascript'>
+			
+				GA_googleFillSlot("300x250_DK_Story_BTF_Right");
+			
+			</script>
+		</div>
+	
+  
+
+  
+
+  
+	
+	
+<div id="tag-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="tag-list">Barbara Morrill's Tags</h2></a>
+<ul class="articles ajax-paged-content">
+
+  	<li><i>No current results.</i></li>
+
+</ul>
+
+</div>
+
+	
+<div id="blogroll-list_div" class="featured-articles collapsable-panel ajax-paged">
+<a class="collapsor" href="#"><h2 class="tight" id="blogroll-list">Barbara Morrill's Blogroll</h2></a>
+<ul class="articles ajax-paged-content">
+
+	
+		<li ><a class="title" href="http://www.talkingpointsmemo.com/">TPM</a></li>
+	
+		<li class="alt"><a class="title" href="http://scoop.epluribusmedia.org/">ePluribus Media</a></li>
+	
+		<li ><a class="title" href="http://www.bluehousediaries.com/showDiary.do?diaryId=243">Blue House Diaries</a></li>
+	
+		<li class="alt"><a class="title" href="http://thinkprogress.org/">Think Progress</a></li>
+	
+		<li ><a class="title" href="http://theplumline.whorunsgov.com/">The Plum Line</a></li>
+	
+		<li class="alt"><a class="title" href="http://www.mddems.org/ht/d/sp/i/583271/pid/583271">MDP Blog Network</a></li>
+	
+		<li ><a class="title" href="http://mediamatters.org/">Media Matters</a></li>
+	
+		<li class="alt"><a class="title" href="http://atrios.blogspot.com/">Eschaton</a></li>
+	
+		<li ><a class="title" href="http://www.bettybowers.com/index.html">Betty Bowers&#39;</a></li>
+	
+		<li class="alt"><a class="title" href="http://kidoaklandblog.blogspot.com/">k/o</a></li>
+	
+
+
+</ul>
+
+</div>
+
+  
+	
+	
+	<div id="fb_box" class="featured-articles collapsable-panel ajax-paged"> 
+	<iframe src="http://www.facebook.com/plugins/activity.php?site=www.dailykos.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;action=recommend" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowTransparency="true"></iframe>
+	</div>
+	
+
+
+
+
+
+
+		
+		</div>
+	</div>
+</div>
+
+    <div id="footer">    
+      <div id="nav-tag">
+        <h2><a href="/news/">Browse Tags</a></h2>
+
+        <ul>
+
+          <li><a href="/news/Civil Rights">Civil Rights</a></li>
+
+          <li><a href="/news/Community">Community</a></li>
+
+          <li><a href="/news/Congress">Congress</a></li>
+
+          <li><a href="/news/Culture">Culture</a></li>
+
+          <li><a href="/news/Economy">Economy</a></li>
+
+          <li><a href="/news/Education">Education</a></li>
+
+          <li><a href="/news/Elections">Elections</a></li>
+
+          <li><a href="/news/Energy">Energy</a></li>
+
+          <li><a href="/news/Environment">Environment</a></li>
+
+          <li><a href="/news/Health Care">Health Care</a></li>
+
+          <li><a href="/news/International">International</a></li>
+
+          <li><a href="/news/Labor">Labor</a></li>
+
+          <li><a href="/news/Law">Law</a></li>
+
+          <li><a href="/news/Media">Media</a></li>
+
+          <li><a href="/news/Meta">Meta</a></li>
+
+          <li><a href="/news/National Security">National Security</a></li>
+
+          <li><a href="/news/Science">Science</a></li>
+
+          <li><a href="/news/Transportation">Transportation</a></li>
+
+          <li><a href="/news/White House">White House</a></li>
+
+        </ul>
+      </div>      
+      <div id="legal">
+        <p><strong>&copy; Kos Media, LLC</strong> Site content may be used for any purpose without explicit permission unless otherwise specified</p>
+        <p>&ldquo;Kos&rdquo; and &ldquo;Daily Kos&rdquo; are registered trademarks of Kos Media, LLC</p>
+        <p><a href="/special/privacy">Privacy Policy</a></p>
+      </div>      
+      <div id="nav-footer">
+        <ul>
+          <li><h2 class="daily-kos-network">Daily Kos Network</h2>
+            <ul>
+              <li><a href="/">Daily Kos</a></li>
+              <li><a href="http://comics.dailykos.com">Comics</a></li>
+              <li><a href="http://elections.dailykos.com">Elections</a></li>
+              <!-- <li><a href="#">DK Answers</a></li> -->
+              <li><a href="http://www.dailykostv.com/">DKTV</a></li>
+              <li class="last"><a href="http://feeds.dailykos.com/dailykos/index.xml">RSS</a></li>
+				</ul><br/>
+				<ul>
+              <li><a href="http://www.mothertalkers.com/">Mother Talkers</a></li>
+              <li><a href="http://www.streetprophets.com/">Street Prophets</a></li>
+              <li class="last"><a href="http://www.congressmatters.com/">Congress Matters</a></li>
+            </ul>
+          </li>
+          <li><h2 class="about">About</h2>
+            <ul>
+              <li><a href="/special/about2">Masthead</a></li>
+              <li><a href="/special/about2#dk">History</a></li>
+              <li><a href="/special/about2#bio">Writers</a></li>
+              <li><a href="http://www.dkosopedia.com/wiki/DailyKos_FAQ">Frequently Asked Questions</a></li>
+              <li class="last"><a href="https://secure.actblue.com/page/dkendorsements2014?refcode=footer">Endorsements</a></li>
+            </ul>
+          </li>
+          <li><h2 class="advertise">Advertise</h2>
+            <ul>
+              <li><a href="/special/advertising">Advertising Overview</a></li>
+              <li class="last"><a href="http://www.quantcast.com/dailykos.com">Visits and Other Stats for Advertisers</a></li>
+            </ul>
+          </li>
+          <li><h2 class="store">Store</h2>
+            <ul>
+              <li class="last"><a href="http://www.bluecollardistro.com/dailykos/categories.php?cPath=1052">Shirts</a></li>
+            </ul>
+          </li>
+          <li class="last"><h2 class="contact">Contact</h2>
+            <ul>
+              <li><a href="/special/media">Media Inquiries</a></li>
+              <li><a href="/contactus">General Inquiries</a></li>
+              <li class="last"><a href="/special/jobs">Jobs</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>        
+    </div>			
+
+</div> <!-- matches div id="pageWrapper" in _topnav.html  -->
+
+
+
+	<script type="text/javascript" src="/j/unified-nolib.js?rev=4c"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready( App.initOnReady );
+	
+        kos.story_id = 1217711;
+        kos.sid = '2013/6/21/73518/7958';
+		//kos.LAST_SEEN = '0';
+		kos.LAST_SEEN = DailyKos.CommentCount.getReadCommentCount(kos.story_id);
+		kos.pub_status = 'published';
+		kos.version = 1;
+		kos.trcount = 0;
+		kos.trremain = 0;
+		kos.serial = 150;
+		kos.updated = '2013-08-08 02:03:54';
+		kos.hidingchoice = false;
+		kos.can_comment = 0;
+	
+		$('#popup-story_setTags').dialog({
+			autoOpen: false,
+			width: 600,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_hotlist').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unHotlist').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_removeRating').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_rescue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_unRescue').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_addBlogQueue').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_update').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Save" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_deleteHow').dialog({
+			autoOpen: false,
+			width: 400,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"OK" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_publishChanges').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Publish Changes" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-story_bumpHow').dialog({
+			autoOpen: false,
+			width: 500,
+			position: 'center',
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Update Timestamp Now" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+		$('#popup-user_login').dialog({
+			autoOpen: false,
+			width: 500,
+			position: [$(window).width()/2 - 345, $("#pageWrapper").offset()["top"] + 15],
+			close: App.onAjaxPopupClose,
+			buttons: {
+				"Login" : App.onAjaxPopupSubmit,
+				"Cancel" : App.onAjaxPopupCancel
+			}
+		});
+	
+</script>
+
+
+
+
+
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+<!-- FAcebook Tags -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:2709,domain:"dailykos.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<div style="background: #f4f4f4">
+
+
+ <!-- Quantcast Tag --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<script type="text/javascript">
+_qevents.push( { qacct:"p-94z2SIg8PaHLI"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-94z2SIg8PaHLI.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7520149,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7520149&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+<a class="skipmobile mobile_preference" href="#">Click here for the mobile view of the site</a>.
+
+
+
+
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 955959297;
+
+var google_conversion_language = "en";
+
+var google_conversion_format = "3";
+
+var google_conversion_color = "ffffff";
+
+var google_conversion_label = "9V3aCKe93wMQgZDrxwM";
+
+var google_conversion_value = 0;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/955959297/?value=0&amp;label=9V3aCKe93wMQgZDrxwM&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+</div>
+
+
+
+<!-- start mixpanel -->
+
+	<script type="text/javascript">		
+	  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+    b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+    '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+    'track_forms','register','register_once','unregister','identify','alias','name_tag',
+    'set_config','people.set','people.increment','people.track_charge','people.append'];
+    for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+    mixpanel.init("c560efce2a0fbd485ac276343781784a"); 
+  </script>
+
+
+<script type="text/javascript" src="/j/metrics.js"></script>
+
+
+	<script type='text/javascript'>
+	  DailyKos.Metrics.metricsOn = (1 === 1);
+	  DailyKos.Metrics.sampleSize = 10;
+		DailyKos.Metrics.setUserProperties({
+			requestFormat: 'full site',
+			subscriber: false,
+			mobile: $.browser.mobile,
+			loggedIn: false,
+			staff: false
+		});
+		DailyKos.Metrics.init();
+	</script>
+
+
+
+
+	
+	
+	  
+	  <script type='text/javascript'>
+	    if (document.location.pathname.match(/^\/story/)) {
+			  DailyKos.Metrics.track('Viewed Story', {  url: "http://www.dailykos.com/story/2013/06/21/1217711/-Midday-open-thread", 
+			                                            blog: "main",
+			                                            author: $('.author').children('a').first().html(),
+			                                            title: $('#titleHref').html()
+			                                          });
+			} else if (document.location.pathname.match(/^\/comment/)) {
+			  DailyKos.Metrics.track('Viewed Comment');
+			}
+
+		</script>
+	
+
+	
+<script type='text/javascript'>
+	if($.cookie('meter_user') !== 'false') {
+		if ($('#ePostButton').length > 0) {
+		  $('#ePostButton').click(function() { 
+		    DailyKos.Metrics.track('Posted Comment', { 
+		      repliedTo: $(this).parents('#eP').prevAll('.cb').children('a').first().html() 
+		    });
+		  });
+		}
+		
+		if (!!document.location.pathname.match('activate') && $('h1:contains("Welcome to Daily Kos!")').length > 0) {
+		  DailyKos.Metrics.track('Signed Up');
+		}
+		
+		if (document.location.pathname === '/') {
+		  if (document.location.hostname.match(/^www|^dailykos/)) {
+		    DailyKos.Metrics.track('Viewed Front Page');
+		  } else {
+		    var subdomain = document.location.hostname.split('.')[0];
+		    DailyKos.Metrics.track('Viewed Vertical', { name: subdomain });
+		  }
+		}
+		
+		if ($('.ratinate').length > 0) {
+		  $('.ratinate').click(function() { DailyKos.Metrics.track('Recommended Comment') });
+		}
+		
+		if ($('.do-addRating.type-story').length > 0) {
+		  $('.do-addRating.type-story').click(function() { DailyKos.Metrics.track('Recommended Story') });
+		}
+		
+		if ($("form[action$='publishHow']").length > 0) {
+		  $(document).ready(function() {
+			  $('.type-story.do-publishHow').click(function() { DailyKos.Metrics.track('Published Story') });
+			 });
+		}
+		
+		if (document.location.pathname.match(/^\/user/) && $('li.here').length > 0) {
+		  if ($('.pageMenu:first li.here').children('a').html().match(/Stream/)) {
+		    DailyKos.Metrics.track('Viewed Stream', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:first li.here').children('a').html().match(/Profile/)) {
+		    DailyKos.Metrics.track('Viewed Profile', { name: $('.name').children('a').html() });
+		  } else if ($('.pageMenu:last li.here').children('a').html().match(/My Recent Replies/)) {
+		    DailyKos.Metrics.track('Viewed Replies');
+		  }
+		} 
+		
+		if ($('#search-tabbed').length > 0) {
+		  DailyKos.Metrics.track('Searched');
+		}
+		
+		if ($('#group-tables').length > 0) {
+			DailyKos.Metrics.track('Viewed Groups List');
+		}
+		
+		if (document.location.pathname.match(/^\/groups/) && $("#group_info").length > 0) {
+		  DailyKos.Metrics.track('Viewed Group', { name: $('.name').children('a').text() });
+		}
+		
+		if ($('.do-hotlist.type-user, .do-unHotlist.type-user').length > 0) {
+		  $('.do-hotlist.type-user, .do-unHotlist.type-user').click(function() {
+		    var nickName;
+		    nickName = ($(this).prev('a').html() || $('.name a').html())
+		    if ($(this).hasClass('do-hotlist')) {
+		      DailyKos.Metrics.track('Followed User', { nickname: nickName }) 
+		    } else if ($(this).hasClass('do-unHotlist')) {
+		      DailyKos.Metrics.track('Unfollowed User', { nickname: nickName }) 
+		    }    
+		  });
+		}
+	}
+</script>
+
+<!-- end mixpanel -->
+
+
+</body>
+</html>

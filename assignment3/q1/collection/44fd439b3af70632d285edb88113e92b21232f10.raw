@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"> <!--<![endif]-->
+<head>
+<meta name="robots" content="index, follow">
+<style>
+.fancybox-inner .mce-content a, 
+.jqNewsIntro .mce-content a,
+.journal-tab .mce-content a,
+.tab-footer a, .fancybox-inner .gallery-slider li a {color:#00CCFF;}
+.fancybox-inner .mce-content a:hover,
+.jqNewsIntro .mce-content a:hover, 
+.journal-tab .mce-content a:hover,
+.tab-footer a:hover,
+.fancybox-inner .gallery-slider li a:hover
+{color:#00CCFF;text-decoration: underline;}
+</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="language" content="en" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Official site features news, show personalities, hot topics and image archive from The Howard Stern Show." />
+
+    <link rel="stylesheet" type="text/css" href="/themes/basic/js/plugins/slider.css" />
+<link rel="stylesheet" type="text/css" href="/themes/basic/css/style.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/themes/basic/css/mce_styles.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/assets/1d76d6a6/hpslider/css/liteaccordion.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d76d6a6/twitter/generic.css" />
+<link rel="stylesheet" type="text/css" href="/assets/e733638/yiitab/jquery.yiitab.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/assets/4786bb74/jquery.jtweetsanywhere-1.3.1.css" />
+<link rel="stylesheet" type="text/css" href="/assets/329a98d0/jquery.fancybox.css" />
+<style type="text/css">
+/*<![CDATA[*/
+.placeholder{color: #aaa;}
+/*]]>*/
+</style>
+<style type="text/css">
+/*<![CDATA[*/
+#accordionsliderwidget_14{ width: 980px; }
+#accordionsliderwidget_14 ul.slider{ width: 980px; height: 350px; margin:0; }
+#accordionsliderwidget_14 ul.slider>li{ width: 980px; height: 350px }
+
+/*]]>*/
+</style>
+<script type="text/javascript" src="/themes/basic/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="/themes/basic/js/plugins/jquery.bxSlider.js"></script>
+<script type="text/javascript" src="/assets/e733638/jquery.yiitab.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/search/placeholder.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/superfishmenu/js/superfish.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/accordion/js/widget.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/hpslider/js/la/liteaccordion.jquery.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/hpslider/js/sliderwidget.js"></script>
+<script type="text/javascript" src="/assets/1d76d6a6/hpslider/js/la/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/assets/329a98d0/jquery.fancybox.js"></script>
+<title>The Official Site of Howard Stern | HowardStern.com</title>
+
+    <link rel="shortcut icon" href="/themes/basic/favicon.ico" type="image/x-icon" />
+
+    
+    <link rel="canonical" href="http://www.howardstern.com/" />
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-39998802-1', 'howardstern.com');
+  ga('send', 'pageview');
+ </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40452533-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body class="module content home-page">
+
+<div class="wrapper">
+
+    <div class="header">
+        <div class="frame">
+            <div class="header-top clearfix">
+                <strong class="logo">
+                    <a href="/" class="logo-lnk">Howard Stern</a>
+                </strong>
+                <div class="supernav clearfix">
+                    <div class="listen-live"><a href="https://www.siriusxm.com/player" target="_blank" onClick="_gaq.push(['_trackEvent', 'General', 'Email the Howard Stern Show', 'Sent Message',, false]);">Listen Live to Howard 100/101</a></div>
+                    <div class="widget extsearch " id="extsearchwidget_15">
+<form class="clearfix" action="/search" method="GET">
+    <div class="widget-row">
+        <input placeholder="Search" maxlength="100" type="text" value="" name="q" id="q" />    </div>
+
+    <div class="widget-row">
+        <input type="submit" name="yt0" value="Search" />    </div>
+
+    <div class="advanced-row">
+        <a class="jqAdvancedSearch" href="#">Advanced</a>    </div>
+    <div class="widget-row advancedSearchBox jqAdvancedSearchBox" style="">
+        <input value="video" id="a_0" type="checkbox" name="a[]" /> <label for="a_0">Videos</label> <input value="image" id="a_1" type="checkbox" name="a[]" /> <label for="a_1">Photos</label> <input value="rundown" id="a_2" type="checkbox" name="a[]" /> <label for="a_2">Rundowns</label> <input value="profile" id="a_3" type="checkbox" name="a[]" /> <label for="a_3">Profiles</label> <input value="news" id="a_4" type="checkbox" name="a[]" /> <label for="a_4">News</label>    </div>
+
+</form>
+</div><div id="customhtmlwidget_16" class="widget customhtml header-follow ir"><p><a onclick="_gaq.push(['_trackEvent', 'General ', 'Follow us on Twitter',,, false]);" href="https://twitter.com/@sternshow" target="_blank">Follow us on twitter</a></p></div>                </div>
+                <div class="header-center">
+                                    </div>
+            </div>
+            <div class="header-bottom">
+                <div class="widget advancedmenu " id="advancedmenuwidget_1"><ul class="nav superfish superfish-headerBottom" id="advancedmenuwidget_1_Menu">
+<li class=" menu-item-35 "><a class=" menu-item-link-35 " href="/howard-on-air/howard-100-101/latest">Today’s Show</a>
+<ul>
+<li><span><div class="show-nav-item"><a href="/howard-on-air/howard-100-101/2013-09-25">2013-09-25</a></div><div class="show-nav-item"><a href="/howard-on-air/howard-100-101/2013-09-24">2013-09-24</a></div><div class="show-nav-item"><a href="/howard-on-air/howard-100-101/2013-09-23">2013-09-23</a></div><span class="show-nav-more"><a href="/howard-on-air/howard-100-101/list">View More</a></span></span></li>
+</ul>
+</li>
+<li class=" menu-item-3 "><a class=" menu-item-link-3 " href="/howard-on-air/howard-100-101">Howard on Air</a>
+<ul>
+<li class=" menu-item-18 "><a class=" menu-item-link-18 " href="/howard-on-air/howard-100-101">Howard 100 & 101</a></li>
+<li class=" menu-item-29 "><a class=" menu-item-link-29 " href="/howard-on-air/howard-tv">Howard TV</a></li>
+</ul>
+</li>
+<li class=" menu-item-27 "><a class=" menu-item-link-27 " href="/news">News</a></li>
+<li class=" menu-item-24 "><a class=" menu-item-link-24 " href="/profiles">Profiles</a>
+<ul>
+<li><span><div style="width: 694px;" class="clearfix">
+    <h2>On-Air</h2>
+    <div class="air-person-wrap">
+                    <div class="air-person">
+                <a href="/profiles/howard-stern"><img src="/uploads/ProfileModel/2/profileImage/crew-hovard.profile-menu.jpg" alt="" /><span>Howard</span></a>            </div>
+                    <div class="air-person">
+                <a href="/profiles/robin-quivers"><img src="/uploads/ProfileModel/1/profileImage/07-30-08-robin-quivers-new-hairdo-1.profile-menu.jpg" alt="" /><span>Robin</span></a>            </div>
+                    <div class="air-person">
+                <a href="/profiles/fred-norris"><img src="/uploads/ProfileModel/3/profileImage/norris-web-profiles-20130313-209.profile-menu.jpg" alt="" /><span>Fred</span></a>            </div>
+                    <div class="air-person">
+                <a href="/profiles/gary-dellabate"><img src="/uploads/ProfileModel/5/profileImage/dellabate-web-profiles-20130313-181.profile-menu.jpg" alt="" /><span>Gary</span></a>            </div>
+                    <div class="air-person">
+                <a href="/profiles/benjy-bronk"><img src="/uploads/ProfileModel/4/profileImage/square-shaped-benjy.profile-menu.jpg" alt="" /><span>Benjy</span></a>            </div>
+            </div>
+            <div class="link-block">
+            <h4>Radio Staff</h4>
+            <a href="/profiles/sal-governale">Sal Governale</a><a href="/profiles/richard-christy">Richard Christy</a><a href="/profiles/jd-harmeyer">JD Harmeyer</a><a href="/profiles/jason-kaplan">Jason Kaplan</a><a href="/profiles/will-murray">Will Murray</a>            <div class="more-link">
+                <a href="/profiles#radio-staff">More Radio Staff Profiles</a>            </div>
+        </div>
+            <div class="link-block">
+            <h4>Howard TV Staff</h4>
+            <a href="/profiles/doug-z-goodstein">Doug Goodstein</a><a href="/profiles/scott-depace">Scott DePace</a><a href="/profiles/mike-gange">Mike Gange</a><a href="/profiles/gregg-karmel-howardtv-producer">Gregg Karmel</a><a href="/profiles/richie-wilson">Richie Wilson</a>            <div class="more-link">
+                <a href="/profiles#howard-tv-staff">More Howard TV Staff Profiles</a>            </div>
+        </div>
+            <div class="link-block">
+            <h4>Wack Pack</h4>
+            <a href="/profiles/mariann-from-brooklyn">Mariann from Brooklyn</a><a href="/profiles/high-pitch-eric">High Pitch Eric</a><a href="/profiles/eric-the-actor">Eric the Actor</a><a href="/profiles/fred-the-elephant-boy">Elephant Boy</a><a href="/profiles/bigfoot">Bigfoot</a>            <div class="more-link">
+                <a href="/profiles#wack-pack">More Wack Pack Profiles</a>            </div>
+        </div>
+            <div class="link-block">
+            <h4>Guests</h4>
+            <a href="/profiles/george-takei">George Takei</a><a href="/profiles/gilbert-gottfried">Gilbert Gottfried</a><a href="/profiles/john-stamos">John Stamos</a><a href="/profiles/joan-rivers">Joan Rivers</a><a href="/profiles/jimmy-kimmel">Jimmy Kimmel</a>            <div class="more-link">
+                <a href="/profiles#guests">More Guests Profiles</a>            </div>
+        </div>
+    </div></span></li>
+</ul>
+</li>
+<li class=" menu-item-28 "><a class=" menu-item-link-28 " href="/media-vault">Media Vault</a>
+<ul>
+<li><span><div class="mv-drop">
+    <div class="mv-drop-line">
+        <h2>Photos</h2>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#213"><div class="">213</div><span class="mv-img"><img src="/uploads/MediaItemModel/32025/image/06-10-13-ronnie-mund-being-shaved-by-mike-the-barber.media-vault-small.jpg" alt="" /></span><span>Mund Man</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#77"><div class="">77</div><span class="mv-img"><img src="/uploads/MediaItemModel/1659/image/gange-eating-pizza-vegas-2004.media-vault-small.jpg" alt="" /></span><span>The Staff Eating</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#143"><div class="">143</div><span class="mv-img"><img src="/uploads/MediaItemModel/29727/image/zz-top-dusty-hill-stern-sound-check-04.media-vault-small.jpg" alt="" /></span><span>ZZ Top Rehearses in the Studio 69</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#35"><div class="">35</div><span class="mv-img"><img src="/uploads/MediaItemModel/652/image/04-08-10-dave-lambert-inventor-of-sybian-2.media-vault-small.jpg" alt="" /></span><span>Raven Alexis Meets the Sybian Master</span></a>            </div>
+            </div>
+    <div class="mv-drop-line">
+        <h2>Videos</h2>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#153"><div class="">153</div><span class="mv-img"><img src="/uploads/MediaItemModel/31129/image/06-24-10-rachel-fine-medium-shot33.media-vault-small.jpg" alt="" /></span><span>Fine Time: Jackie the Jokeman</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#141"><div class="">141</div><span class="mv-img"><img src="/uploads/MediaItemModel/29717/image/howard-100-news-main-pic60.media-vault-small.jpg" alt="" /></span><span>Howard 100 News Headlines - May 13th, 2013</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#241"><div class="">241</div><span class="mv-img"><img src="/uploads/MediaItemModel/32493/image/06-19-13-kid-rock-laughing-on-air.media-vault-small.jpg" alt="" /></span><span>Kid Rock on Justin Bieber - HTV</span></a>            </div>
+                    <div class="mediavault-item">
+
+                    
+                <a href="/media-vault#369"><div class="">369</div><span class="mv-img"><img src="/uploads/MediaItemModel/34553/image/metallica-video-web.media-vault-small.jpg" alt="" /></span><span>THROUGH THE NEVER - EXCLUSIVE CLIP</span></a>            </div>
+            </div>
+</div>
+</span></li>
+</ul>
+</li>
+<li class=" menu-item-19 "><a class=" menu-item-link-19 " href="/calendar">Calendar</a></li>
+<li class=" menu-item-30 "><a class=" menu-item-link-30 " href="/fan-zone">Fan Zone</a></li>
+<li class=" menu-item-11 "><a class=" menu-item-link-11 " href="/agt">AGT</a></li>
+</ul></div>            </div>
+        </div>
+    </div>
+
+        <div class="frame wide-col container clearfix">
+
+            <div class="center-col-top">
+                                            </div>
+
+            <div class="layout-column left-wide-col">
+                <div class="inner">
+                    <div class="widget container " id="containerwidget_38"><div class="widget accordionslider " id="accordionsliderwidget_14"><ul class="slider" >
+
+        <li id="34375" class="slide-item">
+        <h2><span><em></em><img src="/uploads/MediaItemModel/34375/image/beth-calendar-front-page-3.slider-crop.jpg" /></span></h2>
+        <div>
+            <img src="/uploads/MediaItemModel/34375/image/beth-calendar-front-page-3.slider.jpg" />
+            <div class="content cta-red">
+                <h3>We Need Your Help!</h3>
+                The 2014 Calendar is here, photographed by Howard! Proceeds go to North Shore Animal League to save the animals                <br />
+                <a href="http://www.animalleague.org/events-news/celebrity-supporters/beth/2014-calendar.html" class="slider-more-bt cta-red-link" style=""><span style="">READ MORE &gt;</span></a>
+            </div>
+        </div>
+    </li>
+        <li id="34735" class="slide-item">
+        <h2><span><em></em><img src="/uploads/MediaItemModel/34735/image/front-page-breaking-bad-special.slider-crop.jpg" /></span></h2>
+        <div>
+            <img src="/uploads/MediaItemModel/34735/image/front-page-breaking-bad-special.slider.jpg" />
+            <div class="content cta-red">
+                <h3>GEEKTIME: Breaking Bad Special</h3>
+                Ralph Cirella, Jon Hein and Chris Gore recap the Breaking Bad finale and celebrate the series (Mon 7p EST on H101)                <br />
+                <a href="/howard-on-air/other-show/geektime" class="slider-more-bt cta-red-link" style=""><span style="">READ MORE &gt;</span></a>
+            </div>
+        </div>
+    </li>
+        <li id="34731" class="slide-item">
+        <h2><span><em></em><img src="/uploads/MediaItemModel/34731/image/instagram-front-page60.slider-crop.jpg" /></span></h2>
+        <div>
+            <img src="/uploads/MediaItemModel/34731/image/instagram-front-page60.slider.jpg" />
+            <div class="content cta-red">
+                <h3>Sternshow on Instagram</h3>
+                Follow us on Instagram (@sternshow) or see our best pics here!                <br />
+                <a href="/media-vault#355" class="slider-more-bt cta-red-link" style=""><span style="">READ MORE &gt;</span></a>
+            </div>
+        </div>
+    </li>
+        <li id="34737" class="slide-item">
+        <h2><span><em></em><img src="/uploads/MediaItemModel/34737/image/front-page-single-page-view.slider-crop.jpg" /></span></h2>
+        <div>
+            <img src="/uploads/MediaItemModel/34737/image/front-page-single-page-view.slider.jpg" />
+            <div class="content cta-red">
+                <h3>View the Rundown on One Page!</h3>
+                You asked for it, we listened.  View the rundown on page here                <br />
+                <a href="/howard-on-air/howard-100-101/2013-09-25" class="slider-more-bt cta-red-link" style=""><span style="">READ MORE &gt;</span></a>
+            </div>
+        </div>
+    </li>
+        <li id="34709" class="slide-item">
+        <h2><span><em></em><img src="/uploads/MediaItemModel/34709/image/ff2-09-24-13-joseph-gordon-levitt-smilling-on-air-wide-shot.slider-crop.jpg" /></span></h2>
+        <div>
+            <img src="/uploads/MediaItemModel/34709/image/ff2-09-24-13-joseph-gordon-levitt-smilling-on-air-wide-shot.slider.jpg" />
+            <div class="content cta-red">
+                <h3>"No one can conduct an interview like Howard Stern..."</h3>
+                Joseph Gordon-Levitt Opens Up About Drugs and His Secret Girlfriend                <br />
+                <a href="http://omg.yahoo.com/blogs/celeb-news/joseph-gordon-levitt-opens-drugs-secret-girlfriend-004514465.html" class="slider-more-bt cta-red-link" style=""><span style="">READ MORE &gt;</span></a>
+            </div>
+        </div>
+    </li>
+    </ul>
+
+<div style="clear:both"></div>
+</div><div class="widget latestnews home_news" id="latestnewswidget_71"><ul>
+    <li class="latestnews-row"><div class="lr-date">Friday, September 27, 2013</div><h4 class="lr-title"><a title="All of Friday&#039;s H100 News Stories" href="/news/all-of-fridays-h100-news-stories-16">All of Friday's H100 News Stories</a></h4></li></ul>
+
+</div></div>                </div>
+            </div>
+
+            <div class="layout-column right-col lr-col">
+                            </div>
+
+            <div class="center-col-bottom clearfix">
+                <div class="widget container home-bot-right" id="containerwidget_40"><div class="widget thisday " id="thisdaywidget_34"><div class="title">This day <span>in Howard History</span></div><div class="inner"><div class="thisday-wrap"><img src="/uploads/MediaItemModel/34717/image/04-11-05-donald-trump43.thisday.jpg" alt="" /><div class="thisday-title"><div class="thisday-date">Monday, September 30, 1985</div><h4>Fired! (from WNBC)</h4></div></div><div class="content"><span>(Pictured, the king of firing people, Donald Trump)
+
+On this date in 1985, in an episode that would turn out to be one of the best things that would ever happen to his career, Howard was fired by WNBC.
+ 
+The crew came in on Friday - during a huge storm that trapped the WNBC executives in thei...<a href="/timeline#fired-from-wnbc">More</a></span></div><a class="ar-link" href="/timeline">View Howard Timeline</a></div></div><div class="widget featuredvideo " id="featuredvideowidget_46"><div class="title">Featured <span>Video</span></div><div class="outer"><div class="inner"><div class="imageViewer " style="width: 230px"><div class="title"></div> <div>
+    <div>
+        <iframe width="230" height="153" src="http://www.youtube.com/embed/nusA2PUsppc?wmode=transparenteature=youtu.be" frameborder="0" allowfullscreen></iframe>    </div>
+    <div>
+        James Caan talks about roles he turned down and criticizes Harrison Ford<br />
+    </div>
+</div>
+ </div><a class="ar-link" href="/media-vault">Enter Media Vault</a></div></div></div><div class="widget testimonials " id="testimonialswidget_36"><ul><li>
+        <div class="t-img">
+        <a href="/profiles/jeff-probst"><img src="/uploads/ProfileModel/93/profileImage/05-13-08-celebrity-superfan-trivia-jeff-probst-laughing.quote.jpg" alt="" /></a><a class="t-profile-lnk ir" href="/profiles/jeff-probst">View Profile</a>    </div>
+        <div class="t-content">
+        <div class="t-text"><p class="p1">There is one thing you want and that one thing is Howard&rsquo;s approval.</p></div>
+        <div class="t-author">Jeff Probst</div>
+    </div>
+</li></ul></div></div><div class="widget clienttwitter " id="clienttwitterwidget_35">    <div id="yw0" class="yiiTab">
+<ul class="tabs">
+<li><a href="#howardstern" class="active">howardstern</a></li>
+<li><a href="#sternshow">sternshow</a></li>
+<li><a href="#howardtv">howardtv</a></li>
+</ul>
+<div class="view" id="howardstern">
+<div id="clienttwitterwidget_35-howardstern-jTweetsAnywhere"><div class="wmdl.web.ZWidget" id="twitterwidget_"><div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardstern" target="blank"><img src="http://a0.twimg.com/profile_images/2287841800/jh6ynplhzamh899jot8e_normal.jpeg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardstern" target="blank">howardstern</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        Wood seems to be winning rt @CollinTaylorInc: @HowardStern the middle wood one looks cool... Get him that”        <span class="tweet-posted">Sep 29, 2013 2:19:14 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardstern" target="blank"><img src="http://a0.twimg.com/profile_images/2287841800/jh6ynplhzamh899jot8e_normal.jpeg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardstern" target="blank">howardstern</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        Out shopping for jd's bday gift?  Do u think he wants the metal or wood?  R they too big ? <a href="http://t.co/FzFUALcAAR" target="blank">t.co/FzFUALcAAR</a>        <span class="tweet-posted">Sep 29, 2013 2:15:58 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardstern" target="blank"><img src="http://a0.twimg.com/profile_images/2287841800/jh6ynplhzamh899jot8e_normal.jpeg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardstern" target="blank">howardstern</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        RT @dorkytexasmom: I guess it's nearly official according to Alex Jones!  Ventura/Stern 2016! @HowardStern <a href="http://t.co/OWw7jZYJ1C" target="blank">t.co/OWw7jZYJ1C</a>        <span class="tweet-posted">Sep 29, 2013 9:18:22 AM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardstern" target="blank"><img src="http://a0.twimg.com/profile_images/2287841800/jh6ynplhzamh899jot8e_normal.jpeg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardstern" target="blank">howardstern</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        “Yes I did rt @DD0UGLAS: @BethStern did @HowardStern shoot that pic?”        <span class="tweet-posted">Sep 28, 2013 9:47:37 PM</span>
+    </div>
+</div>
+</div></div><a target="_blank" href="https://twitter.com/howardstern" class="ar-link" onClick="_gaq.push(['_trackEvent', 'General', 'Follow @HowardStern',,, false]);">Follow <span>@</span>howardstern on twitter</a></div><!-- howardstern -->
+<div class="view" id="sternshow" style="display:none">
+<div id="clienttwitterwidget_35-sternshow-jTweetsAnywhere"><div class="wmdl.web.ZWidget" id="twitterwidget_"><div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/sternshow" target="blank"><img src="http://a0.twimg.com/profile_images/130656436/twittwe_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/sternshow" target="blank">sternshow</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        Fun times! Kirstie Alley Threatens To ‘Retaliate’ Against Leah Remini &amp; Other Scientology Critics: <a href="http://t.co/F9jGRv8QXk" target="blank">t.co/F9jGRv8QXk</a>        <span class="tweet-posted">Sep 30, 2013 1:00:05 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/sternshow" target="blank"><img src="http://a0.twimg.com/profile_images/130656436/twittwe_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/sternshow" target="blank">sternshow</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        Wolfie attended the National Spoon Convention in Kansas City to learn more about jdharmeyer's passion… <a href="http://t.co/XLH0ewMm5v" target="blank">t.co/XLH0ewMm5v</a>        <span class="tweet-posted">Sep 30, 2013 12:05:15 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/sternshow" target="blank"><img src="http://a0.twimg.com/profile_images/130656436/twittwe_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/sternshow" target="blank">sternshow</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        Today on #H101 it's Leiberman Live at 5 at 5p EST, a special GEEKTIME: Breaking Bad Finale Special at 7p &amp; the @GregFitzShow at 10p        <span class="tweet-posted">Sep 30, 2013 12:00:04 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/sternshow" target="blank"><img src="http://a0.twimg.com/profile_images/130656436/twittwe_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/sternshow" target="blank">sternshow</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        RT @howardtv: On the @SternShow @HowardStern praises the @BreakingBad_AMC finale &amp; #MarktheBagger promotes his new cologne #Bagger7 http://…        <span class="tweet-posted">Sep 30, 2013 11:59:16 AM</span>
+    </div>
+</div>
+</div></div><a target="_blank" href="https://twitter.com/sternshow" class="ar-link" onClick="_gaq.push(['_trackEvent', 'General', 'Follow @SternShow',,, false]);">Follow <span>@</span>sternshow on twitter</a></div><!-- sternshow -->
+<div class="view" id="howardtv" style="display:none">
+<div id="clienttwitterwidget_35-howardtv-jTweetsAnywhere"><div class="wmdl.web.ZWidget" id="twitterwidget_"><div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardtv" target="blank"><img src="http://a0.twimg.com/profile_images/626877421/htv_youtube_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardtv" target="blank">howardtv</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        On the @SternShow @HowardStern praises the @BreakingBad_AMC finale &amp; #MarktheBagger promotes his new cologne #Bagger7 <a href="http://t.co/YIMA6MSHoE" target="blank">t.co/YIMA6MSHoE</a>        <span class="tweet-posted">Sep 30, 2013 11:57:29 AM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardtv" target="blank"><img src="http://a0.twimg.com/profile_images/626877421/htv_youtube_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardtv" target="blank">howardtv</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        On the @SternShow @HowardStern talks to @MrJerryOC about pleasuring himself on the set of @WeAreMenCBS #H100 #H101 <a href="http://t.co/9q6Bl5ZldK" target="blank">t.co/9q6Bl5ZldK</a>        <span class="tweet-posted">Sep 30, 2013 10:42:24 AM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardtv" target="blank"><img src="http://a0.twimg.com/profile_images/626877421/htv_youtube_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardtv" target="blank">howardtv</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        On the @sternshow @realmikefox talks to @HowardStern about #Parkinsons; his career &amp; new #TheMichaelJFoxShow on @NBC <a href="http://t.co/uYPqUixgFZ" target="blank">t.co/uYPqUixgFZ</a>        <span class="tweet-posted">Sep 25, 2013 2:47:16 PM</span>
+    </div>
+</div>
+<div class="tweet">
+    <div class="tweet-userpic"><a href="http://twitter.com/#!/howardtv" target="blank"><img src="http://a0.twimg.com/profile_images/626877421/htv_youtube_normal.jpg" alt="" /></a></div>
+    <div class="tweet-text">
+        <div class="tweet-head">
+            <span class="tweet-twitter-name"><a href="http://twitter.com/#!/howardtv" target="blank">howardtv</a></span>
+<!--            <span class="tweet-username">--><!--</span>-->
+        </div>
+        On the @SternShow @FloydMayweather  talks w/@HowardStern about being beaten as a kid; his sex-life &amp; retirement plans <a href="http://t.co/3Bc0NGJfen" target="blank">t.co/3Bc0NGJfen</a>        <span class="tweet-posted">Sep 25, 2013 11:53:29 AM</span>
+    </div>
+</div>
+</div></div><a target="_blank" href="https://twitter.com/howardtv" class="ar-link" onClick="_gaq.push(['_trackEvent', 'General', 'Follow @HowardTV',,, false]);">Follow <span>@</span>howardtv on twitter</a></div><!-- howardtv -->
+</div>
+
+</div><div class="widget container flex-banner" id="containerwidget_81"></div>            </div>
+
+        </div>
+
+<div class="footer frame clearfix">
+
+    <div class="footer-top"><div class="widget container " id="containerwidget_51"><div class="widget simplemenu " id="simplemenuwidget_19"><ul id="yw1">
+<li class="menu-item-35 "><a target="_self" href="/howard-on-air/howard-100-101/latest">Today’s Show</a></li>
+<li class="menu-item-32 "><a href="/howard-on-air/howard-100-101">H100 / H101</a></li>
+<li class="menu-item-24 "><a href="/profiles">Profiles</a></li>
+<li class="menu-item-28 "><a href="/media-vault">Media Vault</a></li>
+<li class="menu-item-19 "><a href="/calendar">Calendar</a></li>
+</ul></div><div class="widget simplemenu " id="simplemenuwidget_52"><ul id="yw2">
+<li class="menu-item-27 "><a href="/news">News</a></li>
+<li class="menu-item-34 "><a href="/timeline">Timeline</a></li>
+<li class="menu-item-30 "><a href="/fan-zone">Fan Zone</a></li>
+<li class="menu-item-11 "><a href="/agt">AGT</a></li>
+<li class="menu-item-33 "><a href="/send-us-your-feedback">Send Us Your Feedback</a></li>
+</ul></div></div></div>
+
+    <div class="footer-mid clearfix">
+        <div class="footer-left"><div id="customhtmlwidget_20" class="widget customhtml footer-follow"><div><span class="ico ir ico-howard100">howard100</span><span class="ico ir ico-howard101">howard101</span></div>
+<div>Follow howard on twitter <a href="https://twitter.com/@howardstern" target="_blank">@howardstern</a></div></div></div>
+        <div class="footer-right"><div class="widget subscriptionbox " id="subscriptionboxwidget_21">
+<form action="/" method="post"><label for="SubscriptionBoxWidget_subscriptionboxwidget_21[email]">Sign up for Howard Stern updates</label>    <div class="widget-row">
+        <input placeholder="Enter Your Email" type="text" name="SubscriptionBoxWidget_subscriptionboxwidget_21[email]" id="SubscriptionBoxWidget_subscriptionboxwidget_21_email" />    </div>
+
+    <div class="widget-row f-button">
+        <input type="submit" name="yt1" value="Subscribe" />    </div>
+</form>
+</div></div>
+    </div>
+    <div class="footer-bottom"><div id="customhtmlwidget_17" class="widget customhtml cp"><p class="copyright fl-l">Copyright &copy; 2013 The Howard Stern Production Company, Inc. All Rights Reserved.</p>
+<p class="policy fl-r"><a href="/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms-of-service">Terms &amp; Conditions</a></p></div></div>
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+var slider_featuredVideo=$('ul#featuredVideo.gallery-slider').bxSlider({'pager':false,'controls':false,'slideWidth':'230px'});
+jQuery(function($) {
+$("input").placeholder();
+
+    $(".jqAdvancedSearch").click(function() {
+      $(".jqAdvancedSearchBox").slideToggle("medium", function() {
+      });
+    });
+
+$("#advancedmenuwidget_1_Menu").superfish();
+$('body').undelegate('.crop-link', 'click').delegate('.crop-link', 'click', function(event){return showCrop(event, '/publicWidget/accordion.showCrop');});
+cropActionUrl = "/publicWidget/accordion.crop";
+$('body').undelegate('.crop-link', 'click').delegate('.crop-link', 'click', function(event){return showCrop(event, '/publicWidget/accordion.showCrop');});
+cropActionUrl = "/publicWidget/accordion.crop";
+hps=$("#accordionsliderwidget_14").liteAccordion({'autoPlay':true,'pauseOnHover':true,'cycleSpeed':6000,'slideSpeed':1200,'headerWidth':50,'containerWidth':980,'containerHeight':350});
+jQuery("#yw0").yiitab();
+$('a.contestBanner').fancybox({'hideOnContentClick':true,'type':'ajax','titleShow':false,'autoSize':false,'width':460,'height':500})
+});
+/*]]>*/
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/7765.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+
+
+</script>
+</body></html>
