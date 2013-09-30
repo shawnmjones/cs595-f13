@@ -26,6 +26,8 @@ for line in `cat ${input}`; do
     echo "${line}    ${sha}" >> ${listfile}
 
     outfileraw="${sha}.raw"
+
+    # curl appears to be where we can expect failure, so manage it
     set +e
     curl -A "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)" "${line}" >> "${workingdir}/${outfileraw}"
     status=$?
@@ -34,6 +36,7 @@ for line in `cat ${input}`; do
         echo ${line} >> ${failedfile}
         echo ${line} failed to work, moving on
     fi
+    set -e
 
     outfileproc="${sha}.processed"
     lynx -dump -force_html "${workingdir}/${outfileraw}" >> "${workingdir}/${outfileproc}"
