@@ -2,6 +2,7 @@
 \usepackage{graphicx}
 \usepackage{listings}
 \usepackage[super]{nth}
+\usepackage[hyphens]{url}
 
 \lstset{
 	basicstyle=\footnotesize,
@@ -68,6 +69,39 @@ for each URI (i.e., raw HTML and processed).
 \newpage
 \subsection*{Answer}
 
+Downloading the URIs was done relatively easily using the script shown in Listing \ref{lst:q1script}.
+
+The script is run like so:
+\begin{lstlisting}[frame=single]
+./downloadURIs.sh urilist-final.txt shalist-final.txt collection failedfile.txt
+\end{lstlisting}
+
+The arguments to the script are:
+\begin{enumerate}
+\item file containing URIs, one per line (\verb+urilist-final.txt+)
+\item file used to associate SHA-1 hashes with each URI, written to as each URI is processed, with the SHA-1 hashes being part of the filenames of the downloaded representations of each URI (\verb+shalist-final.txt+)
+\item directory name to store the downloaded representations (\verb+collection+)
+\item file used to store URIs that fail to download (\verb+failedfile.txt+)
+\end{enumerate}
+
+Once the script is run, the directory used in the third argument (\verb+collection+) contains filenames, such as \verb+f8017e9dd34d714681d55693689736d5d3f56021.raw+ and \verb+f8017e9dd34d714681d55693689736d5d3f56021.processed+.  Files with a \verb+.raw+ extension contain the raw representation downloaded on line 32.  Files containing a \verb+.processed+ contain the representation stripped of any HTML, done on line 42.
+
+The file used in the second argument (\verb+shalist-final.txt+) is used to associate these filenames to URIs (e.g. \verb+f8017e9dd34d714681d55693689736d5d3f56021+ corresponds to \verb+http://www.cnn.com/2013/07/19/politics/obama-zimmerman/+).
+
+The \verb+set -e+ on line 4 causes the script to exit at the first sign of trouble.  This is a simple error-handling mechanism to place in Bourne shell scripts.
+
+Unfortunately, the curl call on line 32 produced the following errors for several URIs:
+\begin{itemize}
+\item \verb+curl: (7) couldn't connect to host+
+\item \verb+curl: (18) transfer closed with outstanding read data remaining+
+\item \verb+curl: (52) Empty reply from server+
+\end{itemize}
+
+This is why lines 35-38 exist.  Line 31 undoes the error-handling mechanism so we can deal with the failed status on lines 33 and 35.  Any URI that fails to download the first time is stored in a \emph{failed file} (the fourth argument) which can then be fed through the script again, as the first argument, to (hopefully) successfully download the representations at a later time.  Fortunately, only one re-run was required.
+
+\newpage
+\lstinputlisting[language=bash, frame=single, caption={Bourne-Again Shell Program for downloading URIs from Assignment 2}, label=lst:q1script, captionpos=b, numbers=left, showspaces=false, showstringspaces=false, basicstyle=\footnotesize]{q1/downloadURIs.sh}
+
 \newpage
 \section*{2}
 
@@ -112,6 +146,48 @@ digits!
 
 \newpage
 \subsection*{Answer}
+
+Searching for the term \emph{football} yielded quite a few results.  This was done with the following command:
+
+\begin{lstlisting}[frame=single]
+grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10
+\end{lstlisting}
+
+The top ten in term frequency were chosen for this exercise.
+
+\begin{table}
+\begin{tabular}{ | l | l | l | p{8.0cm} | }
+\hline
+\textbf{TFIDF} & \textbf{TF} & \textbf{IDF} & \textbf{URI} \\
+\hline
+0 & 0 & 0 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+0 & 0 & 0 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+\hline
+0 & 0 & 0 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+0 & 0 & 0 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+\hline
+0 & 0 & 0 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
+\hline
+0 & 0 & 0 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+\hline
+0 & 0 & 0 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+\hline
+0 & 0 & 0 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+\hline
+0 & 0 & 0 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
+\hline
+0 & 0 & 0 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+\hline
+\end{tabular}
+\caption{Table of URIs, TF, IDF and TF*IDF containing the word \emph{football}}
+\label{table:q2}
+\end{table}
+
+\begin{verbatim}
+
+\end{verbatim}
 
 \newpage
 \section*{3}
