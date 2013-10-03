@@ -3,6 +3,8 @@
 \usepackage{listings}
 \usepackage[super]{nth}
 \usepackage[hyphens]{url}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
 
 \lstset{
 	basicstyle=\footnotesize,
@@ -147,47 +149,145 @@ digits!
 \newpage
 \subsection*{Answer}
 
-Searching for the term \emph{football} yielded quite a few results.  This was done with the following command:
+Searching for the term \emph{football} yielded quite a few results.  This was done with the following command, which also selects out the top 10 for use in this exercise.
 
 \begin{lstlisting}[frame=single]
 grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10
 \end{lstlisting}
 
-The top ten in term frequency were chosen for this exercise.
+Which returned:
+\begin{lstlisting}[frame=single]
+  19 87c993bbce1bd82db37cecc698c699e868d83fda.processed
+  14 c60fdff864fe97d0a9072bae75dbac742b8e5ef4.processed
+  10 9b4a0e8f58cac8c079780008762851aff600b8e7.processed
+   8 5778ff1e943bcffb35088d5356e018fe91e6b348.processed
+   7 9495c088454cb1f1e0dd8578a851daf9fda109a4.processed
+   6 ebf64bd74b9b4d76e9eb1914943966291a3f6f80.processed
+   6 e563ce7cf28c6844fd0bd962871530ec3d4ea1c6.processed
+   6 4dcb9dc20543b9b0936ad8a29ce9dacccbc782b2.processed
+   6 49c3c4171caf2902b5450b5c4e80c8dc4eb0073c.processed
+   5 e2ab060d02ca13e0ddc8e5c30a732390045c039b.processed
+\end{lstlisting}
+
+This gives us raw term frequency for these files, but doesn't give us the word count so we can normalize it.  To get the word count for the calculation, I did the following:
+\begin{lstlisting}[frame=single]
+for i in `grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10 | awk '{ print $2 }'`; do wc -w $i ; done
+\end{lstlisting}
+
+Which returned:
+\begin{lstlisting}[frame=single]
+    7339 87c993bbce1bd82db37cecc698c699e868d83fda.processed
+    5634 c60fdff864fe97d0a9072bae75dbac742b8e5ef4.processed
+   39130 9b4a0e8f58cac8c079780008762851aff600b8e7.processed
+    3810 5778ff1e943bcffb35088d5356e018fe91e6b348.processed
+     910 9495c088454cb1f1e0dd8578a851daf9fda109a4.processed
+    3866 ebf64bd74b9b4d76e9eb1914943966291a3f6f80.processed
+    2229 e563ce7cf28c6844fd0bd962871530ec3d4ea1c6.processed
+    3109 4dcb9dc20543b9b0936ad8a29ce9dacccbc782b2.processed
+    1922 49c3c4171caf2902b5450b5c4e80c8dc4eb0073c.processed
+    3394 e2ab060d02ca13e0ddc8e5c30a732390045c039b.processed
+\end{lstlisting}
+
+Another step is necessary to get the URIs:
+\begin{lstlisting}[frame=single]
+for i in `grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10 | awk '{ print $2 }' | sed 's/.processed//g'`; do grep $i ../shalist-final.txt ; done
+\end{lstlisting}
+
+And normalized TF is calculated for each URI like so:
+\[
+TF(football) = TF_{raw}(football)/occurrences(football)
+\]
+
+Which returns the following:
+\begin{lstlisting}[frame=single]
+http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29    87c993bbce1bd82db37cecc698c699e868d83fda
+http://gif.mocksession.com/2013/02/rubio-is-thirsty/    c60fdff864fe97d0a9072bae75dbac742b8e5ef4
+http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29    9b4a0e8f58cac8c079780008762851aff600b8e7
+http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507    5778ff1e943bcffb35088d5356e018fe91e6b348
+http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3    9495c088454cb1f1e0dd8578a851daf9fda109a4
+http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html    ebf64bd74b9b4d76e9eb1914943966291a3f6f80
+http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season    e563ce7cf28c6844fd0bd962871530ec3d4ea1c6
+http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor    4dcb9dc20543b9b0936ad8a29ce9dacccbc782b2
+http://folksdresseduplikeeskimos.tumblr.com/    49c3c4171caf2902b5450b5c4e80c8dc4eb0073c
+http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing    e2ab060d02ca13e0ddc8e5c30a732390045c039b
+\end{lstlisting}
+
+As the SHA-1 sums are the keys to join between these three outputs, the calculation of Term Frequency can be done easily by hand (because we only have 10 items), but where's the fun in that?  
+
+\newpage
+Because of the sort done on the items, they stay in order, meaning we don't need the keys to have Unix do the normalized TF calculations.
+
+\begin{lstlisting}[frame=single]
+export i=0
+for item in `grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10 | awk '{ print $1 }'`; do rawtf[$i]=$item; i=`expr $i + 1`; done
+
+export i=0
+for item in `grep -i football *.processed | awk -F: '{ print $1 }' | sort | uniq -c | sort -rn | head -n 10 | awk '{ print $2 }'`; do occur[$i]=`wc -w $item | awk '{ print $1 }'` i=`expr $i + 1`; done
+
+for i in `seq 0 9`; do echo "scale=5; ${rawtf[$i]} / ${occur[$i]}" | bc -l; done
+\end{lstlisting}
+
+Which yields:
+\begin{lstlisting}[frame=single]
+.00258
+.00248
+.00025
+.00209
+.00769
+.00155
+.00269
+.00192
+.00312
+.00147
+\end{lstlisting}
+
+According to de Kunder, Google has currently indexed slightly more than $46,000,000,000$ web pages\cite{worldwidewebsize}.
+
+Google gives $1,230,000,000$ results for the word \emph{football}.
+
+This gives an inverse document frequency of (using significant digits rules for logarithms \cite{euler}):
+\[
+\log_2 \left( \frac{46,00\bcancel{0,000,000}}{1,23\bcancel{0,000,000}} \right) = \log_2 \left( \frac{4600}{123} \right) = \log_2 ( 37.4 ) =  5.225
+\]
+
+The final piece of the puzzle is to calculate TFIDF, which is merely the multiplication of the normalized term frequencies for each page with the inverse document frequency calculated above.
+
+Again, done with the help of our handy friends in Unix:
+\begin{lstlisting}[frame=single]
+for i in `seq 0 9`; do echo "scale=5; ${rawtf[$i]} / ${occur[$i]} * 5.225" | bc -l; done
+\end{lstlisting}
+
+Table \ref{table:q2} displays the results.
 
 \begin{table}
 \begin{tabular}{ | l | l | l | p{8.0cm} | }
 \hline
 \textbf{TFIDF} & \textbf{TF} & \textbf{IDF} & \textbf{URI} \\
 \hline
-0 & 0 & 0 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+0.135 & 0.00258 & 5.225 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
 \hline
-0 & 0 & 0 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+0.0130 & 0.00248 & 5.225 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
 \hline
-0 & 0 & 0 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+0.0013 & 0.00025 & 5.225 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
 \hline
-0 & 0 & 0 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+0.0109 & 0.00209 & 5.225 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
 \hline
-0 & 0 & 0 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
+0.0402 & 0.00769 & 5.225 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
 \hline
-0 & 0 & 0 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+0.0081 & 0.00155 & 5.225 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
 \hline
-0 & 0 & 0 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+0.0141 & 0.00269 & 5.225 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
 \hline
-0 & 0 & 0 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+0.0100 & 0.00192 & 5.225 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
 \hline
-0 & 0 & 0 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
+0.0163 & 0.00312 & 5.225 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
 \hline
-0 & 0 & 0 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+0.0077 & 0.00147 & 5.225 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
 \hline
 \end{tabular}
 \caption{Table of URIs, TF, IDF and TF*IDF containing the word \emph{football}}
 \label{table:q2}
 \end{table}
-
-\begin{verbatim}
-
-\end{verbatim}
 
 \newpage
 \section*{3}
@@ -246,5 +346,9 @@ http://en.wikipedia.org/wiki/Correlation_and_dependence
 
 \newpage
 \subsection*{Answer}
+
+\newpage
+\bibliographystyle{acm}
+\bibliography{references}
 
 \end{document}
