@@ -264,25 +264,25 @@ Table \ref{table:q2} displays the results.
 \hline
 \textbf{TFIDF} & \textbf{TF} & \textbf{IDF} & \textbf{URI} \\
 \hline
-0.135 & 0.00258 & 5.225 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
-\hline
-0.0130 & 0.00248 & 5.225 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
-\hline
-0.0013 & 0.00025 & 5.225 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
-\hline
-0.0109 & 0.00209 & 5.225 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
-\hline
 0.0402 & 0.00769 & 5.225 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
-\hline
-0.0081 & 0.00155 & 5.225 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
-\hline
-0.0141 & 0.00269 & 5.225 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
-\hline
-0.0100 & 0.00192 & 5.225 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
 \hline
 0.0163 & 0.00312 & 5.225 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
 \hline
+0.0141 & 0.00269 & 5.225 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+\hline
+0.0135 & 0.00258 & 5.225 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+0.0130 & 0.00248 & 5.225 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+\hline
+0.0109 & 0.00209 & 5.225 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+\hline
+0.0100 & 0.00192 & 5.225 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+\hline
+0.0081 & 0.00155 & 5.225 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+\hline
 0.0077 & 0.00147 & 5.225 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+\hline
+0.0013 & 0.00025 & 5.225 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
 \hline
 \end{tabular}
 \caption{Table of URIs, TF, IDF and TF*IDF containing the word \emph{football}}
@@ -324,6 +324,34 @@ and 3.
 \newpage
 \subsection*{Answer}
 
+Using the URIs acquired from Question 2, I put each into one of the suggested Page Rank calculators.  The results are shown in Table \ref{table:q3}.
+
+Unsurprisingly, SEO Central and PR Checker actually find the same value for the PageRank, whereas CheckPageRank provides a different answer altogether.  This is because CheckPageRank doesn't actually give the PageRank for a given URI, it gives the PageRank for the base URI of a site.
+
+For example, the URI \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} has a PageRank of $3/10$ on the other services, but $7/10$ with CheckPageRank.  Even though this URI is used for input on that site, the output states \verb+Google Pagerank for: freep.com  7/10+, which, when \url{http://freep.com} is put into one of the other services, gives a PageRank of +7/10+.
+
+So, this discounts CheckPageRank as a good source for calculating PageRank on a given URI.
+
+Table \ref{table:q3-2} shows the PageRank values for the given URIs, normalized with \emph{Not available} replaced with a value of $0.0$.  For comparison, Table \ref{table:q3-3} contains the PageRank and TF*IDF values.
+
+For this set of pages, there doesn't seem to be a whole lot of correlation between PageRank and TF*IDF.  The page with the highest TF*IDF of $0.0402$ has a PageRank of $0.0$ and the page with the lowest TF*IDF of $0.0130$ has a PageRank of $0.1$.
+
+To contrast, Google's Number 1 link for the term \emph{football} is \url{http://www.nfl.com/} which has a PageRank of $0.7$.
+
+Downloading the page and processing it, like in Question 1:
+\begin{lstlisting}[frame=single]
+curl -A "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)" http://www.nfl.com > www.nfl.com.raw
+lynx -dump -force_html www.nfl.com.raw > www.nfl.com.processed
+\end{lstlisting}
+
+and calculating TF*IDF
+\begin{lstlisting}[frame=single]
+echo "(`grep football www.nfl.com.processed | wc -l` / `wc -w www.nfl.com.processed | awk '{ print $1 }'`) * 5.225" | bc -l
+\end{lstlisting}
+gives a TF*IDF of $0.0178$, which is still lower than the highest TF*IDF from Question 2.
+
+This likely comes from the concepts that PageRank lets people ``vote with their links'' and that pages about a topic often do not heavily repeat that topic as a word in the page, meaning that PageRank is much more useful a ranking system for the World Wide Web.
+
 \begin{table}
 \begin{tabular}{ | p{1.5cm} | p{1.5cm} | p{1.5cm} | p{8.0cm} | }
 \hline
@@ -350,8 +378,68 @@ and 3.
 7/10 & 3/10 & 3/10 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
 \hline
 \end{tabular}
-\caption{PageRank of URIs containing the word \emph{football}}
+\caption{PageRank of URIs containing the word \emph{football}, based on the CheckPageRank, SEO Central, and PR Checker Page Rank services}
 \label{table:q3}
+\end{table}
+
+\begin{table}
+\begin{tabular}{ | p{2.0cm} | p{8.0cm} | }
+\hline
+\textbf{PageRank} & \textbf{URI} \\
+\hline
+0.3 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
+\hline
+0.3 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+\hline
+0.2 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+\hline
+0.1 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+\hline 
+0.0 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+0.0 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
+\hline
+0.0 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+\hline
+0.0 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+\hline
+0.0 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+\hline
+0.0 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+\end{tabular}
+\caption{PageRank of URIs containing the word \emph{football}, based on the PR Checker Page Rank service, with \emph{Not available} replaced with $0$ and all other values normalized, sorted by decreasing PageRank}
+\label{table:q3-2}
+\end{table}
+
+\begin{table}
+\begin{tabular}{ | p{2.0cm} | p{2.0cm} | p{8.0cm} | }
+\hline
+\textbf{PageRank} & \textbf{TF*IDF} & \textbf{URI} \\
+\hline
+0.3 & 0.0163 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
+\hline
+0.3 & 0.0077 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+\hline
+0.2 & 0.0109 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+\hline
+0.1 & 0.0130 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+\hline 
+0.0 & 0.0013 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+0.0 & 0.0402 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
+\hline
+0.0 & 0.0081 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+\hline
+0.0 & 0.0141 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+\hline
+0.0 & 0.0100 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+\hline
+0.0 & 0.0135 & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+\end{tabular}
+\caption{PageRank of URIs containing the word \emph{football}, sorted by decreasing PageRank, compared to TF*IDF}
+\label{table:q3-2}
 \end{table}
 
 \newpage
