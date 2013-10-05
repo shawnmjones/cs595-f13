@@ -90,7 +90,7 @@ Once the script is run, the directory used in the third argument (\verb+collecti
 
 The file used in the second argument (\verb+shalist-final.txt+) is used to associate these filenames to URIs (e.g. \verb+f8017e9dd34d714681d55693689736d5d3f56021+ corresponds to \verb+http://www.cnn.com/2013/07/19/politics/obama-zimmerman/+).
 
-The \verb+set -e+ on line 4 causes the script to exit at the first sign of trouble.  This is a simple error-handling mechanism to place in Bourne shell scripts.
+The \verb+set -e+ on line 4 causes the script to exit at the first sign of trouble.  This is a simple error-handling mechanism for Bourne shell scripts.
 
 Unfortunately, the curl call on line 32 produced the following errors for several URIs:
 \begin{itemize}
@@ -285,7 +285,7 @@ Table \ref{table:q2} displays the results.
 0.0013 & 0.00025 & 5.225 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
 \hline
 \end{tabular}
-\caption{Table of URIs, TF, IDF and TF*IDF containing the word \emph{football}}
+\caption{Table of URIs, TF, IDF and TF*IDF containing the word \emph{football}, sorted by decreasing TF*IDF}
 \label{table:q2}
 \end{table}
 
@@ -328,7 +328,7 @@ Using the URIs acquired from Question 2, I put each into one of the suggested Pa
 
 Unsurprisingly, SEO Central and PR Checker actually find the same value for the PageRank, whereas CheckPageRank provides a different answer altogether.  This is because CheckPageRank doesn't actually give the PageRank for a given URI, it gives the PageRank for the base URI of a site.
 
-For example, the URI \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} has a PageRank of $3/10$ on the other services, but $7/10$ with CheckPageRank.  Even though this URI is used for input on that site, the output states \verb+Google Pagerank for: freep.com  7/10+, which, when \url{http://freep.com} is put into one of the other services, gives a PageRank of +7/10+.
+For example, the URI \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} has a PageRank of $3/10$ on the other services, but $7/10$ with CheckPageRank.  Even though this URI is used for input on that site, the output states \verb+Google Pagerank for: freep.com  7/10+, which, when \url{http://freep.com} is put into one of the other services, gives a PageRank of \verb+7/10+.
 
 So, this discounts CheckPageRank as a good source for calculating PageRank on a given URI.
 
@@ -439,7 +439,7 @@ This likely comes from the concepts that PageRank lets people ``vote with their 
 \hline
 \end{tabular}
 \caption{PageRank of URIs containing the word \emph{football}, sorted by decreasing PageRank, compared to TF*IDF}
-\label{table:q3-2}
+\label{table:q3-3}
 \end{table}
 
 \newpage
@@ -447,6 +447,7 @@ This likely comes from the concepts that PageRank lets people ``vote with their 
 
 \subsection*{Question}
 
+\fontsize{8pt}{8pt}\selectfont
 \begin{verbatim}
 ====================================================
 ======Question 4 is for 3 points extra credit=======
@@ -464,6 +465,8 @@ http://en.wikipedia.org/wiki/Correlation_and_dependence
 
 \newpage
 \subsection*{Answer}
+
+The answer to this question has not been attempted yet.
 
 \newpage
 \bibliographystyle{acm}
