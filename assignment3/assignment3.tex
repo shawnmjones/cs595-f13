@@ -538,6 +538,22 @@ From before $n_c = 21$ and $n_d = 24$, so the $Z$-score is
 z_B = \frac{21 - 24}{\sqrt{96}} \approx \frac{-3}{9.8} = -0.3
 \end{align*}
 
+At this point, I realized that the Web contained a conflicting array of calculators and information on acquiring a $p$-value from a $Z$-score.
+
+So, I turned to R, \emph{which is what I should have started with in the first place}, to calculated the $p$-value\cite{ktRtut}.
+
+\begin{lstlisting}[frame=single]
+> 2*pnorm(-abs(-0.3))
+[1] 0.7641772
+\end{lstlisting}
+
+Which gives me
+\begin{align*}
+p = 0.76
+\end{align*}
+
+Seeing as $p \not\le 0.05$, the experiment indicates that the null hypothesis is true\cite{pwikipedia}, thus, from this data, there does not appear to be a correlation between PageRank and TF*IDF.
+
 \newpage
 \begin{table}
 \small
