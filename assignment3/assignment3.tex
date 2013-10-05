@@ -5,6 +5,8 @@
 \usepackage[hyphens]{url}
 \usepackage{amsmath}
 \usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
 
 \lstset{
 	basicstyle=\footnotesize,
@@ -447,6 +449,7 @@ This likely comes from the concepts that PageRank lets people ``vote with their 
 
 \subsection*{Question}
 
+\begingroup
 \fontsize{8pt}{8pt}\selectfont
 \begin{verbatim}
 ====================================================
@@ -462,11 +465,88 @@ http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls
 http://en.wikipedia.org/wiki/Kendall_tau_rank_correlation_coefficient#Tau-b
 http://en.wikipedia.org/wiki/Correlation_and_dependence
 \end{verbatim}
+\endgroup
 
 \newpage
 \subsection*{Answer}
 
-The answer to this question has not been attempted yet.
+To calculate Kendall's $\tau_B$, one uses the following equation\cite{ktaubwikipedia}:
+\[
+\tau_B = \frac{n_c - n_d}{\sqrt{(n_0 - n_1)(n_0 - n_2)}}
+\]
+where:
+\begin{align*}
+n_0 & = n(n-1)/2 \\
+n_1 & = \sum_i t_i (t_i - 1)/2 \\
+n_2 & = \sum_j u_j (u_j - 1)/2 \\
+n_c & = \textrm{Number of concordant pairs} \\
+n_d & = \textrm{Number of discordant pairs} \\
+t_i & = \textrm{Number of tied values in the $i^{th}$ group of ties for the first quantity} \\
+u_j & = \textrm{Number of tied values in the $j^{th}$ group of ties for the second quantity} \\
+\end{align*}
+
+The first step in calculating Kendall's Tau is to get the number of Concordant and Discordant pairs.  I had a difficult time understanding how to go about this.
+
+After some research, I came to understand that the variables used in Kendall's Tau are based on ranking, rather than the individual values themselves \cite{ktauyoutube1} \cite{ktauyoutube2} \cite{ktausr}.  Table \ref{table:q4-1} shows the rankings listed with concordant and discordant pairs counted in columns \textbf{C} and \textbf{D} respectively.
+
+\newpage
+\begin{table}
+\small
+\begin{tabular}{ | p{1.0cm} | p{1.0cm} | p{0.85cm} | p{0.85cm} | p{8.0cm} | }
+\hline
+\textbf{Page Rank Ranking} & \textbf{TF* IDF Ranking} & \textbf{C} & \textbf{D} & \textbf{URI} \\
+\hline
+1 & 2 & 8 & 1 & \url{http://folksdresseduplikeeskimos.tumblr.com/} \\
+\hline
+2 & 9 & 1 & 7 & \url{http://www.freep.com/article/20121205/NEWS15/121205082/Michigan-Rick-Snyder-emergency-manager-law-repeal-Lansing} \\
+\hline
+3 & 6 & 3 & 4 & \url{http://www.tampabay.com/news/politics/national/mitt-romney-is-republican-partys-nominee-but-not-the-standard-bearer/1248507} \\
+\hline
+4 & 5 & 3 & 3 & \url{http://gif.mocksession.com/2013/02/rubio-is-thirsty/} \\
+\hline 
+5 & 10 & 0 & 5 & \url{http://www.dailykos.com/story/2013/05/09/1207970/-Agreeing-with-McCain-on-Cable-bill?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+6 & 1 & 4 & 0 & \url{http://www.cnn.com/2013/04/23/justice/ohio-steubenville-coach/index.html?hpt=hp_t3} \\
+\hline
+7 & 8 & 0 & 3 & \url{http://host.madison.com/wsj/news/local/crime_and_courts/appeals-court-reverses-federal-judge-s-decision-upholds-collective-bargaining/article_c08d81f6-61a3-11e2-8ab7-001a4bcf887a.html} \\
+\hline
+8 & 3 & 2 & 0 & \url{http://bleacherreport.com/articles/1699257-major-league-baseball-suspends-ryan-braun-for-remainder-of-2013-season} \\
+\hline
+9 & 7 & 0 & 1 & \url{http://concord-nh.patch.com/groups/politics-and-elections/p/rep-s-sieg-heil-causes-furor} \\
+\hline
+10 & 4 & \cellcolor[gray]{0} & \cellcolor[gray]{0} & \url{http://www.dailykos.com/story/2013/06/18/1216969/-D-C-Football?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailykos%2Findex+%28Daily+Kos%29} \\
+\hline
+\hline
+\textbf{Totals} & \cellcolor[gray]{0} & 21 & 24 & \cellcolor[gray]{0} \\
+\hline
+\end{tabular}
+\caption{Ranking of URIs by PageRank and TF*IDF, with Concordant Pairs (\textbf{C}) and Discordant Pairs (\textbf{D}), for Kendall Tau calculations}
+\label{table:q4-1}
+\end{table}
+
+\begin{comment}
+\begin{table}
+\begin{tabular}{ p{1.0cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{1.0cm} }
+\hline
+\hline
+\textbf{TF*IDF Ranking} & & & & & & & & & & \\
+1 & & & & & & & & & & \\
+2 & & & & & & & & & & \\
+3 & & & & & & & & & & \\
+4 & & & & & & & & & & \\
+5 & & & & & & & & & & \\
+6 & & & & & & & & & & \\
+7 & & & & & & & & & & \\
+8 & & & & & & & & & & \\
+9 & & & & & & & & & & \\
+10 & & & & & & & & & & \\
+& 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & \textbf{PageRank Ranking} \\
+\hline
+\hline
+\end{tabular}
+\caption{Counting Concordant and Discordant Values for Kendall's Tau}
+\end{table}
+\end{comment}
 
 \newpage
 \bibliographystyle{acm}
