@@ -471,9 +471,9 @@ http://en.wikipedia.org/wiki/Correlation_and_dependence
 \subsection*{Answer}
 
 To calculate Kendall's $\tau_B$, one uses the following equation\cite{ktaubwikipedia}:
-\[
+\begin{align*}
 \tau_B = \frac{n_c - n_d}{\sqrt{(n_0 - n_1)(n_0 - n_2)}}
-\]
+\end{align*}
 where:
 \begin{align*}
 n_0 & = n(n-1)/2 \\
@@ -487,7 +487,56 @@ u_j & = \textrm{Number of tied values in the $j^{th}$ group of ties for the seco
 
 The first step in calculating Kendall's Tau is to get the number of Concordant and Discordant pairs.  I had a difficult time understanding how to go about this.
 
-After some research, I came to understand that the variables used in Kendall's Tau are based on ranking, rather than the individual values themselves \cite{ktauyoutube1} \cite{ktauyoutube2} \cite{ktausr}.  Table \ref{table:q4-1} shows the rankings listed with concordant and discordant pairs counted in columns \textbf{C} and \textbf{D} respectively.
+After some research, I came to understand that the variables used in Kendall's Tau are based on ranking, rather than the individual values themselves \cite{ktauyoutube1} \cite{ktauyoutube2} \cite{ktausr}.  Table \ref{table:q4-1} shows the rankings listed with concordant and discordant pairs counted in columns \textbf{C} and \textbf{D} respectively, giving us $n_c = 21$ and $n_d = 24$.
+
+This gets us the top part of the equation, but not the bottom.  For that we need the number of ties for each value.
+
+For PageRank, from Table \ref{table:q3-2} there were only ties on values $0.3$ and $0.0$, so the ties are $n_1 = \sum_i t_i (t_i - 1)/2 = t_{0.0}(t_{0.0} - 1)/2 + t_{0.3}(t_{0.3} - 1)/2 = 2(2 - 1)/2 + 6(6 - 1)/2 = 2(1)/2 + 6(5)/2 = 1 + 15 = 16$.  This sets $n_1 = 16$.
+
+The TF*IDF calculations had no ties, making $n_2 = 0$.
+
+The total number of ranked items is $10$, making $n = 10$, and $n_0 = 10(10 - 1)/2 = 90/2 = 45$.
+
+Therefore:
+\begin{align*}
+\tau_B = \frac{21 - 24}{\sqrt{(45 - 15)(45 - 0)}} = \frac{-3}{\sqrt{30 \times 45}} = -\approx \frac{-3}{37} = -0.08
+\end{align*}
+
+
+To get the $p-value$ we need to calculate the $Z$-score, which, for Kendall Tau $B$, is:
+\begin{align*}
+z_B = \frac{n_c - n_d}{\sqrt{v}}
+\end{align*}
+where
+\begin{align*}
+v &= \frac{(v_0 - v_t - v_u)}{18 + v_1 + v_2} \\
+v_0 &= n(n - 1)(2n + 5) \\
+v_t &= \sum_i t_i(t_i - 1)(2t_i + 5) \\
+v_u &= \sum_j u_j(u_j - 1)(2u_j + 5) \\
+v_1 &= \frac{\sum_i t_i(t_i - 1)\sum_j u_j(u_j - 1)}{(2n(n - 1))} \\
+v_2 &= \frac{\sum_i t_i(t_i - 1)(t_i - 2)\sum_j u_j(u_j - 1)(u_j - 2)}{9n(n - 1)(n - 2)} \\
+\end{align*}
+
+Wow!
+
+Well, we shall start from the bottom.
+
+As noted before, for PageRank, there $2$ ties on $0.3$ and $6$ on $0.0$, and $0$ ties for any TF*IDF values.
+
+This makes $v_2 = 0$ due to the fact that $\sum_j u_j(u_j - 1)(u_j - 2) = 0$ because there are no ties in TF*IDF values.
+
+This makes $v_1 = 0$ and $v_u = 0$ for the same reason.
+
+Seeing as we had ties in PageRank, $v_t = 2(2 - 1)(2(2) + 5) + 6(6 - 1)(2(6) + 5) = 2(1)(4+5) + 6(5)(12 + 5) = 2(9) + 30(17) = 18 + 510 = 528$, thus $v_t = 528$.
+
+There were $10$ items to compare, so $v_0 = 10(10 - 1)(2(10) + 5) = 10(9)(20 + 5) = (90)(25) = 2250$, thus $v_0 = 2250$.
+
+Now we have arrived at $v = \frac{(2250 - 528 - 0)}{18 + 0 + 0} = \frac{1722}{18} \approx 96$.
+
+From before $n_c = 21$ and $n_d = 24$, so the $Z$-score is
+\begin{align*}
+z_B = \frac{21 - 24}{\sqrt{96}} \approx \frac{-3}{9.8} = -0.3
+\end{align*}
 
 \newpage
 \begin{table}
@@ -524,31 +573,7 @@ After some research, I came to understand that the variables used in Kendall's T
 \label{table:q4-1}
 \end{table}
 
-\begin{comment}
-\begin{table}
-\begin{tabular}{ p{1.0cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{0.5cm} p{1.0cm} }
-\hline
-\hline
-\textbf{TF*IDF Ranking} & & & & & & & & & & \\
-1 & & & & & & & & & & \\
-2 & & & & & & & & & & \\
-3 & & & & & & & & & & \\
-4 & & & & & & & & & & \\
-5 & & & & & & & & & & \\
-6 & & & & & & & & & & \\
-7 & & & & & & & & & & \\
-8 & & & & & & & & & & \\
-9 & & & & & & & & & & \\
-10 & & & & & & & & & & \\
-& 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & \textbf{PageRank Ranking} \\
-\hline
-\hline
-\end{tabular}
-\caption{Counting Concordant and Discordant Values for Kendall's Tau}
-\end{table}
-\end{comment}
-
-\newpage
+\clearpage
 \bibliographystyle{acm}
 \bibliography{references}
 
