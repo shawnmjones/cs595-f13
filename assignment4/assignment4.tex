@@ -1,0 +1,162 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[super]{nth}
+\usepackage[hyphens]{url}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
+
+\lstset{
+	basicstyle=\footnotesize,
+	breaklines=true,
+}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+\Huge{Assignment 4}
+
+\Large{CS 595:  Introduction to Web Science}
+
+\Large{Fall 2013}
+
+\Large{Shawn M. Jones}
+
+\Large Finished on \today
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
+\section*{1}
+
+\subsection*{Question}
+
+\begin{verbatim}
+1.  From your list of 1000 links, choose 100 and extract all of the
+links from those 100 pages to other pages.  We're looking for user 
+navigable links, that is in the form of: 
+
+<A href="foo">bar</a>
+
+We're not looking for embedded images, scripts, <link> elements,
+etc.  You'll probably want to use BeautifulSoup for this.
+
+For each URI, create a text file of all of the outbound links from
+that page to other URIs (use any syntax that is easy for you).  For
+example:
+
+site: 
+http://www.cs.odu.edu/~mln/    
+links:
+http://www.cs.odu.edu/
+http://www.odu.edu/
+http://www.cs.odu.edu/~mln/research/
+http://www.cs.odu.edu/~mln/pubs/
+http://ws-dl.blogspot.com/
+http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html
+etc.
+
+Upload these 100 files to github (they don't have to be in your report).
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+To get the 100 links, I decided it was likely that \verb+cnn.com+ would likely link to itself a lot, so I typed the following command to extract 100 of those entries from my \verb+shalist-final.txt+ file from Assignment 3.
+\begin{lstlisting}[frame=single,basicstyle=\tiny]
+grep "cnn.com" shalist-final.txt | head -n 100 > pages-to-extract.txt
+\end{lstlisting}
+
+The program for extracting the links from the given list of pages is in Listing \ref{lst:q1code}.  It is executed as follows
+\begin{lstlisting}[frame=single,basicstyle=\tiny]
+./getLinks.py pages-to-extract.txt ../../assignment3/q1/collection linkFiles
+\end{lstlisting}
+
+The first argument is a file containing the list of URIs and SHA hashes.  The second argument is the directory to search through for the files with the name corresponding to the SHA hashes contained in the file from the first argument.  The last argument is the directory to write the link information out to.
+
+Once this is done, the \verb+linkFiles+ directory contains files like \newline \verb+f25db00c9aeb80bb92f465cd7794536d87889958.links.json+ which are single key JSON dictionaries containing the URI and the URIs the representation links to.
+
+I chose JSON because it should be relatively easy to parse for Question 2, and also because the test for question 1 states ``use any syntax that is easy for you''.  I wanted to save time and not write my own parser when Python has one built in.  On the first pass, I had the script generate one large JSON file, which could easily be read for Question 2, but that would only work for our 100 links.  Having the script write out a file per URI scales better when we look at millions of URIs, especially if there is a bug in the script or hardware failure.
+
+The function on line 62 extracts the links using BeautifulSoup, and the first pass at this script stopped there.  Once I examined the output, I realized that there were a large number of relative URIs, JavaScript links, URIs missing complete paths, etc.  This caused the creation of the function on line 12, which tries to account for that madness.
+
+
+
+\newpage
+\lstinputlisting[language=Python,frame=single,caption={Python program for printing out links from 100 pages},label=lst:q1code,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q1/getLinks.py}
+
+\newpage
+\section*{2}
+
+\subsection*{Question}
+
+\begin{verbatim}
+2.  Using these 100 files, create a single GraphViz "dot" file of
+the resulting graph.  Learn about dot at:
+
+Examples:
+http://www.graphviz.org/content/unix
+http://www.graphviz.org/Gallery/directed/unix.gv.txt
+
+Manual:
+http://www.graphviz.org/Documentation/dotguide.pdf
+
+Reference:
+http://www.graphviz.org/content/dot-language
+http://www.graphviz.org/Documentation.php
+
+Note: you'll have to put explicit labels on the graph, see:
+https://gephi.org/users/supported-graph-formats/graphviz-dot-format/
+
+(note: actually, I'll allow any of the formats listed here:
+
+https://gephi.org/users/supported-graph-formats/
+
+but "dot" is probably the simplest.)
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+\newpage
+\section*{3}
+
+\subsection*{Question}
+
+\begin{verbatim}
+3.  Download and install Gephi:
+
+https://gephi.org/
+
+Load the dot file created in #2 and use Gephi to:
+
+- visualize the graph (you'll have to turn on labels)
+- calculate HITS and PageRank
+- avg degree
+- network diameter
+- connected components
+
+Put the resulting graphs in your report.
+
+You might need to choose the 100 sites with an eye toward
+creating a graph with at least one component that is nicely
+connected.  You can probably do this by selecting some portion
+of your links (e.g., 25, 50) from the same site.  
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+
+\clearpage
+\bibliographystyle{acm}
+\bibliography{references}
+
+\end{document}
