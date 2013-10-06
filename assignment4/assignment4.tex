@@ -83,7 +83,7 @@ The first argument is a file containing the list of URIs and SHA hashes.  The se
 
 Once this is done, the \verb+linkFiles+ directory contains files like \newline \verb+f25db00c9aeb80bb92f465cd7794536d87889958.links.json+ which are single key JSON dictionaries containing the URI and the URIs the representation links to.
 
-I chose JSON because it should be relatively easy to parse for Question 2, and also because the test for question 1 states ``use any syntax that is easy for you''.  I wanted to save time and not write my own parser when Python has one built in.  On the first pass, I had the script generate one large JSON file, which could easily be read for Question 2, but that would only work for our 100 links.  Having the script write out a file per URI scales better when we look at millions of URIs, especially if there is a bug in the script or hardware failure.
+I chose JSON because it should be relatively easy to parse for Question 2, and also because the test for question 1 states ``use any syntax that is easy for you''.  I wanted to save time and not write my own parser when Python has one built in.  On the first pass, I had the script generate one large JSON file, which could easily be read for Question 2, and would work well for our 100 links.  But having the script write out a file per URI scales better when we look at millions of URIs, especially if there is a bug in the script or hardware failure.
 
 The function on line 62 extracts the links using BeautifulSoup, and the first pass at this script stopped there.  Once I examined the output, I realized that there were a large number of relative URIs, JavaScript links, URIs missing complete paths, etc.  This caused the creation of the function on line 12, which tries to account for that madness.
 
@@ -124,6 +124,18 @@ but "dot" is probably the simplest.)
 
 \newpage
 \subsection*{Answer}
+
+Because I stored the data from Question 1 in JSON format, the script for Question 2 is much smaller.  It was run like so:
+
+\begin{lstlisting}[frame=single]
+./makeDot.py ../q1/linkFiles > linkGraph.dot
+\end{lstlisting}
+where the first argument is the directory to search for the JSON files from Question 1.  The script prints to \verb+stdout+ so a redirect creates the DOT file.
+
+The script is shown in Listing \ref{lst:q2code}.  Lines 27-29 print the DOT code for each edge, with labels.  Line 10 prints the opening DOT block and line 31 prints the close to the block.
+
+\lstinputlisting[language=Python,frame=single,caption={Python program for printing converting links from Question 1 into a DOT file},label=lst:q2code,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q2/makeDot.py}
+
 
 \newpage
 \section*{3}
