@@ -171,11 +171,28 @@ The graph described by the dot file in Question 2 contains $4276$ nodes and $114
 
 From Gephi, visualizing the graph produced a horrid monstrosity shown in Figure \ref{fig:q3vis-hairball}.  Choosing all of my links from CNN is what led to this.  The shaving on the right and left are not actually unconnected edges.  Gephi appears to have cropped the image on export.
 
-After using the \emph{Yifan Hu} layout, the graph became the much better, as shown in Figure \ref{fig:q3vis-yifan-hu}.  It turns out that each of the subgraphs in the CNN graph somewhat correspond to parts of the CNN site (and outbound links).  Some of these have been colorized to demonstrate this phenomenon.  Green corresponds to URIs with \verb+eatocracy.cnn.com+, red-orange is \verb+ac360.blogs.cnn.com+, purple is \verb+crossfire.blogs.cnn.com+.  The blue-yellow and violet-yellow groups on the lower left part of the graph correspond to \verb+fortune.cnn.com+ and \verb+money.cnn.com+ respectively.  Unfortunately, Gephi did not have enough colors to convey all of the subgroups.
+After using the \emph{Yifan Hu} layout, the graph became the much better, as shown in Figure \ref{fig:q3vis-yifan-hu}.  It turns out that each of the subgraphs in the CNN graph somewhat correspond to parts of the CNN site (and outbound links).  Some of these have been colorized to demonstrate this phenomenon.  
+
+\begin{itemize}
+\item brown-orange corresponds to \verb+religion.blogs.cnn.com+
+\item green corresponds to URIs with \verb+eatocracy.cnn.com+
+\item red-orange is \verb+ac360.blogs.cnn.com+
+\item purple is \verb+crossfire.blogs.cnn.com+
+\item blue-yellow is \verb+fortune.cnn.com+
+\item violet-yellow is \verb+money.cnn.com+
+\end{itemize}
+
+This does convey some interesting phenomenon.  The nodes in the center are the typical menu links found on each page, but there are 10 nodes shared between the brown-orange group and the green group, which turn out to be menu items shared between \verb+eatocracy.cnn.com+ and \verb+religion.blogs.cnn.com+, but not used anywhere else.
+
+Unfortunately, Gephi did not have enough colors to convey all of the subgroups.
 
 All of CNN's pages link to the same template menu links, which explains much of the strongly connected parts.  I expected most of the pages to link to pages in the center of the graph, but I did not expect this much ``clumping''.
 
-Because of this clumping Figure \ref{fig:q3hits-authorities} shows low authority scores on all pages, and Figure \ref{fig:q3hits-hubs} shows what look to be four hubs, but are likely so many data points crammed into these four scores.  Also, the PageRank for all pages approaches $0$, as shown in Figure \ref{fig:q3pagerank} because so many of the pages link to one another.
+Because of the clumping Figure \ref{fig:q3hits-authorities} shows low authority scores on all pages, and Figure \ref{fig:q3hits-hubs} shows what look to be four hubs, but are likely so many data points crammed into these four scores.  Also, the PageRank for all pages approaches $0$, as shown in Figure \ref{fig:q3pagerank} because so many of the pages link to one another.
+
+As shown in Figure \ref{fig:q3avgdegree-indegree-distribution}, few nodes have a high in-degree.  These are likely menu options, with those with a small in-degree being actual stories.  Surprisingly, Figure \ref{fig:q3avgdegree-outdegree-distribution} shows that a lot of pages do seem to link out, but in an almost horizontal linear pattern.
+
+
 
 \begin{figure}[p]
 \includegraphics[scale=0.3]{q3/Visualized/visualized.png}
