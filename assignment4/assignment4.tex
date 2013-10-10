@@ -7,6 +7,7 @@
 \usepackage[makeroom]{cancel}
 \usepackage[table]{xcolor}
 \usepackage{comment}
+\usepackage[space]{grffile}
 
 \lstset{
 	basicstyle=\footnotesize,
@@ -166,6 +167,87 @@ of your links (e.g., 25, 50) from the same site.
 \newpage
 \subsection*{Answer}
 
+The graph described by the dot file in Question 2 contains $4276$ nodes and $11488$ edges.
+
+From Gephi, visualizing the graph produced a horrid monstrosity shown in Figure \ref{fig:q3vis-hairball}.  Choosing all of my links from CNN is what led to this.  The shaving on the right and left are not actually unconnected edges.  Gephi appears to have cropped the image on export.
+
+After using the \emph{Yifan Hu} layout, the graph became the much better, as shown in Figure \ref{fig:q3vis-yifan-hu}.  It turns out that each of the subgraphs in the CNN graph somewhat correspond to parts of the CNN site (and outbound links).  Some of these have been colorized to demonstrate this phenomenon.  Green corresponds to URIs with \verb+eatocracy.cnn.com+, red-orange is \verb+ac360.blogs.cnn.com+, purple is \verb+crossfire.blogs.cnn.com+.  The blue-yellow and violet-yellow groups on the lower left part of the graph correspond to \verb+fortune.cnn.com+ and \verb+money.cnn.com+ respectively.  Unfortunately, Gephi did not have enough colors to convey all of the subgroups.
+
+All of CNN's pages link to the same template menu links, which explains much of the strongly connected parts.  I expected most of the pages to link to pages in the center of the graph, but I did not expect this much ``clumping''.
+
+Because of this clumping Figure \ref{fig:q3hits-authorities} shows low authority scores on all pages, and Figure \ref{fig:q3hits-hubs} shows what look to be four hubs, but are likely so many data points crammed into these four scores.  Also, the PageRank for all pages approaches $0$, as shown in Figure \ref{fig:q3pagerank} because so many of the pages link to one another.
+
+\begin{figure}[p]
+\includegraphics[scale=0.3]{q3/Visualized/visualized.png}
+\caption{Initial Visualization of the Dot file produced from Question 2}
+\label{fig:q3vis-hairball}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.4]{q3/Visualized/colorized-yifan-hu-visualized.png}
+\caption{Yifan Hu Visualization of the Dot file produced from Question 2}
+\label{fig:q3vis-yifan-hu}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/HITS/authorities.png}
+\caption{Plot of the HITS authorities from the Dot file produced from Question 2}
+\label{fig:q3hits-authorities}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/HITS/hubs.png}
+\caption{Plot of the HITS hubs from the Dot file produced from Question 2}
+\label{fig:q3hits-hubs}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/PageRank/pageranks.png}
+\caption{Plot of PageRank from the Dot file produced from Question 2}
+\label{fig:q3pagerank}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/Avg-Degree/degree-distribution.png}
+\caption{Plot of the Avg Degree Distribution from the Dot file produced from Question 2}
+\label{fig:q3avgdegree-distribution}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/Avg-Degree/indegree-distribution.png}
+\caption{Plot of the Avg Degree Indegree Distribution from the Dot file produced from Question 2}
+\label{fig:q3avgdegree-indegree-distribution}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/Avg-Degree/outdegree-distribution.png}
+\caption{Plot of the Avg Degree Outdegree Distribution from the Dot file produced from Question 2}
+\label{fig:q3avgdegree-outdegree-distribution}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{"q3/Network-Diameter/Betweenness Centrality Distribution"}
+\caption{Plot of the Network Diameter Betweenness Centrality Distribution from the Dot file produced from Question 2}
+\label{fig:q3netdiam-betweenness}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{"q3/Network-Diameter/Closeness Centrality Distribution"}
+\caption{Plot of the Network Diameter Closeness Centrality Distribution from the Dot file produced from Question 2}
+\label{fig:q3netdiam-closeness}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{"q3/Network-Diameter/Eccentricity Distribution"}
+\caption{Plot of the Network Diameter Eccentricity Distribution from the Dot file produced from Question 2}
+\label{fig:q3netdiam-eccentricity}
+\end{figure}
+
+\begin{figure}[p]
+\includegraphics[scale=0.5]{q3/Connected-Components/cc-size-distribution.png}
+\caption{Plot of the Connected Components from the Dot file produced from Question 2}
+\label{fig:q3cc}
+\end{figure}
 
 \clearpage
 \bibliographystyle{acm}
