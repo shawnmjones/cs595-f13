@@ -84,7 +84,7 @@ The first argument is a file containing the list of URIs and SHA hashes.  The se
 
 Once this is done, the \verb+linkFiles+ directory contains files like \newline \verb+f25db00c9aeb80bb92f465cd7794536d87889958.links.json+ which are single key JSON dictionaries containing the URI and the URIs the representation links to.
 
-I chose JSON because it should be relatively easy to parse for Question 2, and also because the test for question 1 states ``use any syntax that is easy for you''.  I wanted to save time and not write my own parser when Python has one built in.  On the first pass, I had the script generate one large JSON file, which could easily be read for Question 2, and would work well for our 100 links.  But having the script write out a file per URI scales better when we look at millions of URIs, especially if there is a bug in the script or hardware failure.
+I chose JSON because it should be relatively easy to parse for Question 2, and also because the text for question 1 states ``use any syntax that is easy for you''.  I wanted to save time and not write my own parser when Python has one built in.  On the first pass, I had the script generate one large JSON file, which could easily be read for Question 2, and would work well for our 100 links.  But having the script write out a file per URI would scale better when we look at millions of URIs, especially if there is a bug in the script or hardware failure.
 
 The function on line 62 extracts the links using BeautifulSoup, and the first pass at this script stopped there.  Once I examined the output, I realized that there were a large number of relative URIs, JavaScript links, URIs missing complete paths, etc.  This caused the creation of the function on line 12, which tries to account for that madness.
 
@@ -194,7 +194,7 @@ As shown in Figure \ref{fig:q3avgdegree-indegree-distribution}, few nodes have a
 
 The graph has a network diameter of $2$, with $26508$ shortest paths.  The average path length is $\approx 1.57$.  As Figures \ref{fig:q3netdiam-betweenness}, \ref{fig:q3netdiam-closeness}, \ref{fig:q3netdiam-eccentricity} show, the graph is not very diverse.
 
-Figure \ref{fig:q3cc} shows the $4276$ strongly connected components in this graph.  Even though the visualization in Figure \ref{fig:q3vis-yifan-hu} shows distinct subgraphs, so many of them are strongly connected within a few hops that it is difficult to classify them as weakly connected.  There is $1$ weakly connected component, though.
+Figure \ref{fig:q3cc} shows the $4276$ strongly connected components in this graph.  Even though the visualization in Figure \ref{fig:q3vis-yifan-hu} shows distinct subgraphs, so many of them are strongly connected within a few hops that it is difficult to classify them as weakly connected.
 
 \begin{figure}[p]
 \includegraphics[scale=0.3]{q3/Visualized/visualized.png}
