@@ -1,0 +1,127 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[super]{nth}
+\usepackage[hyphens]{url}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
+\usepackage[space]{grffile}
+
+\lstset{
+	basicstyle=\footnotesize,
+	breaklines=true,
+}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+\Huge{Assignment 5}
+
+\Large{CS 595:  Introduction to Web Science}
+
+\Large{Fall 2013}
+
+\Large{Shawn M. Jones}
+
+\Large Finished on \today
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
+\section*{1}
+
+\subsection*{Question}
+
+\begin{verbatim}
+1.  Determine if the friendship paradox holds for your Facebook account.  
+Create a graph of the number of friends (y-axis) and the friends sorted
+by number of friends (x-axis).  (The friends don't need to be labeled 
+on the x-axis.)  Do include yourself in the graph and label yourself
+accordingly.
+
+Compute the mean, standard deviation, and median of the number of friends
+that your friends have.
+
+You can download your network in an XML file by using the NameGenWeb
+Facebook app: 
+
+https://apps.facebook.com/namegenweb/ 
+
+You will need to give this app permission to access your Facebook
+data. Make sure you select "Friend Count" as an Extended Attribute.
+When you download the data, download it in the GraphML format.
+
+If you do not have a Facebook account, email me and I will send you 
+my GraphML file.
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+
+\newpage
+\section*{2}
+
+\subsection*{Question}
+
+\begin{verbatim}
+2.  Determine if the friendship paradox holds for your Twitter account.
+Since Twitter is a directed graph, use "followers" as value you measure
+(i.e., "do your followers have more followers than you?").
+
+Generate the same graph as in question #1, and calcuate the same 
+mean, standard deviation, and median values.
+
+For the Twitter 1.1 API to help gather this data, see:
+
+https://dev.twitter.com/docs/api/1.1/get/followers/list
+
+If you do not have followers on Twitter (or don't have more than 20),
+then use my twitter account "phonedude_mln".
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+\newpage
+\section*{3}
+
+\subsection*{Question}
+
+\begin{verbatim}
+Extra credit, 2 points:
+
+3.  Repeat question #1, but with your LinkedIn profile.
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+\newpage
+\section*{4}
+
+\subsection*{Question}
+
+\begin{verbatim}
+Extra credit, 1 point:
+
+4.  Repeat question #2, but change "followers" to "following"?  In
+other words, are the people I am following following more people?
+\end{verbatim}
+
+\newpage
+\subsection*{Answer}
+
+
+\clearpage
+\bibliographystyle{acm}
+\bibliography{references}
+
+\end{document}
