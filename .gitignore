@@ -4,3 +4,4 @@
 *.blg
 *.synctex.gz
 *.log
+.Rproj.user
