@@ -6,7 +6,6 @@ from xml.dom.minidom import parseString
 def getFriendInfo(xml):
 
     dom = parseString(xml)
-
     countDict = {}
 
     for element in dom.getElementsByTagName("data"):
@@ -25,7 +24,6 @@ def getFriendInfo(xml):
 def getFriendCount(xml):
 
     dom = parseString(xml)
-
     return len(dom.getElementsByTagName("node"))
 
 
@@ -40,12 +38,7 @@ if __name__ == "__main__":
     myFriendCount = getFriendCount(xml)
     friendInfo = getFriendInfo(xml)
 
-    #output:
-    # name
-    # friend count
-
     print("Name,Friend Count")
-
     print('ME,' + str(myFriendCount))
 
     for friend in friendInfo:

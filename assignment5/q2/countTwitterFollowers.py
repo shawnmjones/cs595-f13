@@ -103,7 +103,7 @@ def print_friend_counts(oauth, numberOfCalls, count, screenName):
 
     print("Name,Friend Count,Followees")
 
-    count = 0
+    followers_count = 0
 
     for i in range(0, numberOfCalls):
 
@@ -121,7 +121,7 @@ def print_friend_counts(oauth, numberOfCalls, count, screenName):
 
         cursor = str(response.json()['next_cursor'])
 
-    print(screenName + ',' + followers_count)
+    print(screenName + ',' + str(followers_count))
 
 def usage():
 

@@ -4,7 +4,7 @@ args <- commandArgs(trailingOnly = TRUE)
 
 inputfile <- args[1]
 outputfile <- args[2]
-mylocation <- args[3]
+mylocation <- as.integer(args[3])
 mytext <- args[4]
 
 data <- read.csv(inputfile)
@@ -23,7 +23,6 @@ write(sdOut, stdout())
 
 pdf(outputfile)
 
-# these are used to acquire names for labels later
 #ndx = order(data$Friend.Count)
 #xlabels <- data[ndx,]$Name
 
@@ -35,12 +34,12 @@ pos <- (incdata == mylocation)
 cols <- c("white", "red") # colors to use (first is everyone but me)
 
 # draw the barplot
-barplot(incdata, main="Friends of Friends on Facebook", xlab="Friends sorted by increasing number of friends", ylab="Number of Friends", col=cols[pos + 1], ylim=c(0, max(incdata) + 100))
-#barplot(incdata, main="Friends of Friends on Facebook", xlab="Friends sorted by increasing number of friends", ylab="Number of Friends", col=cols[pos + 1], ylim=c(0, max(incdata) + 100), names.arg=xlabels, las=3, cex.names=0.4)
+barplot(incdata, main="Followers of Followers on Twitter", xlab="Followers sorted by increasing number of Followers", ylab="Number of Followers", col=cols[pos + 1], ylim=c(0, max(incdata) + 100))
+#barplot(incdata, main="Followers of Followers on Twitter", xlab="Friends sorted by increasing number of friends", ylab="Number of Friends", col=cols[pos + 1], ylim=c(0, max(incdata) + 100), names.arg=xlabels, las=3, cex.names=0.4)
 
 # annotation and arrow
 # http://blog.earlh.com/index.php/2009/07/labeling-plots-annotations-legends-etc-part-6-in-a-series/
-text(x=match(c(mylocation), incdata) + 8, y=max(incdata), labels=mytext, col='red')
-arrows(x0=match(c(mylocation), incdata) + 8, y0=(max(incdata) - 50), x1=match(c(mylocation), incdata) + 8, y1=175, length=0.1, lwd=3, col='red')
+text(x=match(c(mylocation), incdata) + 20, y=max(incdata) - 100, labels=mytext, col='red')
+arrows(x0=match(c(mylocation), incdata) + 20, y0=(max(incdata)) - 400, x1=match(c(mylocation), incdata) + 20, y1=300, length=0.1, lwd=3, col='red')
 
 dev.off()
