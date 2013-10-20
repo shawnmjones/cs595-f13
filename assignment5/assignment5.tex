@@ -83,7 +83,7 @@ null device
           1 
 \end{lstlisting}
 
-Seeing as I am the only person with 154 friends on my circle, I was able to color the single bar red using the code on lines 34 and 35 in Listing \ref{lst:q1codeR}.
+Seeing as I am the only person with 154 friends on my circle, I was able to color the single bar red using the code on lines 34 and 35 in Listing \ref{lst:q1codeR}.  Also of note, some friends do not share their friend counts, so they are left out of the data collected.
 
 Figure \ref{fig:q1barplot} shows that I am more popular than about 25\% of my friends, but my friends do have more friends than I do.  Referencing Table \ref{tab:q1stats}, I have fewer friends than the median.
 
@@ -218,7 +218,36 @@ other words, are the people I am following following more people?
 \newpage
 \subsection*{Answer}
 
-Not attempted.
+The result appears to hold in the case of ``following'', as shown in Figure \ref{fig:q4barplot}.  The Python code for this case is in Listing \ref{lst:q4codepy} and the R code for this Figure is in Listing \ref{lst:q4codeR}.  The statistics are shown in Table \ref{tab:q4stats}.
+
+Both scripts are executed as shown in the answer to Question 2.
+
+\begin{table}
+\begin{tabular}{ l l }
+\hline
+\textbf{Mean} & 508.120192307692 \\
+\textbf{Median} & 283 \\
+\textbf{Std Dev} &  575.712396307217 \\
+\hline
+\end{tabular}
+\caption{Statistics on the count of phonedude\_mln's Twitter followers' followees, values straight from R}
+\label{tab:q4stats}
+\end{table}
+
+\clearpage
+\begin{figure}[h]
+\includegraphics[scale=0.7]{q4/q4-barplot.pdf}
+\caption{Bar plot showing the count of phonedude\_mln's Twitter followers' friends}
+\label{fig:q4barplot}
+\end{figure}
+
+
+\newpage
+\lstinputlisting[language=Python,frame=single,caption={Python program for acquiring Twitter phonedude\_mln's Twitter following followers\_mln},label=lst:q4codepy,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q4/countTwitterFollowers.py}
+
+\newpage
+\lstinputlisting[language=R,frame=single,caption={R program for bar plot shown in Figure \ref{fig:q4barplot}},label=lst:q4codeR,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q2/processTwitterFollowerOutput.R}
+
 
 
 \clearpage
