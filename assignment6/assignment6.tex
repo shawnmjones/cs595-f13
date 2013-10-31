@@ -81,7 +81,23 @@ http://vlado.fmf.uni-lj.si/pub/networks/data/ucinet/ucidata.htm#zachary
 \newpage
 \subsection*{Answer}
 
+\begin{figure}[h]
+\includegraphics[scale=0.5]{club-before.pdf}
+\caption{Karate Club Graph Before Split}
+\label{fig:club-before}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=0.5]{club-after.pdf}
+\caption{Karate Club Graph Split Predicted by Girvan \& Newman Betweenness Clustering}
+\label{fig:club-after}
+\end{figure}
+
 \newpage
+\lstinputlisting[language=R,frame=single,caption={R program for Girvan \& Newman Betweenness Clustering shown in Figures \ref{fig:club-before} and \ref{fig:club-after}},label=lst:q1codeR,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{R-code/community-functions.R}
+
+\newpage
+
 
 \section*{2}
 
@@ -93,6 +109,24 @@ look like if they split into groups of 3, 4, and 5?
 
 
 \subsection*{Answer}
+
+\begin{figure}[h]
+\includegraphics[scale=0.5]{group-of-3.pdf}
+\caption{Karate Club Graph Split Into 3 Groups Predicted by Girvan \& Newman Betweenness Clustering}
+\label{fig:club-3-split}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=0.5]{group-of-4.pdf}
+\caption{Karate Club Graph Split Into 4 Groups Predicted by Girvan \& Newman Betweenness Clustering}
+\label{fig:club-4-split}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=0.5]{group-of-5.pdf}
+\caption{Karate Club Graph Split Into 5 Groups Predicted by Girvan \& Newman Betweenness Clustering}
+\label{fig:club-5-split}
+\end{figure}
 
 
 \clearpage
