@@ -5,24 +5,23 @@ library(lattice)
 
 data(karate)
 
-k <- karate
+club <- karate
+threshold <- 2
 
-repeat {
-  keb <- edge.betweenness(k)
+while( clusters(k) $no < threshold ) {
+  keb <- edge.betweenness(club)
   
-  kebo <- order(keb, decreasing = TRUE)
+  decreasing.betweenness <- order(keb, decreasing = TRUE)
   
   # for fun, pick off the ones with the lowest betweenness,
   # and watch the graph kick out one memeber at a time
-  #kebo <- order(keb)
+  #decreasing.betweenness <- order(decreasing.betweenness)
   
-  s <- kebo[-1]
+  highest.betweenness <- decreasing.betweenness[-1]
   
-  v <- get.edge(k, s)
+  edge.to.delete <- get.edge(club, highest.betweenness)
   
-  k <- delete.edges(k, E(k, P = v))
-  
-  if ( clusters(k)$no == 15) break
+  club <- delete.edges(club, E(club, P = edge.to.delete))
 }
 
 plot.igraph(k)
