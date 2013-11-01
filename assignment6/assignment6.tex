@@ -91,13 +91,13 @@ Figure \ref{fig:club-before} shows the graph of the Karate Club's relationships 
 
 Figure \ref{fig:club-after} shows the graph of the Karate Club's relationships after running the Girvan-Newman Betweenness Clustering Algorithm from Listing \ref{lst:q1codeR}.
 
-Table \ref{tab:results} shows the individual identifiers in column 1.  Column 2 shows the actual recorded group membership after the split (\emph{Officers'} is John A's faction).  Column 3 shows Zachary's modeled group membership after the split.  Column 4 shows my Girvan-Newman modeled group membership after the split.  Column 5 shows whether my Girvan-Newman implementation resulted in a \emph{Hit} (correctly calculated membership) or \emph{Miss} (incorrectly calculated membership).
+Table \ref{tab:results} shows the results compared with Zachary's original predictions and the actual data (\emph{Officers'} is John A's faction).  Column 5 shows whether my Girvan-Newman implementation resulted in a \emph{Hit} (correctly calculated membership) or \emph{Miss} (incorrectly calculated membership).
 
-Zachary's Ford and Fulkerson procedure had a $97\%$ success rate.  My Girvan-Newman implementation has a $94\%$ success rate, making it inferior in this case but still effective at predicting almost all of the group memberships.  My implementation also predicted that individual $9$ would stay with Mr. Hi, which is the one membership that Zachary missed.
+Zachary's Ford and Fulkerson procedure had a $\frac{33}{34} = 97\%$ success rate.  My Girvan-Newman implementation has a $\frac{32}{34} = 94\%$ success rate, making it inferior in this case but still effective at predicting almost all of the group memberships.  My implementation also predicted that individual $9$ would stay with Mr. Hi, which is the one membership that Zachary missed.
 
-Either way, it can be shown that this split could have been predicted to greater than $90\%$ accuracy using this data.
+Either way, it can be shown that this split could have been predicted to greater than $90\%$ accuracy using this data and these algorithms.
 
-One item that Zachary's paper did not take into account was when this split could have been predicted.  A possibility for future research is to build snapshot graphs for a given group \emph{over time}, and then using the Ford and Fulkerson procedure or the Girvan-Newman algorithm to find the earliest point at which a split can be predicted.  Is it possible that the split could have been accurately predicted when one or more of the edge weights was lower (e.g. an individual hadn't attended a karate tournament \emph{yet}, but will gain an edge point for doing so in a subsequent snapshot graph)?
+One item that Zachary's paper did not take into account was when this split could have been predicted.  A possibility for future research is to build snapshot graphs for a given group \emph{over time}, and then using the Ford and Fulkerson procedure or the Girvan-Newman algorithm to find the earliest point at which a split can be predicted.  Is it possible that the split could have been accurately predicted when one or more of the edge weights was lower?  For example, an individual hadn't attended a karate tournament \emph{yet}, but will gain an edge point for doing so in a subsequent snapshot graph.
 
 \clearpage
 \begin{table}
@@ -175,7 +175,7 @@ Individual & Actual Group\newline Membership From Split & Zachary's Ford and Ful
 34 & Officers' & Officers' & Officers' & Hit \\
 \hline
 \end{tabular}
-\caption{Results of Split, as predicted by Girvan-Newman Implementation}
+\caption{Results of Split, as predicted by my Girvan-Newman Implementation and also compared to Zachary's predictions and the actual data}
 \label{tab:results}
 \end{table}
 
@@ -203,14 +203,16 @@ Individual & Actual Group\newline Membership From Split & Zachary's Ford and Ful
 
 \subsection*{Question}
 
+\begin{verbatim}
 2.  We know the group split in two different groups.  Suppose the
 disagreements in the group were more nuanced -- what would the clubs
 look like if they split into groups of 3, 4, and 5?
+\end{verbatim}
 
 
 \subsection*{Answer}
 
-The same R script shown in Listing \ref{lst:q1codeR} was run to produce Figures \ref{fig:club-3-split}, \ref{fig:club-4-split}, and \ref{fig:club-5-split}.  The value of the variable \emph{threshold} on line $7$ was changed to $3$, $4$, or $5$ as needed to create the split.  In all cases, ``Mr. Hi'' and ``John A.'' held on to the largest groups even after the graph was split into $5$ groups.
+The same R script shown in Listing \ref{lst:q1codeR} was run to produce Figures \ref{fig:club-3-split}, \ref{fig:club-4-split}, and \ref{fig:club-5-split}.  The value of the variable \emph{threshold} on line $7$ was changed to $3$, $4$, or $5$ as needed to create the split.  In all cases, ``Mr. Hi'' and ``John A.'' held on to the largest groups even after the graph was split.
 
 \begin{figure}[h]
 \includegraphics[scale=0.5]{group-of-3.pdf}

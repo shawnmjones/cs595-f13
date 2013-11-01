@@ -21,7 +21,6 @@ plot.igraph(club,
 )
 
 # Algorithm below graciously provided by Corren McCoy
-# also described by University of Michigan
 while( clusters(club)$no < threshold ) {
   # calculate betweenness of all edges
   club.edge.betweenness <- edge.betweenness(club)
