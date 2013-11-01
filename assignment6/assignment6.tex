@@ -81,11 +81,11 @@ http://vlado.fmf.uni-lj.si/pub/networks/data/ucinet/ucidata.htm#zachary
 \newpage
 \subsection*{Answer}
 
-The results of the Karate Club split could have been predicted using the weighted graph of social interactions.
+The results of the Karate Club split could have been predicted using the weighted graph of social interactions.  The level of accuracy depends on the algorithm used.
 
-The weighted graph of Karate Club data was loaded into R and run through the program shown in Listing \ref{lst:q1codeR}.  Lines $24$-$44$ use the divisive Girvan-Newman Betweenness Clustering to split the graph, stopping when two clusters are created.  From this code, the graphs in Figures \ref{fig:club-before} and \ref{fig:club-after} were produced.
+The weighted graph of Karate Club data was loaded into R and run through the program shown in Listing \ref{lst:q1codeR}.  Lines $24$-$44$ use the hierarchical divisive Girvan-Newman Betweenness Clustering algorithm to split the graph, stopping when two clusters are created.  From this code, the graphs in Figures \ref{fig:club-before} and \ref{fig:club-after} were produced.
 
-Using this algorithm, we can create a split in the group, and even predict that there will be a split.  The algorithm goes through 18 iterations before two groups are created.
+Using this implementation, we can create a split in the group, and even predict that there will be a split.  The algorithm goes through 18 iterations before two groups are created.
 
 Figure \ref{fig:club-before} shows the graph of the Karate Club's relationships prior to the split.  As with Zachary's original paper, the node labeled $34$ represents ``John A.'' and the node labeled $1$ represents ``Mr. Hi''.
 
@@ -97,8 +97,9 @@ Zachary's Ford and Fulkerson procedure had a $97\%$ success rate.  My Girvan-New
 
 Either way, it can be shown that this split could have been predicted to greater than $90\%$ accuracy using this data.
 
-One item that Zachary's paper did not take into account was when this split could have been predicted.  A possibility for future research is to build snapshot graphs for a given group \emph{over time}, and then using the Ford and Fulkerson procedure or the Girvan-Newman algorithm to find the earliest point at which a split can be predicted.  Is it possible that the split could have been predicted when one or more of the edge weights was lower (e.g. an individual hadn't attended a karate tournament \emph{yet}, but will gain an edge point for doing so in a subsequent snapshot graph)?
+One item that Zachary's paper did not take into account was when this split could have been predicted.  A possibility for future research is to build snapshot graphs for a given group \emph{over time}, and then using the Ford and Fulkerson procedure or the Girvan-Newman algorithm to find the earliest point at which a split can be predicted.  Is it possible that the split could have been accurately predicted when one or more of the edge weights was lower (e.g. an individual hadn't attended a karate tournament \emph{yet}, but will gain an edge point for doing so in a subsequent snapshot graph)?
 
+\clearpage
 \begin{table}
 \small
 \begin{tabular}{ | c | p{2cm} | p{2cm} | p{2cm} | p{2cm} | }

@@ -30,10 +30,12 @@ while( clusters(club)$no < threshold ) {
   decreasing.betweenness <- order(club.edge.betweenness, decreasing = TRUE)
   
   # for fun, pick off the ones with the lowest betweenness,
-  # and watch the club kick out one memeber at a time
+  # and watch the club kick out one member at a time
   #decreasing.betweenness <- order(decreasing.betweenness)
   
   # get the one with the highest edge betweenness
+  # Thanks Stack Overflow:
+  # http://stackoverflow.com/questions/652136/how-can-i-remove-an-element-from-a-list
   highest.betweenness <- decreasing.betweenness[-1]
   
   # acquire the edge to delete
