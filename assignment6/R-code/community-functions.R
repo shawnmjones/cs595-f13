@@ -4,7 +4,7 @@ library(igraphdata) # for karate club data
 data(karate)
 
 club <- karate
-threshold <- 5
+threshold <- 2
 
 # graph prior to the breakup
 plot.igraph(club, 
@@ -22,7 +22,7 @@ plot.igraph(club,
 
 # Algorithm below graciously provided by Corren McCoy
 # also described by University of Michigan
-while( clusters(club) $no < threshold ) {
+while( clusters(club)$no < threshold ) {
   # calculate betweenness of all edges
   club.edge.betweenness <- edge.betweenness(club)
   
