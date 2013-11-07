@@ -18,7 +18,7 @@ nodeCounter = 0
 for row in inputlines[7 + 34:]:
     name = nodeCounter + 1
 
-    newNode = { "name" : str(name) }
+    newNode = { 'id' : str(name) }
 
     outputDict['nodes'].append( newNode )
 
@@ -33,7 +33,7 @@ for row in inputlines[7 + 34:]:
             target = j
 
             newLink = \
-                { "source" : source, "target" : target, "value" : weight }
+                { "source" : source, "target" : target, "weight" : weight }
 
             outputDict['links'].append( newLink )
             
