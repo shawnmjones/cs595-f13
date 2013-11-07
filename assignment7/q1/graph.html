@@ -26,22 +26,22 @@
 
 function switchgraph(d) {
 
+    // clear the existing graph
     d3.selectAll(".node").remove();
     d3.selectAll(".link").remove();
+    d3.selectAll("div").remove();
 
-//    var svg = d3.select("body").append("svg")
-//        .attr("width", width)
-//        .attr("height", height);
-//
-//    var force = d3.layout.force()
-//        .gravity(.05)
-//        .charge(-100)
-//        .size([width, height]);
+    // toggle state between together and split
+    state = 1 - state;
 
-    loadgraph("split-club.json");
+    // load the split graph
+    loadgraph(datafiles[state], labels[state]);
+
 }
 
-function loadgraph(filename) {
+function loadgraph(filename, label) {
+    d3.select("body").append("div").text(label);
+
     d3.json(filename, function(error, json) {
       force
           .nodes(json.nodes)
@@ -82,25 +82,34 @@ function loadgraph(filename) {
     
         node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
       });
+
 });
 }
 
 var width = 960,
     height = 800; 
 
+var datafiles = new Array();
+datafiles[0] = "club.json";
+datafiles[1] = "split-club.json";
+
+var labels = new Array();
+labels[0] = "Karate Club Prior To Split";
+labels[1] = "Karate Club After Split";
+
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height)
     .on("click", switchgraph );
 
-loadgraph("club.json");
-
-//loadgraph("split-club.json");
-
 var force = d3.layout.force()
     .gravity(.05)
     .charge(-100)
     .size([width, height]);
+
+// initialize state to "together"
+var state = 0;
+loadgraph(datafiles[state], labels[state]);
 
     </script>
   </body>
