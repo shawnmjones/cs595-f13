@@ -29,7 +29,7 @@ function switchgraph(d) {
     // clear the existing graph
     d3.selectAll(".node").remove();
     d3.selectAll(".link").remove();
-    d3.selectAll("div").remove();
+    d3.selectAll("text").remove();
 
     // toggle state between together and split
     state = 1 - state;
@@ -40,7 +40,11 @@ function switchgraph(d) {
 }
 
 function loadgraph(filename, label) {
-    d3.select("body").append("div").text(label);
+    svg.append("text")
+        .attr("font-size", 55)
+        .attr("x", 100)
+        .attr("y", 100)
+        .text(label);
 
     d3.json(filename, function(error, json) {
       force
