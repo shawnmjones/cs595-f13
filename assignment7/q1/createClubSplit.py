@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     club = json_graph.node_link_graph(inputdata)
 
-    # 4. repeate until we have 2 clusters
+    # 4. repeat until we have 2 clusters
     while (networkx.number_connected_components(club) < 2):
         # 1. calculate edge-betweenness for all edges
         # 3. recalculate betweenness
