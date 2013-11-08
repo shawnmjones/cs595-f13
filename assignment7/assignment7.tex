@@ -3,6 +3,7 @@
 \usepackage{listings}
 \usepackage[super]{nth}
 \usepackage[hyphens]{url}
+\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage[makeroom]{cancel}
 \usepackage[table]{xcolor}
@@ -55,13 +56,17 @@ click.
 
 The Karate club data has been rendered into graphs using D3 as shown in Figures \ref{fig:club-before} and \ref{fig:club-after}.  On load, the graph looks like Figure \ref{fig:club-before} and then looks like Figure \ref{fig:club-after} after a single click.  From that point, further clicks will toggle between the ``together'' Karate Club and the ``split'' Karate Club. A live version of this can be experienced at: \url{http://www.cs.odu.edu/~sjone/courses/cs595-ws-f13/graph.html}.
 
-The code for generating the graph was shamelessly stolen from the D3 example at \url{http://bl.ocks.org/mbostock/950642} and is shown in Listing \ref{lst:q1codeHTML}.
+The code for generating the graph was shamelessly stolen from the D3 example at \url{http://bl.ocks.org/mbostock/950642} and is shown in Listing \ref{lst:q1codeHTML}.  Of course, modifications were made to suit the needs of the assignment.
 
-From Listing \ref{lst:q1codeHTML}, the function \verb+loadgraph+ on line 42 does most of the work.  Line 43 shows the overall title of the graph being rendered.  Line 49 starts the loading of the appropriate JSON file and subsequent actions on that data.  Line 47 loads all of the edge data (referenced as \emph{links}) and line 63 loads all of the node data.  Line 69 inserts the image of the stick figures in for each person.  Line 76 appends the text labels to each node.  Line 81 actually draws the graph.
+From Listing \ref{lst:q1codeHTML}, the function \verb+loadgraph+ on line 42 does most of the work.  Line 43 shows the overall title of the graph being rendered.  Line 49 starts the loading of the appropriate JSON file and subsequent actions on that data.
 
-Line 104 sets up the canvas for the SVG code to populate, and line 109 starts the \emph{force directed layout}, which maps nodes to SVN \verb+<circle>+ elements and links to \verb+<line>+ elements.  Line 116 runs \verb+loadgraph+ for the first time.
+The edges are weighted, changing the edge distances using the \verb+linkDistance+ and \verb+linkStrength+ methods of the selection on lines 53 and 54.
 
-All of that gets the graph drawn for the first time.  The click response is handled by the method referenced on line 107.  On a \verb+click+ event, the \verb+switchgraph+ function from line 27 is executed, which clears the existing graph and toggles the state, then calls load graph with the datafile and label associated with the set state.  The statement on line 35 allows the state to be toggled to the values defined on lines 96-100.
+Line 47 loads all of the edge data (referenced as \emph{links}) and line 63 loads all of the node data, creating \verb+<g>+ tags with a class of \verb+node+ \cite{selections}.  Line 69 inserts the image of the stick figures in for each person inside the corresponding \verb+<g>+ tags.  Line 76 appends the text labels to each node inside the corresponding \verb+<g>+ tags.  Line 81 actually draws the graph.
+
+Line 104 sets up the canvas for the SVG code to populate, and line 109 starts the \emph{force-directed layout}, which maps nodes to SVN \verb+<image>+ elements and links to \verb+<line>+ elements\cite{wikiforce}.  Line 116 runs \verb+loadgraph+ for the first time with the ``together'' club graph JSON file.
+
+All of that gets the graph drawn for the first time.  The click response is handled by the method referenced on line 107.  On a \verb+click+ event, the \verb+switchgraph+ function from line 27 is executed, which clears the existing graph and toggles the state, then calls \verb+loadgraph+ with the datafile and label associated with the set state.  The statement on line 35 allows the state to be toggled to the values defined on lines 96-100.
 
 Of course, this just discusses the HTML/JavaScript/D3 part of the assignment.  The data set used was not in the JSON format, and hence had to be converted for use in D3.  Not wanting to use JavaScript to parse the file, I felt that this was a job for Python.
 
@@ -69,15 +74,18 @@ Listing \ref{lst:q1python1} shows the code that takes the given ``matrix'' datas
 \begin{lstlisting}[frame=single]
 ./convertdata.py | python -mjson.tool > club.json
 \end{lstlisting}
-The \verb+python -mjson.tool+ pretty formats the JSON code for human consumption.
+The \verb+python -mjson.tool+ pretty-formats the JSON code for human consumption.
 
 Listing \ref{lst:q1python2} shows the code that takes the JSON produced by \verb+convertdata.py+ and runs the Girvan-Newman algorithm over it, splitting the graph into two clusters.  It is run like so:
 \begin{lstlisting}[frame=single]
 ./createClubSplit.py club.json > split-club.json
 \end{lstlisting}
-This time, I natively pretty formatted the output with line 35.
+This time, I natively pretty-formatted the output with line 35.
 
 Thus, the Python programs \verb+convertdata.py+ and \verb+createClubSplit.py+ create the JSON files that are consumed by the JavaScript in \verb+graph.html+.
+
+Again, a live version of this can be experienced at:
+\url{http://www.cs.odu.edu/~sjone/courses/cs595-ws-f13/graph.html}.
 
 \clearpage
 \begin{figure}[h]
@@ -100,7 +108,7 @@ Thus, the Python programs \verb+convertdata.py+ and \verb+createClubSplit.py+ cr
 \lstinputlisting[language=python,frame=single,caption={Python code that converts the given matrix data file into JSON for the initial ``together'' view of the Karate Club that is used for the graph shown in Figure \ref{fig:club-before}},label=lst:q1python1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q1/convertdata.py}
 
 \clearpage
-\lstinputlisting[language=python,frame=single,caption={Python code that takes in the code produced by Listing \ref{lst:q1python1}, runs the Girvan-Newman algorithm on it, and then produces a JSON file showing the split Karate Club to be used by the graph shown in Figure \ref{fig:club-after}},label=lst:q1python1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q1/createClubSplit.py}
+\lstinputlisting[language=python,frame=single,caption={Python code that takes in the code produced by Listing \ref{lst:q1python1}, runs the Girvan-Newman algorithm on it, and then produces a JSON file showing the split Karate Club to be used by the graph shown in Figure \ref{fig:club-after}},label=lst:q1python2,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q1/createClubSplit.py}
 
 
 \newpage
