@@ -14,12 +14,30 @@ def getUsersByGender(userfile, selectedGender):
         (userid, age, gender) = line.split('|')[0:3]
 
         if gender == selectedGender:
-            userdict[userid] = age 
+            userdict[userid] = int(age)
 
     f.close()
 
     return userdict
-    
+
+def getUsersByAgeRange(userdict, pivot, direction):
+
+    newuserdict = {}
+
+    for user in userdict:
+
+        if direction == 'less':
+            # add to new dict because they're < pivot
+            if userdict[user] < pivot:
+                newuserdict[user] = userdict[user] 
+        
+        if direction == 'greater':
+            # add to new dict because they're > pivot
+            if userdict[user] > pivot:
+                newuserdict[user] = userdict[user] 
+ 
+    return newuserdict
+                
 
 def getRatingsFromFileForUsers(ratingsfile, userlist):
   
@@ -74,9 +92,12 @@ if __name__ == '__main__':
     namesfile = sys.argv[3]
     userfile = sys.argv[4]
     gender = sys.argv[5]
+    agepivot = int(sys.argv[6])
+    agedirection = sys.argv[7]
 
-    userlist = getUsersByGender(userfile, gender)
-    ratingsdict = getRatingsFromFileForUsers(ratingsfile, userlist)
+    userdict = getUsersByGender(userfile, gender)
+    userdict = getUsersByAgeRange(userdict, agepivot, agedirection)
+    ratingsdict = getRatingsFromFileForUsers(ratingsfile, userdict)
     averagelist = getAverageRatings(ratingsdict)
     topN = getTopN(averagelist, topratingsCount)
 
