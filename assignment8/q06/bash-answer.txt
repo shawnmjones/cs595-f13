@@ -1,1 +1,1 @@
-sort -n data/u.data | awk '{ print $1 }' | uniq -c | awk '{ print $2 " " $1 }' | sort -rn | head -n 5
+awk '{ print $1 }' ../data/u.data | sort -n | uniq -c | sort -rn | head -n 5 | awk '{ print $2 " " $1 }'
