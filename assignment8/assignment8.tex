@@ -51,6 +51,29 @@ and their ratings sorted by their average ratings.
 \newpage
 \subsection*{Answer}
 
+Listing \ref{lst:q1python3} contains the source code for calculating the highest average ratings.  It is run like so:
+\begin{lstlisting}[frame=single]
+./highestratings.py 11  ../data/u.data ../data/u.item
+\end{lstlisting}
+
+The first argument is the number of movies to return.  The second and third are the files to extract data from in order to calculate and produce the output.
+
+Output looks like the following:
+\begin{lstlisting}[frame=single]
+Great Day in Harlem, A (1994)	5.0
+Entertaining Angels: The Dorothy Day Story (1996)	5.0
+Someone Else's America (1995)	5.0
+Aiqing wansui (1994)	5.0
+Santa with Muscles (1996)	5.0
+Saint of Fort Washington, The (1993)	5.0
+Star Kid (1997)	5.0
+Marlene Dietrich: Shadow and Light (1996) 	5.0
+Prefontaine (1997)	5.0
+They Made Me a Criminal (1939)	5.0
+Pather Panchali (1955)	4.625
+\end{lstlisting}
+
+As we can see, the top 10 all have an average rating of $5.0$, and the 11th item is where the average rating starts to go down, so there are more than 5 with the highest average rating.
 
 \newpage
 
@@ -66,6 +89,20 @@ the number of ratings sorted by number of ratings.
 \newpage
 \subsection*{Answer}
 
+Listing \ref{lst:q1python3} contains the source code for calculating the movies that received the most ratings.It is run like so:
+\begin{lstlisting}[frame=single]
+./mostratings.py 5 ../data/u.data ../data/u.item
+\end{lstlisting}
+
+It's output looks like the following:
+\begin{lstlisting}[frame=single]
+Star Wars (1977)	583
+Contact (1997)	509
+Fargo (1996)	508
+Return of the Jedi (1983)	507
+Liar Liar (1997)	485
+\end{lstlisting}
+
 \newpage
 
 \section*{3}
@@ -79,6 +116,28 @@ the movies and their ratings sorted by ratings.
 
 \newpage
 \subsection*{Answer}
+
+Listing \ref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For women, it is run like so:
+\begin{lstlisting}[frame=single]
+./highestbygender.py 12 ../data/u.data ../data/u.item ../data/u.user  "F"
+\end{lstlisting}
+
+The results are the following:
+\begin{lstlisting}[frame=single]
+Year of the Horse (1997)	5.0
+Telling Lies in America (1997)	5.0
+Faster Pussycat! Kill! Kill! (1965)	5.0
+Someone Else's America (1995)	5.0
+Everest (1998)	5.0
+Visitors, The (Visiteurs, Les) (1993)	5.0
+Foreign Correspondent (1940)	5.0
+Mina Tannenbaum (1994)	5.0
+Stripes (1981)	5.0
+Maya Lin: A Strong Clear Vision (1994)	5.0
+Prefontaine (1997)	5.0
+Schindler's List (1993)	4.63291139241
+\end{lstlisting}
+which show more than 5 movies rated with a score of $5.0$  on average by women and the 12th item is where the average rating starts to go down, so there are more than 5 with the highest average rating among women.
 
 \newpage
 
@@ -94,6 +153,35 @@ the movies and their ratings sorted by ratings.
 \newpage
 \subsection*{Answer}
 
+Listing \ref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For men, it is run like so:
+\begin{lstlisting}[frame=single]
+./highestbygender.py 17 ../data/u.data ../data/u.item ../data/u.user  "M"
+\end{lstlisting}
+
+The results are the following:
+\begin{lstlisting}[frame=single]
+Great Day in Harlem, A (1994)	5.0
+Little City (1998)	5.0
+Entertaining Angels: The Dorothy Day Story (1996)	5.0
+Leading Man, The (1996)	5.0
+Love Serenade (1996)	5.0
+Aiqing wansui (1994)	5.0
+Santa with Muscles (1996)	5.0
+Saint of Fort Washington, The (1993)	5.0
+Delta of Venus (1994)	5.0
+Star Kid (1997)	5.0
+Marlene Dietrich: Shadow and Light (1996) 	5.0
+Letter From Death Row, A (1998)	5.0
+Prefontaine (1997)	5.0
+Hugo Pool (1997)	5.0
+Quiet Room, The (1996)	5.0
+They Made Me a Criminal (1939)	5.0
+Two or Three Things I Know About Her (1966)	4.66666666667
+\end{lstlisting}
+which show more than 5 movies rated with a score of $5.0$  on average by men and the 17th item is where the average rating starts to go down, so there are more than 5 with the highest average rating among men.
+
+The men seem to agree more than the women, though, with 16 rather than 11 shared average scores.
+
 \newpage
 
 \section*{5}
@@ -107,6 +195,157 @@ received ratings that were least like Top Gun (negative correlation)?
 
 \newpage
 \subsection*{Answer}
+
+Listing \ref{lst:q5python3} shows the source code to calculate which movie received ratings most like the given movie.
+
+For it to give Pearson's Correlation Coefficients, the \verb+calculateSimilarItems+ function was altered to use the \verb+sim_pearson+ function instead of the default \verb+sim_distance+ function that already existed.  The modified \verb+calculateSimilarItems+ function is shown in Listing \ref{lst:q5python32}.
+
+\lstinputlisting[language=python,frame=single,caption={changed version of {\tt recommendations.py} showing modified similarity function choice on line 136},label=lst:q5python32,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize, firstline=124, lastline=138, firstnumber=124]{starter-code/recommendations.py}
+
+To get the ratings most like a given move, the script is run like so:
+\begin{lstlisting}
+./getFilmsLike.py 'Top Gun (1986)' 62 'most'
+\end{lstlisting}
+
+Which produces the following output:
+\begin{lstlisting}[frame=single]
+100 / 1664
+200 / 1664
+300 / 1664
+400 / 1664
+500 / 1664
+600 / 1664
+700 / 1664
+800 / 1664
+900 / 1664
+1000 / 1664
+1100 / 1664
+1200 / 1664
+1300 / 1664
+1400 / 1664
+1500 / 1664
+1600 / 1664
+Movies most like 'Top Gun (1986)': '
+Shiloh (1997) (1.0)
+King of the Hill (1993) (1.0)
+Bhaji on the Beach (1993) (1.0)
+Wild America (1997) (1.0)
+Wedding Gift, The (1994) (1.0)
+Underground (1995) (1.0)
+Two or Three Things I Know About Her (1966) (1.0)
+Two Bits (1995) (1.0)
+Total Eclipse (1995) (1.0)
+The Innocent (1994) (1.0)
+That Old Feeling (1997) (1.0)
+Stars Fell on Henrietta, The (1995) (1.0)
+Stalker (1979) (1.0)
+Spirits of the Dead (Tre passi nel delirio) (1968) (1.0)
+Show, The (1995) (1.0)
+Shooter, The (1995) (1.0)
+Selena (1997) (1.0)
+Schizopolis (1996) (1.0)
+Scarlet Letter, The (1926) (1.0)
+Run of the Country, The (1995) (1.0)
+Ponette (1996) (1.0)
+Perfect Candidate, A (1996) (1.0)
+Outlaw, The (1943) (1.0)
+Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991) (1.0)
+Nothing to Lose (1994) (1.0)
+New Jersey Drive (1995) (1.0)
+Mr. Jones (1993) (1.0)
+Metisse (Caf? au Lait) (1993) (1.0)
+Maybe, Maybe Not (Bewegte Mann, Der) (1994) (1.0)
+Manny & Lo (1996) (1.0)
+Man of the Year (1995) (1.0)
+Love Serenade (1996) (1.0)
+Last Time I Saw Paris, The (1954) (1.0)
+Killer (Bulletproof Heart) (1994) (1.0)
+Jerky Boys, The (1994) (1.0)
+I Like It Like That (1994) (1.0)
+Horse Whisperer, The (1998) (1.0)
+Hear My Song (1991) (1.0)
+Grosse Fatigue (1994) (1.0)
+Gone Fishin' (1997) (1.0)
+Glass Shield, The (1994) (1.0)
+Germinal (1993) (1.0)
+Gabbeh (1996) (1.0)
+Four Days in September (1997) (1.0)
+Flower of My Secret, The (Flor de mi secreto, La) (1995) (1.0)
+Fausto (1993) (1.0)
+Even Cowgirls Get the Blues (1993) (1.0)
+Enfer, L' (1994) (1.0)
+Dream With the Fishes (1997) (1.0)
+Dream Man (1995) (1.0)
+Dangerous Ground (1997) (1.0)
+Collectionneuse, La (1967) (1.0)
+Clean Slate (Coup de Torchon) (1981) (1.0)
+Calendar Girl (1993) (1.0)
+Blood For Dracula (Andy Warhol's Dracula) (1974) (1.0)
+Bliss (1997) (1.0)
+Best Men (1997) (1.0)
+American Dream (1990) (1.0)
+Albino Alligator (1996) (1.0)
+8 Seconds (1994) (1.0)
+Aparajito (1956) (1.0)
+Scarlet Letter, The (1995) (0.995870594886)
+\end{lstlisting}
+
+To get the ratings least like a given movie, the script is run like so:
+\begin{lstlisting}[frame=single]
+./getFilmsLike.py 'Top Gun (1986)' 32 'least'
+\end{lstlisting}
+
+\begin{lstlisting}[frame=single]
+100 / 1664
+200 / 1664
+300 / 1664
+400 / 1664
+500 / 1664
+600 / 1664
+700 / 1664
+800 / 1664
+900 / 1664
+1000 / 1664
+1100 / 1664
+1200 / 1664
+1300 / 1664
+1400 / 1664
+1500 / 1664
+1600 / 1664
+Movies least like 'Top Gun (1986)': '
+Babysitter, The (1995) (-1.0)
+Telling Lies in America (1997) (-1.0)
+Bad Moon (1996) (-1.0)
+Beat the Devil (1954) (-1.0)
+Bewegte Mann, Der (1994) (-1.0)
+Bitter Sugar (Azucar Amargo) (1996) (-1.0)
+Broken English (1996) (-1.0)
+Caro Diario (Dear Diary) (1994) (-1.0)
+Carpool (1996) (-1.0)
+Carried Away (1996) (-1.0)
+Everest (1998) (-1.0)
+Frisk (1995) (-1.0)
+Heidi Fleiss: Hollywood Madam (1995)  (-1.0)
+Joy Luck Club, The (1993) (-1.0)
+Lamerica (1994) (-1.0)
+Loch Ness (1995) (-1.0)
+Love and Death on Long Island (1997) (-1.0)
+Lover's Knot (1996) (-1.0)
+Meet Wally Sparks (1997) (-1.0)
+Midnight Dancers (Sibak) (1994) (-1.0)
+Naked in New York (1994) (-1.0)
+Nico Icon (1995) (-1.0)
+Nil By Mouth (1997) (-1.0)
+Romper Stomper (1992) (-1.0)
+Roseanna's Grave (For Roseanna) (1997) (-1.0)
+Safe Passage (1994) (-1.0)
+Switchback (1997) (-1.0)
+Tetsuo II: Body Hammer (1992) (-1.0)
+Two Much (1996) (-1.0)
+World of Apu, The (Apur Sansar) (1959) (-1.0)
+Year of the Horse (1997) (-1.0)
+Alphaville (1965) (-0.946729262406)
+\end{lstlisting}
 
 \newpage
 
@@ -136,6 +375,8 @@ IDs and Pearson's r, sorted by r.
 \newpage
 \subsection*{Answer}
 
+Answer to be revised.
+
 \newpage
 
 \section*{8}
@@ -149,6 +390,8 @@ correlation)? Show the raters' IDs and Pearson's r, sorted by r.
 
 \newpage
 \subsection*{Answer}
+
+Answer to be revised.
 
 \newpage
 
@@ -164,6 +407,73 @@ under 40?
 \newpage
 \subsection*{Answer}
 
+Listing \ref{lst:q9python3} shows the source for calculating the movie that was rated highest on average by a given gender, given a pivot age, and a direction.
+
+To calculate the movies rated highest on average by men over 40:
+\begin{lstlisting}[frame=single]
+./highestbygenderagepivot.py 26 ../data/u.data ../data/u.item ../data/u.user 'M' 40 'greater'
+\end{lstlisting}
+
+The output for men over 40 looks like so:
+\begin{lstlisting}
+Solo (1996)	5.0
+Grateful Dead (1995)	5.0
+Unstrung Heroes (1995)	5.0
+Hearts and Minds (1996)	5.0
+Two or Three Things I Know About Her (1966)	5.0
+Great Day in Harlem, A (1994)	5.0
+Boxing Helena (1993)	5.0
+Ace Ventura: When Nature Calls (1995)	5.0
+Spice World (1997)	5.0
+Little City (1998)	5.0
+Leading Man, The (1996)	5.0
+Aparajito (1956)	5.0
+World of Apu, The (Apur Sansar) (1959)	5.0
+Little Princess, The (1939)	5.0
+Late Bloomers (1996)	5.0
+Indian Summer (1996)	5.0
+Star Kid (1997)	5.0
+Poison Ivy II (1995)	5.0
+Marlene Dietrich: Shadow and Light (1996) 	5.0
+Strawberry and Chocolate (Fresa y chocolate) (1993)	5.0
+Prefontaine (1997)	5.0
+Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)	5.0
+They Made Me a Criminal (1939)	5.0
+Faithful (1996)	5.0
+Double Happiness (1994)	5.0
+Pather Panchali (1955)	4.8
+\end{lstlisting}
+which shows that men over 40 agree that 25 movies in this set deserve a $5.0$ on average.
+
+To calculate the movies rated highest on average by men under 40:
+\begin{lstlisting}[frame=single]
+./highestbygenderagepivot.py 19 ../data/u.data ../data/u.item ../data/u.user 'M' 40 'less'
+\end{lstlisting}
+
+\begin{lstlisting}[frame=single]
+Perfect Candidate, A (1996)	5.0
+Entertaining Angels: The Dorothy Day Story (1996)	5.0
+Angel Baby (1995)	5.0
+Leading Man, The (1996)	5.0
+Love Serenade (1996)	5.0
+Magic Hour, The (1998)	5.0
+Aiqing wansui (1994)	5.0
+Santa with Muscles (1996)	5.0
+Saint of Fort Washington, The (1993)	5.0
+Delta of Venus (1994)	5.0
+Star Kid (1997)	5.0
+Love in the Afternoon (1957)	5.0
+Letter From Death Row, A (1998)	5.0
+Maya Lin: A Strong Clear Vision (1994)	5.0
+Prefontaine (1997)	5.0
+Hugo Pool (1997)	5.0
+Quiet Room, The (1996)	5.0
+Crossfire (1947)	5.0
+Winter Guest, The (1997)	4.5
+\end{lstlisting}
+which shows that men under 40 agree that 18 movies in this set deserve a $5.0$ on average.
+
+
 \newpage
 
 \section*{10}
@@ -178,8 +488,113 @@ women under 40?
 \newpage
 \subsection*{Answer}
 
+To calculate the movies rated highest on average by women over 40:
+\begin{lstlisting}[frame=single]
+./highestbygenderagepivot.py 27 ../data/u.data ../data/u.item ../data/u.user 'F' 40 'greater'
+\end{lstlisting}
 
+The output for this run of the program is shown below:
+\begin{lstlisting}[frame=single]
+Funny Face (1957)	5.0
+Nightmare Before Christmas, The (1993)	5.0
+Ma vie en rose (My Life in Pink) (1997)	5.0
+In the Bleak Midwinter (1995)	5.0
+Bride of Frankenstein (1935)	5.0
+Mary Shelley's Frankenstein (1994)	5.0
+Pocahontas (1995)	5.0
+Great Dictator, The (1940)	5.0
+Tombstone (1993)	5.0
+Grand Day Out, A (1992)	5.0
+Wrong Trousers, The (1993)	5.0
+Angel Baby (1995)	5.0
+Gold Diggers: The Secret of Bear Mountain (1995)	5.0
+Visitors, The (Visiteurs, Les) (1993)	5.0
+Foreign Correspondent (1940)	5.0
+Swept from the Sea (1997)	5.0
+Mina Tannenbaum (1994)	5.0
+Band Wagon, The (1953)	5.0
+Shall We Dance? (1937)	5.0
+Top Hat (1935)	5.0
+Letter From Death Row, A (1998)	5.0
+Best Men (1997)	5.0
+Safe (1995)	5.0
+Shallow Grave (1994)	5.0
+Balto (1995)	5.0
+Quest, The (1996)	5.0
+Once Were Warriors (1994)	4.8
+\end{lstlisting}
+which shows that women over 40 agree that 26 movies in this set deserve a $5.0$ on average.
 
+To calculate the movies rated highest on average by women under 40:
+\begin{lstlisting}[frame=single]
+./highestbygenderagepivot.py 18 ../data/u.data ../data/u.item ../data/u.user 'F' 40 'less'
+\end{lstlisting}
+
+\newpage
+The output for this run of the program is shown below:
+\begin{lstlisting}[frame=single]
+Heaven's Prisoners (1996)	5.0
+Year of the Horse (1997)	5.0
+Telling Lies in America (1997)	5.0
+Faster Pussycat! Kill! Kill! (1965)	5.0
+Nico Icon (1995)	5.0
+Someone Else's America (1995)	5.0
+Everest (1998)	5.0
+Wedding Gift, The (1994)	5.0
+Grace of My Heart (1996)	5.0
+Mina Tannenbaum (1994)	5.0
+Stripes (1981)	5.0
+Maya Lin: A Strong Clear Vision (1994)	5.0
+Prefontaine (1997)	5.0
+Backbeat (1993)	5.0
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995)	5.0
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)	5.0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)5.0
+Wallace & Gromit: The Best of Aardman Animation (1996)	4.81818181818
+\end{lstlisting}
+which shows that women under 40 agree that 17 movies in this set deserve a $5.0$ on average.
+
+\clearpage
+\appendix
+\section{Source for Question 1}
+
+\lstinputlisting[language=python,frame=single,caption={highestratings.py source, listing the movies with the highest average ratings},label=lst:q1python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q01/highestratings.py}
+
+\clearpage
+\appendix
+\section{Source for Question 2}
+
+\lstinputlisting[language=python,frame=single,caption={mostratings.py source, listing the movies with the most ratings},label=lst:q1python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q02/mostratings.py}
+
+\clearpage
+\appendix
+\section{Source for Questions 3 and 4}
+
+\lstinputlisting[language=python,frame=single,caption={highestbygender.py source, listing the movies with highest ratings by the given gender},label=lst:q3python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q03/highestbygender.py}
+
+\clearpage
+\appendix
+\section{Source for Question 5}
+
+\lstinputlisting[language=python,frame=single,caption={getFilmsLike.py source, listing the movies with ratings like the given film},label=lst:q5python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q05/getFilmsLike.py}
+
+\clearpage
+\appendix
+\section{Source for Question 6}
+
+\lstinputlisting[language=python,frame=single,caption={ratedMost.py source, listing the movies with ratings like the given film},label=lst:q6python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q06/ratedMost.py}
+
+\clearpage
+\appendix
+\section{Source for Questions 7 and 8}
+
+\lstinputlisting[language=python,frame=single,caption={ratersMostCorrelated.py source, listing the raters that are most/least in agreement with each other},label=lst:q6python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q07/ratersMostCorrelated.py}
+
+\clearpage
+\appendix
+\section{Source for Questions 9 and 10}
+
+\lstinputlisting[language=python,frame=single,caption={highestbygenderagepivot.py source, listing the movies aged highest by the given gender, age pivot, and direction of pivot},label=lst:q9python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q09/highestbygenderagepivot.py}
 
 \clearpage
 \bibliographystyle{acm}
