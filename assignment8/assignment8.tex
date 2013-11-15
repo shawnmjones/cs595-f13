@@ -48,10 +48,9 @@
 and their ratings sorted by their average ratings.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q1python3} contains the source code for calculating the highest average ratings.  It is run like so:
+Listing \ref{lst:q1python3} on page \pageref{lst:q1python3} contains the source code for calculating the highest average ratings.  It is run like so:
 \begin{lstlisting}[frame=single]
 ./highestratings.py 11  ../data/u.data ../data/u.item
 \end{lstlisting}
@@ -86,10 +85,9 @@ As we can see, the top 10 all have an average rating of $5.0$, and the 11th item
 the number of ratings sorted by number of ratings.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q1python3} contains the source code for calculating the movies that received the most ratings.It is run like so:
+Listing \ref{lst:q2python3} on page \pageref{lst:q2python3} contains the source code for calculating the movies that received the most ratings.It is run like so:
 \begin{lstlisting}[frame=single]
 ./mostratings.py 5 ../data/u.data ../data/u.item
 \end{lstlisting}
@@ -114,10 +112,9 @@ Liar Liar (1997)	485
 the movies and their ratings sorted by ratings.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For women, it is run like so:
+Listing \ref{lst:q3python3} on page \pageref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For women, it is run like so:
 \begin{lstlisting}[frame=single]
 ./highestbygender.py 12 ../data/u.data ../data/u.item ../data/u.user  "F"
 \end{lstlisting}
@@ -150,10 +147,9 @@ which show more than 5 movies rated with a score of $5.0$  on average by women a
 the movies and their ratings sorted by ratings.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For men, it is run like so:
+Listing \ref{lst:q3python3} on page \pageref{let:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For men, it is run like so:
 \begin{lstlisting}[frame=single]
 ./highestbygender.py 17 ../data/u.data ../data/u.item ../data/u.user  "M"
 \end{lstlisting}
@@ -193,12 +189,11 @@ The men seem to agree more than the women, though, with 16 rather than 11 shared
 received ratings that were least like Top Gun (negative correlation)?
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q5python3} shows the source code to calculate which movie received ratings most like the given movie.
+Listing \ref{lst:q5python3} on page \pageref{lst:q5python3} shows the source code to calculate which movie received ratings most like the given movie.
 
-For it to give Pearson's Correlation Coefficients, the \verb+calculateSimilarItems+ function was altered to use the \verb+sim_pearson+ function instead of the default \verb+sim_distance+ function that already existed.  The modified \verb+calculateSimilarItems+ function is shown in Listing \ref{lst:q5python32}.
+To give Pearson's Correlation Coefficients, the \verb+calculateSimilarItems+ function was altered to use the \verb+sim_pearson+ function instead of the default \verb+sim_distance+ function that already existed.  The modified \verb+calculateSimilarItems+ function is shown in Listing \ref{lst:q5python32}.
 
 \lstinputlisting[language=python,frame=single,caption={changed version of {\tt recommendations.py} showing modified similarity function choice on line 136},label=lst:q5python32,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize, firstline=124, lastline=138, firstnumber=124]{starter-code/recommendations.py}
 
@@ -207,7 +202,7 @@ To get the ratings most like a given move, the script is run like so:
 ./getFilmsLike.py 'Top Gun (1986)' 62 'most'
 \end{lstlisting}
 
-Which produces the following output:
+Which produces the following output consisting of movie title followed by Pearson score in parentheses:
 \begin{lstlisting}[frame=single]
 100 / 1664
 200 / 1664
@@ -290,11 +285,26 @@ Aparajito (1956) (1.0)
 Scarlet Letter, The (1995) (0.995870594886)
 \end{lstlisting}
 
+It sorts them by reverse alphabetical order, except for the first 3.  This is because the first 3 do not actually have a calculated Pearson's score of $1.0$.
+
+If I change the code to just \verb+pprint.pprint(result['Top Gun (1986)'])+, then I can see the actual values stored in the resulting dictionary, producing output like so:
+\begin{lstlisting}[frame=single]
+(1.0000000000000027, 'Shiloh (1997)'),
+(1.0000000000000027, 'King of the Hill (1993)'),
+(1.0000000000000007, 'Bhaji on the Beach (1993)'),
+(1.0, 'Wild America (1997)'),
+(1.0, 'Wedding Gift, The (1994)'),
+(1.0, 'Underground (1995)'),
+\end{lstlisting}
+
+Invoking the \verb+str+ function in order to convert the float for printing causes Python to convert its internal representation of values such as $1.0000000000000027$ into $1.0$.
+
 To get the ratings least like a given movie, the script is run like so:
 \begin{lstlisting}[frame=single]
 ./getFilmsLike.py 'Top Gun (1986)' 32 'least'
 \end{lstlisting}
 
+Which produces the following output consisting of movie title followed by Pearson score in parentheses:
 \begin{lstlisting}[frame=single]
 100 / 1664
 200 / 1664
@@ -347,6 +357,14 @@ Year of the Horse (1997) (-1.0)
 Alphaville (1965) (-0.946729262406)
 \end{lstlisting}
 
+Just like the with \emph{most like}, we see this output in alphabetical order, except for the first two items.  The first two items, 'Babysitter, The (1995)' and 'Telling Lies in America (1997)', do not actually have values of $-1.0$.  Again, using \verb+pprint.pprint+ on the dictionary returned gives values like so:
+\begin{lstlisting}[frame=single]
+(-1.0000000000000007, 'Babysitter, The (1995)'),
+(-1.0000000000000004, 'Telling Lies in America (1997)')
+\end{lstlisting}
+
+Again, the \verb+str+ function annoyingly converts the values to $-1.0$.
+
 \newpage
 
 \section*{6}
@@ -358,8 +376,25 @@ Alphaville (1965) (-0.946729262406)
 the number of films each rated.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
+
+Listing \ref{lst:q6python3} on page \pageref{lst:q6python3} computes the list of raters and the number of films they rated.
+
+It is run like so:
+\begin{lstlisting}[frame=single]
+./ratedMost.py ../data/u.data 5
+\end{lstlisting}
+
+And returns output like so, consisting of rater ID followed by number of films:
+\begin{lstlisting}[frame=single]
+405	737
+655	685
+13	636
+450	540
+276	518
+\end{lstlisting}
+
+As we see, rater $405$ comes in on top with $737$ ratings.
 
 \newpage
 
@@ -372,10 +407,9 @@ the number of films each rated.
 IDs and Pearson's r, sorted by r.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Answer to be revised.
+Listing \ref{lst:q7python3} on page \pageref{lst:q7python3} attempts to answer this question.
 
 \newpage
 
@@ -388,10 +422,9 @@ Answer to be revised.
 correlation)? Show the raters' IDs and Pearson's r, sorted by r.
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Answer to be revised.
+Listing \ref{lst:q7python3} on page \pageref{lst:q7python3} attempts to answer this question.
 
 \newpage
 
@@ -404,10 +437,9 @@ Answer to be revised.
 under 40?
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
 
-Listing \ref{lst:q9python3} shows the source for calculating the movie that was rated highest on average by a given gender, given a pivot age, and a direction.
+Listing \ref{lst:q9python3} on page \pageref{lst:q9python3} shows the source for calculating the movie that was rated highest on average by a given gender, given a pivot age, and a direction.
 
 To calculate the movies rated highest on average by men over 40:
 \begin{lstlisting}[frame=single]
@@ -485,8 +517,9 @@ which shows that men under 40 agree that 18 movies in this set deserve a $5.0$ o
 women under 40?
 \end{verbatim}
 
-\newpage
 \subsection*{Answer}
+
+Listing \ref{lst:q9python3} on page \pageref{lst:q9python3} shows the source for calculating the movie that was rated highest on average by a given gender, given a pivot age, and a direction.
 
 To calculate the movies rated highest on average by women over 40:
 \begin{lstlisting}[frame=single]
@@ -530,7 +563,6 @@ To calculate the movies rated highest on average by women under 40:
 ./highestbygenderagepivot.py 18 ../data/u.data ../data/u.item ../data/u.user 'F' 40 'less'
 \end{lstlisting}
 
-\newpage
 The output for this run of the program is shown below:
 \begin{lstlisting}[frame=single]
 Heaven's Prisoners (1996)	5.0
@@ -564,7 +596,7 @@ which shows that women under 40 agree that 17 movies in this set deserve a $5.0$
 \appendix
 \section{Source for Question 2}
 
-\lstinputlisting[language=python,frame=single,caption={mostratings.py source, listing the movies with the most ratings},label=lst:q1python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q02/mostratings.py}
+\lstinputlisting[language=python,frame=single,caption={mostratings.py source, listing the movies with the most ratings},label=lst:q2python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q02/mostratings.py}
 
 \clearpage
 \appendix
@@ -588,7 +620,7 @@ which shows that women under 40 agree that 17 movies in this set deserve a $5.0$
 \appendix
 \section{Source for Questions 7 and 8}
 
-\lstinputlisting[language=python,frame=single,caption={ratersMostCorrelated.py source, listing the raters that are most/least in agreement with each other},label=lst:q6python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q07/ratersMostCorrelated.py}
+\lstinputlisting[language=python,frame=single,caption={ratersMostCorrelated.py source, listing the raters that are most/least in agreement with each other},label=lst:q7python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q07/ratersMostCorrelated.py}
 
 \clearpage
 \appendix
