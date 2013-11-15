@@ -25,60 +25,38 @@ def getRatingsFromFile(ratingsfile):
 
     return ratingsdict
 
-def getMovieNames(namesfile):
-
-    namesdict = {}
-
-    f = codecs.open(namesfile, 'r', 'iso-8859-1')
-
-    for line in f:
-        (id, name) = line.split('|')[0:2]
-        namesdict[id] = name
-
-    f.close()
-
-    return namesdict
-
 if __name__ == '__main__':
 
     ratingsfile = sys.argv[1]
     namesfile = sys.argv[2]
-    n = int(sys.argv[3])
-    correlation = sys.argv[4]
+    correlation = sys.argv[3]
 
     ratingsdict = getRatingsFromFile(ratingsfile)
 
     raters = ratingsdict.keys()
-
-    # list of tuples
-    comparedRaters = {}
-
-    # this whole thing runs in O(n^3) time, which leads it to
-    # take a minute with 100,000 on my quad-core MacBook Pro
-    for i in range(0, len(raters)): # O(n)
-
-        for j in range(0, len(raters)): # O(n)
-
-            if i != j:
-                # strip out dupes!!!
-                if (raters[j], raters[i]) not in comparedRaters:
-                    # it looks like sim_pearson runs in O(n)
-                    r = recommendations.sim_pearson(
-                        ratingsdict, raters[i], raters[j]
-                        )
-    
-                    comparedRaters[(raters[i], raters[j])] = r
 
     if correlation == 'agreed':
         reversesort = True
     else:
         reversesort = False
 
-    for item in sorted(
-        comparedRaters, key=comparedRaters.get, reverse=reversesort)[0:n]:
-        print(
-            str(comparedRaters[item]) +
-                '\t' + str(item[0]) + '\t' + str(item[1])
-                )
+    comparedRaters = {}
 
-#    pprint.pprint(comparedRaters)
+    for i in range(0, len(raters)): # O(n)
+
+        best = recommendations.topMatches(ratingsdict, raters[i], n=len(raters))
+
+        best.sort(reverse=reversesort)
+
+        if best[0][1] == raters[i]:
+            best.pop()
+
+        # remove dupes
+        if (best[0][1], raters[i]) not in comparedRaters:
+            comparedRaters[(raters[i], best[0][1])] = best[0][0]
+
+    for item in sorted(
+            comparedRaters, key=comparedRaters.get, reverse=reversesort
+        ):
+        print str(item[0]) + '\t' + str(item[1]) + '\t' + \
+            str(comparedRaters[item])

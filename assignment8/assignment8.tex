@@ -149,7 +149,7 @@ the movies and their ratings sorted by ratings.
 
 \subsection*{Answer}
 
-Listing \ref{lst:q3python3} on page \pageref{let:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For men, it is run like so:
+Listing \ref{lst:q3python3} on page \pageref{lst:q3python3} contains the source code used to calculate the $n$ movies that were rated highest on average by a given gender.  For men, it is run like so:
 \begin{lstlisting}[frame=single]
 ./highestbygender.py 17 ../data/u.data ../data/u.item ../data/u.user  "M"
 \end{lstlisting}
@@ -411,6 +411,26 @@ IDs and Pearson's r, sorted by r.
 
 Listing \ref{lst:q7python3} on page \pageref{lst:q7python3} attempts to answer this question.
 
+It is run like so:
+\begin{lstlisting}[frame=single]
+./ratersMostCorrelated.py ../data/u.data ../data/u.item 'agreed'
+\end{lstlisting}
+
+The output is shown in Listing \ref{lst:q7output} on page \pageref{lst:q7output}.  It contains all of the Pearson's $r$ similarity scores, most of which are $1.0$.
+
+This made it difficult to actually calculate which top 5 agreed with each other, seeing as so many actually scored $1.0$.
+
+The goal was to \cite{nelsonmail}:
+\begin{enumerate}
+\item compute scores for everyone to everyone, \textbf{which was done}
+\item take the top 4 similarity scores for everyone, \textbf{which cannot be done because so many of them are $1.0$}
+\item define a cumulative difference score, and report the group of 5 that have the smallest score, \textbf{which cannot be done because there are so many matches}
+\end{enumerate}
+
+The score calculation was performed using the \verb+topMatches+ function as mentioned by \cite{adfm}.
+
+Duplicates were removed.
+
 \newpage
 
 \section*{8}
@@ -426,8 +446,18 @@ correlation)? Show the raters' IDs and Pearson's r, sorted by r.
 
 Listing \ref{lst:q7python3} on page \pageref{lst:q7python3} attempts to answer this question.
 
-\newpage
+It is run like so:
+\begin{lstlisting}[frame=single]
+./ratersMostCorrelated.py ../data/u.data ../data/u.item 'disagreed'
+\end{lstlisting}
 
+The output is shown in Listing \ref{lst:q8output} on page \pageref{lst:q8output}.  It contains all of the Pearson's $r$ similarity scores, most of which are $-1.0$.
+
+This made it difficult to actually calculate which top 5 disagreed with each other, seeing as so many actually scored $-1.0$.
+
+The same script was used for questions 7 and 8.
+
+\newpage
 \section*{9}
 
 \subsection*{Question}
@@ -627,6 +657,18 @@ which shows that women under 40 agree that 17 movies in this set deserve a $5.0$
 \section{Source for Questions 9 and 10}
 
 \lstinputlisting[language=python,frame=single,caption={highestbygenderagepivot.py source, listing the movies aged highest by the given gender, age pivot, and direction of pivot},label=lst:q9python3,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q09/highestbygenderagepivot.py}
+
+\clearpage
+\appendix
+\section{Output for Question 7}
+
+\lstinputlisting[frame=single,caption={Output for Question 7, showing the Pearson's $r$ scores of the comparisons for which the raters agreed},label=lst:q7output,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q07/output.txt}
+
+\clearpage
+\appendix
+\section{Output for Question 8}
+
+\lstinputlisting[frame=single,caption={Output for Question 8, showing the Pearson's $r$ scores of the comparisons for which the raters disagreed},label=lst:q8output,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q08/output.txt}
 
 \clearpage
 \bibliographystyle{acm}
