@@ -9,7 +9,7 @@ sys.path.insert(0, '../libs')
 
 import clusters
 
-blognames,words,data=clusters.readfile('../q1/blogdata1.txt')
+blognames,words,data=clusters.readfile('../q1/blogdata500.txt')
 
 print "For k=5"
 kclust=clusters.kcluster(data, k=5)
