@@ -112,8 +112,8 @@ if __name__ == "__main__":
                     else:
                         # if it meets the criteria, save the file
                         if meetsCriteria(feedText):
-                            sys.stderr.write("Saving blog feed " + feedURI + "?max-results=200\n")
-                            feedlist.append(feedURI + "?max-results=200")
+                            sys.stderr.write("Saving blog feed " + feedURI + "?max-results=1000\n")
+                            feedlist.append(feedURI + "?max-results=1000")
         
                         # be nice to the site
                         time.sleep(1)
