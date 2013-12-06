@@ -77,11 +77,13 @@ The script is run like so:
 ./fetchFeeds.py > feedlist.txt
 \end{lstlisting}
 
-Once \verb+feedlist.txt+ exists, it can be used by Toby Segaran's \verb+generatefeedvector.py+\cite{pci}.  I only modified it on line $59$ so that it could handle UTF-8 encodings for some of the blogs.  It is captured in Listing \ref{lst:appSegaran1} on page \pageref{lst:appSegaran1}.
+Once \verb+feedlist.txt+ exists, it can be used by Toby Segaran's \verb+generatefeedvector.py+\cite{pci}.  I only modified that script on line $59$ so that it could handle UTF-8 encodings for some of the blogs.  It is captured in Listing \ref{lst:appSegaran1} on page \pageref{lst:appSegaran1}.
 
 The script \verb+eliminateWords.py+  shown in Listing \ref{lst:q1eliminate} takes in the \verb+blogdata1.txt+ file produced by \verb+generatefeedvector.py+ and removes the top N terms from it.
 
 It does this by generating scores for each word by summing all of its frequencies across all blogs together.  Once it has those scores, it gets the top $n$ words.  It then determines the index of each of those words in the list.  Using these indices, it regenerates the format of \verb+blogdata.txt+, only printing out each column if it is an ``approved'' index.
+
+The final file is saved to github as \verb+blogdata500.txt+ and is used for each subsequent question.
 
 \lstinputlisting[frame=single,caption={Python script for eliminating words from blog data},label=lst:q1eliminate,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q1/eliminateWords.py}
 
@@ -190,14 +192,20 @@ The blog space is generated using multidimensional scaling from the script \verb
 
 \lstinputlisting[frame=single,caption={Python script for generating a MDS from the blog data},label=lst:q4script,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q4/makeMDS.py}
 
-Again, unfortunately the blog space produced does not fit well on a letter-sized page shown in Figure \ref{fig:q4MDS}.  According to this two-dimensional representation, the blog closest to \emph{F-Measure} is \emph{b i t l e y m u s i c}.  The blogs closest to \emph{Web Science and Digital Libraries Research Group} are \emph{MUNDO OCHENTAS} and \emph{Providence Public Library Computer Classes}.
+Again, unfortunately the blog space produced does not fit well on a letter-sized page shown in Figure \ref{fig:q4MDS}.  According to this two-dimensional representation, the blog closest to \emph{F-Measure} is \emph{Piazzolla on Video}.  The blog closest to \emph{Web Science and Digital Libraries Research Group} is \emph{..... Christian Poet's Pen}.
+
+Listing \ref{lst:q4output} shows the output from running this script, which took $253$ iterations on this run.
 
 \clearpage
 \begin{figure}[h]
 \centerline{\includegraphics[scale=0.26]{q4/blogs2d.jpg}}
-\caption{Dendogram produced by the \emph{makeMDS.py} script}
+\caption{Blog space produced by the \emph{makeMDS.py} script}
 \label{fig:q4MDS}
 \end{figure}
+
+\clearpage
+
+\lstinputlisting[frame=single,caption={Output from script \emph{makeMDS.py}},label=lst:q4output,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{q4/q4output.txt}
 
 \clearpage
 
